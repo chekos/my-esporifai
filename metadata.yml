@@ -1,0 +1,17 @@
+title: "Limonada datasette"
+allow:
+  gh_login: chekos
+  bot_id: my-bot
+plugins:
+  datasette-auth-github:
+    client_id:
+      $env: GH_CLIENT_ID
+    client_secret:
+      $env: GH_CLIENT_SECRET
+  datasette-auth-tokens:
+    tokens:
+      - token:
+          $env: BOT_TOKEN
+        actor:
+          bot_id: my-bot
+  
