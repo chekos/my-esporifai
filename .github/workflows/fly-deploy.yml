@@ -28,6 +28,7 @@ jobs:
           spotify.db --app="esporifai" -m metadata.yml
           --install datasette-auth-github
           --install datasette-auth-tokens
+          --install datasette-vega
           --install datasette-dashboards
           --setting force_https_urls 1
         env:
