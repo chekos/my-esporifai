@@ -18,7 +18,8 @@ jq --sort-keys '[ .[] | .track + {artist_ids: .track.artists[] | [.id], album_id
 
 
 ## build db
-sqlite-utils insert spotify.db history history.json --ignore
+sqlite-utils insert spotify.db history history.json --pk id --pk played_at --ignore
 sqlite-utils insert spotify.db albums albums.json --pk id --alter --ignore
 sqlite-utils insert spotify.db artists artists.json --pk id --alter --ignore
 sqlite-utils insert spotify.db tracks tracks.json --pk id --alter --ignore
+sqlite-utils vacuum spotify.db
