@@ -7,3 +7,4 @@
 .read scripts/stg/artists-running-sum.sql
 .read scripts/stg/artists-daily-sum.sql
 .read scripts/artists-running-sum.sql
+.read scripts/tracks-daily-sum.sql
