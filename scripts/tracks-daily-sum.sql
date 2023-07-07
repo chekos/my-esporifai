@@ -6,7 +6,7 @@ select
   hs.played_date,
   hs.n,
   hs.id as track_id,
-  tinfo.main_artist_id as artist_id
+  tinfo.main_artist_id as artist_id,
   tinfo.album_id
 from
   tracks_info as tinfo
