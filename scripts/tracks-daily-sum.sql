@@ -1,6 +1,6 @@
 create view if not exists tracks_daily_sum as
 select
-  tinfo.artist
+  tinfo.artist,
   tinfo.album,
   tinfo.name,
   hs.played_date,
