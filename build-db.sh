@@ -15,11 +15,12 @@ jq '[ .[] | .track.album | del(.available_markets) | .artists ] | flatten | uniq
 ## tracks
 jq --sort-keys '[ .[] | .track + {artist_ids: .track.artists[] | [.id], album_id: .track.album.id} | del(.available_markets) | del(.album) | del(.artists) ] | unique_by(.id)' tracks_history.json > tracks.json
 
-
-
 ## build db
 sqlite-utils insert spotify.db history history.json --pk id --pk played_at --ignore
 sqlite-utils insert spotify.db albums albums.json --pk id --alter --ignore
 sqlite-utils insert spotify.db artists artists.json --pk id --alter --ignore
 sqlite-utils insert spotify.db tracks tracks.json --pk id --alter --ignore
 sqlite-utils vacuum spotify.db
+
+## add views
+sqlite3 spotify.db '.read scripts/load-scripts.sql'
