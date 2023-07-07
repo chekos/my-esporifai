@@ -1,0 +1,9 @@
+.read scripts/running-count.sql
+.read scripts/track-info.sql
+.read scripts/enriched-history.sql
+.read scripts/stg/tracks-running-sum.sql
+.read scripts/stg/tracks-daily-sum.sql
+.read scripts/tracks-running-sum.sql
+.read scripts/stg/artists-running-sum.sql
+.read scripts/stg/artists-daily-sum.sql
+.read scripts/artists-running-sum.sql
