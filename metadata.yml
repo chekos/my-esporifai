@@ -14,4 +14,64 @@ plugins:
           $env: BOT_TOKEN
         actor:
           bot_id: my-bot
-  
+  datasette-dashboards:
+    wrapped:
+      title: esporifai wrapped
+      description: a wip
+      layout:
+        - [top-tracks]
+        - [top-artists]
+        - [top-albums]
+      filters:
+        category:
+          name: My Category
+          type: select
+          options: [Option 1, Option 2, Option 3]
+      charts:
+        top-tracks:
+          title: top tracks
+          db: spotify
+          query: >-
+            select 
+              artist, 
+              name, 
+              sum(n) as total_plays 
+            from 
+              tracks_daily_sum 
+            where played_date >= "2023-01-01" 
+            group by 1,2
+            order by total_plays desc
+            limit 10
+          library: table
+          display:
+        top-artists:
+          title: top artists
+          db: spotify
+          query: >-
+            select 
+              artist, 
+              sum(n) as total_plays 
+            from 
+              tracks_daily_sum 
+            where played_date >= "2023-01-01" 
+            group by 1
+            order by total_plays desc
+            limit 10
+          library: table
+          display:
+        top-albums:
+          title: top albums
+          db: spotify
+          query: >-
+            select 
+              artist,
+              album, 
+              sum(n) as total_plays 
+            from 
+              tracks_daily_sum 
+            where played_date >= "2023-01-01" 
+            group by 1,2
+            order by total_plays desc
+            limit 10
+          library: table
+          display:
