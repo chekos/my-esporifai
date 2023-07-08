@@ -3,6 +3,7 @@
 .read scripts/artists_rs.sql 
 
 .read scripts/track-info.sql
+.read scripts/tracks-daily-sum.sql
 .read scripts/history-daily-sum.sql
 .read scripts/running-count.sql
 .read scripts/enriched-history.sql
