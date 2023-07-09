@@ -2681,6 +2681,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+    },
+    "href": "https://api.spotify.com/v1/artists/4aXXDj9aZnlshx7mzj3W1N",
+    "id": "4aXXDj9aZnlshx7mzj3W1N",
+    "name": "Lin-Manuel Miranda",
+    "type": "artist",
+    "uri": "spotify:artist:4aXXDj9aZnlshx7mzj3W1N"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4atnJgcGatoxVvnjjGAm5T"
     },
     "href": "https://api.spotify.com/v1/artists/4atnJgcGatoxVvnjjGAm5T",

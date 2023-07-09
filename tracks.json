@@ -360,6 +360,30 @@
     "uri": "spotify:track:03LfOYi0icz4souspZVVhq"
   },
   {
+    "album_id": "4XRAsQ2FrIhcUiOGyko5DB",
+    "artist_ids": [
+      "1FCItwxfRieMGhR0eRxotU"
+    ],
+    "disc_number": 1,
+    "duration_ms": 161483,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZHZ32070871"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/03LrV2F4RWe8sViFjSLXkI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/03LrV2F4RWe8sViFjSLXkI",
+    "id": "03LrV2F4RWe8sViFjSLXkI",
+    "is_local": false,
+    "name": "Independiente",
+    "popularity": 54,
+    "preview_url": "https://p.scdn.co/mp3-preview/d8fd28d66867927037e57652fe3cabd1c2c42a6a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:03LrV2F4RWe8sViFjSLXkI"
+  },
+  {
     "album_id": "659AbE0nWrkWBVzZ2rHxYq",
     "artist_ids": [
       "2I8hlGzbnZKwkCg1EicEdG"
@@ -2494,6 +2518,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:0bEwpqiE31SZ9o3KVwOOcn"
+  },
+  {
+    "album_id": "5AgsHUKFxr5DApRCmulIqJ",
+    "artist_ids": [
+      "7pGyQZx9thVa8GxMBeXscB"
+    ],
+    "disc_number": 1,
+    "duration_ms": 281596,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USAT21603224"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0bPREZOF43e3EIu0zdfLBp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0bPREZOF43e3EIu0zdfLBp",
+    "id": "0bPREZOF43e3EIu0zdfLBp",
+    "is_local": false,
+    "name": "Immigrants (We Get The Job Done)",
+    "popularity": 53,
+    "preview_url": "https://p.scdn.co/mp3-preview/2c03bfdfa0bb8b13b9fbb6e152ccd5db5c4d6324?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:0bPREZOF43e3EIu0zdfLBp"
   },
   {
     "album_id": "7AHtc6OAl2sjWBoM9e4izf",
@@ -7270,6 +7318,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1g2pomnU3K9f0f5wW4k0N0"
+  },
+  {
+    "album_id": "6XpSHxvcHf2VbRpDnMN091",
+    "artist_ids": [
+      "07PdYoE4jVRF6Ut40GgVSP"
+    ],
+    "disc_number": 1,
+    "duration_ms": 275466,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MXF011000133"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1gTzghZ42RCmFTPVTWvOIb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1gTzghZ42RCmFTPVTWvOIb",
+    "id": "1gTzghZ42RCmFTPVTWvOIb",
+    "is_local": false,
+    "name": "Traficando Rimas",
+    "popularity": 64,
+    "preview_url": "https://p.scdn.co/mp3-preview/d8af8ec31d8c9e6de445c280c18736de67fa24bc?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:1gTzghZ42RCmFTPVTWvOIb"
   },
   {
     "album_id": "7u6yoSRjIBM2EI52DJLMkZ",
@@ -23710,6 +23782,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5TcPlr0F7tbLxIEAKyAgdP"
+  },
+  {
+    "album_id": "5weNLS5DgFtAxSzWHQyUdg",
+    "artist_ids": [
+      "48G4FvpaGSQAb2ZxhUc2Hv"
+    ],
+    "disc_number": 1,
+    "duration_ms": 144960,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZK6J2104107"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5TlqPc1VzkyfsQYQSpQltQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5TlqPc1VzkyfsQYQSpQltQ",
+    "id": "5TlqPc1VzkyfsQYQSpQltQ",
+    "is_local": false,
+    "name": "La Madrugada",
+    "popularity": 12,
+    "preview_url": "https://p.scdn.co/mp3-preview/8492893a734f7de7ccd39a55d86018a8e7406efe?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5TlqPc1VzkyfsQYQSpQltQ"
   },
   {
     "album_id": "53JJBD8NXpO3X2p6TgyTMd",
