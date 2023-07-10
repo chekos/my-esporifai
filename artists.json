@@ -1011,6 +1011,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+    },
+    "href": "https://api.spotify.com/v1/artists/1YvkzmaJLVRHSJ8J5YzoaW",
+    "id": "1YvkzmaJLVRHSJ8J5YzoaW",
+    "name": "Caztro",
+    "type": "artist",
+    "uri": "spotify:artist:1YvkzmaJLVRHSJ8J5YzoaW"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
     },
     "href": "https://api.spotify.com/v1/artists/1ZMJSCQw8DIefcLb1FIpY0",
