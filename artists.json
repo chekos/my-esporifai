@@ -551,6 +551,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0piTxP9AnX0XcANZNjxcyB"
+    },
+    "href": "https://api.spotify.com/v1/artists/0piTxP9AnX0XcANZNjxcyB",
+    "id": "0piTxP9AnX0XcANZNjxcyB",
+    "name": "Da Players Town",
+    "type": "artist",
+    "uri": "spotify:artist:0piTxP9AnX0XcANZNjxcyB"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
     },
     "href": "https://api.spotify.com/v1/artists/0qHbO3z6lgLE6ZYCkQBo1K",
