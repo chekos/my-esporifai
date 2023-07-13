@@ -360,6 +360,30 @@
     "uri": "spotify:track:03LfOYi0icz4souspZVVhq"
   },
   {
+    "album_id": "4XRAsQ2FrIhcUiOGyko5DB",
+    "artist_ids": [
+      "1FCItwxfRieMGhR0eRxotU"
+    ],
+    "disc_number": 1,
+    "duration_ms": 161483,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZHZ32070871"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/03LrV2F4RWe8sViFjSLXkI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/03LrV2F4RWe8sViFjSLXkI",
+    "id": "03LrV2F4RWe8sViFjSLXkI",
+    "is_local": false,
+    "name": "Independiente",
+    "popularity": 54,
+    "preview_url": "https://p.scdn.co/mp3-preview/d8fd28d66867927037e57652fe3cabd1c2c42a6a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:03LrV2F4RWe8sViFjSLXkI"
+  },
+  {
     "album_id": "659AbE0nWrkWBVzZ2rHxYq",
     "artist_ids": [
       "2I8hlGzbnZKwkCg1EicEdG"
@@ -2494,6 +2518,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:0bEwpqiE31SZ9o3KVwOOcn"
+  },
+  {
+    "album_id": "5AgsHUKFxr5DApRCmulIqJ",
+    "artist_ids": [
+      "7pGyQZx9thVa8GxMBeXscB"
+    ],
+    "disc_number": 1,
+    "duration_ms": 281596,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USAT21603224"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0bPREZOF43e3EIu0zdfLBp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0bPREZOF43e3EIu0zdfLBp",
+    "id": "0bPREZOF43e3EIu0zdfLBp",
+    "is_local": false,
+    "name": "Immigrants (We Get The Job Done)",
+    "popularity": 53,
+    "preview_url": "https://p.scdn.co/mp3-preview/2c03bfdfa0bb8b13b9fbb6e152ccd5db5c4d6324?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:0bPREZOF43e3EIu0zdfLBp"
   },
   {
     "album_id": "7AHtc6OAl2sjWBoM9e4izf",
@@ -7272,6 +7320,30 @@
     "uri": "spotify:track:1g2pomnU3K9f0f5wW4k0N0"
   },
   {
+    "album_id": "6XpSHxvcHf2VbRpDnMN091",
+    "artist_ids": [
+      "07PdYoE4jVRF6Ut40GgVSP"
+    ],
+    "disc_number": 1,
+    "duration_ms": 275466,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MXF011000133"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1gTzghZ42RCmFTPVTWvOIb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1gTzghZ42RCmFTPVTWvOIb",
+    "id": "1gTzghZ42RCmFTPVTWvOIb",
+    "is_local": false,
+    "name": "Traficando Rimas",
+    "popularity": 64,
+    "preview_url": "https://p.scdn.co/mp3-preview/d8af8ec31d8c9e6de445c280c18736de67fa24bc?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:1gTzghZ42RCmFTPVTWvOIb"
+  },
+  {
     "album_id": "7u6yoSRjIBM2EI52DJLMkZ",
     "artist_ids": [
       "4P0dddbxPil35MNN9G2MEX"
@@ -10054,6 +10126,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:2JoH2NqO2cRBifeSPYPeA4"
+  },
+  {
+    "album_id": "49k8bx6FKOeKocIRppwnYE",
+    "artist_ids": [
+      "51yyeVxyvecgePAWXmeLUE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 216211,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZHZ52113196"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2K7kTDEVKPS0K751yrNYbi"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2K7kTDEVKPS0K751yrNYbi",
+    "id": "2K7kTDEVKPS0K751yrNYbi",
+    "is_local": false,
+    "name": "Lágrimas y Lluvia",
+    "popularity": 48,
+    "preview_url": "https://p.scdn.co/mp3-preview/d164297f39291862dc020ca356fd1281f859cd23?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2K7kTDEVKPS0K751yrNYbi"
   },
   {
     "album_id": "1fovMxvYso6MyMdxVrATDC",
@@ -12958,6 +13054,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:30l6fEFlxg4cqSkWr2T8Rf"
+  },
+  {
+    "album_id": "7dlzGElxjGae4YC49CsLcE",
+    "artist_ids": [
+      "4r1ZDYKzPt3iIjuq8LbT6X"
+    ],
+    "disc_number": 1,
+    "duration_ms": 237453,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MXUM72300792"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/31to9V2JYareFfkoLQsEd6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/31to9V2JYareFfkoLQsEd6",
+    "id": "31to9V2JYareFfkoLQsEd6",
+    "is_local": false,
+    "name": "La Hora Es…",
+    "popularity": 27,
+    "preview_url": "https://p.scdn.co/mp3-preview/1620b4e041b7a5373ffe85dcf04dc8e35ffa1f3e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:31to9V2JYareFfkoLQsEd6"
   },
   {
     "album_id": "0pwnHJD1my6WUATRg69Eag",
@@ -20088,6 +20208,30 @@
     "uri": "spotify:track:4huLm4v1dFJsQQxqQiuhdv"
   },
   {
+    "album_id": "17fGcXzS7n8CA7hKvKqYYU",
+    "artist_ids": [
+      "768O5GliF0bqscyghggrbE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 180937,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "CLKT21901650"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4hxBeVfWIj1NsqJYScSd5C"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4hxBeVfWIj1NsqJYScSd5C",
+    "id": "4hxBeVfWIj1NsqJYScSd5C",
+    "is_local": false,
+    "name": "MY BLOOD",
+    "popularity": 57,
+    "preview_url": "https://p.scdn.co/mp3-preview/3a4f3beef5f6ac5425bd7af09911ba4042e9395a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4hxBeVfWIj1NsqJYScSd5C"
+  },
+  {
     "album_id": "7Hd4zVugj553oRCWjLbvqO",
     "artist_ids": [
       "7I85Ma5xjAo6nlvqOCIiWx"
@@ -21672,6 +21816,30 @@
     "uri": "spotify:track:51enCoVzRqMi7uaVnKovbU"
   },
   {
+    "album_id": "49k8bx6FKOeKocIRppwnYE",
+    "artist_ids": [
+      "51yyeVxyvecgePAWXmeLUE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 59515,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNJX2192403"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/51lfqgWztXSmgz6XQwtRxH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/51lfqgWztXSmgz6XQwtRxH",
+    "id": "51lfqgWztXSmgz6XQwtRxH",
+    "is_local": false,
+    "name": "No Respondo",
+    "popularity": 44,
+    "preview_url": "https://p.scdn.co/mp3-preview/0d2e3548b06ee1f16152ed851b27274832d756da?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:51lfqgWztXSmgz6XQwtRxH"
+  },
+  {
     "album_id": "5HMWKVH3tJnZAriq0YeeQ8",
     "artist_ids": [
       "31opIYTivWACiXXzX2khlj"
@@ -21910,6 +22078,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:55ZATsjPlTeSTNJOuW90pW"
+  },
+  {
+    "album_id": "7a0b1XcsOXRRrS27QYR34J",
+    "artist_ids": [
+      "6tJRAxu0HwB2GI9GueEj4l"
+    ],
+    "disc_number": 1,
+    "duration_ms": 275278,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "US7VG1731374"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/55hUNQ7mXpNDrF1gyXRPFp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/55hUNQ7mXpNDrF1gyXRPFp",
+    "id": "55hUNQ7mXpNDrF1gyXRPFp",
+    "is_local": false,
+    "name": "No Respeto",
+    "popularity": 21,
+    "preview_url": "https://p.scdn.co/mp3-preview/b73c42d9741dbe3fcc600da60f33f0a3cacd37f1?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:55hUNQ7mXpNDrF1gyXRPFp"
   },
   {
     "album_id": "1U4AU6ken2YH258a4lZyd8",
@@ -23710,6 +23902,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5TcPlr0F7tbLxIEAKyAgdP"
+  },
+  {
+    "album_id": "5weNLS5DgFtAxSzWHQyUdg",
+    "artist_ids": [
+      "48G4FvpaGSQAb2ZxhUc2Hv"
+    ],
+    "disc_number": 1,
+    "duration_ms": 144960,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZK6J2104107"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5TlqPc1VzkyfsQYQSpQltQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5TlqPc1VzkyfsQYQSpQltQ",
+    "id": "5TlqPc1VzkyfsQYQSpQltQ",
+    "is_local": false,
+    "name": "La Madrugada",
+    "popularity": 12,
+    "preview_url": "https://p.scdn.co/mp3-preview/8492893a734f7de7ccd39a55d86018a8e7406efe?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5TlqPc1VzkyfsQYQSpQltQ"
   },
   {
     "album_id": "53JJBD8NXpO3X2p6TgyTMd",
@@ -26350,6 +26566,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:6BtJgy7K98DgzCO8tRvEbw"
+  },
+  {
+    "album_id": "1uGcuxj82T9LJcoZBGjvDB",
+    "artist_ids": [
+      "6nyqrmf9qc4W94YKtsPel9"
+    ],
+    "disc_number": 1,
+    "duration_ms": 216000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "FR59R2002497"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6CgHwODrUSJ8I4oHrh5lSx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6CgHwODrUSJ8I4oHrh5lSx",
+    "id": "6CgHwODrUSJ8I4oHrh5lSx",
+    "is_local": false,
+    "name": "La Morena",
+    "popularity": 51,
+    "preview_url": "https://p.scdn.co/mp3-preview/fb8086c2040f328dd5e8cee950138d154e805520?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6CgHwODrUSJ8I4oHrh5lSx"
   },
   {
     "album_id": "009RfrV6iVJcoht9FDlX6l",
@@ -29328,6 +29568,30 @@
     "uri": "spotify:track:74NI58MQexwZjNu1Gu6GjT"
   },
   {
+    "album_id": "2KAA7ah6IpDG7IFeatz0WZ",
+    "artist_ids": [
+      "2qAN5f6Dcq9KTMt3PbcjC1"
+    ],
+    "disc_number": 1,
+    "duration_ms": 162602,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZES81907495"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/74SvZV1gnFPrtHn10QM5X6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/74SvZV1gnFPrtHn10QM5X6",
+    "id": "74SvZV1gnFPrtHn10QM5X6",
+    "is_local": false,
+    "name": "Efeseta",
+    "popularity": 67,
+    "preview_url": "https://p.scdn.co/mp3-preview/c97355f77d54d1d7ef48a01cbac2a383a768a44f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:74SvZV1gnFPrtHn10QM5X6"
+  },
+  {
     "album_id": "2BvncHBBrE9bMk2tRro4WH",
     "artist_ids": [
       "4aWhlVjiUjYHpVWBPP8AFc"
@@ -29734,6 +29998,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:78M7CiqTpJYoPQKkwjM48Z"
+  },
+  {
+    "album_id": "0If1QGwLQvlv2JnrvoAPT4",
+    "artist_ids": [
+      "48G4FvpaGSQAb2ZxhUc2Hv"
+    ],
+    "disc_number": 1,
+    "duration_ms": 152000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZHN92062416"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/78Naa6E2Tiv2cbhxHE6ukC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/78Naa6E2Tiv2cbhxHE6ukC",
+    "id": "78Naa6E2Tiv2cbhxHE6ukC",
+    "is_local": false,
+    "name": "Better Days",
+    "popularity": 7,
+    "preview_url": "https://p.scdn.co/mp3-preview/b9d01b684806b784a989f034482723079bdd4b22?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:78Naa6E2Tiv2cbhxHE6ukC"
   },
   {
     "album_id": "4pTzjlyYiswISd51GbvMDw",
@@ -30600,6 +30888,30 @@
     "uri": "spotify:track:7KeBFM0MZSktLgNXRiPRPW"
   },
   {
+    "album_id": "64jUlMiRacXh6dgXaA4Zfr",
+    "artist_ids": [
+      "5lYeiQxUTcGKVgAuTqbTeL"
+    ],
+    "disc_number": 1,
+    "duration_ms": 223875,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNJW2359132"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7KoRTkn1EfYjEdmo0GbUOE",
+    "id": "7KoRTkn1EfYjEdmo0GbUOE",
+    "is_local": false,
+    "name": "400 Estrellas",
+    "popularity": 45,
+    "preview_url": "https://p.scdn.co/mp3-preview/3400bb6d2e09cee06c61a341704f11e2d38c9298?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7KoRTkn1EfYjEdmo0GbUOE"
+  },
+  {
     "album_id": "520fefbp3amrXfD3sitfGk",
     "artist_ids": [
       "3duZndoIzAXtBJj8op4Abx"
@@ -30838,6 +31150,30 @@
     "track_number": 12,
     "type": "track",
     "uri": "spotify:track:7b3k8I1fncAzbk9PHnLkbX"
+  },
+  {
+    "album_id": "3wVoDBUcDV4oLZB7bpcjCz",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 176959,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNJX2359271"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7bsjE9CPIL0UZTOqZMcSv1"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7bsjE9CPIL0UZTOqZMcSv1",
+    "id": "7bsjE9CPIL0UZTOqZMcSv1",
+    "is_local": false,
+    "name": "No Soy Lo Que Esperan",
+    "popularity": 12,
+    "preview_url": "https://p.scdn.co/mp3-preview/0973ac34592310a7b7ee90bce0fa4359fb3dc50f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7bsjE9CPIL0UZTOqZMcSv1"
   },
   {
     "album_id": "2tyKrUxYAexhkXrL5TAxq3",

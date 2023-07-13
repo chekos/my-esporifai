@@ -551,6 +551,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0piTxP9AnX0XcANZNjxcyB"
+    },
+    "href": "https://api.spotify.com/v1/artists/0piTxP9AnX0XcANZNjxcyB",
+    "id": "0piTxP9AnX0XcANZNjxcyB",
+    "name": "Da Players Town",
+    "type": "artist",
+    "uri": "spotify:artist:0piTxP9AnX0XcANZNjxcyB"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
     },
     "href": "https://api.spotify.com/v1/artists/0qHbO3z6lgLE6ZYCkQBo1K",
@@ -1008,6 +1018,16 @@
     "name": "21 Savage",
     "type": "artist",
     "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+    },
+    "href": "https://api.spotify.com/v1/artists/1YvkzmaJLVRHSJ8J5YzoaW",
+    "id": "1YvkzmaJLVRHSJ8J5YzoaW",
+    "name": "Caztro",
+    "type": "artist",
+    "uri": "spotify:artist:1YvkzmaJLVRHSJ8J5YzoaW"
   },
   {
     "external_urls": {
@@ -1728,6 +1748,16 @@
     "name": "Lng Sht",
     "type": "artist",
     "uri": "spotify:artist:2q9p1IXueDbcN4de5C9fI2"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+    },
+    "href": "https://api.spotify.com/v1/artists/2qAN5f6Dcq9KTMt3PbcjC1",
+    "id": "2qAN5f6Dcq9KTMt3PbcjC1",
+    "name": "Absa G.",
+    "type": "artist",
+    "uri": "spotify:artist:2qAN5f6Dcq9KTMt3PbcjC1"
   },
   {
     "external_urls": {
@@ -2678,6 +2708,16 @@
     "name": "Grupo Codiciado",
     "type": "artist",
     "uri": "spotify:artist:4aWhlVjiUjYHpVWBPP8AFc"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+    },
+    "href": "https://api.spotify.com/v1/artists/4aXXDj9aZnlshx7mzj3W1N",
+    "id": "4aXXDj9aZnlshx7mzj3W1N",
+    "name": "Lin-Manuel Miranda",
+    "type": "artist",
+    "uri": "spotify:artist:4aXXDj9aZnlshx7mzj3W1N"
   },
   {
     "external_urls": {
