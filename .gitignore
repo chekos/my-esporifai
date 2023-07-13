@@ -1,6 +1,7 @@
 # local
 .vscode/
 tracks_history.json
+full-history/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
