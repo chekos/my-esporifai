@@ -1,5 +1,29 @@
 [
   {
+    "album_id": "48xXX0Q141vKS9UcLu9mWW",
+    "artist_ids": [
+      "1jVhcHIGJuk16eqY1Mdtuk"
+    ],
+    "disc_number": 2,
+    "duration_ms": 192000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMBZ92308363"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/001bIdvWi508dq8ZpIDdHg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/001bIdvWi508dq8ZpIDdHg",
+    "id": "001bIdvWi508dq8ZpIDdHg",
+    "is_local": false,
+    "name": "Papper & Pussy",
+    "popularity": 23,
+    "preview_url": "https://p.scdn.co/mp3-preview/ca29ad6c1c95107ae991653a515579d168db2f35?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:001bIdvWi508dq8ZpIDdHg"
+  },
+  {
     "album_id": "0SJjqErbyJDc46YKzV4ein",
     "artist_ids": [
       "2hejA1Dkf8v8R0koF44FvW"
@@ -1630,6 +1654,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:0N7XU51NdMaXgdq8h6iweg"
+  },
+  {
+    "album_id": "48xXX0Q141vKS9UcLu9mWW",
+    "artist_ids": [
+      "1jVhcHIGJuk16eqY1Mdtuk"
+    ],
+    "disc_number": 2,
+    "duration_ms": 141531,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMBZ92308370"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0NXFgNbC1QDHtnsZhje9cL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0NXFgNbC1QDHtnsZhje9cL",
+    "id": "0NXFgNbC1QDHtnsZhje9cL",
+    "is_local": false,
+    "name": "Pase",
+    "popularity": 28,
+    "preview_url": "https://p.scdn.co/mp3-preview/d09659977b2f47fc89e28c550abb4f141f523e82?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:0NXFgNbC1QDHtnsZhje9cL"
   },
   {
     "album_id": "3cHfnOEZwfG00Y3F244NqA",
@@ -3622,6 +3670,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:0p5UHlVpnlymQciOJDeTaE"
+  },
+  {
+    "album_id": "48xXX0Q141vKS9UcLu9mWW",
+    "artist_ids": [
+      "1jVhcHIGJuk16eqY1Mdtuk"
+    ],
+    "disc_number": 2,
+    "duration_ms": 220907,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMBZ92308364"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0pea3BxjCS9ggjub4zzz1P"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0pea3BxjCS9ggjub4zzz1P",
+    "id": "0pea3BxjCS9ggjub4zzz1P",
+    "is_local": false,
+    "name": "Bigg Butty Bitches",
+    "popularity": 23,
+    "preview_url": "https://p.scdn.co/mp3-preview/59d3a82a24bf61b3bdfc35e791956eb8e22065b9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0pea3BxjCS9ggjub4zzz1P"
   },
   {
     "album_id": "76290XdXVF9rPzGdNRWdCh",
@@ -8856,6 +8928,30 @@
     "uri": "spotify:track:20ZczvqzolNmiXNqhLB8YF"
   },
   {
+    "album_id": "48xXX0Q141vKS9UcLu9mWW",
+    "artist_ids": [
+      "1jVhcHIGJuk16eqY1Mdtuk"
+    ],
+    "disc_number": 2,
+    "duration_ms": 292105,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMBZ92316963"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/20jc0s5MbdbuhP8dZFAHgc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/20jc0s5MbdbuhP8dZFAHgc",
+    "id": "20jc0s5MbdbuhP8dZFAHgc",
+    "is_local": false,
+    "name": "Siempre Listos",
+    "popularity": 23,
+    "preview_url": "https://p.scdn.co/mp3-preview/9ff5051636e40adc8429c20eb8306e8a5420e2fd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:20jc0s5MbdbuhP8dZFAHgc"
+  },
+  {
     "album_id": "4KIYSo2O5ZqH03VeHXsWNX",
     "artist_ids": [
       "6i28S1MHCSNJtufoq0DnPv"
@@ -9574,6 +9670,30 @@
     "track_number": 14,
     "type": "track",
     "uri": "spotify:track:2Ch0TPb0c3SqDNIiT1ijCd"
+  },
+  {
+    "album_id": "48xXX0Q141vKS9UcLu9mWW",
+    "artist_ids": [
+      "1jVhcHIGJuk16eqY1Mdtuk"
+    ],
+    "disc_number": 2,
+    "duration_ms": 185205,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMBZ92308365"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2Cp0vByeRK9zg8Rh6IY3bY"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2Cp0vByeRK9zg8Rh6IY3bY",
+    "id": "2Cp0vByeRK9zg8Rh6IY3bY",
+    "is_local": false,
+    "name": "Dinero Vuela",
+    "popularity": 23,
+    "preview_url": "https://p.scdn.co/mp3-preview/4b73ba8150f98c9a64d3c610a0754a0d6b8cf667?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:2Cp0vByeRK9zg8Rh6IY3bY"
   },
   {
     "album_id": "3aJflyaUCMtK6f8addnjlY",
@@ -12238,6 +12358,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:2mpoNBkngUEwnaKoBhZ0vl"
+  },
+  {
+    "album_id": "48xXX0Q141vKS9UcLu9mWW",
+    "artist_ids": [
+      "1jVhcHIGJuk16eqY1Mdtuk"
+    ],
+    "disc_number": 2,
+    "duration_ms": 224000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMBZ92308362"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2mwLug4IBgmP6juHgRXWcy"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2mwLug4IBgmP6juHgRXWcy",
+    "id": "2mwLug4IBgmP6juHgRXWcy",
+    "is_local": false,
+    "name": "Marihuana Pills",
+    "popularity": 25,
+    "preview_url": "https://p.scdn.co/mp3-preview/7b0f75327e1cfdf269c9bc605715f82db5902cef?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2mwLug4IBgmP6juHgRXWcy"
   },
   {
     "album_id": "3umoXNkO5IVR9d5e9QRSk2",
@@ -15454,6 +15598,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3RfIrOvpmccRC4Z98DlLJm"
+  },
+  {
+    "album_id": "0ir8A1dx9pLPAHs4bVxFMZ",
+    "artist_ids": [
+      "4AxSQnOMPd42KI149MWsub"
+    ],
+    "disc_number": 1,
+    "duration_ms": 129032,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZSY62100129"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3RmJZRbK81v6NgJsTomiLr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3RmJZRbK81v6NgJsTomiLr",
+    "id": "3RmJZRbK81v6NgJsTomiLr",
+    "is_local": false,
+    "name": "Dude",
+    "popularity": 54,
+    "preview_url": "https://p.scdn.co/mp3-preview/4485a9416719d391cc46bae1117f0d01e07ba45b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3RmJZRbK81v6NgJsTomiLr"
   },
   {
     "album_id": "3i3hD84ypGIseYsZw8m05P",
@@ -22560,6 +22728,30 @@
     "uri": "spotify:track:57gmZsN7hGqEsR7x65OtYg"
   },
   {
+    "album_id": "48xXX0Q141vKS9UcLu9mWW",
+    "artist_ids": [
+      "1jVhcHIGJuk16eqY1Mdtuk"
+    ],
+    "disc_number": 2,
+    "duration_ms": 291023,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMBZ92308368"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5815pswdEru0yQdUhClXk9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5815pswdEru0yQdUhClXk9",
+    "id": "5815pswdEru0yQdUhClXk9",
+    "is_local": false,
+    "name": "Ashuuu!",
+    "popularity": 24,
+    "preview_url": "https://p.scdn.co/mp3-preview/e02ceab9901475cf1299449731ed65227a0866d0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:5815pswdEru0yQdUhClXk9"
+  },
+  {
     "album_id": "4XssST6ZjeUKutADRKOQHX",
     "artist_ids": [
       "231yQfVjg9sGhTNsaym9ck"
@@ -23158,6 +23350,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5Fhf4Iwal5MMHXH4TiOiEQ"
+  },
+  {
+    "album_id": "5iFIpyMZqCNRIL8vVeMQ3U",
+    "artist_ids": [
+      "31opIYTivWACiXXzX2khlj"
+    ],
+    "disc_number": 1,
+    "duration_ms": 139900,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNJX2384236"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5FnNO7B5HmCbxx4latQW4q"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5FnNO7B5HmCbxx4latQW4q",
+    "id": "5FnNO7B5HmCbxx4latQW4q",
+    "is_local": false,
+    "name": "Tú Tan Fancy <3",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/c8092cb295c0cb5d93bb61dc26354c2dd858fc1f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5FnNO7B5HmCbxx4latQW4q"
   },
   {
     "album_id": "5bZ7Jgk7YE35ULHWO3wgHP",
@@ -24028,6 +24244,30 @@
     "artist_ids": [
       "1jVhcHIGJuk16eqY1Mdtuk"
     ],
+    "disc_number": 2,
+    "duration_ms": 241677,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMBZ92308367"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5QKSJ3x1VQi2jsNPOmjzL0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5QKSJ3x1VQi2jsNPOmjzL0",
+    "id": "5QKSJ3x1VQi2jsNPOmjzL0",
+    "is_local": false,
+    "name": "Pensando en Mi",
+    "popularity": 23,
+    "preview_url": "https://p.scdn.co/mp3-preview/1f6b5d2ca78f405fb3107ac9219ee061668dba52?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:5QKSJ3x1VQi2jsNPOmjzL0"
+  },
+  {
+    "album_id": "48xXX0Q141vKS9UcLu9mWW",
+    "artist_ids": [
+      "1jVhcHIGJuk16eqY1Mdtuk"
+    ],
     "disc_number": 1,
     "duration_ms": 200547,
     "explicit": true,
@@ -24742,6 +24982,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:5ajGpk5BqdTuyvuBLItxkx"
+  },
+  {
+    "album_id": "48xXX0Q141vKS9UcLu9mWW",
+    "artist_ids": [
+      "1jVhcHIGJuk16eqY1Mdtuk"
+    ],
+    "disc_number": 2,
+    "duration_ms": 180000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMBZ92308369"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5bCMXAEclch5nTOFBx8Y1j"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5bCMXAEclch5nTOFBx8Y1j",
+    "id": "5bCMXAEclch5nTOFBx8Y1j",
+    "is_local": false,
+    "name": "OGT",
+    "popularity": 21,
+    "preview_url": "https://p.scdn.co/mp3-preview/c95308ec910e92869d4e29ec349d12d9ad1386b0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:5bCMXAEclch5nTOFBx8Y1j"
   },
   {
     "album_id": "4NNsCRL4LuWbspwc4F0RRu",
@@ -26184,6 +26448,30 @@
     "uri": "spotify:track:5zyvMsUyaPwUtkwYpOAaIj"
   },
   {
+    "album_id": "48xXX0Q141vKS9UcLu9mWW",
+    "artist_ids": [
+      "1jVhcHIGJuk16eqY1Mdtuk"
+    ],
+    "disc_number": 2,
+    "duration_ms": 227647,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMBZ92308366"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/60CUdzKRJDkOIgstuTlyBS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/60CUdzKRJDkOIgstuTlyBS",
+    "id": "60CUdzKRJDkOIgstuTlyBS",
+    "is_local": false,
+    "name": "My House",
+    "popularity": 22,
+    "preview_url": "https://p.scdn.co/mp3-preview/c6e2598ed0b0b98a19fecdbc84fefdd6b3ef4487?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:60CUdzKRJDkOIgstuTlyBS"
+  },
+  {
     "album_id": "6RBGm1BTZmgxk7kCiTHvNB",
     "artist_ids": [
       "4V2V4PaSblStayYVWTGDbZ"
@@ -26206,6 +26494,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:60DQF1cs0Ie55LQSgyE0KS"
+  },
+  {
+    "album_id": "48xXX0Q141vKS9UcLu9mWW",
+    "artist_ids": [
+      "1jVhcHIGJuk16eqY1Mdtuk"
+    ],
+    "disc_number": 2,
+    "duration_ms": 137684,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMBZ92308372"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/60R62PJnt2c4imWvD9PiAU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/60R62PJnt2c4imWvD9PiAU",
+    "id": "60R62PJnt2c4imWvD9PiAU",
+    "is_local": false,
+    "name": "Moviemento Violento",
+    "popularity": 21,
+    "preview_url": "https://p.scdn.co/mp3-preview/5bd9d162b896f3b0d2f327ecd3c6186e5123838a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:60R62PJnt2c4imWvD9PiAU"
   },
   {
     "album_id": "0SJjqErbyJDc46YKzV4ein",
@@ -26878,6 +27190,30 @@
     "track_number": 10,
     "type": "track",
     "uri": "spotify:track:6AgCTp4EMV690aC3y3YjPx"
+  },
+  {
+    "album_id": "5GkZHRuXwEoXq9xLlW1bzH",
+    "artist_ids": [
+      "5GcWBUX00IPuWVGMIRK1sS"
+    ],
+    "disc_number": 1,
+    "duration_ms": 541931,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "US5022300010"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6AvBuucxeCrRJjxNVWKayz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6AvBuucxeCrRJjxNVWKayz",
+    "id": "6AvBuucxeCrRJjxNVWKayz",
+    "is_local": false,
+    "name": "Bajo y Batería",
+    "popularity": 66,
+    "preview_url": "https://p.scdn.co/mp3-preview/9641907a18e685b9ceea6f1050a94b3b3dc9b13d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6AvBuucxeCrRJjxNVWKayz"
   },
   {
     "album_id": "0f5Bxz0icXVD2B4BldVU0z",
@@ -30264,6 +30600,30 @@
     "uri": "spotify:track:76poUArBkxrtsBzqXcaAnc"
   },
   {
+    "album_id": "48xXX0Q141vKS9UcLu9mWW",
+    "artist_ids": [
+      "1jVhcHIGJuk16eqY1Mdtuk"
+    ],
+    "disc_number": 2,
+    "duration_ms": 166153,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMBZ92308371"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/76rWk0tINFLcnxTpy1LMAz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/76rWk0tINFLcnxTpy1LMAz",
+    "id": "76rWk0tINFLcnxTpy1LMAz",
+    "is_local": false,
+    "name": "Star Donde Estoy",
+    "popularity": 23,
+    "preview_url": "https://p.scdn.co/mp3-preview/2825d655c75f57bce7c49911560309d9f6003339?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:76rWk0tINFLcnxTpy1LMAz"
+  },
+  {
     "album_id": "7uIGxnb0Th4Av0R5oui7A0",
     "artist_ids": [
       "4VMYDCV2IEDYJArk749S6m"
@@ -31894,6 +32254,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:7gEd0PWtv1sYYprnecrdZ0"
+  },
+  {
+    "album_id": "73QwJc0tXAC3aRymPfphH3",
+    "artist_ids": [
+      "4AxSQnOMPd42KI149MWsub"
+    ],
+    "disc_number": 1,
+    "duration_ms": 145481,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZSY62100098"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7gSsxz2pwDARRVCJW1o6tR",
+    "id": "7gSsxz2pwDARRVCJW1o6tR",
+    "is_local": false,
+    "name": "Still",
+    "popularity": 60,
+    "preview_url": "https://p.scdn.co/mp3-preview/60941c3340361220fca6487eb29b7478818b9c8e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7gSsxz2pwDARRVCJW1o6tR"
   },
   {
     "album_id": "3dQfOcSpeYGH2wNPFAAQZ4",
