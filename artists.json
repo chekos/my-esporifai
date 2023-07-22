@@ -301,6 +301,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+    },
+    "href": "https://api.spotify.com/v1/artists/0TlO93nJUFn6FAGj0YugEO",
+    "id": "0TlO93nJUFn6FAGj0YugEO",
+    "name": "Samtwenty",
+    "type": "artist",
+    "uri": "spotify:artist:0TlO93nJUFn6FAGj0YugEO"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
     },
     "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
@@ -1068,6 +1078,16 @@
     "name": "Nanpa Básico",
     "type": "artist",
     "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
+    },
+    "href": "https://api.spotify.com/v1/artists/1cyJ1lO4GCV0npo5vyg3xX",
+    "id": "1cyJ1lO4GCV0npo5vyg3xX",
+    "name": "Jorge Carmona",
+    "type": "artist",
+    "uri": "spotify:artist:1cyJ1lO4GCV0npo5vyg3xX"
   },
   {
     "external_urls": {
@@ -2421,6 +2441,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4AsReWUdxf3EQAjEkVtB9s"
+    },
+    "href": "https://api.spotify.com/v1/artists/4AsReWUdxf3EQAjEkVtB9s",
+    "id": "4AsReWUdxf3EQAjEkVtB9s",
+    "name": "Nate Shy",
+    "type": "artist",
+    "uri": "spotify:artist:4AsReWUdxf3EQAjEkVtB9s"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
     },
     "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
@@ -2621,6 +2651,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4UKBL0SeoZwCll59lWfAnN"
+    },
+    "href": "https://api.spotify.com/v1/artists/4UKBL0SeoZwCll59lWfAnN",
+    "id": "4UKBL0SeoZwCll59lWfAnN",
+    "name": "Dogtor Frank",
+    "type": "artist",
+    "uri": "spotify:artist:4UKBL0SeoZwCll59lWfAnN"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
     },
     "href": "https://api.spotify.com/v1/artists/4UOlRVifrFdQHW9qu5ep8t",
@@ -2798,6 +2838,16 @@
     "name": "Calibre 50",
     "type": "artist",
     "uri": "spotify:artist:4jogXSSvlyMkODGSZ2wc2P"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+    },
+    "href": "https://api.spotify.com/v1/artists/4jzpU8H3P6UJYFUWwwwCx4",
+    "id": "4jzpU8H3P6UJYFUWwwwCx4",
+    "name": "Ovyze",
+    "type": "artist",
+    "uri": "spotify:artist:4jzpU8H3P6UJYFUWwwwCx4"
   },
   {
     "external_urls": {
@@ -3171,6 +3221,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+    },
+    "href": "https://api.spotify.com/v1/artists/5QcHBpoxrY7vx3ulMKEvTS",
+    "id": "5QcHBpoxrY7vx3ulMKEvTS",
+    "name": "Chiquis",
+    "type": "artist",
+    "uri": "spotify:artist:5QcHBpoxrY7vx3ulMKEvTS"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
     },
     "href": "https://api.spotify.com/v1/artists/5TYxZTjIPqKM8K8NuP9woO",
@@ -3388,6 +3448,16 @@
     "name": "Mike Diaz",
     "type": "artist",
     "uri": "spotify:artist:5pR3pEU0bCMZhhAzag3DUz"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+    },
+    "href": "https://api.spotify.com/v1/artists/5pughe5rcsOq3GF0utMOs5",
+    "id": "5pughe5rcsOq3GF0utMOs5",
+    "name": "DrefQuila",
+    "type": "artist",
+    "uri": "spotify:artist:5pughe5rcsOq3GF0utMOs5"
   },
   {
     "external_urls": {
@@ -4038,6 +4108,16 @@
     "name": "Bizarrap",
     "type": "artist",
     "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+    },
+    "href": "https://api.spotify.com/v1/artists/74OPWhLPyLylAzgqcJlNMm",
+    "id": "74OPWhLPyLylAzgqcJlNMm",
+    "name": "Fermin IV",
+    "type": "artist",
+    "uri": "spotify:artist:74OPWhLPyLylAzgqcJlNMm"
   },
   {
     "external_urls": {

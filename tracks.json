@@ -744,6 +744,30 @@
     "uri": "spotify:track:0BQzY6BThB9vZGonbdHMZT"
   },
   {
+    "album_id": "7nKVL0xUWFgEU4WYz3hVb9",
+    "artist_ids": [
+      "5MRMYpdAWZawm3ivBeWvdK"
+    ],
+    "disc_number": 1,
+    "duration_ms": 183750,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNJY2322211"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0BajyoGuPRdkDOYsrdkx6L"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0BajyoGuPRdkDOYsrdkx6L",
+    "id": "0BajyoGuPRdkDOYsrdkx6L",
+    "is_local": false,
+    "name": "Otro Día Más",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/7867c09b2a1690bff6b3a7fb4fb7ac5e846074ca?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0BajyoGuPRdkDOYsrdkx6L"
+  },
+  {
     "album_id": "6pV6SSMwxUzqGRC5OZjrCi",
     "artist_ids": [
       "3vV4Tf1iC8vEP9fLOLGUfP"
@@ -1776,6 +1800,30 @@
     "uri": "spotify:track:0OYUSRHb6lAXEZZleIRfVz"
   },
   {
+    "album_id": "0up0g1vmp9Y4biludXMTTo",
+    "artist_ids": [
+      "07H7kklAEFGHh0VxZNJ9bD"
+    ],
+    "disc_number": 1,
+    "duration_ms": 137885,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNJX2348250"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0PB630qVHeMfo8MGh7vNpK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0PB630qVHeMfo8MGh7vNpK",
+    "id": "0PB630qVHeMfo8MGh7vNpK",
+    "is_local": false,
+    "name": "Milli",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/0eee424ee82c7872807c0c46de32a59223d55e76?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0PB630qVHeMfo8MGh7vNpK"
+  },
+  {
     "album_id": "2asPHwYLmWPVhS0VA6Uu6N",
     "artist_ids": [
       "1iIxNEvPPmdFIIP0tdpw6G"
@@ -2134,6 +2182,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:0TcBdP8MSugpUPhm0xzGHe"
+  },
+  {
+    "album_id": "1mKBfFezxkA3e6KvNkdKwZ",
+    "artist_ids": [
+      "4UKBL0SeoZwCll59lWfAnN"
+    ],
+    "disc_number": 1,
+    "duration_ms": 164000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USHM82378562"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0TftLo3vtFuAMkqjgt89po"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0TftLo3vtFuAMkqjgt89po",
+    "id": "0TftLo3vtFuAMkqjgt89po",
+    "is_local": false,
+    "name": "Peligrosota",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/adf4722d0f85867a9b9055d8a62d55bf3629660d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0TftLo3vtFuAMkqjgt89po"
   },
   {
     "album_id": "6DDu9qEjKQNe8VMWLEjjtU",
@@ -3094,6 +3166,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:0hnvQLkV7yOjslEzflJSK4"
+  },
+  {
+    "album_id": "2fVmqyqudA8bQnltyLMuoT",
+    "artist_ids": [
+      "4AsReWUdxf3EQAjEkVtB9s"
+    ],
+    "disc_number": 1,
+    "duration_ms": 181056,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNWU2346520"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0hutPr9J463y9tnsj2TYH9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0hutPr9J463y9tnsj2TYH9",
+    "id": "0hutPr9J463y9tnsj2TYH9",
+    "is_local": false,
+    "name": "CLOSER",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/6ae255a1d12d24a8a8d59f0375bac49b3b4d786e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0hutPr9J463y9tnsj2TYH9"
   },
   {
     "album_id": "42myA7rDKd1QWWMATQldju",
@@ -4272,6 +4368,30 @@
     "uri": "spotify:track:0yLdNVWF3Srea0uzk55zFn"
   },
   {
+    "album_id": "6BTvsjQdbRsMRqnANMVBw3",
+    "artist_ids": [
+      "5ZFEiJL7RrUvHPM98RSolq"
+    ],
+    "disc_number": 1,
+    "duration_ms": 121791,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNWV2315433"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/10FxpXUdsMf7jAjZbXBKRT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/10FxpXUdsMf7jAjZbXBKRT",
+    "id": "10FxpXUdsMf7jAjZbXBKRT",
+    "is_local": false,
+    "name": "Dillas",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/9d618dcbccf62f8dca06bd51ed7835f8813117e1?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:10FxpXUdsMf7jAjZbXBKRT"
+  },
+  {
     "album_id": "1mdbJt88iwqkl0zEMGA8XH",
     "artist_ids": [
       "2hejA1Dkf8v8R0koF44FvW"
@@ -4294,6 +4414,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:10dS1LyDC8hMXcITvSNFyU"
+  },
+  {
+    "album_id": "5gA4AFEjzYhqv1OxixVOK6",
+    "artist_ids": [
+      "66RfYVdftqnuHRicyClgL0"
+    ],
+    "disc_number": 1,
+    "duration_ms": 282598,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "BK4DA2310716"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/11cBc7p39GKbAzpN8izhbh",
+    "id": "11cBc7p39GKbAzpN8izhbh",
+    "is_local": false,
+    "name": "La Mision 3",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/e6f1cc7b31e42ece547386963fe48821f14dcc11?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:11cBc7p39GKbAzpN8izhbh"
   },
   {
     "album_id": "6vSmZZudz2cS6JwAaWXVeh",
@@ -6888,6 +7032,30 @@
     "uri": "spotify:track:1XiptdPHH8raaPDU3gdrWW"
   },
   {
+    "album_id": "3QiEjbvpEbKlSUahYUgaZT",
+    "artist_ids": [
+      "5pughe5rcsOq3GF0utMOs5"
+    ],
+    "disc_number": 1,
+    "duration_ms": 206022,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "CLAA22300108"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1XpyCcce2n2d0zm3IUcAvl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1XpyCcce2n2d0zm3IUcAvl",
+    "id": "1XpyCcce2n2d0zm3IUcAvl",
+    "is_local": false,
+    "name": "Los Besos Que Te Debo",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/ae250a247bdbc6fd767285dbd2a31d7b5e3bf69e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1XpyCcce2n2d0zm3IUcAvl"
+  },
+  {
     "album_id": "3i3hD84ypGIseYsZw8m05P",
     "artist_ids": [
       "1QhaqxeqF9sipS2gwbEKpu"
@@ -7006,6 +7174,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1a8JXGNz4a9gmiAdEKUpks"
+  },
+  {
+    "album_id": "7rmWaMyKeqUYxJuyCDfzzR",
+    "artist_ids": [
+      "0SmgVe3giVHaJjGmIz8xA4"
+    ],
+    "disc_number": 1,
+    "duration_ms": 225923,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM3DF2253770"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1aShkzvbm20sYlMuwQBJ0R",
+    "id": "1aShkzvbm20sYlMuwQBJ0R",
+    "is_local": false,
+    "name": "No Puedo Olvidarte",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/a38322fedbf6bc633346e0abbe02ee2ca3eac6cb?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1aShkzvbm20sYlMuwQBJ0R"
   },
   {
     "album_id": "26zGsUDPf6YXszmHdi4aCT",
@@ -7534,6 +7726,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1haJsMtoBhHfvuM7XWuT3W"
+  },
+  {
+    "album_id": "45ID2WdGfnY0a0d9kjMdzE",
+    "artist_ids": [
+      "5QcHBpoxrY7vx3ulMKEvTS"
+    ],
+    "disc_number": 1,
+    "duration_ms": 178226,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM72310541"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1i6t6hQBpdzrXElkROHNfp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1i6t6hQBpdzrXElkROHNfp",
+    "id": "1i6t6hQBpdzrXElkROHNfp",
+    "is_local": false,
+    "name": "Ni Muerta",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/72fa708e150757caa817303f92041ee9fdd757c0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1i6t6hQBpdzrXElkROHNfp"
   },
   {
     "album_id": "0KYHYcua79d4aEfrn0ntbe",
@@ -19920,6 +20136,30 @@
     "uri": "spotify:track:4VgYtXCVJ7IbWAZ5ryfvEQ"
   },
   {
+    "album_id": "5TTk79eZvPAB7D6PvrdANe",
+    "artist_ids": [
+      "645xd9cHiiLqqehoLzLMDR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 158658,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNJX2388966"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4WCk2VAPDqySlBSxZTlNjK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4WCk2VAPDqySlBSxZTlNjK",
+    "id": "4WCk2VAPDqySlBSxZTlNjK",
+    "is_local": false,
+    "name": "0cm",
+    "popularity": 7,
+    "preview_url": "https://p.scdn.co/mp3-preview/8aa73c3a6d02e65ef2f1b67acbe1ac110feaaa48?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4WCk2VAPDqySlBSxZTlNjK"
+  },
+  {
     "album_id": "7Mz1geAbnUUcBLwqRSGX80",
     "artist_ids": [
       "0N6H5exnFMoW4yNQ3vDJ3Z"
@@ -27000,6 +27240,30 @@
     "uri": "spotify:track:65NVY7RO8h23u0NA4HH4kL"
   },
   {
+    "album_id": "0UwpMqSIC8OLScazUEkLaW",
+    "artist_ids": [
+      "1cyJ1lO4GCV0npo5vyg3xX"
+    ],
+    "disc_number": 1,
+    "duration_ms": 256049,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJY2303603"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/65mTGc1h4zh40PExo9BXfI",
+    "id": "65mTGc1h4zh40PExo9BXfI",
+    "is_local": false,
+    "name": "El Callejón",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/4a36b76feea5f9cde95e32bfc5243386c744e5e6?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:65mTGc1h4zh40PExo9BXfI"
+  },
+  {
     "album_id": "4lgrPArcFGHMKgqxmTeSMA",
     "artist_ids": [
       "3AgxRYe2kXEfsZyB07hqJF"
@@ -30720,6 +30984,30 @@
     "uri": "spotify:track:77VOlKw4NaQtHcthb2v0Ip"
   },
   {
+    "album_id": "1144YpngS75G0THWz44d8Y",
+    "artist_ids": [
+      "35BPWrbRCzHa7yWWvCi8BI"
+    ],
+    "disc_number": 1,
+    "duration_ms": 170952,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJW2399988"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/77qnxLfmKxawD8yY675Laj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/77qnxLfmKxawD8yY675Laj",
+    "id": "77qnxLfmKxawD8yY675Laj",
+    "is_local": false,
+    "name": "Infiel",
+    "popularity": 6,
+    "preview_url": "https://p.scdn.co/mp3-preview/61aa129a8c1f367449adaa75aada3586f2fef42a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:77qnxLfmKxawD8yY675Laj"
+  },
+  {
     "album_id": "7cftuQ1mezvQCWSHtP7eA9",
     "artist_ids": [
       "7I85Ma5xjAo6nlvqOCIiWx"
@@ -33478,6 +33766,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:7vrt97QDWOTlWB5xYXTCmQ"
+  },
+  {
+    "album_id": "5iFIpyMZqCNRIL8vVeMQ3U",
+    "artist_ids": [
+      "31opIYTivWACiXXzX2khlj"
+    ],
+    "disc_number": 1,
+    "duration_ms": 206100,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNJX2384597"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7w6vXV5nQSiwcUWABWIMKV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7w6vXV5nQSiwcUWABWIMKV",
+    "id": "7w6vXV5nQSiwcUWABWIMKV",
+    "is_local": false,
+    "name": "Mejor de Lo Que Soñé",
+    "popularity": 21,
+    "preview_url": "https://p.scdn.co/mp3-preview/a017d7f1c3c52dbc5aed8dcf6cd0aa155b0419dd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:7w6vXV5nQSiwcUWABWIMKV"
   },
   {
     "album_id": "7vwAHNmOb341jyF7FcLOU5",
