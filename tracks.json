@@ -1368,6 +1368,30 @@
     "uri": "spotify:track:0JMjveAeMOXkgTD1xogsmR"
   },
   {
+    "album_id": "74CA8KMf2pVVGl7FBxexQ1",
+    "artist_ids": [
+      "0OhiQFSqbnnmB52NWEpsO5"
+    ],
+    "disc_number": 1,
+    "duration_ms": 217521,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF369332431"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0JZV1UuBsbSwHhGirgWaXI",
+    "id": "0JZV1UuBsbSwHhGirgWaXI",
+    "is_local": false,
+    "name": "Feliz Feliz",
+    "popularity": 70,
+    "preview_url": "https://p.scdn.co/mp3-preview/e88b369bdd602604dac4cb9ba63b626ea8889277?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0JZV1UuBsbSwHhGirgWaXI"
+  },
+  {
     "album_id": "6SbIad8SaIOriXsbvbqykT",
     "artist_ids": [
       "2nJOVl8u7PntefIs1Uwb4z"
@@ -4174,6 +4198,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0vp1LRAhFT6PK9ixOmFT6E"
+  },
+  {
+    "album_id": "6ACxvZ4en9mhTSxTeKWGaJ",
+    "artist_ids": [
+      "0VKh7CQDi9MkUvaBMoK1V0"
+    ],
+    "disc_number": 1,
+    "duration_ms": 176533,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USALZ8900092"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0vqs9bIFJgk6X9LvlatKfp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0vqs9bIFJgk6X9LvlatKfp",
+    "id": "0vqs9bIFJgk6X9LvlatKfp",
+    "is_local": false,
+    "name": "Que No Quede Huella",
+    "popularity": 65,
+    "preview_url": "https://p.scdn.co/mp3-preview/cd5444c55bfe7533060d0b2bda5a9e8dbdbd0f5f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:0vqs9bIFJgk6X9LvlatKfp"
   },
   {
     "album_id": "1lSYxwcLpWyqM7pD5N1fAU",
@@ -26160,6 +26208,30 @@
     "uri": "spotify:track:5hpOBmnNc1mahkYGmte4NI"
   },
   {
+    "album_id": "3cwMyqMeTxBd26z6AjKGdv",
+    "artist_ids": [
+      "0ZCO8oVkMj897cKgFH7fRW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 216106,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXUM70801265"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5hrxAFrYbNTLjAYSrmbpgr",
+    "id": "5hrxAFrYbNTLjAYSrmbpgr",
+    "is_local": false,
+    "name": "El Listón De Tu Pelo",
+    "popularity": 74,
+    "preview_url": "https://p.scdn.co/mp3-preview/38e8cc11c7146a91776d9231aef0eff3651ad212?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5hrxAFrYbNTLjAYSrmbpgr"
+  },
+  {
     "album_id": "4H3jCH55WS5z7CF6g144eV",
     "artist_ids": [
       "3Jarv4dvk7d9k6AkqDUVJg"
@@ -30096,6 +30168,30 @@
     "uri": "spotify:track:6mDaKsBN1KHIBfeNXJwhZk"
   },
   {
+    "album_id": "0QaYqMY1nTvvKzUOf4F0tu",
+    "artist_ids": [
+      "1dKdetem2xEmjgvyymzytS"
+    ],
+    "disc_number": 1,
+    "duration_ms": 235213,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZDQH2254898"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6mVWXZDsMguKrTHfiCyIVu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6mVWXZDsMguKrTHfiCyIVu",
+    "id": "6mVWXZDsMguKrTHfiCyIVu",
+    "is_local": false,
+    "name": "El Reemplazo",
+    "popularity": 63,
+    "preview_url": "https://p.scdn.co/mp3-preview/5c9f009f14f8e5d5b5b2661f20219241685bc2b3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6mVWXZDsMguKrTHfiCyIVu"
+  },
+  {
     "album_id": "7w663l3dRLmGMdDQws8GSS",
     "artist_ids": [
       "0nOyxRsVicKeiBbB6zdIMu"
@@ -30430,6 +30526,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6sgpTKj8o3im8RV6NBqybx"
+  },
+  {
+    "album_id": "62bBdP4of4gbqzArrfCw4J",
+    "artist_ids": [
+      "7MyUjj79oHy7I8RocrtzZ2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 167986,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF160001150"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6sr4ax5EHAsAxC4jjEaZJ0",
+    "id": "6sr4ax5EHAsAxC4jjEaZJ0",
+    "is_local": false,
+    "name": "Me llamo Raquel",
+    "popularity": 66,
+    "preview_url": "https://p.scdn.co/mp3-preview/83e6c953e038a2b97d329d4b9cedc0ec758f4b14?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:6sr4ax5EHAsAxC4jjEaZJ0"
   },
   {
     "album_id": "7pgxTiHbEYzaj1QktvgOOk",
@@ -32566,6 +32686,30 @@
     "track_number": 12,
     "type": "track",
     "uri": "spotify:track:7b3k8I1fncAzbk9PHnLkbX"
+  },
+  {
+    "album_id": "4jox3ip1I39DFC2B7R5qLH",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 209415,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM7282325573"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7bPp2NmpmyhLJ7zWazAXMu",
+    "id": "7bPp2NmpmyhLJ7zWazAXMu",
+    "is_local": false,
+    "name": "TULUM",
+    "popularity": 93,
+    "preview_url": "https://p.scdn.co/mp3-preview/164468e67b8da8053036c68533ffa473ab680c51?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:7bPp2NmpmyhLJ7zWazAXMu"
   },
   {
     "album_id": "3wVoDBUcDV4oLZB7bpcjCz",

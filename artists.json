@@ -271,6 +271,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+    },
+    "href": "https://api.spotify.com/v1/artists/0OhiQFSqbnnmB52NWEpsO5",
+    "id": "0OhiQFSqbnnmB52NWEpsO5",
+    "name": "Mi Banda El Mexicano",
+    "type": "artist",
+    "uri": "spotify:artist:0OhiQFSqbnnmB52NWEpsO5"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
     },
     "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
@@ -328,6 +338,16 @@
     "name": "Jayrick",
     "type": "artist",
     "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+    },
+    "href": "https://api.spotify.com/v1/artists/0VKh7CQDi9MkUvaBMoK1V0",
+    "id": "0VKh7CQDi9MkUvaBMoK1V0",
+    "name": "Bronco",
+    "type": "artist",
+    "uri": "spotify:artist:0VKh7CQDi9MkUvaBMoK1V0"
   },
   {
     "external_urls": {
@@ -428,6 +448,16 @@
     "name": "SyckSyllables",
     "type": "artist",
     "uri": "spotify:artist:0Z91zZ8meb9o36mZ9kRFWd"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+    },
+    "href": "https://api.spotify.com/v1/artists/0ZCO8oVkMj897cKgFH7fRW",
+    "id": "0ZCO8oVkMj897cKgFH7fRW",
+    "name": "Los Ángeles Azules",
+    "type": "artist",
+    "uri": "spotify:artist:0ZCO8oVkMj897cKgFH7fRW"
   },
   {
     "external_urls": {
@@ -1088,6 +1118,16 @@
     "name": "Jorge Carmona",
     "type": "artist",
     "uri": "spotify:artist:1cyJ1lO4GCV0npo5vyg3xX"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+    },
+    "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+    "id": "1dKdetem2xEmjgvyymzytS",
+    "name": "Grupo Firme",
+    "type": "artist",
+    "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
   },
   {
     "external_urls": {
@@ -4318,6 +4358,16 @@
     "name": "Terrace Martin",
     "type": "artist",
     "uri": "spotify:artist:7MNEVabc4cs19CbzAFZmXz"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+    },
+    "href": "https://api.spotify.com/v1/artists/7MyUjj79oHy7I8RocrtzZ2",
+    "id": "7MyUjj79oHy7I8RocrtzZ2",
+    "name": "Banda Machos",
+    "type": "artist",
+    "uri": "spotify:artist:7MyUjj79oHy7I8RocrtzZ2"
   },
   {
     "external_urls": {
