@@ -1704,6 +1704,30 @@
     "uri": "spotify:track:0NXFgNbC1QDHtnsZhje9cL"
   },
   {
+    "album_id": "3rgETN4XlGeTJaU4w1BfEO",
+    "artist_ids": [
+      "6AcOTCYBMvjKYy4zms0kaC"
+    ],
+    "disc_number": 1,
+    "duration_ms": 210280,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMDNX1310001"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0Ndim92MYsrFSseD9gbBcg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0Ndim92MYsrFSseD9gbBcg",
+    "id": "0Ndim92MYsrFSseD9gbBcg",
+    "is_local": false,
+    "name": "Vas A Llorar Por Mí",
+    "popularity": 67,
+    "preview_url": "https://p.scdn.co/mp3-preview/5b670221239867a71e332e50b6ea25ed97451c33?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0Ndim92MYsrFSseD9gbBcg"
+  },
+  {
     "album_id": "3cHfnOEZwfG00Y3F244NqA",
     "artist_ids": [
       "4AHhe1KXVCCoOdHQNjH5Zu"
@@ -3430,6 +3454,30 @@
     "track_number": 9,
     "type": "track",
     "uri": "spotify:track:0lLMgoXWy7PBF8VyFqkXcW"
+  },
+  {
+    "album_id": "6IQ9Tk73kwPmKbdnMQ7nlo",
+    "artist_ids": [
+      "6AcOTCYBMvjKYy4zms0kaC"
+    ],
+    "disc_number": 1,
+    "duration_ms": 184173,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USUG10911693"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0lQw1AoV5ZUAatpZN0Lrl5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0lQw1AoV5ZUAatpZN0Lrl5",
+    "id": "0lQw1AoV5ZUAatpZN0Lrl5",
+    "is_local": false,
+    "name": "Me Gusta Todo De Ti",
+    "popularity": 63,
+    "preview_url": "https://p.scdn.co/mp3-preview/2a97dac211df60461cfe96a204b1766c33b76008?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:0lQw1AoV5ZUAatpZN0Lrl5"
   },
   {
     "album_id": "1OTn92IHyxaGHnPaU8Kae2",
@@ -5422,6 +5470,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:1EVgscJwT1ZSArASXTrKet"
+  },
+  {
+    "album_id": "6YeSYcQwO0BYw0bABVuGKW",
+    "artist_ids": [
+      "6AcOTCYBMvjKYy4zms0kaC"
+    ],
+    "disc_number": 1,
+    "duration_ms": 207000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USUG11101143"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1F6BAyY4iIzHiZCnUIZDbn",
+    "id": "1F6BAyY4iIzHiZCnUIZDbn",
+    "is_local": false,
+    "name": "La Mejor De Todas",
+    "popularity": 71,
+    "preview_url": "https://p.scdn.co/mp3-preview/bf228f6c50b4c35f47115a3331bbcf039ca63580?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1F6BAyY4iIzHiZCnUIZDbn"
   },
   {
     "album_id": "4MxNeJF6vFFSkGxHYsNymn",
@@ -9214,6 +9286,30 @@
     "track_number": 12,
     "type": "track",
     "uri": "spotify:track:20jc0s5MbdbuhP8dZFAHgc"
+  },
+  {
+    "album_id": "186e8uXfR8a0ysIMIsbIZe",
+    "artist_ids": [
+      "6AcOTCYBMvjKYy4zms0kaC"
+    ],
+    "disc_number": 1,
+    "duration_ms": 191666,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USFI29901002"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/21Pr1VcMqYrK2VOIWqzkNk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/21Pr1VcMqYrK2VOIWqzkNk",
+    "id": "21Pr1VcMqYrK2VOIWqzkNk",
+    "is_local": false,
+    "name": "Yo Sé Que Te Acordarás",
+    "popularity": 65,
+    "preview_url": "https://p.scdn.co/mp3-preview/fbfa11caeb1c9ff66d4745cb72c7f57553049f60?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:21Pr1VcMqYrK2VOIWqzkNk"
   },
   {
     "album_id": "4KIYSo2O5ZqH03VeHXsWNX",
@@ -16608,6 +16704,30 @@
     "uri": "spotify:track:3YoCvRk34DhZwBpmoY7sGs"
   },
   {
+    "album_id": "4Tl5QOkNgX6INDWg6mMfZB",
+    "artist_ids": [
+      "6AcOTCYBMvjKYy4zms0kaC"
+    ],
+    "disc_number": 1,
+    "duration_ms": 137173,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMDNX1510146"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3YrTZUat5cgeVhrxEZvG1d",
+    "id": "3YrTZUat5cgeVhrxEZvG1d",
+    "is_local": false,
+    "name": "Mi Vicio Más Grande",
+    "popularity": 63,
+    "preview_url": "https://p.scdn.co/mp3-preview/3366fa86c408e33b37518399f2acf3eeb2d0b777?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3YrTZUat5cgeVhrxEZvG1d"
+  },
+  {
     "album_id": "7AHtc6OAl2sjWBoM9e4izf",
     "artist_ids": [
       "7BQJLHBNVvz4O2JHmls4Ef"
@@ -21360,6 +21480,30 @@
     "uri": "spotify:track:4lY4nKCgA94ieriT6pZ4Ol"
   },
   {
+    "album_id": "1JXX5Z7nbAS2P2t8fH7S73",
+    "artist_ids": [
+      "6AcOTCYBMvjKYy4zms0kaC"
+    ],
+    "disc_number": 1,
+    "duration_ms": 178013,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZGLS1908645"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4m5hcZXjgM3iL1tWNCWaer"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4m5hcZXjgM3iL1tWNCWaer",
+    "id": "4m5hcZXjgM3iL1tWNCWaer",
+    "is_local": false,
+    "name": "Clave Privada",
+    "popularity": 64,
+    "preview_url": "https://p.scdn.co/mp3-preview/55e0a88e463782c5445253fdd96f0242cf630a6d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4m5hcZXjgM3iL1tWNCWaer"
+  },
+  {
     "album_id": "4lgrPArcFGHMKgqxmTeSMA",
     "artist_ids": [
       "3AgxRYe2kXEfsZyB07hqJF"
@@ -22462,6 +22606,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:4zEXOA8kPTwxb4AaL1WHWE"
+  },
+  {
+    "album_id": "6YfMNFnsU5lhm1T3Tt9vB9",
+    "artist_ids": [
+      "6AcOTCYBMvjKYy4zms0kaC"
+    ],
+    "disc_number": 1,
+    "duration_ms": 129560,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZGLS1908268"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4zLVaH8HnWApTsEwCBRYxM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4zLVaH8HnWApTsEwCBRYxM",
+    "id": "4zLVaH8HnWApTsEwCBRYxM",
+    "is_local": false,
+    "name": "Por una Mujer Casada",
+    "popularity": 64,
+    "preview_url": "https://p.scdn.co/mp3-preview/6155fc5ed6a2e5440a380cdf571e05792a08b34e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:4zLVaH8HnWApTsEwCBRYxM"
   },
   {
     "album_id": "17aGPzpgZyUu3VtSiErXNr",
