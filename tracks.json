@@ -8544,6 +8544,30 @@
     "uri": "spotify:track:1oTr4QvEtyXhurMb58EUG1"
   },
   {
+    "album_id": "6nHukDTFU4XLZs9F3YR5KM",
+    "artist_ids": [
+      "7MyUjj79oHy7I8RocrtzZ2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 148266,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF169600165"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1oyFVrHU6I2vRUSR1VVDKL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1oyFVrHU6I2vRUSR1VVDKL",
+    "id": "1oyFVrHU6I2vRUSR1VVDKL",
+    "is_local": false,
+    "name": "Chiquita bonita",
+    "popularity": 60,
+    "preview_url": "https://p.scdn.co/mp3-preview/760d842d4d4bd748c99d6350d8d010f4529aeddb?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:1oyFVrHU6I2vRUSR1VVDKL"
+  },
+  {
     "album_id": "176ocuyDghIgtnqlRHl7lR",
     "artist_ids": [
       "6viZnVSHavFUcW0blu6Mvw"
@@ -10150,6 +10174,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:2D4ob984oSxjN06fEQdQY7"
+  },
+  {
+    "album_id": "0W25izQQWhI54q5Dvs2PkO",
+    "artist_ids": [
+      "7MyUjj79oHy7I8RocrtzZ2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 169386,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF169200006"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2EiI77Zus1qAINPOxFTcyK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2EiI77Zus1qAINPOxFTcyK",
+    "id": "2EiI77Zus1qAINPOxFTcyK",
+    "is_local": false,
+    "name": "Un indio quiere llorar",
+    "popularity": 56,
+    "preview_url": "https://p.scdn.co/mp3-preview/30f01c21d4c78134027fb398593359f793020526?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:2EiI77Zus1qAINPOxFTcyK"
   },
   {
     "album_id": "42EHvFRsQtspIer2baInn7",
@@ -17976,6 +18024,30 @@
     "uri": "spotify:track:3qfPyQHjR0UShH7cBEfmTa"
   },
   {
+    "album_id": "5nUqvx6cvJkT78iAqnU6dY",
+    "artist_ids": [
+      "7MyUjj79oHy7I8RocrtzZ2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 162800,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF169200017"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3qtsVB90KMoccHtSCbAHOE",
+    "id": "3qtsVB90KMoccHtSCbAHOE",
+    "is_local": false,
+    "name": "Al gato y al ratón",
+    "popularity": 61,
+    "preview_url": "https://p.scdn.co/mp3-preview/bf4c3857b1cb0fc24815dedfc62fd7b3c47c1c1d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:3qtsVB90KMoccHtSCbAHOE"
+  },
+  {
     "album_id": "0f5Bxz0icXVD2B4BldVU0z",
     "artist_ids": [
       "51yyeVxyvecgePAWXmeLUE"
@@ -23998,6 +24070,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:5F37FuiLSSah3vW8Pr5sQD"
+  },
+  {
+    "album_id": "4bJgYukI8yFOsia5HXeS30",
+    "artist_ids": [
+      "7MyUjj79oHy7I8RocrtzZ2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 207920,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF169300021"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5FFtF4qfE1fHDDp5EMe7Et"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5FFtF4qfE1fHDDp5EMe7Et",
+    "id": "5FFtF4qfE1fHDDp5EMe7Et",
+    "is_local": false,
+    "name": "Mi luna, mi estrella",
+    "popularity": 65,
+    "preview_url": "https://p.scdn.co/mp3-preview/375b1b38a44efa154f01f602d37cd2e1dc475985?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:5FFtF4qfE1fHDDp5EMe7Et"
   },
   {
     "album_id": "0SJjqErbyJDc46YKzV4ein",
