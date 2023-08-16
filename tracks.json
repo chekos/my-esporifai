@@ -432,6 +432,30 @@
     "uri": "spotify:track:04iNeBioZRornBNjEuMMBv"
   },
   {
+    "album_id": "2cdTv8RPfACSNe4LdCwvZC",
+    "artist_ids": [
+      "0wkxgIUSVvrpkfE5B3i3eV"
+    ],
+    "disc_number": 1,
+    "duration_ms": 65791,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62320759"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/04m41owgPWQefBJf9WxZ0x"
+    },
+    "href": "https://api.spotify.com/v1/tracks/04m41owgPWQefBJf9WxZ0x",
+    "id": "04m41owgPWQefBJf9WxZ0x",
+    "is_local": false,
+    "name": "IAIA",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/359d4756c814c585ae935db0c26107d08b6f577d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:04m41owgPWQefBJf9WxZ0x"
+  },
+  {
     "album_id": "4cM23aZSWB8PP6LtYRNXrs",
     "artist_ids": [
       "1gPiNBRjOB9XochAAFR3iM"
@@ -2544,6 +2568,30 @@
     "uri": "spotify:track:0Y5aFVwBrhIxljBtRXgCBN"
   },
   {
+    "album_id": "6ZvT8iE0JiuguDiohKhcEF",
+    "artist_ids": [
+      "7MyUjj79oHy7I8RocrtzZ2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 198800,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF160204830"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0YIyyTbaIM0MYrfOLhvlrI",
+    "id": "0YIyyTbaIM0MYrfOLhvlrI",
+    "is_local": false,
+    "name": "La suegra",
+    "popularity": 52,
+    "preview_url": "https://p.scdn.co/mp3-preview/326a6ce67145df5a619ec1fdd6680141f93b25a8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:0YIyyTbaIM0MYrfOLhvlrI"
+  },
+  {
     "album_id": "4rWp7VCQYbvq9PxkcUD8TR",
     "artist_ids": [
       "4QFG9KrGWEbr6hNA58CAqE"
@@ -3550,6 +3598,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:0ll9JAIrM3NVBOMl45sxSX"
+  },
+  {
+    "album_id": "5IB8MY1KDGEy86lDkEmCPD",
+    "artist_ids": [
+      "7MyUjj79oHy7I8RocrtzZ2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 197426,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF169700089"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0mKKoYIkWf9BeAWNV8OQoP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0mKKoYIkWf9BeAWNV8OQoP",
+    "id": "0mKKoYIkWf9BeAWNV8OQoP",
+    "is_local": false,
+    "name": "Tres minutos",
+    "popularity": 54,
+    "preview_url": "https://p.scdn.co/mp3-preview/68a19bb04fab8a802dde25d35b9f0a7934ad71a0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:0mKKoYIkWf9BeAWNV8OQoP"
   },
   {
     "album_id": "4lgrPArcFGHMKgqxmTeSMA",
@@ -9593,7 +9665,7 @@
     "id": "24hke0P7QZEb62QC4XzG9y",
     "is_local": false,
     "name": "Leña de pirul",
-    "popularity": 57,
+    "popularity": 58,
     "preview_url": "https://p.scdn.co/mp3-preview/e2e70ec957b70b8a593b7e1cf1c9ecba4a9e83ab?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
     "track_number": 2,
     "type": "track",
@@ -12360,6 +12432,30 @@
     "uri": "spotify:track:2cVoGmkncZmNXK5WL8H17N"
   },
   {
+    "album_id": "2cdTv8RPfACSNe4LdCwvZC",
+    "artist_ids": [
+      "0wkxgIUSVvrpkfE5B3i3eV"
+    ],
+    "disc_number": 1,
+    "duration_ms": 128455,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62320760"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2cm10yj0ysthPPzfawwyVG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2cm10yj0ysthPPzfawwyVG",
+    "id": "2cm10yj0ysthPPzfawwyVG",
+    "is_local": false,
+    "name": "Romanescos",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/e9727ea27eaaaa47b03fbc18b6ddb6dd1e2669f8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:2cm10yj0ysthPPzfawwyVG"
+  },
+  {
     "album_id": "07w0rG5TETcyihsEIZR3qG",
     "artist_ids": [
       "7tYKF4w9nC0nq9CsPZTHyP"
@@ -12790,6 +12886,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:2lj7jB5D4OuurRaynHAW8y"
+  },
+  {
+    "album_id": "1Us6yo0j7GBlAhsWuMnb9e",
+    "artist_ids": [
+      "3p3jPcp8b7WL9XYj4xlsWj"
+    ],
+    "disc_number": 1,
+    "duration_ms": 167224,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "TCAHH2368183"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2m0mg2ImTyR4bKV5oW2x57",
+    "id": "2m0mg2ImTyR4bKV5oW2x57",
+    "is_local": false,
+    "name": "3x4",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/3915df2b21c6b9696ad84dc78ba47fbd185c6128?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2m0mg2ImTyR4bKV5oW2x57"
   },
   {
     "album_id": "0f5Bxz0icXVD2B4BldVU0z",
@@ -14688,6 +14808,30 @@
     "uri": "spotify:track:3BjzQNvRZf8gZb3MtUTBwN"
   },
   {
+    "album_id": "5nUqvx6cvJkT78iAqnU6dY",
+    "artist_ids": [
+      "7MyUjj79oHy7I8RocrtzZ2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 183626,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF169200019"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3C818S8QbfRJDUC4xt6jSM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3C818S8QbfRJDUC4xt6jSM",
+    "id": "3C818S8QbfRJDUC4xt6jSM",
+    "is_local": false,
+    "name": "Sangre de indio",
+    "popularity": 56,
+    "preview_url": "https://p.scdn.co/mp3-preview/0063c30e121d8c95b6ef5f77c969c57e228f9d96?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:3C818S8QbfRJDUC4xt6jSM"
+  },
+  {
     "album_id": "51yJSY6U0Bl7rrQDekZvjF",
     "artist_ids": [
       "1oH2B8tcHn4Gpl2bmmyd4A"
@@ -16030,6 +16174,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3PvE0frfXEPQj8gE0zu0DJ"
+  },
+  {
+    "album_id": "1rOawSf0a7ArflNIvebvMr",
+    "artist_ids": [
+      "7MyUjj79oHy7I8RocrtzZ2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 179560,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF169400037"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3Q97r3eLlF1qqjWHgUaYYr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3Q97r3eLlF1qqjWHgUaYYr",
+    "id": "3Q97r3eLlF1qqjWHgUaYYr",
+    "is_local": false,
+    "name": "Las habas",
+    "popularity": 52,
+    "preview_url": "https://p.scdn.co/mp3-preview/e65072551b4287b4983da5110fe5efd337f63c20?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3Q97r3eLlF1qqjWHgUaYYr"
   },
   {
     "album_id": "2kGTwHezbLOPc7wK5YLVL7",
@@ -17782,6 +17950,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:3nWqckFirZhRZvC29RlpVg"
+  },
+  {
+    "album_id": "6AO0JgrAWIRkLGtkPeJ1vv",
+    "artist_ids": [
+      "7MyUjj79oHy7I8RocrtzZ2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 185146,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF169200008"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3ndJWgaFnw92IeICfSlTrP",
+    "id": "3ndJWgaFnw92IeICfSlTrP",
+    "is_local": false,
+    "name": "No soy monedita de oro",
+    "popularity": 53,
+    "preview_url": "https://p.scdn.co/mp3-preview/f627065f1d89de1f48f8bb4430f1acacf4256574?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3ndJWgaFnw92IeICfSlTrP"
   },
   {
     "album_id": "3lsdB3dY4odywNI42KV6D9",
@@ -21864,6 +22056,30 @@
     "uri": "spotify:track:4oYrcsoNCmgKvj3R60IcoG"
   },
   {
+    "album_id": "2cdTv8RPfACSNe4LdCwvZC",
+    "artist_ids": [
+      "0wkxgIUSVvrpkfE5B3i3eV"
+    ],
+    "disc_number": 1,
+    "duration_ms": 239393,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62320761"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4ob3jOLdq6b752DaRRa0ah"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ob3jOLdq6b752DaRRa0ah",
+    "id": "4ob3jOLdq6b752DaRRa0ah",
+    "is_local": false,
+    "name": "Popeye",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/0443daa7d1a9043e52e8ca66d767912dadb4cd16?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:4ob3jOLdq6b752DaRRa0ah"
+  },
+  {
     "album_id": "6Tc96iCBEenk1yPyNgBaBg",
     "artist_ids": [
       "30CTTIqrcr82nS6B40j975"
@@ -25872,6 +26088,30 @@
     "uri": "spotify:track:5c0kqSFfs9j6l5hPsazjAc"
   },
   {
+    "album_id": "4bJgYukI8yFOsia5HXeS30",
+    "artist_ids": [
+      "7MyUjj79oHy7I8RocrtzZ2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 195920,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF169300023"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5c1AEnRTAlLDTvDb6rNlak",
+    "id": "5c1AEnRTAlLDTvDb6rNlak",
+    "is_local": false,
+    "name": "Las Nachas",
+    "popularity": 55,
+    "preview_url": "https://p.scdn.co/mp3-preview/a2ccca4d23f255a88e7009941c9b3fcfa8228b67?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:5c1AEnRTAlLDTvDb6rNlak"
+  },
+  {
     "album_id": "7I1mThh5NCgS2BqrAWcMdi",
     "artist_ids": [
       "31l8FA2bO5qxpqf8uhV5eZ"
@@ -26470,6 +26710,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:5kVZxyMY1gfdCLiChsfjn1"
+  },
+  {
+    "album_id": "1rOawSf0a7ArflNIvebvMr",
+    "artist_ids": [
+      "7MyUjj79oHy7I8RocrtzZ2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 160133,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF169400043"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5lSl7vLwMnC6uHFzkFLptI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5lSl7vLwMnC6uHFzkFLptI",
+    "id": "5lSl7vLwMnC6uHFzkFLptI",
+    "is_local": false,
+    "name": "La más bonita de todas",
+    "popularity": 55,
+    "preview_url": "https://p.scdn.co/mp3-preview/257545aaef4eea30164ffa94c1e3a8a11d9b9023?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:5lSl7vLwMnC6uHFzkFLptI"
   },
   {
     "album_id": "6gCNEc8cMwuTzba9Fz6fiq",
@@ -29712,6 +29976,30 @@
     "uri": "spotify:track:6bJRwnylF1anxhi9qb7kMC"
   },
   {
+    "album_id": "641IjGwd385qV3RVouieUv",
+    "artist_ids": [
+      "7MyUjj79oHy7I8RocrtzZ2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 188693,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF160600270"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6bJlR3XVNgAOIkKdiKkZz4",
+    "id": "6bJlR3XVNgAOIkKdiKkZz4",
+    "is_local": false,
+    "name": "La culebra",
+    "popularity": 59,
+    "preview_url": "https://p.scdn.co/mp3-preview/7c8a898803c6067e856d6d1f2c8ad0ee269e63a9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6bJlR3XVNgAOIkKdiKkZz4"
+  },
+  {
     "album_id": "6uPlWDJJG2365OisTzLhWF",
     "artist_ids": [
       "48G4FvpaGSQAb2ZxhUc2Hv"
@@ -30550,6 +30838,30 @@
     "track_number": 11,
     "type": "track",
     "uri": "spotify:track:6qBYHKN99lH5cZBHbfju1q"
+  },
+  {
+    "album_id": "2cdTv8RPfACSNe4LdCwvZC",
+    "artist_ids": [
+      "0wkxgIUSVvrpkfE5B3i3eV"
+    ],
+    "disc_number": 1,
+    "duration_ms": 126357,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62320758"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6qVp05kmbj2z8aOKVQIqEO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6qVp05kmbj2z8aOKVQIqEO",
+    "id": "6qVp05kmbj2z8aOKVQIqEO",
+    "is_local": false,
+    "name": "El Neo",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/1a23e538dd03550e9f41033a3ac83b00c8c93169?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6qVp05kmbj2z8aOKVQIqEO"
   },
   {
     "album_id": "0kEbpz72YPwYhTc5Orx70F",

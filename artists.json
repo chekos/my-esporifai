@@ -661,6 +661,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0wkxgIUSVvrpkfE5B3i3eV"
+    },
+    "href": "https://api.spotify.com/v1/artists/0wkxgIUSVvrpkfE5B3i3eV",
+    "id": "0wkxgIUSVvrpkfE5B3i3eV",
+    "name": "DRZUPREEME",
+    "type": "artist",
+    "uri": "spotify:artist:0wkxgIUSVvrpkfE5B3i3eV"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
     },
     "href": "https://api.spotify.com/v1/artists/0x2z4hugJaiGdTP0lzhxvO",
