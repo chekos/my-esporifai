@@ -4656,6 +4656,30 @@
     "uri": "spotify:track:12LTGB9jiis5tgfozaCSK1"
   },
   {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 242653,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312404"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/12jKCSHP1thuWUjeiVIOkf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/12jKCSHP1thuWUjeiVIOkf",
+    "id": "12jKCSHP1thuWUjeiVIOkf",
+    "is_local": false,
+    "name": "Swimming in Cash",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/32062126f62e9418222013a2b99fcd1dd885b8d9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:12jKCSHP1thuWUjeiVIOkf"
+  },
+  {
     "album_id": "6DBSL2wSLwqvbpBsgSyBKF",
     "artist_ids": [
       "66RfYVdftqnuHRicyClgL0"
@@ -7080,6 +7104,30 @@
     "uri": "spotify:track:1W1UQzSSjURmIX8r5XxXhW"
   },
   {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 169227,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312395"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1W3yr078wdnUI1oMML5DFp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1W3yr078wdnUI1oMML5DFp",
+    "id": "1W3yr078wdnUI1oMML5DFp",
+    "is_local": false,
+    "name": "Blessed",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/d3fdbdcf4110f9db188dfd748dcf178cc7052d0d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:1W3yr078wdnUI1oMML5DFp"
+  },
+  {
     "album_id": "0f5Bxz0icXVD2B4BldVU0z",
     "artist_ids": [
       "51yyeVxyvecgePAWXmeLUE"
@@ -7126,6 +7174,30 @@
     "track_number": 11,
     "type": "track",
     "uri": "spotify:track:1WMsHc4ijazzuc4c4Fmjai"
+  },
+  {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 200285,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312403"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1WNBIyPdMyJyyt2SM0u7ei"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1WNBIyPdMyJyyt2SM0u7ei",
+    "id": "1WNBIyPdMyJyyt2SM0u7ei",
+    "is_local": false,
+    "name": "Ya no",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/ffcdf8f4ff3112da4c0bf105c49dfcd3114db99a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:1WNBIyPdMyJyyt2SM0u7ei"
   },
   {
     "album_id": "0kVxx8Q2lvS9lurAvysbJv",
@@ -8374,6 +8446,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:1mfcbXmjuLtf4MnSdNBJTZ"
+  },
+  {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 167484,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312399"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1nIFkaYnztQ0Otnhb4KNNq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1nIFkaYnztQ0Otnhb4KNNq",
+    "id": "1nIFkaYnztQ0Otnhb4KNNq",
+    "is_local": false,
+    "name": "100% Establecido",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/1644a628a6cc79095f9df013317ea6f207369ebf?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:1nIFkaYnztQ0Otnhb4KNNq"
   },
   {
     "album_id": "02r5GQTeyId72iagm3Gxm1",
@@ -12766,6 +12862,30 @@
     "track_number": 23,
     "type": "track",
     "uri": "spotify:track:2i1qzhWQz68VwRUokaXCbC"
+  },
+  {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 193466,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312402"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2ipROOnYcXFPMcSuGZnrRk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2ipROOnYcXFPMcSuGZnrRk",
+    "id": "2ipROOnYcXFPMcSuGZnrRk",
+    "is_local": false,
+    "name": "Crema",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/953dadbae649bc77f0c6610ee419e25d128d587c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:2ipROOnYcXFPMcSuGZnrRk"
   },
   {
     "album_id": "68MBg9nXOdCbLD8ebxQWfw",
@@ -17640,6 +17760,30 @@
     "uri": "spotify:track:3gub6mUQ7cvolCrEYZE8Pr"
   },
   {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 69155,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMDA62312397"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3hsmSQZdn5ITCdMZer9MoZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3hsmSQZdn5ITCdMZer9MoZ",
+    "id": "3hsmSQZdn5ITCdMZer9MoZ",
+    "is_local": false,
+    "name": "CALIDAD",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/b2d2e6c3b2bbca0f2a199de7c1730391d2e8cedb?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:3hsmSQZdn5ITCdMZer9MoZ"
+  },
+  {
     "album_id": "4XssST6ZjeUKutADRKOQHX",
     "artist_ids": [
       "231yQfVjg9sGhTNsaym9ck"
@@ -18600,6 +18744,30 @@
     "uri": "spotify:track:3ttaDFZe3FjhxZAWNux7cr"
   },
   {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 154429,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312396"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3u1kzGZvKIXrXLdOCmjMQC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3u1kzGZvKIXrXLdOCmjMQC",
+    "id": "3u1kzGZvKIXrXLdOCmjMQC",
+    "is_local": false,
+    "name": "Hasta Galápagos",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/9750246f4f25291e223f52d502747d9a52787989?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:3u1kzGZvKIXrXLdOCmjMQC"
+  },
+  {
     "album_id": "3QVjpIxcksDkJmOnvlOJjg",
     "artist_ids": [
       "6U3ybJ9UHNKEdsH7ktGBZ7"
@@ -19150,6 +19318,30 @@
     "track_number": 9,
     "type": "track",
     "uri": "spotify:track:41xUxmveSZGzWBIbinRapn"
+  },
+  {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 213134,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312401"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/42HcEeL1pumhrTRF62ssz8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/42HcEeL1pumhrTRF62ssz8",
+    "id": "42HcEeL1pumhrTRF62ssz8",
+    "is_local": false,
+    "name": "Maradona",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/0675e9fa2025b02dc39cf251887877e4dc5d79a4?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:42HcEeL1pumhrTRF62ssz8"
   },
   {
     "album_id": "7kXMF180yIJXGqcj8GBEta",
@@ -23736,6 +23928,30 @@
     "uri": "spotify:track:57gmZsN7hGqEsR7x65OtYg"
   },
   {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 89378,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312392"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/57pTQCE4MjxPJ5rYsLrjsO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/57pTQCE4MjxPJ5rYsLrjsO",
+    "id": "57pTQCE4MjxPJ5rYsLrjsO",
+    "is_local": false,
+    "name": "Tercera llamada (Intro)",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/77bd03fb9015727ba679072b5131c36fcbb36ffb?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:57pTQCE4MjxPJ5rYsLrjsO"
+  },
+  {
     "album_id": "48xXX0Q141vKS9UcLu9mWW",
     "artist_ids": [
       "1jVhcHIGJuk16eqY1Mdtuk"
@@ -28224,6 +28440,30 @@
     "uri": "spotify:track:67MCST2lFdgJub78hM6CEL"
   },
   {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 46538,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMDA62312400"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/67YYOqjGhEsnPYQFasSrKP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/67YYOqjGhEsnPYQFasSrKP",
+    "id": "67YYOqjGhEsnPYQFasSrKP",
+    "is_local": false,
+    "name": "MADUREZ",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/dfbd61b8ece1700d6b4e76c3101c4a4db82cd6a8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:67YYOqjGhEsnPYQFasSrKP"
+  },
+  {
     "album_id": "5mFWSvCmBqQX8xPsa9tena",
     "artist_ids": [
       "1gPiNBRjOB9XochAAFR3iM"
@@ -29542,6 +29782,30 @@
     "track_number": 9,
     "type": "track",
     "uri": "spotify:track:6VVvzNsWQd62FIQyc4zBSR"
+  },
+  {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 166708,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312394"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6Vtf1lKeDHjYoUzj53wQFk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6Vtf1lKeDHjYoUzj53wQFk",
+    "id": "6Vtf1lKeDHjYoUzj53wQFk",
+    "is_local": false,
+    "name": "Erick Sermón",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/292844d7893ab37633deb55eb3878caad3f715a5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:6Vtf1lKeDHjYoUzj53wQFk"
   },
   {
     "album_id": "5R2bsGeajuP28AxX1eSMaj",
@@ -33048,6 +33312,30 @@
     "uri": "spotify:track:7Lkxvfl2rkNYWS4kBDCQtN"
   },
   {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 212940,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312393"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7M4CONqqFnswe7hg1Lini4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7M4CONqqFnswe7hg1Lini4",
+    "id": "7M4CONqqFnswe7hg1Lini4",
+    "is_local": false,
+    "name": "Haciéndolo Fino",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/0b86957a9de4c4402b35ff8789ddbdd17ae6e0af?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:7M4CONqqFnswe7hg1Lini4"
+  },
+  {
     "album_id": "3N75FDQHhGFqy9UaiScDx8",
     "artist_ids": [
       "3I9HLZlzyUKjLSOkGhPh4x"
@@ -33742,6 +34030,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7jK6pdxqB3LT9SSxEklpHI"
+  },
+  {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 181000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312398"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7jPJoSeOr2SBAK7cMvJzDv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7jPJoSeOr2SBAK7cMvJzDv",
+    "id": "7jPJoSeOr2SBAK7cMvJzDv",
+    "is_local": false,
+    "name": "Más que a la calle",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/6a96b6bc552e39a8db7d79f2308c8ec1fd3f00bf?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:7jPJoSeOr2SBAK7cMvJzDv"
   },
   {
     "album_id": "0dYiy3lV8InRzTTStmFtuq",
