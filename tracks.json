@@ -984,6 +984,30 @@
     "uri": "spotify:track:0D41fVPqGcBIy7HXvwMGw4"
   },
   {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 193489,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312405"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0D5lqne6p11Ng6wsd17zqg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0D5lqne6p11Ng6wsd17zqg",
+    "id": "0D5lqne6p11Ng6wsd17zqg",
+    "is_local": false,
+    "name": "Vino Tinto",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/4e75a4773ee4c8ac32b356b3dea7fb76a2e84312?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:0D5lqne6p11Ng6wsd17zqg"
+  },
+  {
     "album_id": "5bd7fllIZnL6fim47ptfw6",
     "artist_ids": [
       "3WyJImKjA4PH3EXWIWBokJ"
@@ -3960,6 +3984,30 @@
     "uri": "spotify:track:0pea3BxjCS9ggjub4zzz1P"
   },
   {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 248443,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312410"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0q27NxeFDiCsAoQ9Kyvlr9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0q27NxeFDiCsAoQ9Kyvlr9",
+    "id": "0q27NxeFDiCsAoQ9Kyvlr9",
+    "is_local": false,
+    "name": "El Sabor del Éxito (Outro)",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/339aec8ec38ca978854b00e5c35076caf11b6de8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:0q27NxeFDiCsAoQ9Kyvlr9"
+  },
+  {
     "album_id": "76290XdXVF9rPzGdNRWdCh",
     "artist_ids": [
       "7tYKF4w9nC0nq9CsPZTHyP"
@@ -4606,6 +4654,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:10dS1LyDC8hMXcITvSNFyU"
+  },
+  {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 143500,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312407"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/11OMknoQn3IHbL0ytQSqvR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/11OMknoQn3IHbL0ytQSqvR",
+    "id": "11OMknoQn3IHbL0ytQSqvR",
+    "is_local": false,
+    "name": "66love",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/eeb9434dded4dc574ffc4b9dd19990ae078e809e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:11OMknoQn3IHbL0ytQSqvR"
   },
   {
     "album_id": "5gA4AFEjzYhqv1OxixVOK6",
@@ -11086,6 +11158,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:2LIOX65LUz2yDCQ5G7vyPi"
+  },
+  {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 165915,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312406"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2M69fVx9hJVJahlAMLKfuM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2M69fVx9hJVJahlAMLKfuM",
+    "id": "2M69fVx9hJVJahlAMLKfuM",
+    "is_local": false,
+    "name": "Línea del Tiempo",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/51d8b4c75cab8e8e2c5ea3892fc59b616e1c4111?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:2M69fVx9hJVJahlAMLKfuM"
   },
   {
     "album_id": "6Md2vrD9ioekgr6GmzF5ce",
@@ -29640,6 +29736,30 @@
     "uri": "spotify:track:6TFD7lH9k8A8PC4CRns4IT"
   },
   {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 162711,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMDA62312409"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6TrgY0UfxAJOKzU2Duj3Ca"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6TrgY0UfxAJOKzU2Duj3Ca",
+    "id": "6TrgY0UfxAJOKzU2Duj3Ca",
+    "is_local": false,
+    "name": "ELEMENTOS",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/8cd86648709243a0d2eb2d5431097b7a79fe21ae?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:6TrgY0UfxAJOKzU2Duj3Ca"
+  },
+  {
     "album_id": "62We7kcnouERjNBAKo8wG1",
     "artist_ids": [
       "4Hzj6dfl1y5x5TzCSsvLB6"
@@ -32566,6 +32686,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7Cx1EFIk3QU9l5mrSwiuv5"
+  },
+  {
+    "album_id": "0DDsexe1qhQ2TQ43XztwMl",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 156686,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA62312408"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7D5dWb2OoOS81wohI1n2F6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7D5dWb2OoOS81wohI1n2F6",
+    "id": "7D5dWb2OoOS81wohI1n2F6",
+    "is_local": false,
+    "name": "Lucy",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/19e1266663d1346dace1d20c3f8a451121f5e032?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:7D5dWb2OoOS81wohI1n2F6"
   },
   {
     "album_id": "0aCm5rCKMjKD5t8m7H1WEk",
