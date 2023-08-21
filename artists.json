@@ -1641,6 +1641,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+    },
+    "href": "https://api.spotify.com/v1/artists/2MRBDr0crHWE5JwPceFncq",
+    "id": "2MRBDr0crHWE5JwPceFncq",
+    "name": "Juan Gabriel",
+    "type": "artist",
+    "uri": "spotify:artist:2MRBDr0crHWE5JwPceFncq"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
     },
     "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",

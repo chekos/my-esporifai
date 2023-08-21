@@ -3864,6 +3864,30 @@
     "uri": "spotify:track:0oDbtOEiSNV0zisG0sx8CV"
   },
   {
+    "album_id": "3aD9haBBLPf2BT5XbEs8tk",
+    "artist_ids": [
+      "2MRBDr0crHWE5JwPceFncq"
+    ],
+    "disc_number": 1,
+    "duration_ms": 217533,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXUM61400087"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0oOphPLAbxvdl3N8zjApVI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0oOphPLAbxvdl3N8zjApVI",
+    "id": "0oOphPLAbxvdl3N8zjApVI",
+    "is_local": false,
+    "name": "La Diferencia - En Vivo Desde Bellas Artes, México/ 2013",
+    "popularity": 32,
+    "preview_url": "https://p.scdn.co/mp3-preview/8e9451eaa7b936b286aaf2ff69cebfbf9b2a4d7c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:0oOphPLAbxvdl3N8zjApVI"
+  },
+  {
     "album_id": "1N6rskoD4qUyaRWe041OLQ",
     "artist_ids": [
       "3ScIigEm9KZUrUQtXzBmKJ"
@@ -14160,6 +14184,30 @@
     "uri": "spotify:track:2yvyvp3VItCHhMTEWYVh5K"
   },
   {
+    "album_id": "4hpY1ryuyFipmOovXGoT88",
+    "artist_ids": [
+      "2MRBDr0crHWE5JwPceFncq"
+    ],
+    "disc_number": 1,
+    "duration_ms": 422826,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF019000835"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2zCyBsKWjhguixhJSwWCrg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2zCyBsKWjhguixhJSwWCrg",
+    "id": "2zCyBsKWjhguixhJSwWCrg",
+    "is_local": false,
+    "name": "Amor Eterno - En Vivo [En el Palacio de Bellas Artes]",
+    "popularity": 37,
+    "preview_url": "https://p.scdn.co/mp3-preview/75d630b30e78a6fd535483b8db754bfb7cd4d956?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:2zCyBsKWjhguixhJSwWCrg"
+  },
+  {
     "album_id": "7zxW9wRNKndM4CUH9XeU1i",
     "artist_ids": [
       "4H3ePoFDdsl36QwB96jZzg"
@@ -20808,6 +20856,30 @@
     "uri": "spotify:track:4PrjdEeGMfjv6sp9VtCPfy"
   },
   {
+    "album_id": "1UDfUiqSqAZ4TFom6yzZ89",
+    "artist_ids": [
+      "1cUpGtXcSQsovNYEZOQgOG"
+    ],
+    "disc_number": 1,
+    "duration_ms": 221696,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZ5AB1816897"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4RrOSjdnV8rkpIuOIfkKYS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4RrOSjdnV8rkpIuOIfkKYS",
+    "id": "4RrOSjdnV8rkpIuOIfkKYS",
+    "is_local": false,
+    "name": "Sin Ti Estoy Bien",
+    "popularity": 64,
+    "preview_url": "https://p.scdn.co/mp3-preview/765f801743976b432c8712e2bc708008da7960d4?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4RrOSjdnV8rkpIuOIfkKYS"
+  },
+  {
     "album_id": "7fEd90zyiFjIr9UElw41iK",
     "artist_ids": [
       "1QhaqxeqF9sipS2gwbEKpu"
@@ -26278,6 +26350,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:5XNuvzeuzaMp1v8TCgt5Ic"
+  },
+  {
+    "album_id": "6iXZ3BjBZkcELgxks0ijaf",
+    "artist_ids": [
+      "1cUpGtXcSQsovNYEZOQgOG"
+    ],
+    "disc_number": 1,
+    "duration_ms": 224938,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "US7VG1741464"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5Xa7mPQbcb8sU7fReTdz1o"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5Xa7mPQbcb8sU7fReTdz1o",
+    "id": "5Xa7mPQbcb8sU7fReTdz1o",
+    "is_local": false,
+    "name": "Sólo Tu",
+    "popularity": 57,
+    "preview_url": "https://p.scdn.co/mp3-preview/1b6b673b270264a37e348b69677eb18638dce8ca?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5Xa7mPQbcb8sU7fReTdz1o"
   },
   {
     "album_id": "09WScwK7HlzuM0dXAdXaMy",
