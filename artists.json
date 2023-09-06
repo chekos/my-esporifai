@@ -1021,6 +1021,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+    },
+    "href": "https://api.spotify.com/v1/artists/1QJbbsxg2wqidJj51d3otw",
+    "id": "1QJbbsxg2wqidJj51d3otw",
+    "name": "Natos y Waor",
+    "type": "artist",
+    "uri": "spotify:artist:1QJbbsxg2wqidJj51d3otw"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
     },
     "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
@@ -1891,6 +1901,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+    },
+    "href": "https://api.spotify.com/v1/artists/2z3KntXLyEF5Lvz1kpdBoA",
+    "id": "2z3KntXLyEF5Lvz1kpdBoA",
+    "name": "Caloncho",
+    "type": "artist",
+    "uri": "spotify:artist:2z3KntXLyEF5Lvz1kpdBoA"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
     },
     "href": "https://api.spotify.com/v1/artists/30BSBWLKnYJION1lCPugXc",
@@ -2008,6 +2028,16 @@
     "name": "Yoga Fire",
     "type": "artist",
     "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+    },
+    "href": "https://api.spotify.com/v1/artists/3BAgmPNIK5IJl7zMK1wvMA",
+    "id": "3BAgmPNIK5IJl7zMK1wvMA",
+    "name": "That Mexican OT",
+    "type": "artist",
+    "uri": "spotify:artist:3BAgmPNIK5IJl7zMK1wvMA"
   },
   {
     "external_urls": {
@@ -3278,6 +3308,16 @@
     "name": "Los Herederos De Nonoava Chihuahua",
     "type": "artist",
     "uri": "spotify:artist:5MXYahhPr1eCiu7GvquaZi"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+    },
+    "href": "https://api.spotify.com/v1/artists/5OGraDcSkO4oTWthkm77WL",
+    "id": "5OGraDcSkO4oTWthkm77WL",
+    "name": "Tornillo",
+    "type": "artist",
+    "uri": "spotify:artist:5OGraDcSkO4oTWthkm77WL"
   },
   {
     "external_urls": {

@@ -1464,6 +1464,30 @@
     "uri": "spotify:track:0JMjveAeMOXkgTD1xogsmR"
   },
   {
+    "album_id": "6OgELu9sCBTURNGzdykl2v",
+    "artist_ids": [
+      "6eXHRfK9Ad3IpMpSAqvcDf"
+    ],
+    "disc_number": 1,
+    "duration_ms": 217913,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USL4R1929935"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0JUO8vzP1ggpnA3DODSiNC",
+    "id": "0JUO8vzP1ggpnA3DODSiNC",
+    "is_local": false,
+    "name": "Mi Camino",
+    "popularity": 51,
+    "preview_url": "https://p.scdn.co/mp3-preview/fcf1caa71c3b6c3e313dcd8863a1c2f299184b13?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0JUO8vzP1ggpnA3DODSiNC"
+  },
+  {
     "album_id": "74CA8KMf2pVVGl7FBxexQ1",
     "artist_ids": [
       "0OhiQFSqbnnmB52NWEpsO5"
@@ -2254,6 +2278,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0SmC50NltJPIxiEmXBt3ko"
+  },
+  {
+    "album_id": "2mzpFXzP8MMSCOp0YjpshS",
+    "artist_ids": [
+      "6eXHRfK9Ad3IpMpSAqvcDf"
+    ],
+    "disc_number": 1,
+    "duration_ms": 257846,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USANG2203030"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0T2SVUCPRmf2gUbGmgJXCT",
+    "id": "0T2SVUCPRmf2gUbGmgJXCT",
+    "is_local": false,
+    "name": "Ahogándome en Alcohol",
+    "popularity": 68,
+    "preview_url": "https://p.scdn.co/mp3-preview/33d14b0c628e56b8eef075935865eaf337b59b2d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0T2SVUCPRmf2gUbGmgJXCT"
   },
   {
     "album_id": "7cftuQ1mezvQCWSHtP7eA9",
@@ -3216,6 +3264,30 @@
     "uri": "spotify:track:0dAYFcm8UEWrlryy3ivfFn"
   },
   {
+    "album_id": "4djLVh799E7iDt4qyKG7Cr",
+    "artist_ids": [
+      "6eXHRfK9Ad3IpMpSAqvcDf"
+    ],
+    "disc_number": 1,
+    "duration_ms": 222066,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USL4Q1905951"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0dcVgVt6fPoJnZl52xUG4a",
+    "id": "0dcVgVt6fPoJnZl52xUG4a",
+    "is_local": false,
+    "name": "Volvió A Amanecer",
+    "popularity": 51,
+    "preview_url": "https://p.scdn.co/mp3-preview/9289df39763734da2aef8e6416a21381fbef11df?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0dcVgVt6fPoJnZl52xUG4a"
+  },
+  {
     "album_id": "48xXX0Q141vKS9UcLu9mWW",
     "artist_ids": [
       "1jVhcHIGJuk16eqY1Mdtuk"
@@ -3502,6 +3574,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:0j14D2Jp4i9zg9KKm9aSBk"
+  },
+  {
+    "album_id": "6UIzmCyfkz90JlYM9Xeenr",
+    "artist_ids": [
+      "6eXHRfK9Ad3IpMpSAqvcDf"
+    ],
+    "disc_number": 1,
+    "duration_ms": 195030,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USHM21900435"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0j9r3PY022HrFfOmQgGZvr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0j9r3PY022HrFfOmQgGZvr",
+    "id": "0j9r3PY022HrFfOmQgGZvr",
+    "is_local": false,
+    "name": "Diganle",
+    "popularity": 62,
+    "preview_url": "https://p.scdn.co/mp3-preview/0f62adc51477b76ec4439283290c351a580a9f04?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0j9r3PY022HrFfOmQgGZvr"
   },
   {
     "album_id": "2asPHwYLmWPVhS0VA6Uu6N",
@@ -4990,6 +5086,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:14XsITM4bSNPbkKDuf5bi1"
+  },
+  {
+    "album_id": "6SNEqAhkOIaXgEeQEhrA9b",
+    "artist_ids": [
+      "6eXHRfK9Ad3IpMpSAqvcDf"
+    ],
+    "disc_number": 1,
+    "duration_ms": 214471,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USANG2236730"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/14Z6lwzx8eYwEpkzel6ldV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/14Z6lwzx8eYwEpkzel6ldV",
+    "id": "14Z6lwzx8eYwEpkzel6ldV",
+    "is_local": false,
+    "name": "Ingrata",
+    "popularity": 53,
+    "preview_url": "https://p.scdn.co/mp3-preview/cf4993fd895a0689476088ef6388eba6c77cb0ca?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:14Z6lwzx8eYwEpkzel6ldV"
   },
   {
     "album_id": "5huUeSyl92U55yMr8WKvYv",
@@ -14520,6 +14640,30 @@
     "uri": "spotify:track:30l6fEFlxg4cqSkWr2T8Rf"
   },
   {
+    "album_id": "1tX0d5OqKOCkif6yja3TpK",
+    "artist_ids": [
+      "3BAgmPNIK5IJl7zMK1wvMA"
+    ],
+    "disc_number": 1,
+    "duration_ms": 144414,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUG12305296"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/31L6JkBku2Oq4D5IvuOvYv",
+    "id": "31L6JkBku2Oq4D5IvuOvYv",
+    "is_local": false,
+    "name": "Barrio (with Lefty Sm)",
+    "popularity": 68,
+    "preview_url": "https://p.scdn.co/mp3-preview/08faba515bb08900f30425db223dadb4ab40812c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:31L6JkBku2Oq4D5IvuOvYv"
+  },
+  {
     "album_id": "7dlzGElxjGae4YC49CsLcE",
     "artist_ids": [
       "4r1ZDYKzPt3iIjuq8LbT6X"
@@ -18478,6 +18622,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:3mWAooS46RKuQFG65iGJiq"
+  },
+  {
+    "album_id": "1xTcDLX3SnSY6rpqEeJlfT",
+    "artist_ids": [
+      "1QJbbsxg2wqidJj51d3otw"
+    ],
+    "disc_number": 1,
+    "duration_ms": 302104,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "BK4DA2306962"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3mh6bL6SJVg7T57IhKNZXA",
+    "id": "3mh6bL6SJVg7T57IhKNZXA",
+    "is_local": false,
+    "name": "CALIENTE",
+    "popularity": 54,
+    "preview_url": "https://p.scdn.co/mp3-preview/65e34afcf769621453fb667ec56a518065a0b8d4?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3mh6bL6SJVg7T57IhKNZXA"
   },
   {
     "album_id": "44639o1Qf6RXdpuYh7K5CE",
@@ -29424,6 +29592,30 @@
     "uri": "spotify:track:6AvBuucxeCrRJjxNVWKayz"
   },
   {
+    "album_id": "5YvOq1cAoJNiHkLLL2qgX9",
+    "artist_ids": [
+      "6eXHRfK9Ad3IpMpSAqvcDf"
+    ],
+    "disc_number": 1,
+    "duration_ms": 238000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USANG2177560"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6B8higk6pidzE5DQbBGOzy"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6B8higk6pidzE5DQbBGOzy",
+    "id": "6B8higk6pidzE5DQbBGOzy",
+    "is_local": false,
+    "name": "Encerrado En Mi Mundo",
+    "popularity": 60,
+    "preview_url": "https://p.scdn.co/mp3-preview/11acd9caeaa94d9f157be198dd545e5bed8fe089?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6B8higk6pidzE5DQbBGOzy"
+  },
+  {
     "album_id": "0f5Bxz0icXVD2B4BldVU0z",
     "artist_ids": [
       "51yyeVxyvecgePAWXmeLUE"
@@ -32928,6 +33120,30 @@
     "uri": "spotify:track:75qifOPkcKBXt5lqGiQLCI"
   },
   {
+    "album_id": "0yVFiCr3aRdihBIOCPouBo",
+    "artist_ids": [
+      "6eXHRfK9Ad3IpMpSAqvcDf"
+    ],
+    "disc_number": 1,
+    "duration_ms": 252923,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USANG2283955"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/75tNS9948mAaxl7uTAkj4k"
+    },
+    "href": "https://api.spotify.com/v1/tracks/75tNS9948mAaxl7uTAkj4k",
+    "id": "75tNS9948mAaxl7uTAkj4k",
+    "is_local": false,
+    "name": "Tocando Arena",
+    "popularity": 50,
+    "preview_url": "https://p.scdn.co/mp3-preview/44fd9e07852c96bbe5251b923f4806ad4f43116b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:75tNS9948mAaxl7uTAkj4k"
+  },
+  {
     "album_id": "42myA7rDKd1QWWMATQldju",
     "artist_ids": [
       "2Ch5zHsrWSpgq7g0WI2UFD"
@@ -34390,6 +34606,30 @@
     "track_number": 12,
     "type": "track",
     "uri": "spotify:track:7b3k8I1fncAzbk9PHnLkbX"
+  },
+  {
+    "album_id": "0evS315cwdXX3oCPw5lRD9",
+    "artist_ids": [
+      "6eXHRfK9Ad3IpMpSAqvcDf"
+    ],
+    "disc_number": 1,
+    "duration_ms": 194899,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USHM21955614"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7bNh1GMNO05HFyOiFqVqIw",
+    "id": "7bNh1GMNO05HFyOiFqVqIw",
+    "is_local": false,
+    "name": "Quien Te Viera",
+    "popularity": 52,
+    "preview_url": "https://p.scdn.co/mp3-preview/5abbdf289d189a3f1991867cac126cf77b1d7a34?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:7bNh1GMNO05HFyOiFqVqIw"
   },
   {
     "album_id": "4jox3ip1I39DFC2B7R5qLH",
