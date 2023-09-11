@@ -1511,6 +1511,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+    },
+    "href": "https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN",
+    "id": "2AM4ilv6UzW0uMRuqKtDgN",
+    "name": "ZZ Top",
+    "type": "artist",
+    "uri": "spotify:artist:2AM4ilv6UzW0uMRuqKtDgN"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2Aps4lMllN6Ka9nwm47pcc"
     },
     "href": "https://api.spotify.com/v1/artists/2Aps4lMllN6Ka9nwm47pcc",
