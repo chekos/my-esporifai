@@ -17040,6 +17040,30 @@
     "uri": "spotify:track:3QzndDL43WSML6WyFUa2nV"
   },
   {
+    "album_id": "4jox3ip1I39DFC2B7R5qLH",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 163551,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM7282306223"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3RA55zrRkyPK8Fd86hrMy8",
+    "id": "3RA55zrRkyPK8Fd86hrMy8",
+    "is_local": false,
+    "name": "LUNA",
+    "popularity": 87,
+    "preview_url": "https://p.scdn.co/mp3-preview/ff7a86459dc9618a01e604ce33decfb284ad1572?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3RA55zrRkyPK8Fd86hrMy8"
+  },
+  {
     "album_id": "0QyJUDZFKNVr8IAcJyGrA9",
     "artist_ids": [
       "67CKA8fRCdi0tt6q6IR0JG"
@@ -23926,6 +23950,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4ygQ5wSuzzNRevVjup1qV2"
+  },
+  {
+    "album_id": "4jox3ip1I39DFC2B7R5qLH",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 204253,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM4TX2394694"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4yjeRuoVickg1G87LWeRes"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4yjeRuoVickg1G87LWeRes",
+    "id": "4yjeRuoVickg1G87LWeRes",
+    "is_local": false,
+    "name": "ROSA PASTEL",
+    "popularity": 79,
+    "preview_url": "https://p.scdn.co/mp3-preview/fa3830037c80076b7c7e6b72bd64ffdd1b921608?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4yjeRuoVickg1G87LWeRes"
   },
   {
     "album_id": "01VepFuJgEdDQnvVEykhk6",
