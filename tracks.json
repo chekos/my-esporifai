@@ -3048,6 +3048,30 @@
     "uri": "spotify:track:0cKiRS0HSpICZ4ImeCwVX2"
   },
   {
+    "album_id": "4jox3ip1I39DFC2B7R5qLH",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 184066,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM4TW2315684"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0cNSq9T5l8gZnpY14rsTR2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0cNSq9T5l8gZnpY14rsTR2",
+    "id": "0cNSq9T5l8gZnpY14rsTR2",
+    "is_local": false,
+    "name": "PRC",
+    "popularity": 80,
+    "preview_url": "https://p.scdn.co/mp3-preview/04ebbfd99947c52464a0c31b25ccc02fcef69ae0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:0cNSq9T5l8gZnpY14rsTR2"
+  },
+  {
     "album_id": "2EexU9SdoDbgCGazUepCyL",
     "artist_ids": [
       "07PdYoE4jVRF6Ut40GgVSP"
@@ -3790,6 +3814,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0lZdS4QBRr7J9ej7skJlo7"
+  },
+  {
+    "album_id": "4jox3ip1I39DFC2B7R5qLH",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 155550,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM4TX2378801"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0lc2neV7ZzjZExwCIVG2B3"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0lc2neV7ZzjZExwCIVG2B3",
+    "id": "0lc2neV7ZzjZExwCIVG2B3",
+    "is_local": false,
+    "name": "LAS MORRAS",
+    "popularity": 78,
+    "preview_url": "https://p.scdn.co/mp3-preview/90f5751c630b51f6a1c07952117f6d007ba0d110?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0lc2neV7ZzjZExwCIVG2B3"
   },
   {
     "album_id": "1O5kJTerozuI2WLgzvIz2m",
@@ -9672,6 +9720,30 @@
     "uri": "spotify:track:1t10xRC1uSzIVpS9B52uhp"
   },
   {
+    "album_id": "4jox3ip1I39DFC2B7R5qLH",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 138559,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM7282306240"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1tGGJ4SRZnd2H0E2dV05iM",
+    "id": "1tGGJ4SRZnd2H0E2dV05iM",
+    "is_local": false,
+    "name": "SU CASA",
+    "popularity": 77,
+    "preview_url": "https://p.scdn.co/mp3-preview/084c7df0168f8e247bf83302eaad6ba9e8186c8a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:1tGGJ4SRZnd2H0E2dV05iM"
+  },
+  {
     "album_id": "4rJDCELWL0fjdmN9Gn4f4g",
     "artist_ids": [
       "6U3ybJ9UHNKEdsH7ktGBZ7"
@@ -13032,6 +13104,30 @@
     "uri": "spotify:track:2b1z1Z44zzakWfqTycS1rL"
   },
   {
+    "album_id": "4jox3ip1I39DFC2B7R5qLH",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 174522,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM7282306234"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2bXJMQZSJND3UYq5mjV4cB",
+    "id": "2bXJMQZSJND3UYq5mjV4cB",
+    "is_local": false,
+    "name": "CARNAL",
+    "popularity": 83,
+    "preview_url": "https://p.scdn.co/mp3-preview/c1c7b55cfcdec792fbc7a535f23486ed2e1552bb?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:2bXJMQZSJND3UYq5mjV4cB"
+  },
+  {
     "album_id": "1nqhr6N5KbIaUbsTXq5WCa",
     "artist_ids": [
       "1aw0Cdl1DIrtUrUA6fGbAR"
@@ -15646,6 +15742,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:3C818S8QbfRJDUC4xt6jSM"
+  },
+  {
+    "album_id": "4jox3ip1I39DFC2B7R5qLH",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 177652,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM7282306248"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3CEk3KwDixeCKOVPacup7L"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3CEk3KwDixeCKOVPacup7L",
+    "id": "3CEk3KwDixeCKOVPacup7L",
+    "is_local": false,
+    "name": "ZAPATA",
+    "popularity": 79,
+    "preview_url": "https://p.scdn.co/mp3-preview/88f15a23227344f4d6d3fd4a105a689f7e6c795d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:3CEk3KwDixeCKOVPacup7L"
   },
   {
     "album_id": "51yJSY6U0Bl7rrQDekZvjF",
@@ -21286,6 +21406,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4NQGoy6lYd2Nt2FpVFwVi3"
+  },
+  {
+    "album_id": "4jox3ip1I39DFC2B7R5qLH",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 190680,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM7282306253"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4Nf5EZ40JenjMUKXOiyRU5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Nf5EZ40JenjMUKXOiyRU5",
+    "id": "4Nf5EZ40JenjMUKXOiyRU5",
+    "is_local": false,
+    "name": "NUEVA VIDA",
+    "popularity": 84,
+    "preview_url": "https://p.scdn.co/mp3-preview/6e723f7ff3fd79e1fb2232575df3551b5161cfc8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:4Nf5EZ40JenjMUKXOiyRU5"
   },
   {
     "album_id": "0dYiy3lV8InRzTTStmFtuq",
@@ -33408,6 +33552,30 @@
     "uri": "spotify:track:76rWk0tINFLcnxTpy1LMAz"
   },
   {
+    "album_id": "4jox3ip1I39DFC2B7R5qLH",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 225480,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM7282306238"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/775hCSePn3GW4h9nZ636kq",
+    "id": "775hCSePn3GW4h9nZ636kq",
+    "is_local": false,
+    "name": "GAVILÁN II",
+    "popularity": 82,
+    "preview_url": "https://p.scdn.co/mp3-preview/c59a3fb81cf1e9d80e4d52a30a8fcf84e6697506?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:775hCSePn3GW4h9nZ636kq"
+  },
+  {
     "album_id": "7uIGxnb0Th4Av0R5oui7A0",
     "artist_ids": [
       "4VMYDCV2IEDYJArk749S6m"
@@ -35566,6 +35734,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7mCiIjv12nor4asT3GQu4m"
+  },
+  {
+    "album_id": "4jox3ip1I39DFC2B7R5qLH",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 212878,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM7282306246"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7mXuWTczZNxG5EDcjFEuJR",
+    "id": "7mXuWTczZNxG5EDcjFEuJR",
+    "is_local": false,
+    "name": "LADY GAGA",
+    "popularity": 94,
+    "preview_url": "https://p.scdn.co/mp3-preview/ec439edcef8f1b71e88cfeb7d200db274901123b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:7mXuWTczZNxG5EDcjFEuJR"
   },
   {
     "album_id": "3QVjpIxcksDkJmOnvlOJjg",
