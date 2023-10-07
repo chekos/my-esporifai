@@ -2971,6 +2971,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+    },
+    "href": "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+    "id": "4kYSro6naA4h99UJvo89HB",
+    "name": "Cardi B",
+    "type": "artist",
+    "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
     },
     "href": "https://api.spotify.com/v1/artists/4kcrrhbTk7KqY1KKeonwKA",

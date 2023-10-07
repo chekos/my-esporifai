@@ -3288,6 +3288,30 @@
     "uri": "spotify:track:0dAYFcm8UEWrlryy3ivfFn"
   },
   {
+    "album_id": "4KdtEKjY3Gi0mKiSdy96ML",
+    "artist_ids": [
+      "4kYSro6naA4h99UJvo89HB"
+    ],
+    "disc_number": 1,
+    "duration_ms": 224284,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USAT21705413"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0dIoGTQXDh1wVnhIiSyYEa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0dIoGTQXDh1wVnhIiSyYEa",
+    "id": "0dIoGTQXDh1wVnhIiSyYEa",
+    "is_local": false,
+    "name": "Bartier Cardi (feat. 21 Savage)",
+    "popularity": 64,
+    "preview_url": "https://p.scdn.co/mp3-preview/f255fa8aa876ef4177b431b56f4f4fc0c367e70e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:0dIoGTQXDh1wVnhIiSyYEa"
+  },
+  {
     "album_id": "4djLVh799E7iDt4qyKG7Cr",
     "artist_ids": [
       "6eXHRfK9Ad3IpMpSAqvcDf"
@@ -5374,6 +5398,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:16J6wH4Evm97ta1hDQIYQC"
+  },
+  {
+    "album_id": "3Y6MtcgsnEMEzIiHlkd1al",
+    "artist_ids": [
+      "6eXHRfK9Ad3IpMpSAqvcDf"
+    ],
+    "disc_number": 1,
+    "duration_ms": 244656,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM3DF2140696"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/16pevCru1tA6pwRsxGwUDu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/16pevCru1tA6pwRsxGwUDu",
+    "id": "16pevCru1tA6pwRsxGwUDu",
+    "is_local": false,
+    "name": "Agarré Monte",
+    "popularity": 40,
+    "preview_url": "https://p.scdn.co/mp3-preview/7d309cffcc6b1d1737602276b06fc7ddeafa5266?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:16pevCru1tA6pwRsxGwUDu"
   },
   {
     "album_id": "3BPgGdAnsLOcwBXMbM16PG",
