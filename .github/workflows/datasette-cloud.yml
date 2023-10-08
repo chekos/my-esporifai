@@ -1,4 +1,4 @@
-name: Fetch Federal Register documents
+name: Post records to Datasette Cloud
 
 on:
   # Push to repository

@@ -10,7 +10,6 @@ PRIMARY_KEYS = {
     "artists": "id",
     "history": "played_at",
     "streaming_history": "played_at",
-    "tracks_history": "played_at",
     "tracks": "id",
 }
 
@@ -70,6 +69,5 @@ if __name__ == "__main__":
         "artists.json",
         "history.json",
         "streaming_history.json",
-        "tracks_history.json",
     ]:
         save_records(filename, token)
