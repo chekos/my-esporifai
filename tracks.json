@@ -576,6 +576,30 @@
     "uri": "spotify:track:06IceO7e9isF3nX3y7dOTe"
   },
   {
+    "album_id": "58K0rZgSa0fpWIwMiXiJX6",
+    "artist_ids": [
+      "6tJRAxu0HwB2GI9GueEj4l"
+    ],
+    "disc_number": 1,
+    "duration_ms": 239500,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZTVM2329228"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/06exmTeJtumctfIF2xtOLL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/06exmTeJtumctfIF2xtOLL",
+    "id": "06exmTeJtumctfIF2xtOLL",
+    "is_local": false,
+    "name": "Lo Sé Bien",
+    "popularity": 48,
+    "preview_url": "https://p.scdn.co/mp3-preview/01820d17903bb0f5827b5c76712d0b657acb4fc2?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:06exmTeJtumctfIF2xtOLL"
+  },
+  {
     "album_id": "0f5Bxz0icXVD2B4BldVU0z",
     "artist_ids": [
       "51yyeVxyvecgePAWXmeLUE"
@@ -1102,6 +1126,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0DPXGGnOd50zxnvqS7Iw7s"
+  },
+  {
+    "album_id": "58K0rZgSa0fpWIwMiXiJX6",
+    "artist_ids": [
+      "6tJRAxu0HwB2GI9GueEj4l"
+    ],
+    "disc_number": 1,
+    "duration_ms": 218400,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZTVM2329224"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0DjW54cmQJalczA0WfAjra"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0DjW54cmQJalczA0WfAjra",
+    "id": "0DjW54cmQJalczA0WfAjra",
+    "is_local": false,
+    "name": "Por Ti",
+    "popularity": 47,
+    "preview_url": "https://p.scdn.co/mp3-preview/81cc0cc584f2e9c175a201cc490484288dc7bd47?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0DjW54cmQJalczA0WfAjra"
   },
   {
     "album_id": "5rTJ6pTQUCyIxxWKlWhvaz",
@@ -8616,6 +8664,30 @@
     "uri": "spotify:track:1f7NlHRRPXyy1XpIfG2P3N"
   },
   {
+    "album_id": "58K0rZgSa0fpWIwMiXiJX6",
+    "artist_ids": [
+      "6tJRAxu0HwB2GI9GueEj4l"
+    ],
+    "disc_number": 1,
+    "duration_ms": 197000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZTVM2329226"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1fCMH0KwR4aWpzTsJhX8CR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1fCMH0KwR4aWpzTsJhX8CR",
+    "id": "1fCMH0KwR4aWpzTsJhX8CR",
+    "is_local": false,
+    "name": "Porshe",
+    "popularity": 46,
+    "preview_url": "https://p.scdn.co/mp3-preview/03882cf11b0bfadb8e81b8c4af7d8101a3fc24ec?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:1fCMH0KwR4aWpzTsJhX8CR"
+  },
+  {
     "album_id": "26Y2EukOIUcgSt20c8jQPN",
     "artist_ids": [
       "0VZrPa7mWAYXH4CwmYk8Km"
@@ -9166,6 +9238,30 @@
     "track_number": 15,
     "type": "track",
     "uri": "spotify:track:1mSobnemK5oKm2NGczHZm5"
+  },
+  {
+    "album_id": "58K0rZgSa0fpWIwMiXiJX6",
+    "artist_ids": [
+      "6tJRAxu0HwB2GI9GueEj4l"
+    ],
+    "disc_number": 1,
+    "duration_ms": 196000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZTVM2329222"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1mZCWADOADnVrneELzVmfh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1mZCWADOADnVrneELzVmfh",
+    "id": "1mZCWADOADnVrneELzVmfh",
+    "is_local": false,
+    "name": "Carne y Hueso",
+    "popularity": 48,
+    "preview_url": "https://p.scdn.co/mp3-preview/77bd96607f754afdaa8a191d28b8d0284221f29e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1mZCWADOADnVrneELzVmfh"
   },
   {
     "album_id": "2asPHwYLmWPVhS0VA6Uu6N",
@@ -15600,6 +15696,30 @@
     "uri": "spotify:track:36i3GBIGaw0i1Gv6Kz6EPM"
   },
   {
+    "album_id": "58K0rZgSa0fpWIwMiXiJX6",
+    "artist_ids": [
+      "6tJRAxu0HwB2GI9GueEj4l"
+    ],
+    "disc_number": 1,
+    "duration_ms": 190600,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZTVM2329227"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/36tjIJBnkLqjPX76mt4bUP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/36tjIJBnkLqjPX76mt4bUP",
+    "id": "36tjIJBnkLqjPX76mt4bUP",
+    "is_local": false,
+    "name": "Flow Caro",
+    "popularity": 49,
+    "preview_url": "https://p.scdn.co/mp3-preview/2933a7921cf7225a19a758ec4b2c908b917e4da5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:36tjIJBnkLqjPX76mt4bUP"
+  },
+  {
     "album_id": "6zGGjiyCeY36tgNrxsFrK9",
     "artist_ids": [
       "4TK1gDgb7QKoPFlzRrBRgR"
@@ -15862,6 +15982,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3A9g9yJdL1Y7icCuwh22FK"
+  },
+  {
+    "album_id": "58K0rZgSa0fpWIwMiXiJX6",
+    "artist_ids": [
+      "6tJRAxu0HwB2GI9GueEj4l"
+    ],
+    "disc_number": 1,
+    "duration_ms": 189300,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZTVM2329225"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3AD9XfCpWIr1WrhnRqPI56"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3AD9XfCpWIr1WrhnRqPI56",
+    "id": "3AD9XfCpWIr1WrhnRqPI56",
+    "is_local": false,
+    "name": "Retirada y Rendición",
+    "popularity": 47,
+    "preview_url": "https://p.scdn.co/mp3-preview/918f8e61781984229d47b548961d3a7464a3bde8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:3AD9XfCpWIr1WrhnRqPI56"
   },
   {
     "album_id": "0f5Bxz0icXVD2B4BldVU0z",
@@ -28944,6 +29088,30 @@
     "uri": "spotify:track:5qr5vMJhYTfQxsplxALCXF"
   },
   {
+    "album_id": "58K0rZgSa0fpWIwMiXiJX6",
+    "artist_ids": [
+      "6tJRAxu0HwB2GI9GueEj4l"
+    ],
+    "disc_number": 1,
+    "duration_ms": 217500,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZTVM2329223"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5rXrjWtND9MjiJoI6KTFni"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5rXrjWtND9MjiJoI6KTFni",
+    "id": "5rXrjWtND9MjiJoI6KTFni",
+    "is_local": false,
+    "name": "Wow",
+    "popularity": 47,
+    "preview_url": "https://p.scdn.co/mp3-preview/31d154f77d7cf9322a571939b967242a6e80460c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5rXrjWtND9MjiJoI6KTFni"
+  },
+  {
     "album_id": "48xXX0Q141vKS9UcLu9mWW",
     "artist_ids": [
       "1jVhcHIGJuk16eqY1Mdtuk"
@@ -34968,6 +35136,30 @@
     "uri": "spotify:track:7HW7q9Vcgr3GlUV7PKHKOj"
   },
   {
+    "album_id": "58K0rZgSa0fpWIwMiXiJX6",
+    "artist_ids": [
+      "6tJRAxu0HwB2GI9GueEj4l"
+    ],
+    "disc_number": 1,
+    "duration_ms": 255400,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZTVM2329229"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7I3JTnHaDKmP7PVcY6E5vK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7I3JTnHaDKmP7PVcY6E5vK",
+    "id": "7I3JTnHaDKmP7PVcY6E5vK",
+    "is_local": false,
+    "name": "Los de Verdad",
+    "popularity": 49,
+    "preview_url": "https://p.scdn.co/mp3-preview/c09f62f4b34b3330cb3790327ab1db4a52051e68?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:7I3JTnHaDKmP7PVcY6E5vK"
+  },
+  {
     "album_id": "0DEur2OGZs9BHJ2FLuu1rY",
     "artist_ids": [
       "2EkFEL5IvD2W8hpwbjS9yv"
@@ -35086,6 +35278,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:7Iv9lZyMV4QFA3fARZDnGq"
+  },
+  {
+    "album_id": "1hwx8Kmagl1ZUYic1dK46A",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 160150,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300039"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7Jo6uG5846H37UrPuuLyO5",
+    "id": "7Jo6uG5846H37UrPuuLyO5",
+    "is_local": false,
+    "name": "Sin Dormir (Ya Se Armó)",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/8974307c7b1c6d6c3fb0535240d85a5bb13e46ed?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7Jo6uG5846H37UrPuuLyO5"
   },
   {
     "album_id": "0503zQbeyfwiMZ2hObZsei",
