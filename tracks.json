@@ -9696,6 +9696,30 @@
     "uri": "spotify:track:1qNUhmx3rGjiMRThz7Eruv"
   },
   {
+    "album_id": "6nPsmqJQ04ph2NVgoKyHT2",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 144500,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300037"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1qV3PydGbdkoXDFMSNHqsw"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1qV3PydGbdkoXDFMSNHqsw",
+    "id": "1qV3PydGbdkoXDFMSNHqsw",
+    "is_local": false,
+    "name": "Molly",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/b7138d693dd4b8ef0bf9371045c6c98f74319bf9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:1qV3PydGbdkoXDFMSNHqsw"
+  },
+  {
     "album_id": "2BEpgs48eVJQr3dmxLNxtM",
     "artist_ids": [
       "7sgnuH8OwU32WbGLZwD03q"
@@ -13608,6 +13632,30 @@
     "uri": "spotify:track:2cm10yj0ysthPPzfawwyVG"
   },
   {
+    "album_id": "6nPsmqJQ04ph2NVgoKyHT2",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 160150,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300039"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2dzHgU9gyNV2238C7kWWv8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2dzHgU9gyNV2238C7kWWv8",
+    "id": "2dzHgU9gyNV2238C7kWWv8",
+    "is_local": false,
+    "name": "Sin Dormir (Ya Se Armó)",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/88edcc18931269a45a82ebf7abcce2555136ddc3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:2dzHgU9gyNV2238C7kWWv8"
+  },
+  {
     "album_id": "07w0rG5TETcyihsEIZR3qG",
     "artist_ids": [
       "7tYKF4w9nC0nq9CsPZTHyP"
@@ -15766,6 +15814,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:37Wk4Hhm4MIy6Q1Vg8nVMO"
+  },
+  {
+    "album_id": "6nPsmqJQ04ph2NVgoKyHT2",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 162500,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300053"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/37i8HrXHZVjBnuG5p7CmJk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/37i8HrXHZVjBnuG5p7CmJk",
+    "id": "37i8HrXHZVjBnuG5p7CmJk",
+    "is_local": false,
+    "name": "Big Bag",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/4ba02789c0b582f7b06416d9357adc2b5626a2d9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:37i8HrXHZVjBnuG5p7CmJk"
   },
   {
     "album_id": "2RX4G0Z4uNfiTcP6nzODNI",
@@ -21240,6 +21312,30 @@
     "uri": "spotify:track:4E4NWxAfaX4U5pLaBHyzdZ"
   },
   {
+    "album_id": "6nPsmqJQ04ph2NVgoKyHT2",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 170250,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300035"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4ENMioApRGJS2WQUxinvMx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ENMioApRGJS2WQUxinvMx",
+    "id": "4ENMioApRGJS2WQUxinvMx",
+    "is_local": false,
+    "name": "Pecara Muleta",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/0fa3a1ed4dc787939a74036f8656efa46dc5b4a0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4ENMioApRGJS2WQUxinvMx"
+  },
+  {
     "album_id": "5rTJ6pTQUCyIxxWKlWhvaz",
     "artist_ids": [
       "0U5RYP2HMdGv2GhicLhkOI"
@@ -22872,6 +22968,30 @@
     "uri": "spotify:track:4doihSGAyocalPDhSRI9bC"
   },
   {
+    "album_id": "6nPsmqJQ04ph2NVgoKyHT2",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 145500,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300046"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4dr1ytDZoHPuedRYzATLlr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4dr1ytDZoHPuedRYzATLlr",
+    "id": "4dr1ytDZoHPuedRYzATLlr",
+    "is_local": false,
+    "name": "Mississippi",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/de5110257ac33fb45ff6491f2e654497cb0916ae?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:4dr1ytDZoHPuedRYzATLlr"
+  },
+  {
     "album_id": "3gpDzwcbJyZ9FwW0DrUWZf",
     "artist_ids": [
       "3p3jPcp8b7WL9XYj4xlsWj"
@@ -23904,6 +24024,30 @@
     "uri": "spotify:track:4p3Tq8O6zUPV5xgpP64Vnn"
   },
   {
+    "album_id": "6nPsmqJQ04ph2NVgoKyHT2",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 138500,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300041"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4p48rr7Mjj65x6X2hFHd3j"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4p48rr7Mjj65x6X2hFHd3j",
+    "id": "4p48rr7Mjj65x6X2hFHd3j",
+    "is_local": false,
+    "name": "Paleteao",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/3acc136af7f8c67abbab317577aaed304ddc2206?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:4p48rr7Mjj65x6X2hFHd3j"
+  },
+  {
     "album_id": "01AooA3ywuIEk6EQaoWjh3",
     "artist_ids": [
       "4QFG9KrGWEbr6hNA58CAqE"
@@ -24286,6 +24430,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4tsnNgI2qXr3udAUbeCV78"
+  },
+  {
+    "album_id": "6nPsmqJQ04ph2NVgoKyHT2",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 172200,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300043"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4uj3zG1aG2NfI8oLdcGBM5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4uj3zG1aG2NfI8oLdcGBM5",
+    "id": "4uj3zG1aG2NfI8oLdcGBM5",
+    "is_local": false,
+    "name": "Gyals de Farra",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/7eef38c6a2067645118d3938e9b6cf03b1793151?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:4uj3zG1aG2NfI8oLdcGBM5"
   },
   {
     "album_id": "23MaapDCra07hj7s5u1K8B",
@@ -27934,6 +28102,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5YzYf1636ixpWoLYuQZ9O6"
+  },
+  {
+    "album_id": "6nPsmqJQ04ph2NVgoKyHT2",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 146500,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300047"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5ZmGKJp3hJ7mV5CtwyzhOC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5ZmGKJp3hJ7mV5CtwyzhOC",
+    "id": "5ZmGKJp3hJ7mV5CtwyzhOC",
+    "is_local": false,
+    "name": "Insurgent",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/a60d8fc24a1b2f55fad9432784209e8fd7b7c653?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:5ZmGKJp3hJ7mV5CtwyzhOC"
   },
   {
     "album_id": "2x3TRA370o6LWyGFe3c52R",
@@ -31630,6 +31822,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:6TxoyxvTEW6wcTm20IZZlw"
+  },
+  {
+    "album_id": "6nPsmqJQ04ph2NVgoKyHT2",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 183000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300033"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6UA8epKf19sSJ2iAtmyEVm"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6UA8epKf19sSJ2iAtmyEVm",
+    "id": "6UA8epKf19sSJ2iAtmyEVm",
+    "is_local": false,
+    "name": "Te Está Olvidando",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/bad973de6f6401ff3123669dc5013762836787a1?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6UA8epKf19sSJ2iAtmyEVm"
   },
   {
     "album_id": "62We7kcnouERjNBAKo8wG1",
@@ -35542,6 +35758,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7Lkxvfl2rkNYWS4kBDCQtN"
+  },
+  {
+    "album_id": "6nPsmqJQ04ph2NVgoKyHT2",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 171500,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300045"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7LytCzsACsEltDDDIuNHZZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7LytCzsACsEltDDDIuNHZZ",
+    "id": "7LytCzsACsEltDDDIuNHZZ",
+    "is_local": false,
+    "name": "Tomando Efecto",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/9a4d310d2676c5bdd65bae2d8447acbcc16cd929?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:7LytCzsACsEltDDDIuNHZZ"
   },
   {
     "album_id": "0DDsexe1qhQ2TQ43XztwMl",
