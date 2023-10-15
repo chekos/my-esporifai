@@ -33432,6 +33432,30 @@
     "uri": "spotify:track:6rQefPVoPFNDcG0MtkIeW1"
   },
   {
+    "album_id": "6nPsmqJQ04ph2NVgoKyHT2",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 178500,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300049"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6rUQXVex1cgiM00XzKLJlT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6rUQXVex1cgiM00XzKLJlT",
+    "id": "6rUQXVex1cgiM00XzKLJlT",
+    "is_local": false,
+    "name": "Crazy Lights",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/1a15cd45d434fed82d246648dc9fc2c7da16a915?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:6rUQXVex1cgiM00XzKLJlT"
+  },
+  {
     "album_id": "76ZmCajbiYLO4l6bo0gFwB",
     "artist_ids": [
       "4H3ePoFDdsl36QwB96jZzg"
