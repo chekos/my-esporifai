@@ -62,7 +62,13 @@ def save_records(filename: str | Path, api_token):
 
 
 if __name__ == "__main__":
-    token = os.environ.get("DATASETTE_API_TOKEN")
+    esporifai_token = os.environ.get("ESPORIFAI_DATASETTE_API_TOKEN")
+
+    if esporifai_token:
+        token = esporifai_token
+    else:
+        # If ESPORIFAI_DATASETTE_API_TOKEN is not set or empty, use DATASETTE_API_TOKEN
+        token = os.environ.get("DATASETTE_API_TOKEN")
     for filename in [
         "tracks.json",
         "albums.json",
