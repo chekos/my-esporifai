@@ -1584,6 +1584,30 @@
     "uri": "spotify:track:0INhc870cm8AiSzujM3OlA"
   },
   {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 247783,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300732"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0ItgotO5txriRAp6lXMHJ7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ItgotO5txriRAp6lXMHJ7",
+    "id": "0ItgotO5txriRAp6lXMHJ7",
+    "is_local": false,
+    "name": "A TU NOMBRE",
+    "popularity": 76,
+    "preview_url": "https://p.scdn.co/mp3-preview/2416d898deb6affdd246399858c23fee7d173c62?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:0ItgotO5txriRAp6lXMHJ7"
+  },
+  {
     "album_id": "6Md2vrD9ioekgr6GmzF5ce",
     "artist_ids": [
       "1FCItwxfRieMGhR0eRxotU"
@@ -2040,6 +2064,30 @@
     "uri": "spotify:track:0N7XU51NdMaXgdq8h6iweg"
   },
   {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 251669,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300727"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0N9YbdsoDv3SwT8wt4S5rT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0N9YbdsoDv3SwT8wt4S5rT",
+    "id": "0N9YbdsoDv3SwT8wt4S5rT",
+    "is_local": false,
+    "name": "MILES DE ROSAS",
+    "popularity": 77,
+    "preview_url": "https://p.scdn.co/mp3-preview/b8f6ab3b9088695096ccf6586979e33200cf14e3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:0N9YbdsoDv3SwT8wt4S5rT"
+  },
+  {
     "album_id": "48xXX0Q141vKS9UcLu9mWW",
     "artist_ids": [
       "1jVhcHIGJuk16eqY1Mdtuk"
@@ -2134,6 +2182,30 @@
     "track_number": 9,
     "type": "track",
     "uri": "spotify:track:0O5PDNOkH5JkGMzO1H3BU6"
+  },
+  {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 191504,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300733"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0OG0qjJ9gN85kWZtIzW5uS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0OG0qjJ9gN85kWZtIzW5uS",
+    "id": "0OG0qjJ9gN85kWZtIzW5uS",
+    "is_local": false,
+    "name": "LOKERON X AMOR",
+    "popularity": 75,
+    "preview_url": "https://p.scdn.co/mp3-preview/587d1dc28002a60a798bd432cfdcffe38e024608?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:0OG0qjJ9gN85kWZtIzW5uS"
   },
   {
     "album_id": "4vECtOiPgIljIql1IpB3sz",
@@ -4870,6 +4942,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0u4oKIXxl0geFS2fuWiVXh"
+  },
+  {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 226298,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300725"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0uQhDYHyoZe5DpncrPolb6",
+    "id": "0uQhDYHyoZe5DpncrPolb6",
+    "is_local": false,
+    "name": "LAS NOCHES",
+    "popularity": 78,
+    "preview_url": "https://p.scdn.co/mp3-preview/24946146528bcd50ff6bcb97bbd0845a07ae0467?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:0uQhDYHyoZe5DpncrPolb6"
   },
   {
     "album_id": "0MDaUDQENnAlr6BmicS3oc",
@@ -11736,6 +11832,30 @@
     "uri": "spotify:track:2Cp0vByeRK9zg8Rh6IY3bY"
   },
   {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 162648,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300726"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2CshODtf7iwe3pKlPmEWF5",
+    "id": "2CshODtf7iwe3pKlPmEWF5",
+    "is_local": false,
+    "name": "TRES BOTELLAS",
+    "popularity": 79,
+    "preview_url": "https://p.scdn.co/mp3-preview/8b7b5b934f6bfd055a6a2f677f217bdcaa7f5f1e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:2CshODtf7iwe3pKlPmEWF5"
+  },
+  {
     "album_id": "3aJflyaUCMtK6f8addnjlY",
     "artist_ids": [
       "30BSBWLKnYJION1lCPugXc"
@@ -13894,6 +14014,30 @@
     "track_number": 12,
     "type": "track",
     "uri": "spotify:track:2Zz421KygKxmx3jNwIEamm"
+  },
+  {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 212861,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300722"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2a8yglXvNw07OWu4lO2ByG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2a8yglXvNw07OWu4lO2ByG",
+    "id": "2a8yglXvNw07OWu4lO2ByG",
+    "is_local": false,
+    "name": "LA CHERRY",
+    "popularity": 80,
+    "preview_url": "https://p.scdn.co/mp3-preview/280c6927e6ad2301caf72c086fe6521ea532b26c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:2a8yglXvNw07OWu4lO2ByG"
   },
   {
     "album_id": "07w0rG5TETcyihsEIZR3qG",
@@ -19296,6 +19440,30 @@
     "uri": "spotify:track:3aInXWKVoVoOJdmSnNyA04"
   },
   {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 234890,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300730"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3agTX6v1AbfY3mMA8qX2Bh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3agTX6v1AbfY3mMA8qX2Bh",
+    "id": "3agTX6v1AbfY3mMA8qX2Bh",
+    "is_local": false,
+    "name": "EN LA PEDA",
+    "popularity": 76,
+    "preview_url": "https://p.scdn.co/mp3-preview/b2d20993d84fe33d8acfc1f899980a5a7cff5d45?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:3agTX6v1AbfY3mMA8qX2Bh"
+  },
+  {
     "album_id": "7btW2ydR7qoAbHVQt0UjSI",
     "artist_ids": [
       "2lrtGWxNXWjd0JzDLKXubI"
@@ -21552,6 +21720,30 @@
     "uri": "spotify:track:42u9e0pWIPYcaPERtBSJda"
   },
   {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 226960,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300721"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/431Dwa4XSR1z1aWgmCisnP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/431Dwa4XSR1z1aWgmCisnP",
+    "id": "431Dwa4XSR1z1aWgmCisnP",
+    "is_local": false,
+    "name": "SERPIENTE",
+    "popularity": 79,
+    "preview_url": "https://p.scdn.co/mp3-preview/25424035c1fb75d40070fe7f250d4151c3f25b51?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:431Dwa4XSR1z1aWgmCisnP"
+  },
+  {
     "album_id": "5VjdQFo6vgSVGLK2900xbV",
     "artist_ids": [
       "66RfYVdftqnuHRicyClgL0"
@@ -21598,6 +21790,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:44CZRkOxv7UItaAUmh8PgN"
+  },
+  {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 247538,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300729"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/45jWNNpTqJ4gSty54msOLx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/45jWNNpTqJ4gSty54msOLx",
+    "id": "45jWNNpTqJ4gSty54msOLx",
+    "is_local": false,
+    "name": "OTRO AMOR",
+    "popularity": 75,
+    "preview_url": "https://p.scdn.co/mp3-preview/a54cc7a58d8235353b68fdc7057318593fa70ec8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:45jWNNpTqJ4gSty54msOLx"
   },
   {
     "album_id": "01AooA3ywuIEk6EQaoWjh3",
@@ -23614,6 +23830,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4ZJ7RLaPYlyKq0LKDZD2Ex"
+  },
+  {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 240669,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300731"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ZOkfHC38nxSeSqzGE5HFr",
+    "id": "4ZOkfHC38nxSeSqzGE5HFr",
+    "is_local": false,
+    "name": "PIÉNSALO",
+    "popularity": 76,
+    "preview_url": "https://p.scdn.co/mp3-preview/d61763d232289524b83d7ba361014c62730470ec?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:4ZOkfHC38nxSeSqzGE5HFr"
   },
   {
     "album_id": "1rSmB2J6FBTsH9NOCV24xW",
@@ -28920,6 +29160,30 @@
     "uri": "spotify:track:5VDFgMdiCUDgvHmFcEMEy1"
   },
   {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 236778,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300728"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5VcZAOKJCIys1mTgkpd6FV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5VcZAOKJCIys1mTgkpd6FV",
+    "id": "5VcZAOKJCIys1mTgkpd6FV",
+    "is_local": false,
+    "name": "PARIS",
+    "popularity": 76,
+    "preview_url": "https://p.scdn.co/mp3-preview/09b5da657cd9c12550a564d81e93356563a064c5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:5VcZAOKJCIys1mTgkpd6FV"
+  },
+  {
     "album_id": "299y9krartmvIpleUCKOmd",
     "artist_ids": [
       "6nyqrmf9qc4W94YKtsPel9"
@@ -31680,6 +31944,30 @@
     "uri": "spotify:track:67e978D8cffnAWJLmXxoum"
   },
   {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 208898,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300719"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/68cUJFq7aAbgeurngTmngL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/68cUJFq7aAbgeurngTmngL",
+    "id": "68cUJFq7aAbgeurngTmngL",
+    "is_local": false,
+    "name": "$AD BOYZ II",
+    "popularity": 82,
+    "preview_url": "https://p.scdn.co/mp3-preview/6292f26a1619001209744ef6778a784c76ff59e4?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:68cUJFq7aAbgeurngTmngL"
+  },
+  {
     "album_id": "0lJoJEExVV3vEbmjC7DJrP",
     "artist_ids": [
       "4tm8CEdm4pkQsEh4jIr9Yp"
@@ -32928,6 +33216,30 @@
     "uri": "spotify:track:6RQ5IwG7uADz9LDWliJGjU"
   },
   {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 179013,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300724"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6RcAHyC5sAUIbPTkhOQwd8",
+    "id": "6RcAHyC5sAUIbPTkhOQwd8",
+    "is_local": false,
+    "name": "Y LLORO",
+    "popularity": 87,
+    "preview_url": "https://p.scdn.co/mp3-preview/f82787d084854523e602d1239f44f04ced392dc5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:6RcAHyC5sAUIbPTkhOQwd8"
+  },
+  {
     "album_id": "5Y7ScOFpjk7JSjFmlUdO4T",
     "artist_ids": [
       "30CTTIqrcr82nS6B40j975"
@@ -33430,6 +33742,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:6Y5k0NupErwLzOQXDxfVFa"
+  },
+  {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 168677,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300720"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6YOfGIE6iFxC7G8OlGGvzW",
+    "id": "6YOfGIE6iFxC7G8OlGGvzW",
+    "is_local": false,
+    "name": "ROCKSTAR",
+    "popularity": 83,
+    "preview_url": "https://p.scdn.co/mp3-preview/284a4dab9087dd520dbd2bc2c2bb5d849a2b32ec?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:6YOfGIE6iFxC7G8OlGGvzW"
   },
   {
     "album_id": "1orsANXyWUnEPC9f0kNCYn",
@@ -35854,6 +36190,30 @@
     "track_number": 20,
     "type": "track",
     "uri": "spotify:track:77VOlKw4NaQtHcthb2v0Ip"
+  },
+  {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 176749,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300723"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/77ewVGidVJETHhGtlNelrg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/77ewVGidVJETHhGtlNelrg",
+    "id": "77ewVGidVJETHhGtlNelrg",
+    "is_local": false,
+    "name": "MIÉNTELE",
+    "popularity": 78,
+    "preview_url": "https://p.scdn.co/mp3-preview/b556c21eb692dc5b1da0bd93738e380c2611815c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:77ewVGidVJETHhGtlNelrg"
   },
   {
     "album_id": "0jDAxF4M0RxVNM5JUJCiwX",
