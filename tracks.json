@@ -24096,6 +24096,30 @@
     "uri": "spotify:track:4dr1ytDZoHPuedRYzATLlr"
   },
   {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 226035,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300734"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4e76Ss3ji7HQZ4qwcPNkNA",
+    "id": "4e76Ss3ji7HQZ4qwcPNkNA",
+    "is_local": false,
+    "name": "MIENTRAS DUERMES",
+    "popularity": 74,
+    "preview_url": "https://p.scdn.co/mp3-preview/864edcf2461a35dba8294687dff2eaa0bba8afec?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:4e76Ss3ji7HQZ4qwcPNkNA"
+  },
+  {
     "album_id": "3gpDzwcbJyZ9FwW0DrUWZf",
     "artist_ids": [
       "3p3jPcp8b7WL9XYj4xlsWj"
@@ -29998,6 +30022,30 @@
     "track_number": 9,
     "type": "track",
     "uri": "spotify:track:5f9Ckp86wSAGD7fkvGTi8f"
+  },
+  {
+    "album_id": "7Lv6VzSqIz1sAssK2JUskG",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 165640,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2300736"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5fDDQmf4HaV848CIyrP2vl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5fDDQmf4HaV848CIyrP2vl",
+    "id": "5fDDQmf4HaV848CIyrP2vl",
+    "is_local": false,
+    "name": "ENTRE NOSOTROS",
+    "popularity": 75,
+    "preview_url": "https://p.scdn.co/mp3-preview/fcaa47719c81a50bb38fe9fe8c7b811f911ddba3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:5fDDQmf4HaV848CIyrP2vl"
   },
   {
     "album_id": "27TYwMOmYr7TO33PLvG60U",
