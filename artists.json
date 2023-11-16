@@ -2261,6 +2261,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+    },
+    "href": "https://api.spotify.com/v1/artists/3Me35AWHCGqW4sZ7bWWJt1",
+    "id": "3Me35AWHCGqW4sZ7bWWJt1",
+    "name": "Xavi",
+    "type": "artist",
+    "uri": "spotify:artist:3Me35AWHCGqW4sZ7bWWJt1"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV"
     },
     "href": "https://api.spotify.com/v1/artists/3Qldsib1smRXVBihCbSKrV",
@@ -4168,6 +4178,16 @@
     "name": "Aida Rojo",
     "type": "artist",
     "uri": "spotify:artist:6UWkI7vTvVxm414XiKR8F7"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+    },
+    "href": "https://api.spotify.com/v1/artists/6XTGKOV9jceQ6f67lnhpbF",
+    "id": "6XTGKOV9jceQ6f67lnhpbF",
+    "name": "LATIN MAFIA",
+    "type": "artist",
+    "uri": "spotify:artist:6XTGKOV9jceQ6f67lnhpbF"
   },
   {
     "external_urls": {
