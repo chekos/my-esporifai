@@ -7800,6 +7800,30 @@
     "uri": "spotify:track:1RFMPRynJq9ihIhD0KlNTa"
   },
   {
+    "album_id": "1gDqOyL8NmU2LQPtFutRng",
+    "artist_ids": [
+      "0yNSzH5nZmHzeE2xn6Xshb"
+    ],
+    "disc_number": 1,
+    "duration_ms": 215813,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMBUS1400005"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1RIhd7jjWDQwSKsbxxGArN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1RIhd7jjWDQwSKsbxxGArN",
+    "id": "1RIhd7jjWDQwSKsbxxGArN",
+    "is_local": false,
+    "name": "Ojos Color Sol (feat. Silvio Rodríguez)",
+    "popularity": 70,
+    "preview_url": "https://p.scdn.co/mp3-preview/dc216ab8adeb7d7e71618bcde0da452c0d96419b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:1RIhd7jjWDQwSKsbxxGArN"
+  },
+  {
     "album_id": "7AHtc6OAl2sjWBoM9e4izf",
     "artist_ids": [
       "7BQJLHBNVvz4O2JHmls4Ef"
@@ -28584,6 +28608,30 @@
     "uri": "spotify:track:5MyEACD2kRFeh231Z6FkdE"
   },
   {
+    "album_id": "1gDqOyL8NmU2LQPtFutRng",
+    "artist_ids": [
+      "0yNSzH5nZmHzeE2xn6Xshb"
+    ],
+    "disc_number": 1,
+    "duration_ms": 292920,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMBUS1400007"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5NOtC9vnvCuEy6IaNflffX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5NOtC9vnvCuEy6IaNflffX",
+    "id": "5NOtC9vnvCuEy6IaNflffX",
+    "is_local": false,
+    "name": "Adentro",
+    "popularity": 57,
+    "preview_url": "https://p.scdn.co/mp3-preview/b30f503b64d5bbccf56860a0782d1e4ee9a17a94?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:5NOtC9vnvCuEy6IaNflffX"
+  },
+  {
     "album_id": "51dg2LdYMIVQqCuUBlfQsN",
     "artist_ids": [
       "1JbemQ1fPt2YmSLjAFhPBv"
@@ -36886,6 +36934,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7AEqhFoW2G4DrL0imLpBH9"
+  },
+  {
+    "album_id": "1gDqOyL8NmU2LQPtFutRng",
+    "artist_ids": [
+      "0yNSzH5nZmHzeE2xn6Xshb"
+    ],
+    "disc_number": 1,
+    "duration_ms": 288746,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMBUS1400001"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7AIVTgrRcdUW8QBsqNQ33z",
+    "id": "7AIVTgrRcdUW8QBsqNQ33z",
+    "is_local": false,
+    "name": "El Aguante",
+    "popularity": 60,
+    "preview_url": "https://p.scdn.co/mp3-preview/6b02da1293d8027265a3a587b41d4d9ed943c7f5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:7AIVTgrRcdUW8QBsqNQ33z"
   },
   {
     "album_id": "5Syr2KgtfXrMEQ3nlgfClc",
