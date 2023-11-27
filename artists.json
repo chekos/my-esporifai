@@ -711,6 +711,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+    },
+    "href": "https://api.spotify.com/v1/artists/0ys2OFYzWYB5hRDLCsBqxt",
+    "id": "0ys2OFYzWYB5hRDLCsBqxt",
+    "name": "Fuerza Regida",
+    "type": "artist",
+    "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0zM7iL4aQ9IlzciOyD4oHC"
     },
     "href": "https://api.spotify.com/v1/artists/0zM7iL4aQ9IlzciOyD4oHC",
