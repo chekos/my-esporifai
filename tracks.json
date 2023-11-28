@@ -11232,6 +11232,30 @@
     "uri": "spotify:track:24AE0DMEhO8XZn5OYAhLX7"
   },
   {
+    "album_id": "3RM6JchSNTtRsZ8Do0iWRD",
+    "artist_ids": [
+      "7G4N4GY4l0qHm1yflRvsQ0"
+    ],
+    "disc_number": 1,
+    "duration_ms": 196880,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "US66W2100633"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/24CzD7mh4ED6Zq2oap0XDX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/24CzD7mh4ED6Zq2oap0XDX",
+    "id": "24CzD7mh4ED6Zq2oap0XDX",
+    "is_local": false,
+    "name": "Freaky",
+    "popularity": 7,
+    "preview_url": "https://p.scdn.co/mp3-preview/cada9e1454041338ea71abf8e3853bc52e9d22ea?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:24CzD7mh4ED6Zq2oap0XDX"
+  },
+  {
     "album_id": "1yM29w2suYVpMursUbXQMi",
     "artist_ids": [
       "4QFG9KrGWEbr6hNA58CAqE"
@@ -17758,6 +17782,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:3I8CEUQgFMuGu1UkGrtSTk"
+  },
+  {
+    "album_id": "1RONKzmResLmkukXi0M8i7",
+    "artist_ids": [
+      "0zM7iL4aQ9IlzciOyD4oHC"
+    ],
+    "disc_number": 1,
+    "duration_ms": 184762,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9JZ1783979"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3ISSJmu5n98ulX8yjM9ixk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3ISSJmu5n98ulX8yjM9ixk",
+    "id": "3ISSJmu5n98ulX8yjM9ixk",
+    "is_local": false,
+    "name": "Could Be Nice",
+    "popularity": 14,
+    "preview_url": "https://p.scdn.co/mp3-preview/2f92bf93a13e781b8f17c8cfe4a65533d6b70b6c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3ISSJmu5n98ulX8yjM9ixk"
   },
   {
     "album_id": "5bZ7Jgk7YE35ULHWO3wgHP",
@@ -26758,6 +26806,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:53OQMubgTRT7fde9muSXGK"
+  },
+  {
+    "album_id": "4BgdiqXoCmnNL3e9jOgeqk",
+    "artist_ids": [
+      "0zM7iL4aQ9IlzciOyD4oHC"
+    ],
+    "disc_number": 1,
+    "duration_ms": 171168,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZARB1813261"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/53bnLhB1eiqRIGdiBElV2a"
+    },
+    "href": "https://api.spotify.com/v1/tracks/53bnLhB1eiqRIGdiBElV2a",
+    "id": "53bnLhB1eiqRIGdiBElV2a",
+    "is_local": false,
+    "name": "Wimbledon",
+    "popularity": 2,
+    "preview_url": "https://p.scdn.co/mp3-preview/5b1e1b267f691336fcf3616476653742506c09f1?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:53bnLhB1eiqRIGdiBElV2a"
   },
   {
     "album_id": "42EHvFRsQtspIer2baInn7",
