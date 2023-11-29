@@ -1381,6 +1381,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+    },
+    "href": "https://api.spotify.com/v1/artists/1r4hJ1h58CWwUQe3MxPuau",
+    "id": "1r4hJ1h58CWwUQe3MxPuau",
+    "name": "Maluma",
+    "type": "artist",
+    "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1sjuHgaMooINyMP4cWxaWN"
     },
     "href": "https://api.spotify.com/v1/artists/1sjuHgaMooINyMP4cWxaWN",
@@ -1918,6 +1928,16 @@
     "name": "Oldtape",
     "type": "artist",
     "uri": "spotify:artist:2rMNgpqzircdgLQo0thnOf"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+    },
+    "href": "https://api.spotify.com/v1/artists/2rmkQLzj0k4nZdQehOUByO",
+    "id": "2rmkQLzj0k4nZdQehOUByO",
+    "name": "Chino Pacas",
+    "type": "artist",
+    "uri": "spotify:artist:2rmkQLzj0k4nZdQehOUByO"
   },
   {
     "external_urls": {
@@ -3861,6 +3881,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+    },
+    "href": "https://api.spotify.com/v1/artists/69UypehHabb68utzfjAVlV",
+    "id": "69UypehHabb68utzfjAVlV",
+    "name": "Kany García",
+    "type": "artist",
+    "uri": "spotify:artist:69UypehHabb68utzfjAVlV"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
     },
     "href": "https://api.spotify.com/v1/artists/6AcOTCYBMvjKYy4zms0kaC",
@@ -4218,6 +4248,16 @@
     "name": "Amantes del Futuro",
     "type": "artist",
     "uri": "spotify:artist:6dFvUQyg4lryyquleOuUO0"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+    },
+    "href": "https://api.spotify.com/v1/artists/6dLuQ5qXxIuWc5urxfIiZR",
+    "id": "6dLuQ5qXxIuWc5urxfIiZR",
+    "name": "Calle 24",
+    "type": "artist",
+    "uri": "spotify:artist:6dLuQ5qXxIuWc5urxfIiZR"
   },
   {
     "external_urls": {
