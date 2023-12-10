@@ -671,6 +671,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+    },
+    "href": "https://api.spotify.com/v1/artists/0ty0xha1dbprYIUAQufkFn",
+    "id": "0ty0xha1dbprYIUAQufkFn",
+    "name": "Patti LaBelle",
+    "type": "artist",
+    "uri": "spotify:artist:0ty0xha1dbprYIUAQufkFn"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo"
     },
     "href": "https://api.spotify.com/v1/artists/0uCVN0ZSViQ4xVwJsDqfVo",
@@ -1148,6 +1158,16 @@
     "name": "Caztro",
     "type": "artist",
     "uri": "spotify:artist:1YvkzmaJLVRHSJ8J5YzoaW"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+    },
+    "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp",
+    "id": "1YzCsTRb22dQkh9lghPIrp",
+    "name": "Billie Holiday",
+    "type": "artist",
+    "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp"
   },
   {
     "external_urls": {
@@ -1781,6 +1801,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+    },
+    "href": "https://api.spotify.com/v1/artists/2JSjCHK79gdaiPWdKiNUNp",
+    "id": "2JSjCHK79gdaiPWdKiNUNp",
+    "name": "Dionne Warwick",
+    "type": "artist",
+    "uri": "spotify:artist:2JSjCHK79gdaiPWdKiNUNp"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2Lss2KwJWG97CZIEvyzYfl"
     },
     "href": "https://api.spotify.com/v1/artists/2Lss2KwJWG97CZIEvyzYfl",
@@ -2278,6 +2308,16 @@
     "name": "Mariachi Divas de Cindy Shea",
     "type": "artist",
     "uri": "spotify:artist:3D5AzlMCW0gCYlNvFANoEd"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5"
+    },
+    "href": "https://api.spotify.com/v1/artists/3DznKagEU8yMQZR9z33Da5",
+    "id": "3DznKagEU8yMQZR9z33Da5",
+    "name": "LaBelle",
+    "type": "artist",
+    "uri": "spotify:artist:3DznKagEU8yMQZR9z33Da5"
   },
   {
     "external_urls": {
@@ -3741,6 +3781,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5g1lWbZIQ0LCWbKmRJDSSn"
+    },
+    "href": "https://api.spotify.com/v1/artists/5g1lWbZIQ0LCWbKmRJDSSn",
+    "id": "5g1lWbZIQ0LCWbKmRJDSSn",
+    "name": "James Cleveland",
+    "type": "artist",
+    "uri": "spotify:artist:5g1lWbZIQ0LCWbKmRJDSSn"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
     },
     "href": "https://api.spotify.com/v1/artists/5hWRNIwMHTJ09SjdOVoEwl",
@@ -4371,6 +4421,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6cBr5hKnVKahZ7S8AcJQTo"
+    },
+    "href": "https://api.spotify.com/v1/artists/6cBr5hKnVKahZ7S8AcJQTo",
+    "id": "6cBr5hKnVKahZ7S8AcJQTo",
+    "name": "Sara Jordan Powell",
+    "type": "artist",
+    "uri": "spotify:artist:6cBr5hKnVKahZ7S8AcJQTo"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0"
     },
     "href": "https://api.spotify.com/v1/artists/6dFvUQyg4lryyquleOuUO0",
@@ -4978,6 +5038,16 @@
     "name": "Delosimple",
     "type": "artist",
     "uri": "spotify:artist:7mD9y3xMFhWPKINN7Pa5qF"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+    },
+    "href": "https://api.spotify.com/v1/artists/7nwUJBm0HE4ZxD3f5cy5ok",
+    "id": "7nwUJBm0HE4ZxD3f5cy5ok",
+    "name": "Aretha Franklin",
+    "type": "artist",
+    "uri": "spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok"
   },
   {
     "external_urls": {

@@ -3144,6 +3144,30 @@
     "uri": "spotify:track:0Yc2tewln8DSGTyXGr9dMY"
   },
   {
+    "album_id": "3pPBbp1Nl9n1AM9xFpdKtZ",
+    "artist_ids": [
+      "7guDJrEfX3qb6FEbdPA5qi"
+    ],
+    "disc_number": 1,
+    "duration_ms": 175200,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USMO10111083"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0YjhDXwVS4Bp6LnbiAccWB"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0YjhDXwVS4Bp6LnbiAccWB",
+    "id": "0YjhDXwVS4Bp6LnbiAccWB",
+    "is_local": false,
+    "name": "I'd Be A Fool Right Now",
+    "popularity": 31,
+    "preview_url": "https://p.scdn.co/mp3-preview/84a437b61e74871ce2bfdcdda045fff422eea591?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:0YjhDXwVS4Bp6LnbiAccWB"
+  },
+  {
     "album_id": "7cS8cQViIVtuk6essjpyhX",
     "artist_ids": [
       "5pR3pEU0bCMZhhAzag3DUz"
@@ -4992,6 +5016,30 @@
     "uri": "spotify:track:0san1KUetFkSctwivThY7z"
   },
   {
+    "album_id": "25r2DGOgjmDnUeeP9eMYGp",
+    "artist_ids": [
+      "1bgyxtWjZwA5PQlDsvs9b8"
+    ],
+    "disc_number": 1,
+    "duration_ms": 200800,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USFI87900084"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0ssF7kBkfmfy9j1dmvH040"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ssF7kBkfmfy9j1dmvH040",
+    "id": "0ssF7kBkfmfy9j1dmvH040",
+    "is_local": false,
+    "name": "Roses And Roses (Das Roses)",
+    "popularity": 4,
+    "preview_url": "https://p.scdn.co/mp3-preview/e47c0b63e2d7e3775bfa2995c5982e70bf4140de?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0ssF7kBkfmfy9j1dmvH040"
+  },
+  {
     "album_id": "0BE8t2uJrcYHL9BpnIz4KG",
     "artist_ids": [
       "2hejA1Dkf8v8R0koF44FvW"
@@ -5254,6 +5302,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:0wJIFdZTLwl4ZQ6RNLOxQN"
+  },
+  {
+    "album_id": "1Xf63FjnqXVEF4fYPHFIBG",
+    "artist_ids": [
+      "3lxAOAtswFQqkk3PVtLvRt"
+    ],
+    "disc_number": 1,
+    "duration_ms": 150813,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USACU0500635"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0wLSbQPPQOQRa4NaQDW2y6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0wLSbQPPQOQRa4NaQDW2y6",
+    "id": "0wLSbQPPQOQRa4NaQDW2y6",
+    "is_local": false,
+    "name": "Seek And Ye Shall Find",
+    "popularity": 3,
+    "preview_url": "https://p.scdn.co/mp3-preview/a08f2bf517ce2c559147608610eb588e92c64ba5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:0wLSbQPPQOQRa4NaQDW2y6"
   },
   {
     "album_id": "7cftuQ1mezvQCWSHtP7eA9",
@@ -5736,6 +5808,30 @@
     "uri": "spotify:track:13LEbH5khnWPF8eG7017fN"
   },
   {
+    "album_id": "0CScfE6bnIxynpHqusofX6",
+    "artist_ids": [
+      "0ty0xha1dbprYIUAQufkFn"
+    ],
+    "disc_number": 1,
+    "duration_ms": 232386,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USSM10105697"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/13aH61ECJQ25sJPAErpupM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/13aH61ECJQ25sJPAErpupM",
+    "id": "13aH61ECJQ25sJPAErpupM",
+    "is_local": false,
+    "name": "I Don't Go Shopping",
+    "popularity": 9,
+    "preview_url": "https://p.scdn.co/mp3-preview/15480f4a8fc2c0e8ac8666eae332aa416930d85b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:13aH61ECJQ25sJPAErpupM"
+  },
+  {
     "album_id": "5bZ7Jgk7YE35ULHWO3wgHP",
     "artist_ids": [
       "07PdYoE4jVRF6Ut40GgVSP"
@@ -6070,6 +6166,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:17ILGl4ZTCr2O3LBAafKjV"
+  },
+  {
+    "album_id": "5Zx4eUC5dTg6aufiSLQ6uo",
+    "artist_ids": [
+      "3DznKagEU8yMQZR9z33Da5"
+    ],
+    "disc_number": 1,
+    "duration_ms": 237120,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USSM17400284"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/17VWTx7LD7liGlpnlGhUbn",
+    "id": "17VWTx7LD7liGlpnlGhUbn",
+    "is_local": false,
+    "name": "Lady Marmalade",
+    "popularity": 58,
+    "preview_url": "https://p.scdn.co/mp3-preview/e70a3fdf2bad82b48630fcd6e750c4454d52f0a0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:17VWTx7LD7liGlpnlGhUbn"
   },
   {
     "album_id": "1cTm1BcUmy4l0gcOhacRy0",
@@ -7174,6 +7294,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:1JQfvIun4zq4AIKk0OZmwj"
+  },
+  {
+    "album_id": "343ADGfYYyoLedMtdH9PIM",
+    "artist_ids": [
+      "2JSjCHK79gdaiPWdKiNUNp"
+    ],
+    "disc_number": 1,
+    "duration_ms": 154266,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USWSP0000180"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1KV4668cMSAWSTMdiP0uEW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1KV4668cMSAWSTMdiP0uEW",
+    "id": "1KV4668cMSAWSTMdiP0uEW",
+    "is_local": false,
+    "name": "We Can Work It Out",
+    "popularity": 12,
+    "preview_url": "https://p.scdn.co/mp3-preview/28fe1c77db233a24ccfad297f60b94f27bb9f62e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:1KV4668cMSAWSTMdiP0uEW"
   },
   {
     "album_id": "5rTJ6pTQUCyIxxWKlWhvaz",
@@ -23376,6 +23520,30 @@
     "uri": "spotify:track:4KtIwJ1ATTJIjirXtgLjfh"
   },
   {
+    "album_id": "6wMS0UtcAN3YPGPI8YOwcZ",
+    "artist_ids": [
+      "6cBr5hKnVKahZ7S8AcJQTo"
+    ],
+    "disc_number": 1,
+    "duration_ms": 410120,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "US1SR1015036"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4Kz0Q91r20de9wF1zszjLk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Kz0Q91r20de9wF1zszjLk",
+    "id": "4Kz0Q91r20de9wF1zszjLk",
+    "is_local": false,
+    "name": "Amazing Grace",
+    "popularity": 2,
+    "preview_url": "https://p.scdn.co/mp3-preview/c6c69147d30ce6d3581f6b26f6ae5a2fa1d958b5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:4Kz0Q91r20de9wF1zszjLk"
+  },
+  {
     "album_id": "5JgX3T6euknAvsHOubABhQ",
     "artist_ids": [
       "5dIjXZZOeEpkXFaDikIBtJ"
@@ -23638,6 +23806,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:4Orw6MjT2VFgwGH9YI9ATY"
+  },
+  {
+    "album_id": "3PResMqFgQYBfzTnqTKwQw",
+    "artist_ids": [
+      "7guDJrEfX3qb6FEbdPA5qi"
+    ],
+    "disc_number": 1,
+    "duration_ms": 293066,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USMO17282779"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4P3R9J5VGPyAPx9T6ZXAcF"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4P3R9J5VGPyAPx9T6ZXAcF",
+    "id": "4P3R9J5VGPyAPx9T6ZXAcF",
+    "is_local": false,
+    "name": "I Believe (When I Fall In Love It Will Be Forever)",
+    "popularity": 49,
+    "preview_url": "https://p.scdn.co/mp3-preview/d395ce258fdad8ae4810729fb20ae7dce754a118?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:4P3R9J5VGPyAPx9T6ZXAcF"
   },
   {
     "album_id": "1VNM2gtd2MHgzO8ED22lhT",
@@ -25176,6 +25368,30 @@
     "uri": "spotify:track:4iZ4pt7kvcaH6Yo8UoZ4s2"
   },
   {
+    "album_id": "7tsBTgXE5wZggdmh5qBhZH",
+    "artist_ids": [
+      "1YzCsTRb22dQkh9lghPIrp"
+    ],
+    "disc_number": 1,
+    "duration_ms": 177773,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USMC14874653"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4iwK3e0KaE1sQ8I4aw0k2d"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4iwK3e0KaE1sQ8I4aw0k2d",
+    "id": "4iwK3e0KaE1sQ8I4aw0k2d",
+    "is_local": false,
+    "name": "My Man",
+    "popularity": 30,
+    "preview_url": "https://p.scdn.co/mp3-preview/a799c0ffaac17bd1eaab0f77979ac4fe17c23219?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:4iwK3e0KaE1sQ8I4aw0k2d"
+  },
+  {
     "album_id": "6HDPRXDl3Vsj8ksZyfpP5V",
     "artist_ids": [
       "66RfYVdftqnuHRicyClgL0"
@@ -26254,6 +26470,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4tsnNgI2qXr3udAUbeCV78"
+  },
+  {
+    "album_id": "0sEbfFIU1tqV99rjnnqPZS",
+    "artist_ids": [
+      "7G1GBhoKtEPnP86X2PvEYO"
+    ],
+    "disc_number": 1,
+    "duration_ms": 251760,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USRH10450647"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4uLtvmkHB77wl5jjhrN6g9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4uLtvmkHB77wl5jjhrN6g9",
+    "id": "4uLtvmkHB77wl5jjhrN6g9",
+    "is_local": false,
+    "name": "Rags and Old Iron",
+    "popularity": 12,
+    "preview_url": "https://p.scdn.co/mp3-preview/4547d127330d540018a8aa9dfcdfd8b9e161ede2?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4uLtvmkHB77wl5jjhrN6g9"
   },
   {
     "album_id": "6nPsmqJQ04ph2NVgoKyHT2",
@@ -29208,6 +29448,30 @@
     "uri": "spotify:track:5O2WmhEiHjy9GS9xM6w50a"
   },
   {
+    "album_id": "3QjPTUI6UcPr5m9RujkO3c",
+    "artist_ids": [
+      "1ThoqLcyIYvZn7iWbj8fsj"
+    ],
+    "disc_number": 1,
+    "duration_ms": 221133,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USSM10207845"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5O9oIsN5r0MKWuUrjWSa7W"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5O9oIsN5r0MKWuUrjWSa7W",
+    "id": "5O9oIsN5r0MKWuUrjWSa7W",
+    "is_local": false,
+    "name": "I Want to Spend the Night",
+    "popularity": 48,
+    "preview_url": "https://p.scdn.co/mp3-preview/356d234455ffdd7712ea2999cb31255ae5364bcf?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5O9oIsN5r0MKWuUrjWSa7W"
+  },
+  {
     "album_id": "5SLdkbTxNK4lMPtEhmU3Jw",
     "artist_ids": [
       "2DmYtFBKcxb3ajwWWgA576"
@@ -31342,6 +31606,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5oqPZDLDphVqvMCwzUDRsd"
+  },
+  {
+    "album_id": "5pIUimaQ6XePPXbMUi3te0",
+    "artist_ids": [
+      "7nwUJBm0HE4ZxD3f5cy5ok"
+    ],
+    "disc_number": 1,
+    "duration_ms": 173466,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USAT21405128"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5otMvPo1PQITyVcJZ1Xg86"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5otMvPo1PQITyVcJZ1Xg86",
+    "id": "5otMvPo1PQITyVcJZ1Xg86",
+    "is_local": false,
+    "name": "Climbing Higher Mountains - Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72",
+    "popularity": 30,
+    "preview_url": "https://p.scdn.co/mp3-preview/db9c45307e8a4af1b5e0986ea001ab7ee7672ab7?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:5otMvPo1PQITyVcJZ1Xg86"
   },
   {
     "album_id": "7Hd4zVugj553oRCWjLbvqO",
@@ -38880,6 +39168,30 @@
     "uri": "spotify:track:7c93MJeQfw21D5zPZusBiG"
   },
   {
+    "album_id": "1r5kWad1mFXS7ERLKzeLir",
+    "artist_ids": [
+      "5g1lWbZIQ0LCWbKmRJDSSn"
+    ],
+    "disc_number": 1,
+    "duration_ms": 493533,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "US1SR0414187"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7c992wwyvHtqFzjmFRkqBT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7c992wwyvHtqFzjmFRkqBT",
+    "id": "7c992wwyvHtqFzjmFRkqBT",
+    "is_local": false,
+    "name": "I Stood On the Banks of the Jordan",
+    "popularity": 15,
+    "preview_url": "https://p.scdn.co/mp3-preview/4a1c25e943b413052a49a7b0e75a3d061795c4a2?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7c992wwyvHtqFzjmFRkqBT"
+  },
+  {
     "album_id": "21M3KG8dvj5x6pyCeOoRI6",
     "artist_ids": [
       "2pFRwJDkZ3pvmzufOh2mc1"
@@ -39696,6 +40008,30 @@
     "uri": "spotify:track:7mwqEol11V5BWbES14jzHM"
   },
   {
+    "album_id": "5R2RNYOaXEhM3BanIu9Hek",
+    "artist_ids": [
+      "2XThtYxaIaPS5o9soX7kAu"
+    ],
+    "disc_number": 1,
+    "duration_ms": 153657,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMFMG1554582"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7n7GxQYJ44x9wprdRhGA3g"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7n7GxQYJ44x9wprdRhGA3g",
+    "id": "7n7GxQYJ44x9wprdRhGA3g",
+    "is_local": false,
+    "name": "Try a Little Tenderness",
+    "popularity": 12,
+    "preview_url": "https://p.scdn.co/mp3-preview/ceb7edc6f562adc2f707daf3e9ed1c0cd9825f4d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:7n7GxQYJ44x9wprdRhGA3g"
+  },
+  {
     "album_id": "48xXX0Q141vKS9UcLu9mWW",
     "artist_ids": [
       "1jVhcHIGJuk16eqY1Mdtuk"
@@ -40270,6 +40606,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:7sO5G9EABYOXQKNPNiE9NR"
+  },
+  {
+    "album_id": "5jgI8Eminx9MmLBontDWq8",
+    "artist_ids": [
+      "7guDJrEfX3qb6FEbdPA5qi"
+    ],
+    "disc_number": 1,
+    "duration_ms": 335226,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USMO17382778"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7sQ9eys8uVNrCsPyzYlDgG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7sQ9eys8uVNrCsPyzYlDgG",
+    "id": "7sQ9eys8uVNrCsPyzYlDgG",
+    "is_local": false,
+    "name": "He's Misstra Know-It-All",
+    "popularity": 46,
+    "preview_url": "https://p.scdn.co/mp3-preview/9cc4d6cfe4ba6df16d0820ba17d2a656ba936968?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:7sQ9eys8uVNrCsPyzYlDgG"
   },
   {
     "album_id": "7rx5JUvLkXKTBlIV62e1HN",
