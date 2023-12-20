@@ -7344,6 +7344,30 @@
     "uri": "spotify:track:1KwSNoiJhy7JfJB82GfYha"
   },
   {
+    "album_id": "3gwGJiQ0xGSUa3C6GZIXbL",
+    "artist_ids": [
+      "3c49ZOqgPzYj18ZW9MQhbb"
+    ],
+    "disc_number": 1,
+    "duration_ms": 99428,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "US3DF2235361"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1L7xnsFNbBU6RH06PxbPx5",
+    "id": "1L7xnsFNbBU6RH06PxbPx5",
+    "is_local": false,
+    "name": "Good things take time",
+    "popularity": 31,
+    "preview_url": "https://p.scdn.co/mp3-preview/55f94adf3585c9d344ec199ff6fb6ecee9810c8e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1L7xnsFNbBU6RH06PxbPx5"
+  },
+  {
     "album_id": "7I1mThh5NCgS2BqrAWcMdi",
     "artist_ids": [
       "31l8FA2bO5qxpqf8uhV5eZ"
@@ -28150,6 +28174,30 @@
     "track_number": 9,
     "type": "track",
     "uri": "spotify:track:596Dk34QEY9e4C63i2NvUe"
+  },
+  {
+    "album_id": "3RvE29N2BO2daJq28Er9Wy",
+    "artist_ids": [
+      "14ep6TM2JzapH5nk7vaora"
+    ],
+    "disc_number": 1,
+    "duration_ms": 132000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMFMF2341954"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
+    },
+    "href": "https://api.spotify.com/v1/tracks/59GcIQB6MBjrPzBhcGXQ4q",
+    "id": "59GcIQB6MBjrPzBhcGXQ4q",
+    "is_local": false,
+    "name": "THE CHRISTMAS SONG LOFI",
+    "popularity": 34,
+    "preview_url": "https://p.scdn.co/mp3-preview/007cc667b94e5b36bb525c7785c4df4032b90680?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:59GcIQB6MBjrPzBhcGXQ4q"
   },
   {
     "album_id": "1T1iS00hEIyLbvAZl5UO7G",

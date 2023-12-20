@@ -861,6 +861,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
+    },
+    "href": "https://api.spotify.com/v1/artists/14ep6TM2JzapH5nk7vaora",
+    "id": "14ep6TM2JzapH5nk7vaora",
+    "name": "Akira The Don",
+    "type": "artist",
+    "uri": "spotify:artist:14ep6TM2JzapH5nk7vaora"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/16YhiWjmyoCqhoZGbuQNsE"
     },
     "href": "https://api.spotify.com/v1/artists/16YhiWjmyoCqhoZGbuQNsE",
@@ -2558,6 +2568,16 @@
     "name": "rest in pimpp",
     "type": "artist",
     "uri": "spotify:artist:3bAGW0dsXwUAJMk7s8a5vB"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+    },
+    "href": "https://api.spotify.com/v1/artists/3c49ZOqgPzYj18ZW9MQhbb",
+    "id": "3c49ZOqgPzYj18ZW9MQhbb",
+    "name": "Daniel Ordóñez",
+    "type": "artist",
+    "uri": "spotify:artist:3c49ZOqgPzYj18ZW9MQhbb"
   },
   {
     "external_urls": {
