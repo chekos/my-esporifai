@@ -7728,6 +7728,30 @@
     "uri": "spotify:track:1O18MtSAMUk7JfAVB8gGzs"
   },
   {
+    "album_id": "7qjCJhOgyBd9bVyksyDH1z",
+    "artist_ids": [
+      "3IrTSci2J1v5SbMp75mX6j"
+    ],
+    "disc_number": 1,
+    "duration_ms": 248267,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USCGJ2079183"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1OAtkMjjiZ46ZXYN0rrCGE",
+    "id": "1OAtkMjjiZ46ZXYN0rrCGE",
+    "is_local": false,
+    "name": "Soledad",
+    "popularity": 58,
+    "preview_url": "https://p.scdn.co/mp3-preview/2b53fbcd850042ce357e7eaab26f232386d896a5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1OAtkMjjiZ46ZXYN0rrCGE"
+  },
+  {
     "album_id": "5e4yjkYMRe5aw4yoLtI14i",
     "artist_ids": [
       "7l6cdPhOLYO7lehz5xfzLV"
@@ -20760,6 +20784,30 @@
     "uri": "spotify:track:3hsmSQZdn5ITCdMZer9MoZ"
   },
   {
+    "album_id": "2QEejqH1fOG5fr5Jg0XWoM",
+    "artist_ids": [
+      "7sgnuH8OwU32WbGLZwD03q"
+    ],
+    "disc_number": 1,
+    "duration_ms": 159743,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLS2160225"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3hveYmQDkG4C531ghqPRhd"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3hveYmQDkG4C531ghqPRhd",
+    "id": "3hveYmQDkG4C531ghqPRhd",
+    "is_local": false,
+    "name": "Fumala",
+    "popularity": 14,
+    "preview_url": "https://p.scdn.co/mp3-preview/d58e272e7683dab275a9ae7b4be7c04242a3688a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3hveYmQDkG4C531ghqPRhd"
+  },
+  {
     "album_id": "4XssST6ZjeUKutADRKOQHX",
     "artist_ids": [
       "231yQfVjg9sGhTNsaym9ck"
@@ -22464,6 +22512,30 @@
     "uri": "spotify:track:42HcEeL1pumhrTRF62ssz8"
   },
   {
+    "album_id": "5upXl9VWyi7DPZMMxeNIKj",
+    "artist_ids": [
+      "7sgnuH8OwU32WbGLZwD03q"
+    ],
+    "disc_number": 1,
+    "duration_ms": 185002,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZHZ62044618"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/42gqLArJ68izGE8yC05UCZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/42gqLArJ68izGE8yC05UCZ",
+    "id": "42gqLArJ68izGE8yC05UCZ",
+    "is_local": false,
+    "name": "Cuadro Chico",
+    "popularity": 10,
+    "preview_url": "https://p.scdn.co/mp3-preview/34d4dc012c6d5d69813dbc19a69418316dcb208f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:42gqLArJ68izGE8yC05UCZ"
+  },
+  {
     "album_id": "7kXMF180yIJXGqcj8GBEta",
     "artist_ids": [
       "3IrTSci2J1v5SbMp75mX6j"
@@ -23494,6 +23566,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4KAZuTL234Q5CIRW5nhVbi"
+  },
+  {
+    "album_id": "5e4yjkYMRe5aw4yoLtI14i",
+    "artist_ids": [
+      "7l6cdPhOLYO7lehz5xfzLV"
+    ],
+    "disc_number": 1,
+    "duration_ms": 129248,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MX5332000082"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4KNyEjUMjtKy1jC2AAB7At"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4KNyEjUMjtKy1jC2AAB7At",
+    "id": "4KNyEjUMjtKy1jC2AAB7At",
+    "is_local": false,
+    "name": "CABALLO",
+    "popularity": 11,
+    "preview_url": "https://p.scdn.co/mp3-preview/4368a5f0a9b611d6d1d484c466b644fb71e6a6e3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:4KNyEjUMjtKy1jC2AAB7At"
   },
   {
     "album_id": "0Cq5RogZ5q5WfXRYGOIN98",
@@ -37678,6 +37774,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:77ewVGidVJETHhGtlNelrg"
+  },
+  {
+    "album_id": "6dOkPpcZ3elxSPmyZbvCIg",
+    "artist_ids": [
+      "7xtkne3Y9293zwMXsJp0QP"
+    ],
+    "disc_number": 1,
+    "duration_ms": 119649,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USANG2240413"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/77hF3X4YebUOpYoqY7s9xj",
+    "id": "77hF3X4YebUOpYoqY7s9xj",
+    "is_local": false,
+    "name": "sol",
+    "popularity": 32,
+    "preview_url": "https://p.scdn.co/mp3-preview/d39768eebb7f4ffddbc505c0ac9efdeede2e2cc0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:77hF3X4YebUOpYoqY7s9xj"
   },
   {
     "album_id": "0jDAxF4M0RxVNM5JUJCiwX",

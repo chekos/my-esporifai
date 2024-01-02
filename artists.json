@@ -2361,6 +2361,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+    },
+    "href": "https://api.spotify.com/v1/artists/3IWq2rVkwWTMEWbGe6ZQRg",
+    "id": "3IWq2rVkwWTMEWbGe6ZQRg",
+    "name": "Grethel Ross",
+    "type": "artist",
+    "uri": "spotify:artist:3IWq2rVkwWTMEWbGe6ZQRg"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3IXpVTrqj04ycraEUZGaLd"
     },
     "href": "https://api.spotify.com/v1/artists/3IXpVTrqj04ycraEUZGaLd",
