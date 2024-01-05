@@ -1851,6 +1851,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+    },
+    "href": "https://api.spotify.com/v1/artists/2PQW0MnXmZd19XKZQyoPgu",
+    "id": "2PQW0MnXmZd19XKZQyoPgu",
+    "name": "Jay de la Cueva",
+    "type": "artist",
+    "uri": "spotify:artist:2PQW0MnXmZd19XKZQyoPgu"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
     },
     "href": "https://api.spotify.com/v1/artists/2QWIScpFDNxmS6ZEMIUvgm",

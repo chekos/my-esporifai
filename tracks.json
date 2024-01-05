@@ -26856,6 +26856,30 @@
     "uri": "spotify:track:4tJSrlwibrjF6Ox3vLUZIe"
   },
   {
+    "album_id": "4DUkuTeI0yoBSvFaj1YKDH",
+    "artist_ids": [
+      "0U5RYP2HMdGv2GhicLhkOI"
+    ],
+    "disc_number": 1,
+    "duration_ms": 288000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "US3DF2152986"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4tepeG09xywMIaQ9zKezfH",
+    "id": "4tepeG09xywMIaQ9zKezfH",
+    "is_local": false,
+    "name": "Alzypher Vol. 1",
+    "popularity": 58,
+    "preview_url": "https://p.scdn.co/mp3-preview/6c72a4179d8bb1afd5a3080404cf5fe17217a48b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4tepeG09xywMIaQ9zKezfH"
+  },
+  {
     "album_id": "28TBy3fqYNUSp4CTzQSJJQ",
     "artist_ids": [
       "6fMZytDgX1Q9OV6ndSugym"
@@ -27552,6 +27576,30 @@
     "uri": "spotify:track:50HdHLFgOWqVhADnXU676A"
   },
   {
+    "album_id": "1yM29w2suYVpMursUbXQMi",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 205655,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA72154461"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/50VID8NClGL3T4eJQhl9IX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/50VID8NClGL3T4eJQhl9IX",
+    "id": "50VID8NClGL3T4eJQhl9IX",
+    "is_local": false,
+    "name": "EYO",
+    "popularity": 58,
+    "preview_url": "https://p.scdn.co/mp3-preview/90a8b526c2e0d806bd0e6d78384963a69789a46f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 19,
+    "type": "track",
+    "uri": "spotify:track:50VID8NClGL3T4eJQhl9IX"
+  },
+  {
     "album_id": "1GDoF4iVzOCe3tWMY1btrQ",
     "artist_ids": [
       "6fMZytDgX1Q9OV6ndSugym"
@@ -27814,6 +27862,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:53OQMubgTRT7fde9muSXGK"
+  },
+  {
+    "album_id": "043rYVTShwRpn32EcK9YVQ",
+    "artist_ids": [
+      "6tJRAxu0HwB2GI9GueEj4l"
+    ],
+    "disc_number": 1,
+    "duration_ms": 231894,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZHZ32249295"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/53TMz3Wz8RVHxLOn0Em2nd"
+    },
+    "href": "https://api.spotify.com/v1/tracks/53TMz3Wz8RVHxLOn0Em2nd",
+    "id": "53TMz3Wz8RVHxLOn0Em2nd",
+    "is_local": false,
+    "name": "Bajo Perfil",
+    "popularity": 53,
+    "preview_url": "https://p.scdn.co/mp3-preview/d6e29d1048b09101807c0013248c3b00021143e4?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:53TMz3Wz8RVHxLOn0Em2nd"
   },
   {
     "album_id": "4BgdiqXoCmnNL3e9jOgeqk",
@@ -30478,6 +30550,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:5UJcENK6cahUnamXxWv2c3"
+  },
+  {
+    "album_id": "7Il1eXMjz7OJExifvW8Vgt",
+    "artist_ids": [
+      "1QhaqxeqF9sipS2gwbEKpu"
+    ],
+    "disc_number": 1,
+    "duration_ms": 200600,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USUYG1424142"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5UUkHi8YrakZKY9gDbtVNz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5UUkHi8YrakZKY9gDbtVNz",
+    "id": "5UUkHi8YrakZKY9gDbtVNz",
+    "is_local": false,
+    "name": "Toma 4",
+    "popularity": 58,
+    "preview_url": "https://p.scdn.co/mp3-preview/fd8c03fa652f9f1b233d3834ffb2b4c2511f9cb1?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5UUkHi8YrakZKY9gDbtVNz"
   },
   {
     "album_id": "1NJu91OmmSIo9xn7vJXIbd",
@@ -40822,6 +40918,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7p7GBCtcGCNpdoj5CBBxfs"
+  },
+  {
+    "album_id": "27nbClc2d310EdLPCxwF2M",
+    "artist_ids": [
+      "4r1ZDYKzPt3iIjuq8LbT6X"
+    ],
+    "disc_number": 1,
+    "duration_ms": 137160,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXUM72201385"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7pQ3dOGXwjBMqfC2z3cvNW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7pQ3dOGXwjBMqfC2z3cvNW",
+    "id": "7pQ3dOGXwjBMqfC2z3cvNW",
+    "is_local": false,
+    "name": "Leyenda Viva",
+    "popularity": 36,
+    "preview_url": "https://p.scdn.co/mp3-preview/b9c5677be6cb41d4ebc6acca90bf673a7a2b0d46?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7pQ3dOGXwjBMqfC2z3cvNW"
   },
   {
     "album_id": "1N6rskoD4qUyaRWe041OLQ",
