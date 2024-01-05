@@ -3531,6 +3531,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+    },
+    "href": "https://api.spotify.com/v1/artists/5D2ui1KD49TfyCDb35zf5V",
+    "id": "5D2ui1KD49TfyCDb35zf5V",
+    "name": "Ahmed Saad",
+    "type": "artist",
+    "uri": "spotify:artist:5D2ui1KD49TfyCDb35zf5V"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
     },
     "href": "https://api.spotify.com/v1/artists/5ET6v0l25osw5BzztPsMvD",
