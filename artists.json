@@ -891,6 +891,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
+    },
+    "href": "https://api.spotify.com/v1/artists/18u6URN38HiDhEhYqfUmiz",
+    "id": "18u6URN38HiDhEhYqfUmiz",
+    "name": "Bear Busby",
+    "type": "artist",
+    "uri": "spotify:artist:18u6URN38HiDhEhYqfUmiz"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5"
     },
     "href": "https://api.spotify.com/v1/artists/18vnqu7XJRHPmua3tsejG5",
@@ -1528,6 +1538,16 @@
     "name": "J Balvin",
     "type": "artist",
     "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+    },
+    "href": "https://api.spotify.com/v1/artists/1vzVsiVbWQoAchoMxVpCdu",
+    "id": "1vzVsiVbWQoAchoMxVpCdu",
+    "name": "Soui Uno",
+    "type": "artist",
+    "uri": "spotify:artist:1vzVsiVbWQoAchoMxVpCdu"
   },
   {
     "external_urls": {
@@ -3651,6 +3671,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
+    },
+    "href": "https://api.spotify.com/v1/artists/5M93gtdh8dIv85CDYnuP90",
+    "id": "5M93gtdh8dIv85CDYnuP90",
+    "name": "Catana",
+    "type": "artist",
+    "uri": "spotify:artist:5M93gtdh8dIv85CDYnuP90"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
     },
     "href": "https://api.spotify.com/v1/artists/5MRMYpdAWZawm3ivBeWvdK",
@@ -5028,6 +5058,16 @@
     "name": "Iván Rosa",
     "type": "artist",
     "uri": "spotify:artist:7i6BoVBVFvAbmIOT7GDvDF"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7iDtJkNeuBUsUU03UMzZzE"
+    },
+    "href": "https://api.spotify.com/v1/artists/7iDtJkNeuBUsUU03UMzZzE",
+    "id": "7iDtJkNeuBUsUU03UMzZzE",
+    "name": "Ese Té",
+    "type": "artist",
+    "uri": "spotify:artist:7iDtJkNeuBUsUU03UMzZzE"
   },
   {
     "external_urls": {
