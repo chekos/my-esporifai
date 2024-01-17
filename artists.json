@@ -2741,6 +2741,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+    },
+    "href": "https://api.spotify.com/v1/artists/3tnECtf0aO6jeCJOXHKMg4",
+    "id": "3tnECtf0aO6jeCJOXHKMg4",
+    "name": "amlo",
+    "type": "artist",
+    "uri": "spotify:artist:3tnECtf0aO6jeCJOXHKMg4"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
     },
     "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
@@ -4361,6 +4371,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+    },
+    "href": "https://api.spotify.com/v1/artists/6MvnyPinXRQbUCMsPoymhR",
+    "id": "6MvnyPinXRQbUCMsPoymhR",
+    "name": "Lenny Loops",
+    "type": "artist",
+    "uri": "spotify:artist:6MvnyPinXRQbUCMsPoymhR"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
     },
     "href": "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
@@ -4558,6 +4578,16 @@
     "name": "Akapellah",
     "type": "artist",
     "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+    },
+    "href": "https://api.spotify.com/v1/artists/6fzN4HcSe04gUIKj6qFlKB",
+    "id": "6fzN4HcSe04gUIKj6qFlKB",
+    "name": "Jose Bautista",
+    "type": "artist",
+    "uri": "spotify:artist:6fzN4HcSe04gUIKj6qFlKB"
   },
   {
     "external_urls": {
