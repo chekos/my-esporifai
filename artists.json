@@ -1161,6 +1161,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+    },
+    "href": "https://api.spotify.com/v1/artists/1U1el3k54VvEUzo3ybLPlM",
+    "id": "1U1el3k54VvEUzo3ybLPlM",
+    "name": "Kali Uchis",
+    "type": "artist",
+    "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
     },
     "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
