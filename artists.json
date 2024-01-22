@@ -1311,6 +1311,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
+    },
+    "href": "https://api.spotify.com/v1/artists/1fGlKY2s0o51QUA9gScpWR",
+    "id": "1fGlKY2s0o51QUA9gScpWR",
+    "name": "Voces Del Rancho",
+    "type": "artist",
+    "uri": "spotify:artist:1fGlKY2s0o51QUA9gScpWR"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1fKmFe01L78vPmmiJ10LAs"
     },
     "href": "https://api.spotify.com/v1/artists/1fKmFe01L78vPmmiJ10LAs",
@@ -4508,6 +4518,16 @@
     "name": "Aida Rojo",
     "type": "artist",
     "uri": "spotify:artist:6UWkI7vTvVxm414XiKR8F7"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+    },
+    "href": "https://api.spotify.com/v1/artists/6VD4UEUPvtsemqD3mmTqCR",
+    "id": "6VD4UEUPvtsemqD3mmTqCR",
+    "name": "Deorro",
+    "type": "artist",
+    "uri": "spotify:artist:6VD4UEUPvtsemqD3mmTqCR"
   },
   {
     "external_urls": {

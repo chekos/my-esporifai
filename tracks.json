@@ -24576,6 +24576,30 @@
     "uri": "spotify:track:4PrjdEeGMfjv6sp9VtCPfy"
   },
   {
+    "album_id": "23sx3VV6hMtdvRvkMx52uF",
+    "artist_ids": [
+      "6VD4UEUPvtsemqD3mmTqCR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 210349,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMANG2234312"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4QC5C5FOQtEcuw0ZDrgTxJ",
+    "id": "4QC5C5FOQtEcuw0ZDrgTxJ",
+    "is_local": false,
+    "name": "Camaron Pelao",
+    "popularity": 52,
+    "preview_url": "https://p.scdn.co/mp3-preview/6ad06b5cc8f0d7cdfa99a51c16bb887ecc8293d3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4QC5C5FOQtEcuw0ZDrgTxJ"
+  },
+  {
     "album_id": "1UDfUiqSqAZ4TFom6yzZ89",
     "artist_ids": [
       "1cUpGtXcSQsovNYEZOQgOG"
@@ -34726,6 +34750,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6JlqSgMSdggTQwUB3V5b08"
+  },
+  {
+    "album_id": "7Mz1geAbnUUcBLwqRSGX80",
+    "artist_ids": [
+      "0N6H5exnFMoW4yNQ3vDJ3Z"
+    ],
+    "disc_number": 1,
+    "duration_ms": 198200,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "ESA011921845"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6Jyv6gDDJZnkFp4DkANfPb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6Jyv6gDDJZnkFp4DkANfPb",
+    "id": "6Jyv6gDDJZnkFp4DkANfPb",
+    "is_local": false,
+    "name": "Barsmagedon",
+    "popularity": 10,
+    "preview_url": "https://p.scdn.co/mp3-preview/0458f665c365d0995972da5e308bda2428032ba6?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:6Jyv6gDDJZnkFp4DkANfPb"
   },
   {
     "album_id": "0HMwzqNNPcqItuRWjya5HI",
