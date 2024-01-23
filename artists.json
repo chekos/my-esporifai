@@ -321,6 +321,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+    },
+    "href": "https://api.spotify.com/v1/artists/0T8Ix53aIN4F7aEKj4EnKy",
+    "id": "0T8Ix53aIN4F7aEKj4EnKy",
+    "name": "Jasiel Nuñez",
+    "type": "artist",
+    "uri": "spotify:artist:0T8Ix53aIN4F7aEKj4EnKy"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
     },
     "href": "https://api.spotify.com/v1/artists/0TF2NxkJZPQoX1H53rEFM1",

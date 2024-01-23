@@ -19704,6 +19704,30 @@
     "uri": "spotify:track:3St6Cmnu7aSFz61Qo6Vult"
   },
   {
+    "album_id": "3Oxo5otS6sHMaa06uPUGxp",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 166110,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300094"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3Sualy9gkVDHDgOKcTJgFd",
+    "id": "3Sualy9gkVDHDgOKcTJgFd",
+    "is_local": false,
+    "name": "Afuera Que Tengan Miedo - Jayrick Remix",
+    "popularity": 59,
+    "preview_url": "https://p.scdn.co/mp3-preview/19c034e7de57788a189c0da052cd223aae56cadb?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3Sualy9gkVDHDgOKcTJgFd"
+  },
+  {
     "album_id": "5MbvXyQE56q5w70lypEptu",
     "artist_ids": [
       "5MRMYpdAWZawm3ivBeWvdK"
@@ -22438,6 +22462,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3wbfHEPHlPVRU5bQJFItcU"
+  },
+  {
+    "album_id": "6obRcLVFuI4x6jan7GNkYJ",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 265045,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMBZ92388584"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3wlIAXSDtlD9iU8ysld06Z",
+    "id": "3wlIAXSDtlD9iU8ysld06Z",
+    "is_local": false,
+    "name": "BIPOLAR",
+    "popularity": 88,
+    "preview_url": "https://p.scdn.co/mp3-preview/f24fad9ae90adcea8f9ce7456a174f2493c1c262?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3wlIAXSDtlD9iU8ysld06Z"
   },
   {
     "album_id": "6RBGm1BTZmgxk7kCiTHvNB",
@@ -29734,6 +29782,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:5JVrEEGdlpNj82dDrV12PB"
+  },
+  {
+    "album_id": "7aPdCEUFmD0RrfEoWBf5UP",
+    "artist_ids": [
+      "4eMuhPGCPEo6ZU7Q6TlYw9"
+    ],
+    "disc_number": 1,
+    "duration_ms": 235240,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF600900288"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5Ji3zw9BeOHcaUiTT699RK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5Ji3zw9BeOHcaUiTT699RK",
+    "id": "5Ji3zw9BeOHcaUiTT699RK",
+    "is_local": false,
+    "name": "Expulsados del Paraíso",
+    "popularity": 6,
+    "preview_url": "https://p.scdn.co/mp3-preview/7132e013323cce256a7f5e5684932432f203bb4a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:5Ji3zw9BeOHcaUiTT699RK"
   },
   {
     "album_id": "6mLibLcryM88Oe1RJivWZU",
@@ -38878,6 +38950,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7Bar1kLTmsRmH6FCKKMEyU"
+  },
+  {
+    "album_id": "2z6BtLYt7p6mLoSkHUeHKg",
+    "artist_ids": [
+      "07PdYoE4jVRF6Ut40GgVSP"
+    ],
+    "disc_number": 1,
+    "duration_ms": 176152,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MX3602400001"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7BmOxGh7YUSfySLs56qqR0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7BmOxGh7YUSfySLs56qqR0",
+    "id": "7BmOxGh7YUSfySLs56qqR0",
+    "is_local": false,
+    "name": "Chula",
+    "popularity": 53,
+    "preview_url": "https://p.scdn.co/mp3-preview/6364cd3f2b10e5696926144b9c3ec857c2989af4?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7BmOxGh7YUSfySLs56qqR0"
   },
   {
     "album_id": "1lhMLJ6dQ8mvdT0bT7ZG3i",
