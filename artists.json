@@ -1931,6 +1931,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2TCgRU9HASdubZKWUcQOzn"
+    },
+    "href": "https://api.spotify.com/v1/artists/2TCgRU9HASdubZKWUcQOzn",
+    "id": "2TCgRU9HASdubZKWUcQOzn",
+    "name": "Munddai",
+    "type": "artist",
+    "uri": "spotify:artist:2TCgRU9HASdubZKWUcQOzn"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
     },
     "href": "https://api.spotify.com/v1/artists/2TQ4CGgxxCWHqa9yYIGDoU",
@@ -3408,6 +3418,16 @@
     "name": "José José",
     "type": "artist",
     "uri": "spotify:artist:4mN0qcMxWX8oToqfDPM5yV"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4nbRPgBePOzxXDV1tcxFpy"
+    },
+    "href": "https://api.spotify.com/v1/artists/4nbRPgBePOzxXDV1tcxFpy",
+    "id": "4nbRPgBePOzxXDV1tcxFpy",
+    "name": "Zao Élar",
+    "type": "artist",
+    "uri": "spotify:artist:4nbRPgBePOzxXDV1tcxFpy"
   },
   {
     "external_urls": {
