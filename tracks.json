@@ -5304,6 +5304,30 @@
     "uri": "spotify:track:0uaRhb1Hywy0Xy04YGtUBW"
   },
   {
+    "album_id": "0i3ISvXZYcqhu29ofcnVJI",
+    "artist_ids": [
+      "4d8Fcih9xLX58y7r7LAPKV"
+    ],
+    "disc_number": 1,
+    "duration_ms": 118166,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "SE5BU2225170"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0uphcJxEE2Slw2kg2Zo1PC",
+    "id": "0uphcJxEE2Slw2kg2Zo1PC",
+    "is_local": false,
+    "name": "Call me",
+    "popularity": 26,
+    "preview_url": "https://p.scdn.co/mp3-preview/1be25df4f4209c37ee55143dfbd44927f728effa?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0uphcJxEE2Slw2kg2Zo1PC"
+  },
+  {
     "album_id": "1y9lJbemJO1OdyIQvcL1q4",
     "artist_ids": [
       "1iIxNEvPPmdFIIP0tdpw6G"
@@ -37344,6 +37368,30 @@
     "uri": "spotify:track:6tEl8GwFJEFyxZAO1ibTRF"
   },
   {
+    "album_id": "5f7XpTfXYCt8GWvk9sqEjT",
+    "artist_ids": [
+      "5jaiaZFHhEcPR2uAz8yGHP"
+    ],
+    "disc_number": 1,
+    "duration_ms": 185791,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USANG2251010"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6tSkvfWiXCkjqUXKXbLFKk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6tSkvfWiXCkjqUXKXbLFKk",
+    "id": "6tSkvfWiXCkjqUXKXbLFKk",
+    "is_local": false,
+    "name": "Opinable",
+    "popularity": 23,
+    "preview_url": "https://p.scdn.co/mp3-preview/68e8261cd56f7b6991cc868e63f0a05b38ef978c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6tSkvfWiXCkjqUXKXbLFKk"
+  },
+  {
     "album_id": "7pgxTiHbEYzaj1QktvgOOk",
     "artist_ids": [
       "1BIPunmLho7BYxe9gD4bFg"
@@ -37846,6 +37894,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:70GAjPsFUwdyokfXlJ9eWG"
+  },
+  {
+    "album_id": "3RbrgYXo7GUFlswEjTIE0k",
+    "artist_ids": [
+      "77VSC0Qw9PDZJzH9Fv28Ps"
+    ],
+    "disc_number": 1,
+    "duration_ms": 129729,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZ5AB1866057"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l"
+    },
+    "href": "https://api.spotify.com/v1/tracks/714r0v2GgUxReN9FI6vK1l",
+    "id": "714r0v2GgUxReN9FI6vK1l",
+    "is_local": false,
+    "name": "Playa",
+    "popularity": 24,
+    "preview_url": "https://p.scdn.co/mp3-preview/1a6bb8e6555920d2db795412a6f2392eedc3d24b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:714r0v2GgUxReN9FI6vK1l"
   },
   {
     "album_id": "7LfNHO58gshGnniObPb4L1",
@@ -41830,6 +41902,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7tmsawE97VO4OMPVGEVnXM"
+  },
+  {
+    "album_id": "65EeYVK4U9nDCWgvDBBYkz",
+    "artist_ids": [
+      "4oEls8QwyhaJninX4RFdcl"
+    ],
+    "disc_number": 1,
+    "duration_ms": 115500,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "US3DF2238124"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7trcOO7EkUVYqklE7dl2LE",
+    "id": "7trcOO7EkUVYqklE7dl2LE",
+    "is_local": false,
+    "name": "El Chavito Triste",
+    "popularity": 25,
+    "preview_url": "https://p.scdn.co/mp3-preview/33000edecfee89231a34d14f0d8de42d00c5d289?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:7trcOO7EkUVYqklE7dl2LE"
   },
   {
     "album_id": "6F63jSWBoMdCl5VcGH3xQO",

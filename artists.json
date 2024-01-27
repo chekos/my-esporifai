@@ -3291,6 +3291,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+    },
+    "href": "https://api.spotify.com/v1/artists/4d8Fcih9xLX58y7r7LAPKV",
+    "id": "4d8Fcih9xLX58y7r7LAPKV",
+    "name": "Muerto A Puntapiés",
+    "type": "artist",
+    "uri": "spotify:artist:4d8Fcih9xLX58y7r7LAPKV"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4dgg2FsnowLvnzFaXVqhNX"
     },
     "href": "https://api.spotify.com/v1/artists/4dgg2FsnowLvnzFaXVqhNX",
@@ -3398,6 +3408,16 @@
     "name": "Ovi",
     "type": "artist",
     "uri": "spotify:artist:4o0NtnL2m0lzZmEdRas1qv"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+    },
+    "href": "https://api.spotify.com/v1/artists/4oEls8QwyhaJninX4RFdcl",
+    "id": "4oEls8QwyhaJninX4RFdcl",
+    "name": "SpoonBeats",
+    "type": "artist",
+    "uri": "spotify:artist:4oEls8QwyhaJninX4RFdcl"
   },
   {
     "external_urls": {
@@ -3948,6 +3968,16 @@
     "name": "Deniece Williams",
     "type": "artist",
     "uri": "spotify:artist:5jNGQ7VOU87x5402JjhTtd"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+    },
+    "href": "https://api.spotify.com/v1/artists/5jaiaZFHhEcPR2uAz8yGHP",
+    "id": "5jaiaZFHhEcPR2uAz8yGHP",
+    "name": "Jiony",
+    "type": "artist",
+    "uri": "spotify:artist:5jaiaZFHhEcPR2uAz8yGHP"
   },
   {
     "external_urls": {
@@ -4888,6 +4918,16 @@
     "name": "Steve Aoki",
     "type": "artist",
     "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps"
+    },
+    "href": "https://api.spotify.com/v1/artists/77VSC0Qw9PDZJzH9Fv28Ps",
+    "id": "77VSC0Qw9PDZJzH9Fv28Ps",
+    "name": "slider beats",
+    "type": "artist",
+    "uri": "spotify:artist:77VSC0Qw9PDZJzH9Fv28Ps"
   },
   {
     "external_urls": {
