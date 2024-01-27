@@ -1961,6 +1961,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX"
+    },
+    "href": "https://api.spotify.com/v1/artists/2XZY2dx8EPrdxOXfNj1tfX",
+    "id": "2XZY2dx8EPrdxOXfNj1tfX",
+    "name": "Suerte Lo-Fi",
+    "type": "artist",
+    "uri": "spotify:artist:2XZY2dx8EPrdxOXfNj1tfX"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
     },
     "href": "https://api.spotify.com/v1/artists/2XcZshqzPKm3iZcmt73R8D",
