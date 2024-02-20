@@ -3611,6 +3611,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM"
+    },
+    "href": "https://api.spotify.com/v1/artists/58HXUsUwpjyLNpaKs4gMvM",
+    "id": "58HXUsUwpjyLNpaKs4gMvM",
+    "name": "Chain Trackz",
+    "type": "artist",
+    "uri": "spotify:artist:58HXUsUwpjyLNpaKs4gMvM"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
     },
     "href": "https://api.spotify.com/v1/artists/59Ih0XIAzMXq7Yf9ny3u5t",
