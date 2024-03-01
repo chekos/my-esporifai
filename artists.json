@@ -941,6 +941,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1DllslCLS9fARnFNUiBfGV"
+    },
+    "href": "https://api.spotify.com/v1/artists/1DllslCLS9fARnFNUiBfGV",
+    "id": "1DllslCLS9fARnFNUiBfGV",
+    "name": "Wicho",
+    "type": "artist",
+    "uri": "spotify:artist:1DllslCLS9fARnFNUiBfGV"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
     },
     "href": "https://api.spotify.com/v1/artists/1EtE0iSY6iFlN9L9c53ETy",
@@ -2548,6 +2558,16 @@
     "name": "Xavi",
     "type": "artist",
     "uri": "spotify:artist:3Me35AWHCGqW4sZ7bWWJt1"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3Mp8C0vL1gSAS6DLYdLL0U"
+    },
+    "href": "https://api.spotify.com/v1/artists/3Mp8C0vL1gSAS6DLYdLL0U",
+    "id": "3Mp8C0vL1gSAS6DLYdLL0U",
+    "name": "Dee",
+    "type": "artist",
+    "uri": "spotify:artist:3Mp8C0vL1gSAS6DLYdLL0U"
   },
   {
     "external_urls": {
