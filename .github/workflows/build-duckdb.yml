@@ -10,11 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Set up python
-        uses: actions/setup-python@v4
-        with: 
-          python-version: "3.11"
-          cache: pip
       - name: Install duckdb
         uses: opt-nc/setup-duckdb-action@v1.0.7
       - name: Build duckdb db
@@ -24,6 +19,7 @@ jobs:
           duckdb spotify.db -c "EXPORT DATABASE 'tmp';"
           sed -i 's/CREATE SCHEMA main;/CREATE SCHEMA IF NOT EXISTS main;/' tmp/schema.sql
           duckdb spotify.duckdb -c "IMPORT DATABASE 'tmp';"
+          rm -rf tmp
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
