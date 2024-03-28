@@ -20,21 +20,15 @@ jobs:
       - name: Build duckdb db
         run: |-
           duckdb --version
-          curl -O http://extensions.duckdb.org/v0.10.1/linux_amd64_gcc4/sqlite_scanner.duckdb_extension.gz
           duckdb :memory: "INSTALL sqlite;"
-          duckdb -unsigned spotify.db -c "INSTALL sqlite; EXPORT DATABASE 'tmp';"
-          duckdb duck-spotify.db -c "IMPORT DATABASE 'tmp';"
+          duckdb spotify.db -c "EXPORT DATABASE 'tmp';"
+          sed -i 's/CREATE SCHEMA main;/CREATE SCHEMA IF NOT EXISTS main;/' tmp/schema.sql
+          duckdb spotify.duckdb -c "IMPORT DATABASE 'tmp';"
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git add -A
-          # Check for changes excluding .github directory and .db files starting with "duck"
-          CHANGES=$(git diff --name-only --cached | grep -Ev "^\.github/|^duck.*\.db$")
-          if [ -z "$CHANGES" ]; then
-            echo "No changes to commit outside of ignored paths."
-            exit 0
-          fi
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}"
           echo '### Changed files' >> $GITHUB_STEP_SUMMARY
