@@ -17,8 +17,9 @@ jobs:
           cache: pip
       - name: Install duckdb
         run: |-
-          curl -L -o duckdb_cli.tar.gz https://path/to/duckdb/cli/download.tar.gz
-          tar -zxvf duckdb_cli.tar.gz
+          curl -L -o duckdb_cli.zip https://github.com/duckdb/duckdb/releases/download/v0.10.1/duckdb_cli-linux-amd64.zip
+          unzip duckdb_cli.zip
+          chmod -x duckdb
           ./duckdb --version
       - name: Build duckdb db
         run: |-
