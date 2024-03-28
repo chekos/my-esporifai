@@ -9960,6 +9960,30 @@
     "uri": "spotify:track:1eIXYZWEfJO3Na2LCCnIJE"
   },
   {
+    "album_id": "1Po1bRIZS7PXEF7qyVP0J4",
+    "artist_ids": [
+      "0PI3pXpUMScjweiw3IbADc"
+    ],
+    "disc_number": 1,
+    "duration_ms": 242200,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "US36T0600204"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1f58xau99Rdn0hhcJTwRhz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1f58xau99Rdn0hhcJTwRhz",
+    "id": "1f58xau99Rdn0hhcJTwRhz",
+    "is_local": false,
+    "name": "Uncommon Valor: A Vietnam Story",
+    "popularity": 47,
+    "preview_url": "https://p.scdn.co/mp3-preview/6a0c79a3d53be305c045454b514c6482c0ceeaf4?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:1f58xau99Rdn0hhcJTwRhz"
+  },
+  {
     "album_id": "6tRFfmH926lmkq7tJceOIk",
     "artist_ids": [
       "2uG7vLSehD2quPeYSPkT73"
@@ -11544,6 +11568,30 @@
     "uri": "spotify:track:1tGGJ4SRZnd2H0E2dV05iM"
   },
   {
+    "album_id": "0pFydyko4Iw450abXlDPpp",
+    "artist_ids": [
+      "55Aa2cqylxrFIXC767Z865"
+    ],
+    "disc_number": 1,
+    "duration_ms": 121226,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USCM51100313"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1taGiVxLW3rzZ0T5TyUrws"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1taGiVxLW3rzZ0T5TyUrws",
+    "id": "1taGiVxLW3rzZ0T5TyUrws",
+    "is_local": false,
+    "name": "Interlude",
+    "popularity": 48,
+    "preview_url": "https://p.scdn.co/mp3-preview/41deae0a5df02978b4c89a83f6c3ee9b04665cd9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:1taGiVxLW3rzZ0T5TyUrws"
+  },
+  {
     "album_id": "4rJDCELWL0fjdmN9Gn4f4g",
     "artist_ids": [
       "6U3ybJ9UHNKEdsH7ktGBZ7"
@@ -11686,6 +11734,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:1wGNjZQoO4Ac5zotF3aZTb"
+  },
+  {
+    "album_id": "0gtroJqtkBhqDPb6cQTOhJ",
+    "artist_ids": [
+      "4UOlRVifrFdQHW9qu5ep8t"
+    ],
+    "disc_number": 1,
+    "duration_ms": 222693,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USZXT0910126"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1wJyVldOVNI1Fipa513W8S"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1wJyVldOVNI1Fipa513W8S",
+    "id": "1wJyVldOVNI1Fipa513W8S",
+    "is_local": false,
+    "name": "Sickology 101",
+    "popularity": 44,
+    "preview_url": "https://p.scdn.co/mp3-preview/c1edcd5ba4e4371ad7173e38baa37836a8cbc3ce?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1wJyVldOVNI1Fipa513W8S"
   },
   {
     "album_id": "3DV9mnh2iZ9imAhsSLpHRE",
@@ -13774,6 +13846,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:2LIOX65LUz2yDCQ5G7vyPi"
+  },
+  {
+    "album_id": "0ytQrBinlg9hb4uoaEmk37",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 326426,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USZXT1109711"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2Lo2BWhhlZSJds2yBhxoet"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2Lo2BWhhlZSJds2yBhxoet",
+    "id": "2Lo2BWhhlZSJds2yBhxoet",
+    "is_local": false,
+    "name": "Worldwide Choppers",
+    "popularity": 53,
+    "preview_url": "https://p.scdn.co/mp3-preview/93d8ea9367655f2e3c216b85dafa8dd687aac499?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:2Lo2BWhhlZSJds2yBhxoet"
   },
   {
     "album_id": "0DDsexe1qhQ2TQ43XztwMl",
@@ -17566,6 +17662,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:3390Ama7VNT2nqEKy2jcoB"
+  },
+  {
+    "album_id": "63uxYglJtSneGlHf5MKWfl",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 295306,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USZHR1500016"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/33MpATo5CCG2ennj6LAlYq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/33MpATo5CCG2ennj6LAlYq",
+    "id": "33MpATo5CCG2ennj6LAlYq",
+    "is_local": false,
+    "name": "Speedom (Wwc2)",
+    "popularity": 53,
+    "preview_url": "https://p.scdn.co/mp3-preview/6b34dc2ab738bd3b13ffe0fd73e0a8c19d13f3ca?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:33MpATo5CCG2ennj6LAlYq"
   },
   {
     "album_id": "3yDU0fUW1GTcFfQ3yQOrNP",
@@ -26592,6 +26712,30 @@
     "uri": "spotify:track:4hlkd0ei6iefgdkQP37Fsa"
   },
   {
+    "album_id": "0V2ApMkgurWGcF0sc0u17w",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 250360,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USA2P1304193"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4hsncV3bzuB83dBJcnSCBl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4hsncV3bzuB83dBJcnSCBl",
+    "id": "4hsncV3bzuB83dBJcnSCBl",
+    "is_local": false,
+    "name": "Straight Out the Gate",
+    "popularity": 50,
+    "preview_url": "https://p.scdn.co/mp3-preview/5ab3627257143b07799cc04341bc1e4e1bd12dcd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4hsncV3bzuB83dBJcnSCBl"
+  },
+  {
     "album_id": "3EIrTGzqRpH3WkMMtItcDH",
     "artist_ids": [
       "0927qApSSzZjH8F0Oyjrrv"
@@ -33696,6 +33840,30 @@
     "uri": "spotify:track:5uXPFET6ZJXOhvKEfBXosH"
   },
   {
+    "album_id": "6FirYoeExE1AdoBWs3Ut19",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 2,
+    "duration_ms": 270546,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USZXT0812184"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5ujT7zl7Gz9FGR9KHwrpzc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5ujT7zl7Gz9FGR9KHwrpzc",
+    "id": "5ujT7zl7Gz9FGR9KHwrpzc",
+    "is_local": false,
+    "name": "Why You Ain't Call Me",
+    "popularity": 21,
+    "preview_url": "https://p.scdn.co/mp3-preview/dbb215cb5fa88abee90fa5e5547ecbfbea693a11?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:5ujT7zl7Gz9FGR9KHwrpzc"
+  },
+  {
     "album_id": "6RBGm1BTZmgxk7kCiTHvNB",
     "artist_ids": [
       "4V2V4PaSblStayYVWTGDbZ"
@@ -39790,6 +39958,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:78hKxa3d79InsNyz2aBfOh"
+  },
+  {
+    "album_id": "4duGIjSoHyEDSMNS7gpRuF",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 267640,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USA2P1304194"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/78oA0jNmjz4vjpG0UQRq3a"
+    },
+    "href": "https://api.spotify.com/v1/tracks/78oA0jNmjz4vjpG0UQRq3a",
+    "id": "78oA0jNmjz4vjpG0UQRq3a",
+    "is_local": false,
+    "name": "B.I.T.C.H. (featuring T-Pain)",
+    "popularity": 34,
+    "preview_url": "https://p.scdn.co/mp3-preview/b38d478e23efdbeaef4482d48728437879de6d3a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:78oA0jNmjz4vjpG0UQRq3a"
   },
   {
     "album_id": "1FbMm1pioGi4Df4D1xcyFl",

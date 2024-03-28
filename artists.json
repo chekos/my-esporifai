@@ -291,6 +291,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc"
+    },
+    "href": "https://api.spotify.com/v1/artists/0PI3pXpUMScjweiw3IbADc",
+    "id": "0PI3pXpUMScjweiw3IbADc",
+    "name": "Jedi Mind Tricks",
+    "type": "artist",
+    "uri": "spotify:artist:0PI3pXpUMScjweiw3IbADc"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
     },
     "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
@@ -3748,6 +3758,16 @@
     "name": "Golden Ganga",
     "type": "artist",
     "uri": "spotify:artist:54P0u0BOmRdmtEVPgcoZy0"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+    },
+    "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+    "id": "55Aa2cqylxrFIXC767Z865",
+    "name": "Lil Wayne",
+    "type": "artist",
+    "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
   },
   {
     "external_urls": {
