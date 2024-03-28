@@ -20,9 +20,9 @@ jobs:
       - name: Build duckdb db
         run: |-
           duckdb --version
-          duckdb spotify.db -c "INSTALL sqlite; EXPORT DATABASE 'tmp';"
-          duckdb duck-spotify.db -c "IMPORT DATABASE 'tmp'"
-          rm tmp
+          sqlite3 spotify.db .dump > dump.sql
+          duckdb duck-spotify.db < dump.sql
+          rm dump.sql
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
