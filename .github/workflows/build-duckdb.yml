@@ -1,0 +1,43 @@
+name: Build duckdb 
+on:
+  push:
+    paths:
+      - "spotify.db"
+  workflow_dispatch:
+jobs:
+  build-db:
+    name: "Build duck db of sqlite db"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Set up python
+        uses: actions/setup-python@v4
+        with: 
+          python-version: "3.11"
+          cache: pip
+      - name: Install duckdb
+        run: pip install duckdb
+      - name: Build duckdb db
+        run: |-
+          duckdb spotify.db -c "EXPORT DATABASE 'tmp'"
+          duckdb duck-spotify.db -c "IMPORT DATABASE 'tmp'"
+          rm tmp
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          # Check for changes excluding .github directory and .db files starting with "duck"
+          CHANGES=$(git diff --name-only --cached | grep -Ev "^\.github/|^duck.*\.db$")
+          if [ -z "$CHANGES" ]; then
+            echo "No changes to commit outside of ignored paths."
+            exit 0
+          fi
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}"
+          echo '### Changed files' >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          git show --name-only --format=tformat: >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          git pull --rebase
+          git push
