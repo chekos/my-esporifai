@@ -21,7 +21,7 @@ jobs:
         run: |-
           duckdb --version
           curl -O http://extensions.duckdb.org/v0.10.1/linux_amd64_gcc4/sqlite_scanner.duckdb_extension.gz
-          duckdb -unsigned spotify.db -c "INSTALL 'sqlite_scanner.duckdb_extension.gz'; EXPORT DATABASE 'tmp';"
+          duckdb -unsigned spotify.db -c "INSTALL './sqlite_scanner.duckdb_extension.gz'; EXPORT DATABASE 'tmp';"
           duckdb duck-spotify.db -c "IMPORT DATABASE 'tmp';"
       - name: Commit and push if it changed
         run: |-
