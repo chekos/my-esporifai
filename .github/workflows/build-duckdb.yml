@@ -21,9 +21,9 @@ jobs:
         run: |-
           duckdb --version
           curl -O http://extensions.duckdb.org/v0.10.1/linux_amd64/sqlite.duckdb_extension.gz
-          duckdb :memory: "INSTALL sqlite.duckdb_extension.gz"
-          duckdb duck-spotify.db < modified_dump.sql
-          rm dump.sql
+          duckdb :memory: "INSTALL 'sqlite.duckdb_extension.gz'"
+          duckdb spotify.db -c "INSTALL 'sqlite.duckdb_extensions.gz'; EXPORT DATABASE 'tmp';"
+          duckdb duck-spotify.db -c "IMPORT DATABASE 'tmp';"
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
