@@ -21,7 +21,8 @@ jobs:
         run: |-
           duckdb --version
           sqlite3 spotify.db .dump > dump.sql
-          duckdb duck-spotify.db < dump.sql
+          sed '/sqlite_master/d' dump.sql > modified_dump.sql
+          duckdb duck-spotify.db < modified_dump.sql
           rm dump.sql
       - name: Commit and push if it changed
         run: |-
