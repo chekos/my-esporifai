@@ -9,7 +9,7 @@ jobs:
     name: "Build duck db of sqlite db"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
       - name: Set up python
         uses: actions/setup-python@v4
         with: 
