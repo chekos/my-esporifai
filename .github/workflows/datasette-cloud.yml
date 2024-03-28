@@ -3,6 +3,11 @@ name: Post records to Datasette Cloud
 on:
   # Push to repository
   push:
+    branches:
+      - main
+    paths-ignore:
+      - ".github/**"
+      - "duck*.db"
   # Can be activated manually:
   workflow_dispatch:
   # Runs twice a day
