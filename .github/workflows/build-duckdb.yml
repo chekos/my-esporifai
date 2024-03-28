@@ -16,15 +16,11 @@ jobs:
           python-version: "3.11"
           cache: pip
       - name: Install duckdb
-        run: |-
-          curl -L -o duckdb_cli.zip https://github.com/duckdb/duckdb/releases/download/v0.10.1/duckdb_cli-linux-amd64.zip
-          unzip duckdb_cli.zip
-          chmod -x duckdb
-          ./duckdb --version
+        uses: opt-nc/setup-duckdb-action@v1.0.7
       - name: Build duckdb db
         run: |-
-          ./duckdb spotify.db -c "EXPORT DATABASE 'tmp'"
-          ./duckdb duck-spotify.db -c "IMPORT DATABASE 'tmp'"
+          duckdb spotify.db -c "EXPORT DATABASE 'tmp'"
+          duckdb duck-spotify.db -c "IMPORT DATABASE 'tmp'"
           rm tmp
       - name: Commit and push if it changed
         run: |-
