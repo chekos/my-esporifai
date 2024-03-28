@@ -4080,6 +4080,30 @@
     "uri": "spotify:track:0dyz7VlyWTbd9mbuUl3wKq"
   },
   {
+    "album_id": "7eUmMXeZLYIn4IKpyko33w",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 209880,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USZHR0600005"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0ejGGk4KzMPSKaseftuLT6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ejGGk4KzMPSKaseftuLT6",
+    "id": "0ejGGk4KzMPSKaseftuLT6",
+    "is_local": false,
+    "name": "Bout Ta Bubble (Album Version (Explicit))",
+    "popularity": 40,
+    "preview_url": "https://p.scdn.co/mp3-preview/a97681acd81e0faf10998c77faf155bf59504b88?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:0ejGGk4KzMPSKaseftuLT6"
+  },
+  {
     "album_id": "2z1eY7EHl7VGDaDdyEW1LM",
     "artist_ids": [
       "1cUpGtXcSQsovNYEZOQgOG"
@@ -4462,6 +4486,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0k3gWAc5HYsThoid8cvNL7"
+  },
+  {
+    "album_id": "63uxYglJtSneGlHf5MKWfl",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 225040,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USQY51534920"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0kIHfcHGFGm5xb0dSlKEdp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0kIHfcHGFGm5xb0dSlKEdp",
+    "id": "0kIHfcHGFGm5xb0dSlKEdp",
+    "is_local": false,
+    "name": "Hood Go Crazy",
+    "popularity": 60,
+    "preview_url": "https://p.scdn.co/mp3-preview/397321f7f4513df9f3e8c56f26af91ab1e91765b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:0kIHfcHGFGm5xb0dSlKEdp"
   },
   {
     "album_id": "5EC9dpKhvj5niMAA4HRmfQ",
@@ -6648,6 +6696,30 @@
     "uri": "spotify:track:17lYy3xemKF5oRZcsgALMR"
   },
   {
+    "album_id": "63uxYglJtSneGlHf5MKWfl",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 169026,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USQY51526193"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/17mWGN90p4BJzxu8AFj7fs"
+    },
+    "href": "https://api.spotify.com/v1/tracks/17mWGN90p4BJzxu8AFj7fs",
+    "id": "17mWGN90p4BJzxu8AFj7fs",
+    "is_local": false,
+    "name": "Aw Yeah? (Intervention)",
+    "popularity": 36,
+    "preview_url": "https://p.scdn.co/mp3-preview/7aebe8c070ca9202285d79a1de49d93143c6e0e8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:17mWGN90p4BJzxu8AFj7fs"
+  },
+  {
     "album_id": "7vwAHNmOb341jyF7FcLOU5",
     "artist_ids": [
       "3fo4UvMNzZUCFS90Roh5iK"
@@ -7486,6 +7558,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:1GD5cOVpcuCuGOL45d1EFV"
+  },
+  {
+    "album_id": "4duGIjSoHyEDSMNS7gpRuF",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 259560,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USA2P1304203"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1HATupsnQ29NweItMX1q2E"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1HATupsnQ29NweItMX1q2E",
+    "id": "1HATupsnQ29NweItMX1q2E",
+    "is_local": false,
+    "name": "So Dope (They Wanna)",
+    "popularity": 33,
+    "preview_url": "https://p.scdn.co/mp3-preview/70b1cf219857f705500375ca3010ffd191be0a11?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:1HATupsnQ29NweItMX1q2E"
   },
   {
     "album_id": "1YgX8BWKleDlDeCOFklRfz",
@@ -17398,6 +17494,30 @@
     "track_number": 11,
     "type": "track",
     "uri": "spotify:track:2yvyvp3VItCHhMTEWYVh5K"
+  },
+  {
+    "album_id": "6FirYoeExE1AdoBWs3Ut19",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 285573,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USZXT0812144"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2z5FQBjeKclsyBcBXWYoVU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2z5FQBjeKclsyBcBXWYoVU",
+    "id": "2z5FQBjeKclsyBcBXWYoVU",
+    "is_local": false,
+    "name": "Blackboy",
+    "popularity": 22,
+    "preview_url": "https://p.scdn.co/mp3-preview/adaa6203f787c3cc1ca3d4adbd9eb158cd6bdb6d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:2z5FQBjeKclsyBcBXWYoVU"
   },
   {
     "album_id": "4hpY1ryuyFipmOovXGoT88",
@@ -30192,6 +30312,30 @@
     "uri": "spotify:track:5DOOBIWVZYfBBgUHRMOxfj"
   },
   {
+    "album_id": "63uxYglJtSneGlHf5MKWfl",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 243373,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USZHR1500013"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5Db7N8VRDmHtO5eKf5k3JF"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5Db7N8VRDmHtO5eKf5k3JF",
+    "id": "5Db7N8VRDmHtO5eKf5k3JF",
+    "is_local": false,
+    "name": "Bass Ackwards",
+    "popularity": 43,
+    "preview_url": "https://p.scdn.co/mp3-preview/ecdc501c90e51781d23283f4be6507d50d270804?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:5Db7N8VRDmHtO5eKf5k3JF"
+  },
+  {
     "album_id": "28UMKbtvUg31nRPHz1aGOi",
     "artist_ids": [
       "645xd9cHiiLqqehoLzLMDR"
@@ -31344,6 +31488,30 @@
     "uri": "spotify:track:5OeINmUO5dLt39krra36v6"
   },
   {
+    "album_id": "5Z6pmuZY9xZuRv8CxcwQtL",
+    "artist_ids": [
+      "4UOlRVifrFdQHW9qu5ep8t"
+    ],
+    "disc_number": 1,
+    "duration_ms": 237613,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USQY51441803"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5OjBBglPoSFxgIpfaebuAD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5OjBBglPoSFxgIpfaebuAD",
+    "id": "5OjBBglPoSFxgIpfaebuAD",
+    "is_local": false,
+    "name": "Hard (A Monster Made It)",
+    "popularity": 43,
+    "preview_url": "https://p.scdn.co/mp3-preview/5c9b76df03c321a88bdf0a1c0c1608bc4a4dfb31?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5OjBBglPoSFxgIpfaebuAD"
+  },
+  {
     "album_id": "5F29828sgPmoMIbh38euyZ",
     "artist_ids": [
       "3fo4UvMNzZUCFS90Roh5iK"
@@ -31462,6 +31630,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:5Q2uU5NGcS0mKwmgF28kRZ"
+  },
+  {
+    "album_id": "63uxYglJtSneGlHf5MKWfl",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 188466,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USZHR1500014"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5QJCctUc6y2kLYkY8WsBa9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5QJCctUc6y2kLYkY8WsBa9",
+    "id": "5QJCctUc6y2kLYkY8WsBa9",
+    "is_local": false,
+    "name": "No K",
+    "popularity": 42,
+    "preview_url": "https://p.scdn.co/mp3-preview/dfadf364a28b5000afcd5d8e3a83fb0226b0c45b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:5QJCctUc6y2kLYkY8WsBa9"
   },
   {
     "album_id": "48xXX0Q141vKS9UcLu9mWW",
@@ -33984,6 +34176,30 @@
     "uri": "spotify:track:5vrF389IaDLN0YqPFUDzX5"
   },
   {
+    "album_id": "0V2ApMkgurWGcF0sc0u17w",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 178053,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USA2P1304202"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5w0Sl2i2oEd3tbGwE5TPWO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5w0Sl2i2oEd3tbGwE5TPWO",
+    "id": "5w0Sl2i2oEd3tbGwE5TPWO",
+    "is_local": false,
+    "name": "Dwamn",
+    "popularity": 44,
+    "preview_url": "https://p.scdn.co/mp3-preview/d2e0b6c9e307189e4bf695b9d52d9cb2d3a97dfc?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:5w0Sl2i2oEd3tbGwE5TPWO"
+  },
+  {
     "album_id": "7LP8ofOXYH2AGzc8ZCt0Oe",
     "artist_ids": [
       "07PdYoE4jVRF6Ut40GgVSP"
@@ -34054,6 +34270,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5wTVNpi5WDByxBgKgUE6MU"
+  },
+  {
+    "album_id": "4duGIjSoHyEDSMNS7gpRuF",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 250360,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USA2P1304193"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5wbx3j5vwizNgkWiDUD2GH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5wbx3j5vwizNgkWiDUD2GH",
+    "id": "5wbx3j5vwizNgkWiDUD2GH",
+    "is_local": false,
+    "name": "Straight Out the Gate",
+    "popularity": 34,
+    "preview_url": "https://p.scdn.co/mp3-preview/5ab3627257143b07799cc04341bc1e4e1bd12dcd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5wbx3j5vwizNgkWiDUD2GH"
   },
   {
     "album_id": "07w0rG5TETcyihsEIZR3qG",
@@ -43150,6 +43390,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7tmsawE97VO4OMPVGEVnXM"
+  },
+  {
+    "album_id": "1aMPeVSgyoG34dAu7iwRpD",
+    "artist_ids": [
+      "6UBA15slIuadJ8h2lPRPos"
+    ],
+    "disc_number": 1,
+    "duration_ms": 227493,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USZHR1600110"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7tof6xjzkgAQqBAHLa1r4r"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7tof6xjzkgAQqBAHLa1r4r",
+    "id": "7tof6xjzkgAQqBAHLa1r4r",
+    "is_local": false,
+    "name": "Sriracha",
+    "popularity": 51,
+    "preview_url": "https://p.scdn.co/mp3-preview/457b7eb28235e3c10dd87b15a49a3e255591d186?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:7tof6xjzkgAQqBAHLa1r4r"
   },
   {
     "album_id": "65EeYVK4U9nDCWgvDBBYkz",
