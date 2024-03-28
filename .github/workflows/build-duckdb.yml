@@ -20,7 +20,7 @@ jobs:
       - name: Build duckdb db
         run: |-
           duckdb --version
-          duckdb -c "INSTALL sqlite"
+          duckdb :memory: "INSTALL sqlite"
           duckdb spotify.db -c "EXPORT DATABASE 'tmp'"
           duckdb duck-spotify.db -c "IMPORT DATABASE 'tmp'"
           rm tmp
