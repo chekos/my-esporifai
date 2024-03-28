@@ -19,6 +19,8 @@ jobs:
         uses: opt-nc/setup-duckdb-action@v1.0.7
       - name: Build duckdb db
         run: |-
+          duckdb --version
+          duckdb -c "INSTALL sqlite"
           duckdb spotify.db -c "EXPORT DATABASE 'tmp'"
           duckdb duck-spotify.db -c "IMPORT DATABASE 'tmp'"
           rm tmp
