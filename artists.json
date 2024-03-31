@@ -1191,6 +1191,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+    },
+    "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+    "id": "1RyvyyTE3xzB2ZywiAwp0i",
+    "name": "Future",
+    "type": "artist",
+    "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
     },
     "href": "https://api.spotify.com/v1/artists/1SupJlEpv7RS2tPNRaHViT",
