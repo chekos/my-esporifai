@@ -14,6 +14,7 @@ plugins:
           $env: BOT_TOKEN
         actor:
           bot_id: my-bot
+    param: _auth_token
   datasette-dashboards:
     wrapped:
       title: esporifai wrapped
