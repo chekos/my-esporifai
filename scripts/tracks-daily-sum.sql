@@ -16,7 +16,7 @@ from
       date(played_at, "-8 hours") as played_date,
       count(*) as n
     from
-      history
+      streaming_history
     group by
       1,
       2

@@ -1,3 +1,4 @@
+.read scripts/streaming_history.sql
 .read scripts/tracks_rs.sql
 .read scripts/albums_rs.sql
 .read scripts/artists_rs.sql 
