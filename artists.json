@@ -3741,6 +3741,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/52WyfsARd4mYGaH1BBICDG"
+    },
+    "href": "https://api.spotify.com/v1/artists/52WyfsARd4mYGaH1BBICDG",
+    "id": "52WyfsARd4mYGaH1BBICDG",
+    "name": "Kami Mami",
+    "type": "artist",
+    "uri": "spotify:artist:52WyfsARd4mYGaH1BBICDG"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
     },
     "href": "https://api.spotify.com/v1/artists/52iwsT98xCoGgiGntTiR7K",
