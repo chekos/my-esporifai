@@ -811,6 +811,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+    },
+    "href": "https://api.spotify.com/v1/artists/108moq3rq6bm1M4Ypz0J02",
+    "id": "108moq3rq6bm1M4Ypz0J02",
+    "name": "Intocable",
+    "type": "artist",
+    "uri": "spotify:artist:108moq3rq6bm1M4Ypz0J02"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
     },
     "href": "https://api.spotify.com/v1/artists/11kBu957KTYoAltZHDm8gW",
