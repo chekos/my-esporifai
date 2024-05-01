@@ -29232,6 +29232,30 @@
     "uri": "spotify:track:52r1TmWPvby9sOqUEcPxuA"
   },
   {
+    "album_id": "66rxjBaeraSB1qqQcYQSel",
+    "artist_ids": [
+      "108moq3rq6bm1M4Ypz0J02"
+    ],
+    "disc_number": 1,
+    "duration_ms": 190533,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USEL19600238"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+    },
+    "href": "https://api.spotify.com/v1/tracks/53IpyJOqUIcCzCUtMjP9oy",
+    "id": "53IpyJOqUIcCzCUtMjP9oy",
+    "is_local": false,
+    "name": "¿Y Todo Para Qué?",
+    "popularity": 72,
+    "preview_url": "https://p.scdn.co/mp3-preview/e61a8a96707921dff77248bef4c3679ce4175686?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:53IpyJOqUIcCzCUtMjP9oy"
+  },
+  {
     "album_id": "2kGTwHezbLOPc7wK5YLVL7",
     "artist_ids": [
       "1FCItwxfRieMGhR0eRxotU"
@@ -36000,6 +36024,30 @@
     "uri": "spotify:track:6HNuacDgJHl74SdHhe3eSf"
   },
   {
+    "album_id": "4eLPsYPBmXABThSJ821sqY",
+    "artist_ids": [
+      "2YZyLoL8N0Wb9xBt1NhZWg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 185946,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM71703079"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6HZILIRieu8S0iqY8kIKhj",
+    "id": "6HZILIRieu8S0iqY8kIKhj",
+    "is_local": false,
+    "name": "DNA.",
+    "popularity": 80,
+    "preview_url": "https://p.scdn.co/mp3-preview/107655a6c41a8d0f62a53b5573e1d9288a498e68?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:6HZILIRieu8S0iqY8kIKhj"
+  },
+  {
     "album_id": "01UJJt3Aregqk8jZMDPB5x",
     "artist_ids": [
       "07PdYoE4jVRF6Ut40GgVSP"
@@ -40150,6 +40198,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:775hCSePn3GW4h9nZ636kq"
+  },
+  {
+    "album_id": "32bR4LcEc1PvJEhaKoo4ZN",
+    "artist_ids": [
+      "2YZyLoL8N0Wb9xBt1NhZWg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 383639,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUG12402839"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+    },
+    "href": "https://api.spotify.com/v1/tracks/77DRzu7ERs0TX3roZcre7Q",
+    "id": "77DRzu7ERs0TX3roZcre7Q",
+    "is_local": false,
+    "name": "euphoria",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/43ba580146a40d1ebc6e5808ef0fff85227a4d3a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:77DRzu7ERs0TX3roZcre7Q"
   },
   {
     "album_id": "7uIGxnb0Th4Av0R5oui7A0",

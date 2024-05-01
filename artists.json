@@ -2071,6 +2071,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "name": "Kendrick Lamar",
+    "type": "artist",
+    "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2ai0soTBUbXpAdBZBEKkmh"
     },
     "href": "https://api.spotify.com/v1/artists/2ai0soTBUbXpAdBZBEKkmh",
