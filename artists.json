@@ -941,6 +941,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+    },
+    "href": "https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK",
+    "id": "181bsRPaVXVlUKXrxwZfHK",
+    "name": "Megan Thee Stallion",
+    "type": "artist",
+    "uri": "spotify:artist:181bsRPaVXVlUKXrxwZfHK"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
     },
     "href": "https://api.spotify.com/v1/artists/18u6URN38HiDhEhYqfUmiz",
@@ -2748,6 +2758,16 @@
     "name": "MC Davo",
     "type": "artist",
     "uri": "spotify:artist:3TGeuw7OmACouH5JAKkX7I"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+    "id": "3TVXtAsR1Inumwj472S9r4",
+    "name": "Drake",
+    "type": "artist",
+    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
   },
   {
     "external_urls": {
