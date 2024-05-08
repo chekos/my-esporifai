@@ -33600,6 +33600,30 @@
     "uri": "spotify:track:5iLTQgPGIEYnHPo99kTb52"
   },
   {
+    "album_id": "0dYiy3lV8InRzTTStmFtuq",
+    "artist_ids": [
+      "0U5RYP2HMdGv2GhicLhkOI"
+    ],
+    "disc_number": 1,
+    "duration_ms": 193600,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USHM81836343"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5ikxVvxiartCefvERWxFNX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5ikxVvxiartCefvERWxFNX",
+    "id": "5ikxVvxiartCefvERWxFNX",
+    "is_local": false,
+    "name": "Mas Vale Cholo",
+    "popularity": 55,
+    "preview_url": "https://p.scdn.co/mp3-preview/6b26925fe5efea78deb962224b328218575f6dfb?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:5ikxVvxiartCefvERWxFNX"
+  },
+  {
     "album_id": "3SF8e5ewF7PaqWw6rPnfEg",
     "artist_ids": [
       "0XeEobZplHxzM9QzFQWLiR"
@@ -35854,6 +35878,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:6BtJgy7K98DgzCO8tRvEbw"
+  },
+  {
+    "album_id": "6jfFltnTJeUFhHjOMXZdFd",
+    "artist_ids": [
+      "0U5RYP2HMdGv2GhicLhkOI"
+    ],
+    "disc_number": 1,
+    "duration_ms": 173714,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USHM21907254"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6CeOuCrMBB3iHViJiO5whN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6CeOuCrMBB3iHViJiO5whN",
+    "id": "6CeOuCrMBB3iHViJiO5whN",
+    "is_local": false,
+    "name": "Sería Un Placer",
+    "popularity": 67,
+    "preview_url": "https://p.scdn.co/mp3-preview/8589cc45946ae6f91e23b368d76d9f83d120e257?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:6CeOuCrMBB3iHViJiO5whN"
   },
   {
     "album_id": "1uGcuxj82T9LJcoZBGjvDB",
