@@ -1801,6 +1801,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+    },
+    "href": "https://api.spotify.com/v1/artists/28ExwzUQsvgJooOI0X1mr3",
+    "id": "28ExwzUQsvgJooOI0X1mr3",
+    "name": "Jay Rock",
+    "type": "artist",
+    "uri": "spotify:artist:28ExwzUQsvgJooOI0X1mr3"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
     },
     "href": "https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN",
