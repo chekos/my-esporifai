@@ -2821,6 +2821,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
+    },
+    "href": "https://api.spotify.com/v1/artists/3avEda58Fg6xbTvdBtqzI0",
+    "id": "3avEda58Fg6xbTvdBtqzI0",
+    "name": "Alma De La Selva",
+    "type": "artist",
+    "uri": "spotify:artist:3avEda58Fg6xbTvdBtqzI0"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3bAGW0dsXwUAJMk7s8a5vB"
     },
     "href": "https://api.spotify.com/v1/artists/3bAGW0dsXwUAJMk7s8a5vB",
