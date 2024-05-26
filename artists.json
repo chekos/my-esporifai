@@ -4731,6 +4731,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6M7bd1arTLm5FJnNFYKzb6"
+    },
+    "href": "https://api.spotify.com/v1/artists/6M7bd1arTLm5FJnNFYKzb6",
+    "id": "6M7bd1arTLm5FJnNFYKzb6",
+    "name": "Ñengo El Quetzal",
+    "type": "artist",
+    "uri": "spotify:artist:6M7bd1arTLm5FJnNFYKzb6"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2"
     },
     "href": "https://api.spotify.com/v1/artists/6MB0O7jOsJ1OrkPAIlK3l2",
