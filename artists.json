@@ -1021,6 +1021,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+    },
+    "href": "https://api.spotify.com/v1/artists/1F23hhbmyCMBq3BadxKNhk",
+    "id": "1F23hhbmyCMBq3BadxKNhk",
+    "name": "Pure Negga",
+    "type": "artist",
+    "uri": "spotify:artist:1F23hhbmyCMBq3BadxKNhk"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
     },
     "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
@@ -3051,6 +3061,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/40YyzPIbiMyls21Eb0FZ57"
+    },
+    "href": "https://api.spotify.com/v1/artists/40YyzPIbiMyls21Eb0FZ57",
+    "id": "40YyzPIbiMyls21Eb0FZ57",
+    "name": "Kion Studio",
+    "type": "artist",
+    "uri": "spotify:artist:40YyzPIbiMyls21Eb0FZ57"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/40viYgJ68xlHVGiz9GBTIw"
     },
     "href": "https://api.spotify.com/v1/artists/40viYgJ68xlHVGiz9GBTIw",
@@ -4928,6 +4948,16 @@
     "name": "Sara Jordan Powell",
     "type": "artist",
     "uri": "spotify:artist:6cBr5hKnVKahZ7S8AcJQTo"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6d591y8xc9GWfbh7WD7xfN"
+    },
+    "href": "https://api.spotify.com/v1/artists/6d591y8xc9GWfbh7WD7xfN",
+    "id": "6d591y8xc9GWfbh7WD7xfN",
+    "name": "Degans",
+    "type": "artist",
+    "uri": "spotify:artist:6d591y8xc9GWfbh7WD7xfN"
   },
   {
     "external_urls": {
