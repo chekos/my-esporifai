@@ -971,6 +971,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+    },
+    "href": "https://api.spotify.com/v1/artists/19NGyg3ucHFhAP3mwPsggJ",
+    "id": "19NGyg3ucHFhAP3mwPsggJ",
+    "name": "Yahir Saldivar",
+    "type": "artist",
+    "uri": "spotify:artist:19NGyg3ucHFhAP3mwPsggJ"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg"
     },
     "href": "https://api.spotify.com/v1/artists/1BIPunmLho7BYxe9gD4bFg",
