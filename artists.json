@@ -1671,6 +1671,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+    },
+    "href": "https://api.spotify.com/v1/artists/1v6yTtwOltsxSmIqLqXe6V",
+    "id": "1v6yTtwOltsxSmIqLqXe6V",
+    "name": "Flyboiz",
+    "type": "artist",
+    "uri": "spotify:artist:1v6yTtwOltsxSmIqLqXe6V"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
     },
     "href": "https://api.spotify.com/v1/artists/1vrahybrKylgwkjhbmOz94",
@@ -4361,6 +4371,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
+    },
+    "href": "https://api.spotify.com/v1/artists/5mspsOF08gPhzzDwy5YFHM",
+    "id": "5mspsOF08gPhzzDwy5YFHM",
+    "name": "Meny Mendez",
+    "type": "artist",
+    "uri": "spotify:artist:5mspsOF08gPhzzDwy5YFHM"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
     },
     "href": "https://api.spotify.com/v1/artists/5nKGeITSNCVP76muyOlszy",
@@ -5518,6 +5538,16 @@
     "name": "Treck",
     "type": "artist",
     "uri": "spotify:artist:7eYDq8ZqHReFJgIN95S5EU"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+    },
+    "href": "https://api.spotify.com/v1/artists/7g38keVpPTJYsgkh7I4V3q",
+    "id": "7g38keVpPTJYsgkh7I4V3q",
+    "name": "Alka Produce",
+    "type": "artist",
+    "uri": "spotify:artist:7g38keVpPTJYsgkh7I4V3q"
   },
   {
     "external_urls": {
