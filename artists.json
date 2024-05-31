@@ -1591,6 +1591,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+    },
+    "href": "https://api.spotify.com/v1/artists/1pPmIToKXyGdsCF6LmqLmI",
+    "id": "1pPmIToKXyGdsCF6LmqLmI",
+    "name": "Rich The Kid",
+    "type": "artist",
+    "uri": "spotify:artist:1pPmIToKXyGdsCF6LmqLmI"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
     },
     "href": "https://api.spotify.com/v1/artists/1pi7nGhOM7PTHR5YEgXVGq",

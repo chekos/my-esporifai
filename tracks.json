@@ -7704,6 +7704,30 @@
     "uri": "spotify:track:1Hd2XLitkt1PYCWSbfF5qV"
   },
   {
+    "album_id": "7lO0gX1rSWXYO9gnUqpY1p",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 160150,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300039"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1HfHDbNHzafjjxnLoAobRA",
+    "id": "1HfHDbNHzafjjxnLoAobRA",
+    "is_local": false,
+    "name": "Sin Dormir (Ya Se Armó)",
+    "popularity": 59,
+    "preview_url": "https://p.scdn.co/mp3-preview/0589460fe1a1a5c6471f191ec8a167b336804e4d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:1HfHDbNHzafjjxnLoAobRA"
+  },
+  {
     "album_id": "5fvc3yXYkuFeutWruzxCTk",
     "artist_ids": [
       "3Ker27Wbb9OcUHGs54JIAz"
@@ -12142,6 +12166,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:1xZub7u7tJvnsj198BQiRK"
+  },
+  {
+    "album_id": "01wFnLBPNdYcg05kJDkdbQ",
+    "artist_ids": [
+      "1pPmIToKXyGdsCF6LmqLmI"
+    ],
+    "disc_number": 1,
+    "duration_ms": 173067,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZQAY2483432"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1xcMA2bFuMseSFaJgpSeXx",
+    "id": "1xcMA2bFuMseSFaJgpSeXx",
+    "is_local": false,
+    "name": "Gimme A Second",
+    "popularity": 68,
+    "preview_url": "https://p.scdn.co/mp3-preview/5451a2a560b45d0ca274eb7a2d6bc5318802acc1?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1xcMA2bFuMseSFaJgpSeXx"
   },
   {
     "album_id": "3yqcj5G3zkeXuWIx6cjQgx",
@@ -21768,6 +21816,30 @@
     "uri": "spotify:track:3bbnX6qQaIdIxzmXu7BfcI"
   },
   {
+    "album_id": "6XpSHxvcHf2VbRpDnMN091",
+    "artist_ids": [
+      "07PdYoE4jVRF6Ut40GgVSP"
+    ],
+    "disc_number": 1,
+    "duration_ms": 185133,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF011100215"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3bijXxtDKq8QuU9up2CoMB"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3bijXxtDKq8QuU9up2CoMB",
+    "id": "3bijXxtDKq8QuU9up2CoMB",
+    "is_local": false,
+    "name": "Pa' No Andar Triste",
+    "popularity": 65,
+    "preview_url": "https://p.scdn.co/mp3-preview/1e6dd2af711040ad8797bb7737cb2c48b4e173bd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3bijXxtDKq8QuU9up2CoMB"
+  },
+  {
     "album_id": "6o1Rtn9YL9wV6aP7uXhNHQ",
     "artist_ids": [
       "5YO3yQx97KLLE9zJYa4jaU"
@@ -28294,6 +28366,30 @@
     "track_number": 12,
     "type": "track",
     "uri": "spotify:track:4pwD3ma4ctLixvnh3CeZH2"
+  },
+  {
+    "album_id": "6XpSHxvcHf2VbRpDnMN091",
+    "artist_ids": [
+      "07PdYoE4jVRF6Ut40GgVSP"
+    ],
+    "disc_number": 1,
+    "duration_ms": 293346,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MXF011000139"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4pxigeVSDmHxM2gLQmVVH0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4pxigeVSDmHxM2gLQmVVH0",
+    "id": "4pxigeVSDmHxM2gLQmVVH0",
+    "is_local": false,
+    "name": "Volar Volar",
+    "popularity": 63,
+    "preview_url": "https://p.scdn.co/mp3-preview/72b56f0eb558d5f666eea8741409469d4cd3e430?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:4pxigeVSDmHxM2gLQmVVH0"
   },
   {
     "album_id": "36tggHqA3kPQ7h4hon96A3",
