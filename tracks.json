@@ -1584,6 +1584,30 @@
     "uri": "spotify:track:0GTH5MLh4XlAunQKOrt2af"
   },
   {
+    "album_id": "3bmuv7OI4asKzdF3T4zWsx",
+    "artist_ids": [
+      "4ClsVDy2g7RKSSlvq8cF6d"
+    ],
+    "disc_number": 1,
+    "duration_ms": 232120,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF061200384"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0GWkuPr946cYbOMRkrbw4e",
+    "id": "0GWkuPr946cYbOMRkrbw4e",
+    "is_local": false,
+    "name": "Como Tú (Magic Music Box)",
+    "popularity": 46,
+    "preview_url": "https://p.scdn.co/mp3-preview/daa54e5f2563614be246b11b199704b96110bf90?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:0GWkuPr946cYbOMRkrbw4e"
+  },
+  {
     "album_id": "7Ea4KmUH6f1LYE6pCqiAnV",
     "artist_ids": [
       "4AHhe1KXVCCoOdHQNjH5Zu"
@@ -2662,6 +2686,30 @@
     "track_number": 12,
     "type": "track",
     "uri": "spotify:track:0QzliuYF4qRMXI76GwepXq"
+  },
+  {
+    "album_id": "2IoSjweCu07y9mv5H1Cj3v",
+    "artist_ids": [
+      "3Me35AWHCGqW4sZ7bWWJt1"
+    ],
+    "disc_number": 1,
+    "duration_ms": 172264,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USA2P2357356"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0R6NfOiLzLj4O5VbYSJAjf",
+    "id": "0R6NfOiLzLj4O5VbYSJAjf",
+    "is_local": false,
+    "name": "La Diabla",
+    "popularity": 89,
+    "preview_url": "https://p.scdn.co/mp3-preview/f3eeae4ae180d55cd3c83c4e4c1d657b46aa107e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0R6NfOiLzLj4O5VbYSJAjf"
   },
   {
     "album_id": "2EexU9SdoDbgCGazUepCyL",
@@ -12672,6 +12720,30 @@
     "uri": "spotify:track:24CzD7mh4ED6Zq2oap0XDX"
   },
   {
+    "album_id": "0S58LvMQHbKuTbEcPcnrYo",
+    "artist_ids": [
+      "0PrhwIWbqYFYyY2ZrkIWgI"
+    ],
+    "disc_number": 1,
+    "duration_ms": 169986,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM72200982"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/24KGKNglICq4YhNvaZfkA7",
+    "id": "24KGKNglICq4YhNvaZfkA7",
+    "is_local": false,
+    "name": "Contigo No Fue",
+    "popularity": 55,
+    "preview_url": "https://p.scdn.co/mp3-preview/a1045dc2184b23c6d4e133c77c1267c242f3051b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:24KGKNglICq4YhNvaZfkA7"
+  },
+  {
     "album_id": "1yM29w2suYVpMursUbXQMi",
     "artist_ids": [
       "4QFG9KrGWEbr6hNA58CAqE"
@@ -13680,6 +13752,30 @@
     "uri": "spotify:track:2Ga1FnYssxRlMukIDI0f0y"
   },
   {
+    "album_id": "46qlKidNmBw0FSJzFpb8LM",
+    "artist_ids": [
+      "7aTwbcPoqJOzeEh96WHxrp"
+    ],
+    "disc_number": 1,
+    "duration_ms": 245826,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "TCABZ1482570"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2GggG2lQVYuus2aeAybe8M",
+    "id": "2GggG2lQVYuus2aeAybe8M",
+    "is_local": false,
+    "name": "La Planta",
+    "popularity": 71,
+    "preview_url": "https://p.scdn.co/mp3-preview/93ceec2231eb82b2774f65b088a8d80bd739058e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2GggG2lQVYuus2aeAybe8M"
+  },
+  {
     "album_id": "6RBGm1BTZmgxk7kCiTHvNB",
     "artist_ids": [
       "4V2V4PaSblStayYVWTGDbZ"
@@ -14280,6 +14376,30 @@
     "uri": "spotify:track:2LIOX65LUz2yDCQ5G7vyPi"
   },
   {
+    "album_id": "4Uo5YhvoKTSbSGjv8iv9DL",
+    "artist_ids": [
+      "6tJRAxu0HwB2GI9GueEj4l"
+    ],
+    "disc_number": 1,
+    "duration_ms": 250290,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJX2035698"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2LUBcsMqSI7Ygb3ksB53us"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2LUBcsMqSI7Ygb3ksB53us",
+    "id": "2LUBcsMqSI7Ygb3ksB53us",
+    "is_local": false,
+    "name": "Turbulencia",
+    "popularity": 36,
+    "preview_url": "https://p.scdn.co/mp3-preview/4ede05a8c44ee0a388ef1b2ab1f738fbeca41c2a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:2LUBcsMqSI7Ygb3ksB53us"
+  },
+  {
     "album_id": "0ytQrBinlg9hb4uoaEmk37",
     "artist_ids": [
       "6UBA15slIuadJ8h2lPRPos"
@@ -14686,6 +14806,30 @@
     "track_number": 14,
     "type": "track",
     "uri": "spotify:track:2O8aEi9SpwobvFLvKHvIl3"
+  },
+  {
+    "album_id": "3qmauw54W5zniG20b5q4iJ",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 165634,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMFMG2368181"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2OWv3lRR8PtOVuHWzQNRs2",
+    "id": "2OWv3lRR8PtOVuHWzQNRs2",
+    "is_local": false,
+    "name": "ROMPE LA DOMPE",
+    "popularity": 80,
+    "preview_url": "https://p.scdn.co/mp3-preview/ab27a4f5a00d524386db16338101666b95cbefc5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2OWv3lRR8PtOVuHWzQNRs2"
   },
   {
     "album_id": "5Rz59vfdoaxddW0kMuvV7X",
@@ -21718,6 +21862,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:3ZAvXkfPFlSKpnZ4Q3RRVV"
+  },
+  {
+    "album_id": "5DtrZ74RgqpVVqLWncmqyZ",
+    "artist_ids": [
+      "1LMyTeRhjaitILs98h3MaF"
+    ],
+    "disc_number": 1,
+    "duration_ms": 243419,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZ5AB1610260"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3ZbbcpcCcgsWjTNVRzVZ5c"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3ZbbcpcCcgsWjTNVRzVZ5c",
+    "id": "3ZbbcpcCcgsWjTNVRzVZ5c",
+    "is_local": false,
+    "name": "La Luna",
+    "popularity": 60,
+    "preview_url": "https://p.scdn.co/mp3-preview/006e5e881943840b530b7660370c5e26c22d3231?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:3ZbbcpcCcgsWjTNVRzVZ5c"
   },
   {
     "album_id": "3Nth4OZXiN6qrevOVvO41K",
@@ -37632,6 +37800,30 @@
     "uri": "spotify:track:6SY8HiNT6aU0XfM8TTxHyq"
   },
   {
+    "album_id": "3RQQmkQEvNCY4prGKE6oc5",
+    "artist_ids": [
+      "4q3ewBCX7sLwd24euuV69X"
+    ],
+    "disc_number": 1,
+    "duration_ms": 178567,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM6MZ2214877"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6Sq7ltF9Qa7SNFBsV5Cogx",
+    "id": "6Sq7ltF9Qa7SNFBsV5Cogx",
+    "is_local": false,
+    "name": "Me Porto Bonito",
+    "popularity": 85,
+    "preview_url": "https://p.scdn.co/mp3-preview/5c80aedfe75d2bc15aa0e803993c43395d8054fe?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:6Sq7ltF9Qa7SNFBsV5Cogx"
+  },
+  {
     "album_id": "3JQEMF8g2t7S3LwKnCDRAO",
     "artist_ids": [
       "0SmgVe3giVHaJjGmIz8xA4"
@@ -38686,6 +38878,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:6f9v2X0ovJiXCVrBY8S9mU"
+  },
+  {
+    "album_id": "6TsExCpZJTDj7Fd0ez2knv",
+    "artist_ids": [
+      "66ihevNkSYNzRAl44dx6jJ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 167692,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZQMB2102485"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6fplYq951Ltp6nIiTFcnCY"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6fplYq951Ltp6nIiTFcnCY",
+    "id": "6fplYq951Ltp6nIiTFcnCY",
+    "is_local": false,
+    "name": "No Es Por Acá",
+    "popularity": 76,
+    "preview_url": "https://p.scdn.co/mp3-preview/2d08654b731822b38f24eb6599c08a98d591efa8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6fplYq951Ltp6nIiTFcnCY"
   },
   {
     "album_id": "2UjDmu0n9e2vBlEgqrITKV",

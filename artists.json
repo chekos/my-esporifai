@@ -301,6 +301,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+    },
+    "href": "https://api.spotify.com/v1/artists/0PrhwIWbqYFYyY2ZrkIWgI",
+    "id": "0PrhwIWbqYFYyY2ZrkIWgI",
+    "name": "Adriel Favela",
+    "type": "artist",
+    "uri": "spotify:artist:0PrhwIWbqYFYyY2ZrkIWgI"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
     },
     "href": "https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP",
@@ -1108,6 +1118,16 @@
     "name": "Macrodee",
     "type": "artist",
     "uri": "spotify:artist:1LFSjjDBhaukmZa69zJvgM"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+    },
+    "href": "https://api.spotify.com/v1/artists/1LMyTeRhjaitILs98h3MaF",
+    "id": "1LMyTeRhjaitILs98h3MaF",
+    "name": "Jósean Log",
+    "type": "artist",
+    "uri": "spotify:artist:1LMyTeRhjaitILs98h3MaF"
   },
   {
     "external_urls": {
@@ -2928,6 +2948,16 @@
     "name": "Elio Toffana",
     "type": "artist",
     "uri": "spotify:artist:3iaWOU36p7W4oqHLDoBQmr"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+    },
+    "href": "https://api.spotify.com/v1/artists/3l9G1G9MxH6DaRhwLklaf5",
+    "id": "3l9G1G9MxH6DaRhwLklaf5",
+    "name": "Oscar Maydon",
+    "type": "artist",
+    "uri": "spotify:artist:3l9G1G9MxH6DaRhwLklaf5"
   },
   {
     "external_urls": {
@@ -5498,6 +5528,16 @@
     "name": "Banda Machos",
     "type": "artist",
     "uri": "spotify:artist:7MyUjj79oHy7I8RocrtzZ2"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7aTwbcPoqJOzeEh96WHxrp"
+    },
+    "href": "https://api.spotify.com/v1/artists/7aTwbcPoqJOzeEh96WHxrp",
+    "id": "7aTwbcPoqJOzeEh96WHxrp",
+    "name": "Caos",
+    "type": "artist",
+    "uri": "spotify:artist:7aTwbcPoqJOzeEh96WHxrp"
   },
   {
     "external_urls": {
