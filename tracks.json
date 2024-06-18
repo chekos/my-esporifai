@@ -3744,6 +3744,30 @@
     "uri": "spotify:track:0byBQTnQH76e33Hz4qeh8J"
   },
   {
+    "album_id": "0oqyR0ZtlHxmT4ddR16DDx",
+    "artist_ids": [
+      "7DOERbtkx9aTLvWzZSB0qx"
+    ],
+    "disc_number": 1,
+    "duration_ms": 167949,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMFMG2320041"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0cCLgsNsyP4xu8RKRX8Qac"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0cCLgsNsyP4xu8RKRX8Qac",
+    "id": "0cCLgsNsyP4xu8RKRX8Qac",
+    "is_local": false,
+    "name": "Qué Más Da",
+    "popularity": 45,
+    "preview_url": "https://p.scdn.co/mp3-preview/68f483f60fdff5dd836ee1f3f77b03be8f8aae1c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0cCLgsNsyP4xu8RKRX8Qac"
+  },
+  {
     "album_id": "0LFeLx9sYo4qklZKQ38ifL",
     "artist_ids": [
       "2tU377oBzcCBbRNeVve8FC"
@@ -6622,6 +6646,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:158wC11Na3xzCx4KTngOJV"
+  },
+  {
+    "album_id": "0UYbHFy4zdCF34CRebZmRQ",
+    "artist_ids": [
+      "07PdYoE4jVRF6Ut40GgVSP"
+    ],
+    "disc_number": 1,
+    "duration_ms": 224624,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MX3601900004"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/15yuvKhcoEtV5KwKxqHSwa",
+    "id": "15yuvKhcoEtV5KwKxqHSwa",
+    "is_local": false,
+    "name": "Burbujas de Cristal",
+    "popularity": 67,
+    "preview_url": "https://p.scdn.co/mp3-preview/b134e063df28a9589b4d2c19677890a3682073a8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:15yuvKhcoEtV5KwKxqHSwa"
   },
   {
     "album_id": "2M9NJUv0KbyZzINUyMcmM3",
@@ -10728,6 +10776,30 @@
     "uri": "spotify:track:1jDq5aazzoBFC06kBruPcE"
   },
   {
+    "album_id": "2NJuKDOUh9mANpFIKr7N9K",
+    "artist_ids": [
+      "07PdYoE4jVRF6Ut40GgVSP"
+    ],
+    "disc_number": 1,
+    "duration_ms": 199000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MX3602200006"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1jGQu9LPVLRZ41u9onpfXy",
+    "id": "1jGQu9LPVLRZ41u9onpfXy",
+    "is_local": false,
+    "name": "Aka Entre el Humo",
+    "popularity": 57,
+    "preview_url": "https://p.scdn.co/mp3-preview/3700cca14d60981b1fb663d5874e03a4c1860cdc?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1jGQu9LPVLRZ41u9onpfXy"
+  },
+  {
     "album_id": "3yqcj5G3zkeXuWIx6cjQgx",
     "artist_ids": [
       "0yNSzH5nZmHzeE2xn6Xshb"
@@ -12334,6 +12406,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1yELfCoKbCpadgzdvUs34J"
+  },
+  {
+    "album_id": "6J0q4a7WkkI6OvlZC4rLpi",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 230488,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2200064"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1yN7ljnKqrWTW3g9tdN2it"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1yN7ljnKqrWTW3g9tdN2it",
+    "id": "1yN7ljnKqrWTW3g9tdN2it",
+    "is_local": false,
+    "name": "VETE YA",
+    "popularity": 64,
+    "preview_url": "https://p.scdn.co/mp3-preview/54c1ff50a88db70187100a910cf086b39623548d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:1yN7ljnKqrWTW3g9tdN2it"
   },
   {
     "album_id": "3orUOWHQTgWUvrc1c8yXPH",
@@ -16344,6 +16440,30 @@
     "uri": "spotify:track:2cm10yj0ysthPPzfawwyVG"
   },
   {
+    "album_id": "6J0q4a7WkkI6OvlZC4rLpi",
+    "artist_ids": [
+      "7Gi6gjaWy3DxyilpF1a8Is"
+    ],
+    "disc_number": 1,
+    "duration_ms": 201045,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ9QQ2200070"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2drn04PdLw7Ivym9GQBsZX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2drn04PdLw7Ivym9GQBsZX",
+    "id": "2drn04PdLw7Ivym9GQBsZX",
+    "is_local": false,
+    "name": "TE ALEJASTE",
+    "popularity": 55,
+    "preview_url": "https://p.scdn.co/mp3-preview/d0fa1c2e1427be69fca51da9a01e70ef46a7f87d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:2drn04PdLw7Ivym9GQBsZX"
+  },
+  {
     "album_id": "6nPsmqJQ04ph2NVgoKyHT2",
     "artist_ids": [
       "0U8dIwzBn17JkhYxmznp6T"
@@ -20232,6 +20352,30 @@
     "uri": "spotify:track:3KJPiGp8P2eAi9Dy1cGWpL"
   },
   {
+    "album_id": "7KYZNT0JZ9weEI9MOb8a7x",
+    "artist_ids": [
+      "2pbO2XyPJGWz2s0OZeD4pR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 181080,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXUM72201019"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3KPJ4CtYpCRWt69gYaeQaH",
+    "id": "3KPJ4CtYpCRWt69gYaeQaH",
+    "is_local": false,
+    "name": "Playlist",
+    "popularity": 34,
+    "preview_url": "https://p.scdn.co/mp3-preview/4f917b901488c1ba4ab3737032466a0729375804?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:3KPJ4CtYpCRWt69gYaeQaH"
+  },
+  {
     "album_id": "182ycTI0yqFAoQMJ64M43N",
     "artist_ids": [
       "6eXHRfK9Ad3IpMpSAqvcDf"
@@ -22438,6 +22582,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3fHwtVFD5NevQEQ7CpLNnM"
+  },
+  {
+    "album_id": "6TsExCpZJTDj7Fd0ez2knv",
+    "artist_ids": [
+      "66ihevNkSYNzRAl44dx6jJ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 186455,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZQMB2104890"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3fJHbMUnzceimOnNjp63fF",
+    "id": "3fJHbMUnzceimOnNjp63fF",
+    "is_local": false,
+    "name": "Primera Cita",
+    "popularity": 80,
+    "preview_url": "https://p.scdn.co/mp3-preview/e6ef5f00a6f3d99326cdeecd71289ff7fe06cbd6?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:3fJHbMUnzceimOnNjp63fF"
   },
   {
     "album_id": "69CnGWLFrxlYAl5ku4q5XV",
@@ -27142,6 +27310,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:4cm9crYpXf0crtiwNunmMM"
+  },
+  {
+    "album_id": "486wFfAd63UihpKn7Cimiv",
+    "artist_ids": [
+      "07PdYoE4jVRF6Ut40GgVSP"
+    ],
+    "disc_number": 1,
+    "duration_ms": 214153,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MX3601800011"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4dFzuZePy7GYvbPFNwJyyl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4dFzuZePy7GYvbPFNwJyyl",
+    "id": "4dFzuZePy7GYvbPFNwJyyl",
+    "is_local": false,
+    "name": "Pollo y Conejo",
+    "popularity": 60,
+    "preview_url": "https://p.scdn.co/mp3-preview/66f02e727f87b85a05d62ce42abde7fd3203c497?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4dFzuZePy7GYvbPFNwJyyl"
   },
   {
     "album_id": "0tQ7Iu6EicQTPyhYRNWjaT",
@@ -38518,6 +38710,30 @@
     "track_number": 13,
     "type": "track",
     "uri": "spotify:track:6YU044d7e4eirnbFuuF02S"
+  },
+  {
+    "album_id": "2Pksd4k88XH1QENsu2vqeZ",
+    "artist_ids": [
+      "12GqGscKJx3aE4t07u7eVZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 238888,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "FR96X2198154"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6YWME4xCa5Lm6X1exVMQIC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6YWME4xCa5Lm6X1exVMQIC",
+    "id": "6YWME4xCa5Lm6X1exVMQIC",
+    "is_local": false,
+    "name": "Por Las Noches",
+    "popularity": 71,
+    "preview_url": "https://p.scdn.co/mp3-preview/3f01d9dcd2fb87af60739642f0e8b5c3f9fb0fc1?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6YWME4xCa5Lm6X1exVMQIC"
   },
   {
     "album_id": "6IObXVY8Z6oG92MfWQZDb7",

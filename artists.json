@@ -2271,6 +2271,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+    },
+    "href": "https://api.spotify.com/v1/artists/2pbO2XyPJGWz2s0OZeD4pR",
+    "id": "2pbO2XyPJGWz2s0OZeD4pR",
+    "name": "RENEE",
+    "type": "artist",
+    "uri": "spotify:artist:2pbO2XyPJGWz2s0OZeD4pR"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
     },
     "href": "https://api.spotify.com/v1/artists/2pvyE8W9RWESQxkyAWZqgY",
@@ -5398,6 +5408,16 @@
     "name": "ILUMINATIK BUFFON",
     "type": "artist",
     "uri": "spotify:artist:7CvKsTEWv1BS3LydN8HgG6"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+    },
+    "href": "https://api.spotify.com/v1/artists/7DOERbtkx9aTLvWzZSB0qx",
+    "id": "7DOERbtkx9aTLvWzZSB0qx",
+    "name": "Rigoberta Bandini",
+    "type": "artist",
+    "uri": "spotify:artist:7DOERbtkx9aTLvWzZSB0qx"
   },
   {
     "external_urls": {
