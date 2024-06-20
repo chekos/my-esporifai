@@ -1471,6 +1471,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE"
+    },
+    "href": "https://api.spotify.com/v1/artists/1fcB4CTiWJ7MSN1oJHQbBE",
+    "id": "1fcB4CTiWJ7MSN1oJHQbBE",
+    "name": "Alan Jacques",
+    "type": "artist",
+    "uri": "spotify:artist:1fcB4CTiWJ7MSN1oJHQbBE"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
     },
     "href": "https://api.spotify.com/v1/artists/1fux65HMCBvfJHqlBc4Nno",
@@ -3068,6 +3078,16 @@
     "name": "amlo",
     "type": "artist",
     "uri": "spotify:artist:3tnECtf0aO6jeCJOXHKMg4"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1"
+    },
+    "href": "https://api.spotify.com/v1/artists/3u2W429W7BHf3rjbdHUir1",
+    "id": "3u2W429W7BHf3rjbdHUir1",
+    "name": "''El Obama'' Carlos Anderson",
+    "type": "artist",
+    "uri": "spotify:artist:3u2W429W7BHf3rjbdHUir1"
   },
   {
     "external_urls": {
