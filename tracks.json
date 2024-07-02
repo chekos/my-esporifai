@@ -984,6 +984,30 @@
     "uri": "spotify:track:0ADpaXIpndjoOQki2Pi2nK"
   },
   {
+    "album_id": "1IgiKzJgYzKHNYFFrBjb8u",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 195650,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA0X2300094"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0AaadKYfVzMkHnOMvFUfQ6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0AaadKYfVzMkHnOMvFUfQ6",
+    "id": "0AaadKYfVzMkHnOMvFUfQ6",
+    "is_local": false,
+    "name": "Toca Olvidarte - Unplugged",
+    "popularity": 40,
+    "preview_url": "https://p.scdn.co/mp3-preview/47eec6e06dc2716670453a6426f30610765f48c0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0AaadKYfVzMkHnOMvFUfQ6"
+  },
+  {
     "album_id": "1Ooncd63ZBtMJvAJ0mhiyx",
     "artist_ids": [
       "3fo4UvMNzZUCFS90Roh5iK"
@@ -14206,6 +14230,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:2IcoKQGw9PMBWTh2T5QvZz"
+  },
+  {
+    "album_id": "1IgiKzJgYzKHNYFFrBjb8u",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 274000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA0X2300096"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2Igv9XGKuTmJowz8zCZVPj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2Igv9XGKuTmJowz8zCZVPj",
+    "id": "2Igv9XGKuTmJowz8zCZVPj",
+    "is_local": false,
+    "name": "Jugando a Perder - Unplugged",
+    "popularity": 42,
+    "preview_url": "https://p.scdn.co/mp3-preview/f4e30f5d935da37911d7f0531c5b5c6b32d9daac?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:2Igv9XGKuTmJowz8zCZVPj"
   },
   {
     "album_id": "5v12ASLi4FBNBdTdIzZLmy",
@@ -32686,6 +32734,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5MyEACD2kRFeh231Z6FkdE"
+  },
+  {
+    "album_id": "1IgiKzJgYzKHNYFFrBjb8u",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 236250,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA0X2300092"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5NLfjsmLCiAq5j3IMfJykJ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5NLfjsmLCiAq5j3IMfJykJ",
+    "id": "5NLfjsmLCiAq5j3IMfJykJ",
+    "is_local": false,
+    "name": "Las Que Te Escribí y Nunca Te Canté - Unplugged",
+    "popularity": 43,
+    "preview_url": "https://p.scdn.co/mp3-preview/03f1d954b3579f85ca9024f3e313d364ac5b5929?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5NLfjsmLCiAq5j3IMfJykJ"
   },
   {
     "album_id": "1gDqOyL8NmU2LQPtFutRng",
