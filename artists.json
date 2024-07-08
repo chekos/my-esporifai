@@ -3881,6 +3881,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+    },
+    "href": "https://api.spotify.com/v1/artists/4zTS87j9J5bBv0R9AEzeC7",
+    "id": "4zTS87j9J5bBv0R9AEzeC7",
+    "name": "Fend",
+    "type": "artist",
+    "uri": "spotify:artist:4zTS87j9J5bBv0R9AEzeC7"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
     },
     "href": "https://api.spotify.com/v1/artists/51pVYU9oIKHUb72Y0v8iVV",
