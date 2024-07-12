@@ -26976,6 +26976,30 @@
     "uri": "spotify:track:4SGSmlO6khOtjZtMBw67Da"
   },
   {
+    "album_id": "3XQxX4ErPbfVUrSpdEExn6",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 196960,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "TCACX1714340"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4SgciJZFNtD1ZZ8JEljKsV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4SgciJZFNtD1ZZ8JEljKsV",
+    "id": "4SgciJZFNtD1ZZ8JEljKsV",
+    "is_local": false,
+    "name": "Nadie Que Nos Controle",
+    "popularity": 34,
+    "preview_url": "https://p.scdn.co/mp3-preview/1c62bdcf17e3e6f964dc24dd8e9b76cbd014ec46?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4SgciJZFNtD1ZZ8JEljKsV"
+  },
+  {
     "album_id": "7y4g1JPr4SEZ97hFpGXFev",
     "artist_ids": [
       "4JreHVYyb6GqE2BU03Kx96"
