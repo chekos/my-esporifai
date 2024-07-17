@@ -6696,6 +6696,30 @@
     "uri": "spotify:track:158wC11Na3xzCx4KTngOJV"
   },
   {
+    "album_id": "742yYRA1wnvY4d07q4WqSP",
+    "artist_ids": [
+      "79VjkJJEo8D7HbNfDWfFtJ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 244965,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZ5AB1710964"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/15DASh9kRS8Ao9JLOryIb3"
+    },
+    "href": "https://api.spotify.com/v1/tracks/15DASh9kRS8Ao9JLOryIb3",
+    "id": "15DASh9kRS8Ao9JLOryIb3",
+    "is_local": false,
+    "name": "Fantasma",
+    "popularity": 31,
+    "preview_url": "https://p.scdn.co/mp3-preview/85b91939eb6423aef8fbdd8aed55eb4bc10ee0d7?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:15DASh9kRS8Ao9JLOryIb3"
+  },
+  {
     "album_id": "0UYbHFy4zdCF34CRebZmRQ",
     "artist_ids": [
       "07PdYoE4jVRF6Ut40GgVSP"
@@ -36912,6 +36936,30 @@
     "uri": "spotify:track:67MCST2lFdgJub78hM6CEL"
   },
   {
+    "album_id": "3355hdwjvjHWgE4gjjLNkH",
+    "artist_ids": [
+      "0cbx0hVFtnEBVGVBExW09X"
+    ],
+    "disc_number": 1,
+    "duration_ms": 199809,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "US25X1089233"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/67UkzK9rrHfpsrn5UuZIcZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/67UkzK9rrHfpsrn5UuZIcZ",
+    "id": "67UkzK9rrHfpsrn5UuZIcZ",
+    "is_local": false,
+    "name": "L.A.D.F.",
+    "popularity": 27,
+    "preview_url": "https://p.scdn.co/mp3-preview/0f0266e32a66a45dffc666962f9faaa0a1641c42?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:67UkzK9rrHfpsrn5UuZIcZ"
+  },
+  {
     "album_id": "0DDsexe1qhQ2TQ43XztwMl",
     "artist_ids": [
       "4QFG9KrGWEbr6hNA58CAqE"
@@ -45238,6 +45286,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7pv0hrZg9d3Gr8YXrcX7m8"
+  },
+  {
+    "album_id": "1vdDRtiJZwUskZKYQh9Ida",
+    "artist_ids": [
+      "5MRMYpdAWZawm3ivBeWvdK"
+    ],
+    "disc_number": 1,
+    "duration_ms": 265000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJX2012098"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7q0QYEkT5VxCNDtQk7W2sk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7q0QYEkT5VxCNDtQk7W2sk",
+    "id": "7q0QYEkT5VxCNDtQk7W2sk",
+    "is_local": false,
+    "name": "Bang Bang",
+    "popularity": 13,
+    "preview_url": "https://p.scdn.co/mp3-preview/7a6b8c9266c91ce0b962862d0f59596c539a570e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:7q0QYEkT5VxCNDtQk7W2sk"
   },
   {
     "album_id": "3JrWWDWTNdrsHX9QZf2ya3",
