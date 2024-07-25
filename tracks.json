@@ -1296,6 +1296,30 @@
     "uri": "spotify:track:0CwdLCLCR9aUurez4Lfrag"
   },
   {
+    "album_id": "5PZxScqkkCa4bjdZcq9fuh",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 72000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "usdy41746414"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0D14SMOmYkLqTKI9UbVn61"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0D14SMOmYkLqTKI9UbVn61",
+    "id": "0D14SMOmYkLqTKI9UbVn61",
+    "is_local": false,
+    "name": "Hasta Parece Mentira",
+    "popularity": 19,
+    "preview_url": "https://p.scdn.co/mp3-preview/aa42b6224bc2f0b2cc7bac365b9bbaefe37c5fc7?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:0D14SMOmYkLqTKI9UbVn61"
+  },
+  {
     "album_id": "3XUeZtOSjS49tF8JeUyWKZ",
     "artist_ids": [
       "6JG2QQcaQBzinELNvu9PRk"
@@ -7536,6 +7560,30 @@
     "uri": "spotify:track:1DHUU7PHnIT7Zyw6oDL2zj"
   },
   {
+    "album_id": "0zggfzcdLDK9ypTgwkPvxa",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 196800,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJW2462213"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1DuoTWy7ElAfRBu8c7euv6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1DuoTWy7ElAfRBu8c7euv6",
+    "id": "1DuoTWy7ElAfRBu8c7euv6",
+    "is_local": false,
+    "name": "Por las Calles Donde Vivo",
+    "popularity": 33,
+    "preview_url": "https://p.scdn.co/mp3-preview/c5ed076364b8de65ae12e5ecc14f1cb5c6312a1c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:1DuoTWy7ElAfRBu8c7euv6"
+  },
+  {
     "album_id": "4ngr0N19KrZ3OH7W2xkaIu",
     "artist_ids": [
       "23TYM4mYLQjyJLr4x89MjH"
@@ -11254,6 +11302,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:1mfcbXmjuLtf4MnSdNBJTZ"
+  },
+  {
+    "album_id": "5PZxScqkkCa4bjdZcq9fuh",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 192040,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "usdy41746403"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1myzOrhDsjSlQixnCPuetE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1myzOrhDsjSlQixnCPuetE",
+    "id": "1myzOrhDsjSlQixnCPuetE",
+    "is_local": false,
+    "name": "Intro",
+    "popularity": 14,
+    "preview_url": "https://p.scdn.co/mp3-preview/3d414bfb5968ca0c8fa75925a3f7d65b7bc7792c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1myzOrhDsjSlQixnCPuetE"
   },
   {
     "album_id": "0DDsexe1qhQ2TQ43XztwMl",
@@ -17208,6 +17280,30 @@
     "uri": "spotify:track:2js0DKQbqYRwS3PLTi3PVG"
   },
   {
+    "album_id": "0zggfzcdLDK9ypTgwkPvxa",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 188710,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJW2462214"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2jxAN2pMYiN08pwIyTO8Q1"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2jxAN2pMYiN08pwIyTO8Q1",
+    "id": "2jxAN2pMYiN08pwIyTO8Q1",
+    "is_local": false,
+    "name": "Coco-Drill",
+    "popularity": 29,
+    "preview_url": "https://p.scdn.co/mp3-preview/ed5fbdf7a9298b236cce643f6b1da2754aad6d96?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:2jxAN2pMYiN08pwIyTO8Q1"
+  },
+  {
     "album_id": "1H5CLSWK3L8JDv90crdOMS",
     "artist_ids": [
       "1dTtCb4nYTZLKpTnJ1f5uU"
@@ -18262,6 +18358,30 @@
     "track_number": 9,
     "type": "track",
     "uri": "spotify:track:2vgz23yH28DPCsJHWU25LT"
+  },
+  {
+    "album_id": "0zggfzcdLDK9ypTgwkPvxa",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 210731,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJW2420063"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2wJEWHg9F6sgvCx99sfouZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2wJEWHg9F6sgvCx99sfouZ",
+    "id": "2wJEWHg9F6sgvCx99sfouZ",
+    "is_local": false,
+    "name": "Mis Demonios",
+    "popularity": 38,
+    "preview_url": "https://p.scdn.co/mp3-preview/017d4513f3162b6b26bd9cbd14293d25d2cfd1cd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2wJEWHg9F6sgvCx99sfouZ"
   },
   {
     "album_id": "07w0rG5TETcyihsEIZR3qG",
@@ -21694,6 +21814,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:3TVx0NIn0nwtTHMBmepRB3"
+  },
+  {
+    "album_id": "5PZxScqkkCa4bjdZcq9fuh",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 262093,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "usdy41746404"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3TrvMvkb4Cp2Whp5PXrwzL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3TrvMvkb4Cp2Whp5PXrwzL",
+    "id": "3TrvMvkb4Cp2Whp5PXrwzL",
+    "is_local": false,
+    "name": "No Se Me Ha Quitado",
+    "popularity": 30,
+    "preview_url": "https://p.scdn.co/mp3-preview/a67c1341323406c042239eda8adfa45e3252d829?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3TrvMvkb4Cp2Whp5PXrwzL"
   },
   {
     "album_id": "4u4NDEFYlFCFapQWlXTfLQ",
@@ -26902,6 +27046,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:4PYYqLkL66kQLNbU8C71R8"
+  },
+  {
+    "album_id": "0zggfzcdLDK9ypTgwkPvxa",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 200930,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJW2462211"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4Pgts8w88ZwkRdwHEfv2Rp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Pgts8w88ZwkRdwHEfv2Rp",
+    "id": "4Pgts8w88ZwkRdwHEfv2Rp",
+    "is_local": false,
+    "name": "Mr",
+    "popularity": 33,
+    "preview_url": "https://p.scdn.co/mp3-preview/8fb218241f6d8428ec29371aa823a64efc263afc?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4Pgts8w88ZwkRdwHEfv2Rp"
   },
   {
     "album_id": "7cftuQ1mezvQCWSHtP7eA9",
@@ -35352,6 +35520,30 @@
     "uri": "spotify:track:5ndHl6BMrihdTqvT6Exhln"
   },
   {
+    "album_id": "0zggfzcdLDK9ypTgwkPvxa",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 230769,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJW2420060"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5nkTW5wLhomFVidUECRGXk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5nkTW5wLhomFVidUECRGXk",
+    "id": "5nkTW5wLhomFVidUECRGXk",
+    "is_local": false,
+    "name": "Un Buen Día",
+    "popularity": 33,
+    "preview_url": "https://p.scdn.co/mp3-preview/9e3adb2c7421579dc29781e16606b5efa78637c9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:5nkTW5wLhomFVidUECRGXk"
+  },
+  {
     "album_id": "5PeJ5yyyJWcC0wkuMHGSqc",
     "artist_ids": [
       "2FS22haX3FYbyOsUAkuYqZ"
@@ -38374,6 +38566,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6O9jM3p5ZtHx9W2PRNRrWh"
+  },
+  {
+    "album_id": "0zggfzcdLDK9ypTgwkPvxa",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 202409,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJW2462212"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6O9uMgI6yXVARc7EltjOdn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6O9uMgI6yXVARc7EltjOdn",
+    "id": "6O9uMgI6yXVARc7EltjOdn",
+    "is_local": false,
+    "name": "La Casa del Humo",
+    "popularity": 34,
+    "preview_url": "https://p.scdn.co/mp3-preview/61749598725ea8a4c9ba9c2d565c59b4a9c62674?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:6O9uMgI6yXVARc7EltjOdn"
   },
   {
     "album_id": "2kGTwHezbLOPc7wK5YLVL7",
