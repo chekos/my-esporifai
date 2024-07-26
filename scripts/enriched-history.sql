@@ -7,7 +7,8 @@ select
     running_count,
     hrc.id as track_id,
     tinfo.main_artist_id,
-    tinfo.album_id
+    tinfo.album_id,
+    tinfo._album
 from
     history_running_count as hrc
     join tracks_info as tinfo on tinfo.id = hrc.id

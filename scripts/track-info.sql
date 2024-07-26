@@ -8,7 +8,12 @@ select
     album_id,
     json_extract(artist_ids, "$[0]") as main_artist_id,
     artist_ids,
-    tracks.id
+    tracks.id,
+    iif(
+        albums.album_type = "single",
+        "single",
+        albums.name
+    ) as _album
 from
     tracks
     join albums on albums.id = album_id
