@@ -11,7 +11,7 @@ select
     tracks.id,
     iif(
         albums.album_type = "single",
-        "single",
+        "singles",
         albums.name
     ) as _album
 from
