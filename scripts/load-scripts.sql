@@ -8,3 +8,4 @@
 .read scripts/history-daily-sum.sql
 .read scripts/running-count.sql
 .read scripts/enriched-history.sql
+.read scripts/enriched-history-v2.sql
