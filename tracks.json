@@ -15432,6 +15432,30 @@
     "uri": "spotify:track:2QP6HI4BxBrdQdIOA75RSc"
   },
   {
+    "album_id": "5PZxScqkkCa4bjdZcq9fuh",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 298280,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "usdy41746412"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2QcKNwKB3H0GQS5oUE0ucV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2QcKNwKB3H0GQS5oUE0ucV",
+    "id": "2QcKNwKB3H0GQS5oUE0ucV",
+    "is_local": false,
+    "name": "Canales Enemigos",
+    "popularity": 23,
+    "preview_url": "https://p.scdn.co/mp3-preview/9d7dc28492d6f13e25a8f19704e438a34484e6e7?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:2QcKNwKB3H0GQS5oUE0ucV"
+  },
+  {
     "album_id": "3ruktrqPw50q5kUXnWOiq0",
     "artist_ids": [
       "4ssUf5gLb1GBLxi1BhPrVt"
@@ -20664,6 +20688,30 @@
     "uri": "spotify:track:3IqWGEBsFBBm7GunXG4CVd"
   },
   {
+    "album_id": "5PZxScqkkCa4bjdZcq9fuh",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 252533,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "usdy41746409"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3J1aXbNrnGsSmgIJ5Q5zzN",
+    "id": "3J1aXbNrnGsSmgIJ5Q5zzN",
+    "is_local": false,
+    "name": "La Feria Drogas y Muerte",
+    "popularity": 51,
+    "preview_url": "https://p.scdn.co/mp3-preview/1dcd63f5e7c651191ecc3c2dc26b8e764087ccce?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:3J1aXbNrnGsSmgIJ5Q5zzN"
+  },
+  {
     "album_id": "05DldXdPR0ngd0KEaFD704",
     "artist_ids": [
       "4Hzj6dfl1y5x5TzCSsvLB6"
@@ -21744,6 +21792,30 @@
     "uri": "spotify:track:3SAGAB7vUVwn14hMe0jjp7"
   },
   {
+    "album_id": "5PZxScqkkCa4bjdZcq9fuh",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 382906,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "usdy41746410"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3SLjPltJjIuMHy764KYUF6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3SLjPltJjIuMHy764KYUF6",
+    "id": "3SLjPltJjIuMHy764KYUF6",
+    "is_local": false,
+    "name": "Solos Tu y Yo",
+    "popularity": 24,
+    "preview_url": "https://p.scdn.co/mp3-preview/89a3374201c3811bdced97faba7736bb207fcb02?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:3SLjPltJjIuMHy764KYUF6"
+  },
+  {
     "album_id": "44cLix04JOwkepKq6nIUFL",
     "artist_ids": [
       "2hejA1Dkf8v8R0koF44FvW"
@@ -21790,6 +21862,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3Sualy9gkVDHDgOKcTJgFd"
+  },
+  {
+    "album_id": "5PZxScqkkCa4bjdZcq9fuh",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 362040,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "usdy41746407"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3TV4GvKlDM5GRAbkePDxoJ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3TV4GvKlDM5GRAbkePDxoJ",
+    "id": "3TV4GvKlDM5GRAbkePDxoJ",
+    "is_local": false,
+    "name": "Se Les Cae el Canton",
+    "popularity": 37,
+    "preview_url": "https://p.scdn.co/mp3-preview/778363fef113265766964915dafb17f7b46df844?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:3TV4GvKlDM5GRAbkePDxoJ"
   },
   {
     "album_id": "5MbvXyQE56q5w70lypEptu",
@@ -36264,6 +36360,30 @@
     "uri": "spotify:track:5vVqU82EsivrNzYTtc2GUj"
   },
   {
+    "album_id": "5PZxScqkkCa4bjdZcq9fuh",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 220093,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "usdy41746408"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5vWpOKA4EYXmK27dAuqrKE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5vWpOKA4EYXmK27dAuqrKE",
+    "id": "5vWpOKA4EYXmK27dAuqrKE",
+    "is_local": false,
+    "name": "High Con Class",
+    "popularity": 27,
+    "preview_url": "https://p.scdn.co/mp3-preview/b84fc8d828ad348061349c64474389f4d5261fef?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:5vWpOKA4EYXmK27dAuqrKE"
+  },
+  {
     "album_id": "3q5JdUUCimWQCm9bRsxcD8",
     "artist_ids": [
       "4Hzj6dfl1y5x5TzCSsvLB6"
@@ -38086,6 +38206,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:6HZILIRieu8S0iqY8kIKhj"
+  },
+  {
+    "album_id": "5PZxScqkkCa4bjdZcq9fuh",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 239266,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "usdy41746411"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6HmI6e5cGmui0fzhKoStub"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6HmI6e5cGmui0fzhKoStub",
+    "id": "6HmI6e5cGmui0fzhKoStub",
+    "is_local": false,
+    "name": "Maldita la Flota",
+    "popularity": 22,
+    "preview_url": "https://p.scdn.co/mp3-preview/2f6ad6e674fd4a1912f6df46a70cef2e6a992416?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:6HmI6e5cGmui0fzhKoStub"
   },
   {
     "album_id": "01UJJt3Aregqk8jZMDPB5x",
