@@ -2,6 +2,7 @@
 .vscode/
 tracks_history.json
 full-history/
+audio_features.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
