@@ -101,6 +101,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+    },
+    "href": "https://api.spotify.com/v1/artists/09xj0S68Y1OU1vHMCZAIvz",
+    "id": "09xj0S68Y1OU1vHMCZAIvz",
+    "name": "Café Tacvba",
+    "type": "artist",
+    "uri": "spotify:artist:09xj0S68Y1OU1vHMCZAIvz"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0BUAw0HerrYAE0pUYlt12f"
     },
     "href": "https://api.spotify.com/v1/artists/0BUAw0HerrYAE0pUYlt12f",
@@ -178,6 +188,16 @@
     "name": "Shakira",
     "type": "artist",
     "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+    },
+    "href": "https://api.spotify.com/v1/artists/0GM7qgcRCORpGnfcN2tCiB",
+    "id": "0GM7qgcRCORpGnfcN2tCiB",
+    "name": "Tainy",
+    "type": "artist",
+    "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB"
   },
   {
     "external_urls": {
@@ -981,6 +1001,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+    },
+    "href": "https://api.spotify.com/v1/artists/19HM5j0ULGSmEoRcrSe5x3",
+    "id": "19HM5j0ULGSmEoRcrSe5x3",
+    "name": "Milo j",
+    "type": "artist",
+    "uri": "spotify:artist:19HM5j0ULGSmEoRcrSe5x3"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
     },
     "href": "https://api.spotify.com/v1/artists/19NGyg3ucHFhAP3mwPsggJ",
@@ -1088,6 +1118,16 @@
     "name": "Natti Natasha",
     "type": "artist",
     "uri": "spotify:artist:1GDbiv3spRmZ1XdM1jQbT7"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+    },
+    "href": "https://api.spotify.com/v1/artists/1GImnM7WYVp95431ypofy9",
+    "id": "1GImnM7WYVp95431ypofy9",
+    "name": "Caifanes",
+    "type": "artist",
+    "uri": "spotify:artist:1GImnM7WYVp95431ypofy9"
   },
   {
     "external_urls": {
@@ -2841,6 +2881,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+    },
+    "href": "https://api.spotify.com/v1/artists/3SqzxvGCKGJ9PYKXXPwjQS",
+    "id": "3SqzxvGCKGJ9PYKXXPwjQS",
+    "name": "Fobia",
+    "type": "artist",
+    "uri": "spotify:artist:3SqzxvGCKGJ9PYKXXPwjQS"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
     },
     "href": "https://api.spotify.com/v1/artists/3TGeuw7OmACouH5JAKkX7I",
@@ -3068,6 +3118,16 @@
     "name": "Dasket Rapley",
     "type": "artist",
     "uri": "spotify:artist:3pW4tw2BArwIClCWHjJWVF"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+    },
+    "href": "https://api.spotify.com/v1/artists/3qAPxVwIQRBuz5ImPUxpZT",
+    "id": "3qAPxVwIQRBuz5ImPUxpZT",
+    "name": "Heroes Del Silencio",
+    "type": "artist",
+    "uri": "spotify:artist:3qAPxVwIQRBuz5ImPUxpZT"
   },
   {
     "external_urls": {
@@ -4221,6 +4281,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+    },
+    "href": "https://api.spotify.com/v1/artists/5VQCk9RiLwri99OgOT34kq",
+    "id": "5VQCk9RiLwri99OgOT34kq",
+    "name": "Vilma Palma e Vampiros",
+    "type": "artist",
+    "uri": "spotify:artist:5VQCk9RiLwri99OgOT34kq"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
     },
     "href": "https://api.spotify.com/v1/artists/5XJDexmWFLWOkjOEjOVX3e",
@@ -4308,6 +4378,16 @@
     "name": "Jarabe kidd",
     "type": "artist",
     "uri": "spotify:artist:5absue45Q798sotcg1d0FD"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+    },
+    "href": "https://api.spotify.com/v1/artists/5bWUlnPx9OYKsLiUJrhCA1",
+    "id": "5bWUlnPx9OYKsLiUJrhCA1",
+    "name": "Jon Z",
+    "type": "artist",
+    "uri": "spotify:artist:5bWUlnPx9OYKsLiUJrhCA1"
   },
   {
     "external_urls": {
@@ -4548,6 +4628,16 @@
     "name": "La Mosca Tse-Tse",
     "type": "artist",
     "uri": "spotify:artist:60nua3AsVSfADZtg5Hdz3W"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+    },
+    "href": "https://api.spotify.com/v1/artists/60uh2KYYSCqAgJNxcU4DA0",
+    "id": "60uh2KYYSCqAgJNxcU4DA0",
+    "name": "Hombres G",
+    "type": "artist",
+    "uri": "spotify:artist:60uh2KYYSCqAgJNxcU4DA0"
   },
   {
     "external_urls": {
@@ -5211,6 +5301,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+    },
+    "href": "https://api.spotify.com/v1/artists/6pWTPhk1AtVfNmkaeXXVpD",
+    "id": "6pWTPhk1AtVfNmkaeXXVpD",
+    "name": "El Gran Silencio",
+    "type": "artist",
+    "uri": "spotify:artist:6pWTPhk1AtVfNmkaeXXVpD"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/6pu8qjuOYZRBYc1hiHEVL5"
     },
     "href": "https://api.spotify.com/v1/artists/6pu8qjuOYZRBYc1hiHEVL5",
@@ -5401,6 +5501,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+    },
+    "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+    "id": "790FomKkXshlbRYZFtlgla",
+    "name": "KAROL G",
+    "type": "artist",
+    "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/79VjkJJEo8D7HbNfDWfFtJ"
     },
     "href": "https://api.spotify.com/v1/artists/79VjkJJEo8D7HbNfDWfFtJ",
@@ -5521,6 +5631,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+    },
+    "href": "https://api.spotify.com/v1/artists/7Hf9AwMO37bSdxHb0FBGmO",
+    "id": "7Hf9AwMO37bSdxHb0FBGmO",
+    "name": "Alejandra Guzman",
+    "type": "artist",
+    "uri": "spotify:artist:7Hf9AwMO37bSdxHb0FBGmO"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
     },
     "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
@@ -5538,6 +5658,16 @@
     "name": "Zxmyr",
     "type": "artist",
     "uri": "spotify:artist:7IUaYyqcGB3aU2Tm4s5JY8"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
+    },
+    "href": "https://api.spotify.com/v1/artists/7IwYwKG6VacXOThKHvPgUc",
+    "id": "7IwYwKG6VacXOThKHvPgUc",
+    "name": "Los Amantes De Lola",
+    "type": "artist",
+    "uri": "spotify:artist:7IwYwKG6VacXOThKHvPgUc"
   },
   {
     "external_urls": {
@@ -5578,6 +5708,16 @@
     "name": "Banda Machos",
     "type": "artist",
     "uri": "spotify:artist:7MyUjj79oHy7I8RocrtzZ2"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+    },
+    "href": "https://api.spotify.com/v1/artists/7a0XAaPaK2aDSqa8p3QnC7",
+    "id": "7a0XAaPaK2aDSqa8p3QnC7",
+    "name": "Beéle",
+    "type": "artist",
+    "uri": "spotify:artist:7a0XAaPaK2aDSqa8p3QnC7"
   },
   {
     "external_urls": {
@@ -5811,6 +5951,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
+    },
+    "href": "https://api.spotify.com/v1/artists/7thnnayFyJnVOAJrpe5wMC",
+    "id": "7thnnayFyJnVOAJrpe5wMC",
+    "name": "Mikel Erentxun",
+    "type": "artist",
+    "uri": "spotify:artist:7thnnayFyJnVOAJrpe5wMC"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
     },
     "href": "https://api.spotify.com/v1/artists/7u9m43vPVTERaALXXOzrRq",
@@ -5818,6 +5968,16 @@
     "name": "Chalino Sanchez",
     "type": "artist",
     "uri": "spotify:artist:7u9m43vPVTERaALXXOzrRq"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+    },
+    "href": "https://api.spotify.com/v1/artists/7uQ1D2NNHs5cUL3CLKRbia",
+    "id": "7uQ1D2NNHs5cUL3CLKRbia",
+    "name": "LAGOS",
+    "type": "artist",
+    "uri": "spotify:artist:7uQ1D2NNHs5cUL3CLKRbia"
   },
   {
     "external_urls": {
