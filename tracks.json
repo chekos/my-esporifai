@@ -38712,6 +38712,30 @@
     "uri": "spotify:track:67fq8JQdCmk9oIyXLhiqxJ"
   },
   {
+    "album_id": "54DMlAN2PIAWFlYayZ7pra",
+    "artist_ids": [
+      "4H3ePoFDdsl36QwB96jZzg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 248277,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "US7VG1696754"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6824mnOCY420xznSRPAWz2"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6824mnOCY420xznSRPAWz2",
+    "id": "6824mnOCY420xznSRPAWz2",
+    "is_local": false,
+    "name": "A Veces Quisiera",
+    "popularity": 14,
+    "preview_url": "https://p.scdn.co/mp3-preview/36a2c804e410eda5fda98e1e87424b55f68d9f53?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:6824mnOCY420xznSRPAWz2"
+  },
+  {
     "album_id": "7Lv6VzSqIz1sAssK2JUskG",
     "artist_ids": [
       "7Gi6gjaWy3DxyilpF1a8Is"
@@ -39766,6 +39790,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:6JP2x0Rvwq7LZ8goXDGAIL"
+  },
+  {
+    "album_id": "54DMlAN2PIAWFlYayZ7pra",
+    "artist_ids": [
+      "4H3ePoFDdsl36QwB96jZzg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 266666,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "US7VG1696755"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6JWINVwkWTHlDGcP770TH6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6JWINVwkWTHlDGcP770TH6",
+    "id": "6JWINVwkWTHlDGcP770TH6",
+    "is_local": false,
+    "name": "El Chacal",
+    "popularity": 11,
+    "preview_url": "https://p.scdn.co/mp3-preview/222131318ce6fa443dd979a0c626095900784407?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:6JWINVwkWTHlDGcP770TH6"
   },
   {
     "album_id": "1rSmB2J6FBTsH9NOCV24xW",
@@ -41470,6 +41518,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6bd6lP8JE4CMl1qwFgvirS"
+  },
+  {
+    "album_id": "54DMlAN2PIAWFlYayZ7pra",
+    "artist_ids": [
+      "4H3ePoFDdsl36QwB96jZzg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 250500,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "US7VG1696756"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6cBEW2u5vtkCIN8ACuupH3"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6cBEW2u5vtkCIN8ACuupH3",
+    "id": "6cBEW2u5vtkCIN8ACuupH3",
+    "is_local": false,
+    "name": "Pintura en los Zapatos",
+    "popularity": 14,
+    "preview_url": "https://p.scdn.co/mp3-preview/605fdfbabd80531a221b2337bd1b676db6730a5c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:6cBEW2u5vtkCIN8ACuupH3"
   },
   {
     "album_id": "7oNSmwtmqu8EvnD3cv2HOr",
@@ -43198,6 +43270,30 @@
     "track_number": 9,
     "type": "track",
     "uri": "spotify:track:6xfzArMzaOM2xJsoEja1oe"
+  },
+  {
+    "album_id": "54DMlAN2PIAWFlYayZ7pra",
+    "artist_ids": [
+      "4H3ePoFDdsl36QwB96jZzg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 472258,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "US7VG1696753"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6xpNdBSfWqKmAK2kDZydJW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6xpNdBSfWqKmAK2kDZydJW",
+    "id": "6xpNdBSfWqKmAK2kDZydJW",
+    "is_local": false,
+    "name": "Bajo Control",
+    "popularity": 13,
+    "preview_url": "https://p.scdn.co/mp3-preview/f0f33a10cbbb63b554ad48c2cd0f2df4fa93cc6c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6xpNdBSfWqKmAK2kDZydJW"
   },
   {
     "album_id": "3Y337pd4EqT9OPLWPpHIXa",
