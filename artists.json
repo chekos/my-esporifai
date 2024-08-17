@@ -5011,6 +5011,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
+    },
+    "href": "https://api.spotify.com/v1/artists/6OxjXk1y4QXXRUJyldFIIG",
+    "id": "6OxjXk1y4QXXRUJyldFIIG",
+    "name": "Kid Frost",
+    "type": "artist",
+    "uri": "spotify:artist:6OxjXk1y4QXXRUJyldFIIG"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
     },
     "href": "https://api.spotify.com/v1/artists/6P1mgZSQeztdWbWpJYy718",
