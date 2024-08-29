@@ -3481,6 +3481,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4QsUyMUsPjS34t06pGpsyH"
+    },
+    "href": "https://api.spotify.com/v1/artists/4QsUyMUsPjS34t06pGpsyH",
+    "id": "4QsUyMUsPjS34t06pGpsyH",
+    "name": "Crooked Stilo",
+    "type": "artist",
+    "uri": "spotify:artist:4QsUyMUsPjS34t06pGpsyH"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
     },
     "href": "https://api.spotify.com/v1/artists/4RFrAp13K0fHKH7IpSdKxi",
