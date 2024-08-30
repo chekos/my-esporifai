@@ -26520,6 +26520,30 @@
     "uri": "spotify:track:457lOTzrk0TSZPGsQ13AzL"
   },
   {
+    "album_id": "6XUqL4ek2qNqffgElBoz0Z",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 194300,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNJW2063095"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/45Suc2PQ4hozXEYZqM70fQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/45Suc2PQ4hozXEYZqM70fQ",
+    "id": "45Suc2PQ4hozXEYZqM70fQ",
+    "is_local": false,
+    "name": "Calles y Colores",
+    "popularity": 37,
+    "preview_url": "https://p.scdn.co/mp3-preview/3344ca24f20235d7df2e358260e260c2ead1b042?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:45Suc2PQ4hozXEYZqM70fQ"
+  },
+  {
     "album_id": "7Lv6VzSqIz1sAssK2JUskG",
     "artist_ids": [
       "7Gi6gjaWy3DxyilpF1a8Is"
@@ -41974,6 +41998,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:6f9v2X0ovJiXCVrBY8S9mU"
+  },
+  {
+    "album_id": "6dcUWslTmKR3ymSgSQ1nzy",
+    "artist_ids": [
+      "6DjBv6gyR1HLsvwGUOD5V9"
+    ],
+    "disc_number": 1,
+    "duration_ms": 371162,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "UKU932300349"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6fAGdSZyZO3uKF0wdVOuVd"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6fAGdSZyZO3uKF0wdVOuVd",
+    "id": "6fAGdSZyZO3uKF0wdVOuVd",
+    "is_local": false,
+    "name": "Liga Malandra 3",
+    "popularity": 55,
+    "preview_url": "https://p.scdn.co/mp3-preview/6b90f2c231e1dc72021d86c0391abca0809080ac?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6fAGdSZyZO3uKF0wdVOuVd"
   },
   {
     "album_id": "6TsExCpZJTDj7Fd0ez2knv",
