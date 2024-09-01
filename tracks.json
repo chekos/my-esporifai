@@ -1296,6 +1296,30 @@
     "uri": "spotify:track:0C2rZonaR85ASnbJSOEG2k"
   },
   {
+    "album_id": "38K10lxdqJURtIPql50bjD",
+    "artist_ids": [
+      "0XVOL55Wa1lbWs1tAsv5nf"
+    ],
+    "disc_number": 3,
+    "duration_ms": 178102,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "FRX201822676"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0CHWmQPKGpXLnowkyEvKy4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0CHWmQPKGpXLnowkyEvKy4",
+    "id": "0CHWmQPKGpXLnowkyEvKy4",
+    "is_local": false,
+    "name": "Pelones Bien Siquiz",
+    "popularity": 24,
+    "preview_url": "https://p.scdn.co/mp3-preview/de2e9df8343b5d6374c87c16493ad955693ff3d4?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0CHWmQPKGpXLnowkyEvKy4"
+  },
+  {
     "album_id": "1rSmB2J6FBTsH9NOCV24xW",
     "artist_ids": [
       "0qHbO3z6lgLE6ZYCkQBo1K"
@@ -3814,6 +3838,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0ZYspzDweZisbSp2caeeJL"
+  },
+  {
+    "album_id": "6t634822ybdS8Cd2WIbWi7",
+    "artist_ids": [
+      "2ai0soTBUbXpAdBZBEKkmh"
+    ],
+    "disc_number": 1,
+    "duration_ms": 186000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLS2015517"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0ZestbreVUIGdR068agRVD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ZestbreVUIGdR068agRVD",
+    "id": "0ZestbreVUIGdR068agRVD",
+    "is_local": false,
+    "name": "Bandoleros",
+    "popularity": 5,
+    "preview_url": "https://p.scdn.co/mp3-preview/f862c0e3ead0bd1026e2416d307bd08c5f372439?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0ZestbreVUIGdR068agRVD"
   },
   {
     "album_id": "6NxDBNQphlPiY5gzN8zDiO",
@@ -9360,6 +9408,30 @@
     "uri": "spotify:track:1QkDbaPjLHycyBsJzOHexj"
   },
   {
+    "album_id": "0kEct4QAetUN8aRmCLIUM8",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 352993,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USDY41652909"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1Qz3E0njRjTlnwsrt6xGni"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1Qz3E0njRjTlnwsrt6xGni",
+    "id": "1Qz3E0njRjTlnwsrt6xGni",
+    "is_local": false,
+    "name": "Cuadernos Al Horno",
+    "popularity": 5,
+    "preview_url": "https://p.scdn.co/mp3-preview/ae4de8ca9e63c62d6a1a59c034632b51d8addcb0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1Qz3E0njRjTlnwsrt6xGni"
+  },
+  {
     "album_id": "59bjTtQm9s90mlhWrEWEVb",
     "artist_ids": [
       "31opIYTivWACiXXzX2khlj"
@@ -10294,6 +10366,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1Z5Xm3PW0tsMOLE1tpIpwE"
+  },
+  {
+    "album_id": "7h1ePP52RzAlk7wChe2ZVi",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 303452,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USHM81784703"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1ZE2tAIaluaIXcLlWynNug"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1ZE2tAIaluaIXcLlWynNug",
+    "id": "1ZE2tAIaluaIXcLlWynNug",
+    "is_local": false,
+    "name": "Revolución",
+    "popularity": 3,
+    "preview_url": "https://p.scdn.co/mp3-preview/a7a1816d8724cdd11d2530ab7250ee9b644d87f0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1ZE2tAIaluaIXcLlWynNug"
   },
   {
     "album_id": "5u4ZtfixpavZj0gq6gVbe9",
@@ -18024,6 +18120,30 @@
     "uri": "spotify:track:2jSmOM6QiR0TM9m6OknmxR"
   },
   {
+    "album_id": "38K10lxdqJURtIPql50bjD",
+    "artist_ids": [
+      "0XVOL55Wa1lbWs1tAsv5nf"
+    ],
+    "disc_number": 3,
+    "duration_ms": 343327,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "FRX201822675"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2jfle7txxNIjMvsz6kPzLb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2jfle7txxNIjMvsz6kPzLb",
+    "id": "2jfle7txxNIjMvsz6kPzLb",
+    "is_local": false,
+    "name": "Paquetes de Ramona",
+    "popularity": 21,
+    "preview_url": "https://p.scdn.co/mp3-preview/f5ad42303c481323d554a442392670a1d860a2aa?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2jfle7txxNIjMvsz6kPzLb"
+  },
+  {
     "album_id": "1OUpRyqKpiie1d1pxEQi52",
     "artist_ids": [
       "45hYVfD7CFus8HDkcFnUvH"
@@ -19006,6 +19126,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:2tMWFPfjSiJApkGuebcUwp"
+  },
+  {
+    "album_id": "3yhqDuc3md5lGl2qdcXdDR",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 266815,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USL4Q1766711"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2tO084Gh8XiERt3MLrFniT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2tO084Gh8XiERt3MLrFniT",
+    "id": "2tO084Gh8XiERt3MLrFniT",
+    "is_local": false,
+    "name": "Cinco Minutos",
+    "popularity": 7,
+    "preview_url": "https://p.scdn.co/mp3-preview/3188086b7d82adb05be487d11a5390b2a11675ef?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2tO084Gh8XiERt3MLrFniT"
   },
   {
     "album_id": "4PNqWiJAfjj32hVvlchV5u",
@@ -23014,6 +23158,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:3WMpUKBtuHXNzzmuo03oZX"
+  },
+  {
+    "album_id": "5FFK6S6NmYhpU9Pbp4NnKp",
+    "artist_ids": [
+      "0nOyxRsVicKeiBbB6zdIMu"
+    ],
+    "disc_number": 1,
+    "duration_ms": 245421,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "usdy41631300"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3WZQzEFFzAcwDhwMfRYMIb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3WZQzEFFzAcwDhwMfRYMIb",
+    "id": "3WZQzEFFzAcwDhwMfRYMIb",
+    "is_local": false,
+    "name": "A Todo Se Acostumbra",
+    "popularity": 19,
+    "preview_url": "https://p.scdn.co/mp3-preview/b74744f9536791e275b4b3f372a7b8abf226f1a3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:3WZQzEFFzAcwDhwMfRYMIb"
   },
   {
     "album_id": "0f5Bxz0icXVD2B4BldVU0z",
@@ -29520,6 +29688,30 @@
     "uri": "spotify:track:4fSH9M90Eald7L57tvKPTe"
   },
   {
+    "album_id": "6FzsarjrufqO52HWVd5NFb",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 246832,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USDY41654000"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4fTT8Ig9n5oc5X8V0doPV4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4fTT8Ig9n5oc5X8V0doPV4",
+    "id": "4fTT8Ig9n5oc5X8V0doPV4",
+    "is_local": false,
+    "name": "Levantando Bandera",
+    "popularity": 18,
+    "preview_url": "https://p.scdn.co/mp3-preview/a58962a0f0dad933b9f7cfc5d1c287617f51da4d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4fTT8Ig9n5oc5X8V0doPV4"
+  },
+  {
     "album_id": "07w0rG5TETcyihsEIZR3qG",
     "artist_ids": [
       "7tYKF4w9nC0nq9CsPZTHyP"
@@ -31606,6 +31798,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:4xbNMe4G2amgUB6tntDw6c"
+  },
+  {
+    "album_id": "6mIxb9M5EWwcRCYkzGS7qS",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 362800,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "FR10S1916665"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4yAnuqLGfIQ6l8eCpcs3BM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4yAnuqLGfIQ6l8eCpcs3BM",
+    "id": "4yAnuqLGfIQ6l8eCpcs3BM",
+    "is_local": false,
+    "name": "Como un Animal - Remake",
+    "popularity": 12,
+    "preview_url": "https://p.scdn.co/mp3-preview/d92a3d0003e34f8ba63fc00d477c6dc3b293573d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4yAnuqLGfIQ6l8eCpcs3BM"
   },
   {
     "album_id": "2EexU9SdoDbgCGazUepCyL",
@@ -35232,6 +35448,30 @@
     "uri": "spotify:track:5SNwMExhg8Cb85fRCfZgO1"
   },
   {
+    "album_id": "3FM0anuaJv1QD0cDN5fwmt",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 220786,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "FR96X1655707"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5SQWt359s5XwuDZsM9zLSA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5SQWt359s5XwuDZsM9zLSA",
+    "id": "5SQWt359s5XwuDZsM9zLSA",
+    "is_local": false,
+    "name": "Relax",
+    "popularity": 12,
+    "preview_url": "https://p.scdn.co/mp3-preview/59b87a1ac6eac4d560fa2bb8df4210f98cbaefc1?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5SQWt359s5XwuDZsM9zLSA"
+  },
+  {
     "album_id": "1lSYxwcLpWyqM7pD5N1fAU",
     "artist_ids": [
       "66RfYVdftqnuHRicyClgL0"
@@ -36526,6 +36766,30 @@
     "track_number": 17,
     "type": "track",
     "uri": "spotify:track:5fDDQmf4HaV848CIyrP2vl"
+  },
+  {
+    "album_id": "5IWsYCXcjxR7O54Vu3aPLT",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 271532,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "US7VG1790860"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5fF9ChOIDGvLXJ6eP1u8lx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5fF9ChOIDGvLXJ6eP1u8lx",
+    "id": "5fF9ChOIDGvLXJ6eP1u8lx",
+    "is_local": false,
+    "name": "Alterados",
+    "popularity": 49,
+    "preview_url": "https://p.scdn.co/mp3-preview/82cac85c022646fdd76a09365af85d2bb208dd65?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5fF9ChOIDGvLXJ6eP1u8lx"
   },
   {
     "album_id": "27TYwMOmYr7TO33PLvG60U",
@@ -39432,6 +39696,30 @@
     "uri": "spotify:track:6CgHwODrUSJ8I4oHrh5lSx"
   },
   {
+    "album_id": "46MDnp9HWF9C0kRm1th7TI",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 216607,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USHM81754208"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6ChSYIPCKQqNzdZGuE8DYf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6ChSYIPCKQqNzdZGuE8DYf",
+    "id": "6ChSYIPCKQqNzdZGuE8DYf",
+    "is_local": false,
+    "name": "Rolando Con Firmeza",
+    "popularity": 2,
+    "preview_url": "https://p.scdn.co/mp3-preview/fad02886d59bea4b2e581a6a07449e5bd1481e09?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6ChSYIPCKQqNzdZGuE8DYf"
+  },
+  {
     "album_id": "3zu0hJJew2qXZNlselIQk8",
     "artist_ids": [
       "0ys2OFYzWYB5hRDLCsBqxt"
@@ -41760,6 +42048,30 @@
     "uri": "spotify:track:6bJlR3XVNgAOIkKdiKkZz4"
   },
   {
+    "album_id": "6M0D23KerfyIlj9aHzwiUu",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 360071,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USDY41746407"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6bTxNkThUP2ST3pwkMubag"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6bTxNkThUP2ST3pwkMubag",
+    "id": "6bTxNkThUP2ST3pwkMubag",
+    "is_local": false,
+    "name": "Se Les Cae El Cantón",
+    "popularity": 18,
+    "preview_url": "https://p.scdn.co/mp3-preview/8d42d4c714bc0797f83a3b1a0ebb9339836fa92e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:6bTxNkThUP2ST3pwkMubag"
+  },
+  {
     "album_id": "6uPlWDJJG2365OisTzLhWF",
     "artist_ids": [
       "48G4FvpaGSQAb2ZxhUc2Hv"
@@ -43390,6 +43702,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:6wj7wjtegmkziorQ2tt5Pz"
+  },
+  {
+    "album_id": "2bRplfRR5FtvUrjuzUDECy",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 195475,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USHM81762942"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6wzsZajk5TXTuHnGwcqBpO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6wzsZajk5TXTuHnGwcqBpO",
+    "id": "6wzsZajk5TXTuHnGwcqBpO",
+    "is_local": false,
+    "name": "Los Hijos de la Calle",
+    "popularity": 20,
+    "preview_url": "https://p.scdn.co/mp3-preview/be47736cc21f2f8d6db40e74d402569e027e33d5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6wzsZajk5TXTuHnGwcqBpO"
   },
   {
     "album_id": "2Ba3mhDUEZohhnMrQEHbwZ",
