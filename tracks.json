@@ -3864,6 +3864,30 @@
     "uri": "spotify:track:0ZestbreVUIGdR068agRVD"
   },
   {
+    "album_id": "2bRplfRR5FtvUrjuzUDECy",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 184138,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USHM81762950"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0Zkhy6gnUQ3kSi4X3eeflf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0Zkhy6gnUQ3kSi4X3eeflf",
+    "id": "0Zkhy6gnUQ3kSi4X3eeflf",
+    "is_local": false,
+    "name": "Smoking Desmadre",
+    "popularity": 25,
+    "preview_url": "https://p.scdn.co/mp3-preview/3c67f62a33922e1a27ff3d00912fae5c3a02224b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:0Zkhy6gnUQ3kSi4X3eeflf"
+  },
+  {
     "album_id": "6NxDBNQphlPiY5gzN8zDiO",
     "artist_ids": [
       "1QhaqxeqF9sipS2gwbEKpu"
@@ -4942,6 +4966,30 @@
     "track_number": 20,
     "type": "track",
     "uri": "spotify:track:0jRHGnHLCS0d0uIEmwvfqN"
+  },
+  {
+    "album_id": "6HSQrTCUWwwv8HHIJkMHvD",
+    "artist_ids": [
+      "6DjBv6gyR1HLsvwGUOD5V9"
+    ],
+    "disc_number": 1,
+    "duration_ms": 250845,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "ESA011808395"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0jc1oxKeMWpgUDx0hUHRTA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0jc1oxKeMWpgUDx0hUHRTA",
+    "id": "0jc1oxKeMWpgUDx0hUHRTA",
+    "is_local": false,
+    "name": "Sin Tregua",
+    "popularity": 23,
+    "preview_url": "https://p.scdn.co/mp3-preview/6fc812cd670dcfc3e37875453a6834358cd0d20d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:0jc1oxKeMWpgUDx0hUHRTA"
   },
   {
     "album_id": "48xXX0Q141vKS9UcLu9mWW",
@@ -14182,6 +14230,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:2A0K7UUKfqipqzJ4mgJN2n"
+  },
+  {
+    "album_id": "5huUeSyl92U55yMr8WKvYv",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 259000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM1913854"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2AWdPPp87TnwGmgTvDbRtZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2AWdPPp87TnwGmgTvDbRtZ",
+    "id": "2AWdPPp87TnwGmgTvDbRtZ",
+    "is_local": false,
+    "name": "A Ver, a Ver",
+    "popularity": 18,
+    "preview_url": "https://p.scdn.co/mp3-preview/ee6c10abe0bc733a9430c871f34eaf9c6b2bb518?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:2AWdPPp87TnwGmgTvDbRtZ"
   },
   {
     "album_id": "2cdTv8RPfACSNe4LdCwvZC",
@@ -42790,6 +42862,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6kTCDfKw1X01COdmKM89v0"
+  },
+  {
+    "album_id": "5huUeSyl92U55yMr8WKvYv",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 283000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USCGJ1943983"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6kYxVyZbDkYiYZFjzTO4lL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6kYxVyZbDkYiYZFjzTO4lL",
+    "id": "6kYxVyZbDkYiYZFjzTO4lL",
+    "is_local": false,
+    "name": "Siempre Listos",
+    "popularity": 20,
+    "preview_url": "https://p.scdn.co/mp3-preview/e8d5ebf7af8cdc97ad52ea1144bc5eabccba059a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:6kYxVyZbDkYiYZFjzTO4lL"
   },
   {
     "album_id": "3ifA4OUPiT92YB4vYtAdVh",
