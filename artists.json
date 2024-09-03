@@ -3201,6 +3201,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+    },
+    "href": "https://api.spotify.com/v1/artists/40FmJcZFhzbd6P9w4eXqgS",
+    "id": "40FmJcZFhzbd6P9w4eXqgS",
+    "name": "Sandro Malandro",
+    "type": "artist",
+    "uri": "spotify:artist:40FmJcZFhzbd6P9w4eXqgS"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
     },
     "href": "https://api.spotify.com/v1/artists/40JMTpVRUw90SrN4pFA6Mz",
