@@ -19704,6 +19704,30 @@
     "uri": "spotify:track:2z5FQBjeKclsyBcBXWYoVU"
   },
   {
+    "album_id": "2APaAPq3yCfgdCYx0tAx8H",
+    "artist_ids": [
+      "1QhaqxeqF9sipS2gwbEKpu"
+    ],
+    "disc_number": 2,
+    "duration_ms": 274000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUYG1105106"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2zB90aGmerHovmuvpGA6uK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2zB90aGmerHovmuvpGA6uK",
+    "id": "2zB90aGmerHovmuvpGA6uK",
+    "is_local": false,
+    "name": "Mandales Fire",
+    "popularity": 40,
+    "preview_url": "https://p.scdn.co/mp3-preview/b42eb318fdeb1177ea95f32ee5f390fc2a5d4852?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2zB90aGmerHovmuvpGA6uK"
+  },
+  {
     "album_id": "4hpY1ryuyFipmOovXGoT88",
     "artist_ids": [
       "2MRBDr0crHWE5JwPceFncq"
@@ -43654,6 +43678,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6tEl8GwFJEFyxZAO1ibTRF"
+  },
+  {
+    "album_id": "6RLa16uDQO8vSQ3VN9RWo6",
+    "artist_ids": [
+      "6eXHRfK9Ad3IpMpSAqvcDf"
+    ],
+    "disc_number": 1,
+    "duration_ms": 279642,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USANG2239159"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6tST0LckVOXThIgappR0qk",
+    "id": "6tST0LckVOXThIgappR0qk",
+    "is_local": false,
+    "name": "Ahora Es Diferente",
+    "popularity": 52,
+    "preview_url": "https://p.scdn.co/mp3-preview/89c2a26051129fb9c34bce289d4d9f864fff4e90?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6tST0LckVOXThIgappR0qk"
   },
   {
     "album_id": "5f7XpTfXYCt8GWvk9sqEjT",
