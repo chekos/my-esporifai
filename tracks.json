@@ -312,6 +312,30 @@
     "uri": "spotify:track:01nV5tQ4pCpKIIJ3AVxKdv"
   },
   {
+    "album_id": "6XpSHxvcHf2VbRpDnMN091",
+    "artist_ids": [
+      "07PdYoE4jVRF6Ut40GgVSP"
+    ],
+    "disc_number": 1,
+    "duration_ms": 295000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF011100214"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/01vZxLzy1Jl2j8oajNw00l"
+    },
+    "href": "https://api.spotify.com/v1/tracks/01vZxLzy1Jl2j8oajNw00l",
+    "id": "01vZxLzy1Jl2j8oajNw00l",
+    "is_local": false,
+    "name": "Súbete y Ya Verás (feat. Big Man & Millonario)",
+    "popularity": 65,
+    "preview_url": "https://p.scdn.co/mp3-preview/c16025466df4079418b6376901f769ccbca85c29?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:01vZxLzy1Jl2j8oajNw00l"
+  },
+  {
     "album_id": "5fl6q7SKOuaO2tHXeTaZeV",
     "artist_ids": [
       "6IdtcAwaNVAggwd6sCKgTI"
@@ -11206,6 +11230,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1g2pomnU3K9f0f5wW4k0N0"
+  },
+  {
+    "album_id": "3x4ZBWiVL9qgN7ROqSb3Em",
+    "artist_ids": [
+      "1QhaqxeqF9sipS2gwbEKpu"
+    ],
+    "disc_number": 1,
+    "duration_ms": 251625,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUYG1289407"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1gD6E3iJdqQlWKNueghHr8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1gD6E3iJdqQlWKNueghHr8",
+    "id": "1gD6E3iJdqQlWKNueghHr8",
+    "is_local": false,
+    "name": "Pistola",
+    "popularity": 48,
+    "preview_url": "https://p.scdn.co/mp3-preview/b5aaab30a7d46f2248c4257aae9e47c1a5005b87?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:1gD6E3iJdqQlWKNueghHr8"
   },
   {
     "album_id": "6XpSHxvcHf2VbRpDnMN091",
@@ -29184,6 +29232,30 @@
     "uri": "spotify:track:4XtO7fwaFptqhjH5P7VW5F"
   },
   {
+    "album_id": "0ntC5RLzimcgYTPq0YavWM",
+    "artist_ids": [
+      "4r1ZDYKzPt3iIjuq8LbT6X"
+    ],
+    "disc_number": 1,
+    "duration_ms": 169280,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MXUM72301514"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4XyqGyQSLmBjmWgI2q8wFn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4XyqGyQSLmBjmWgI2q8wFn",
+    "id": "4XyqGyQSLmBjmWgI2q8wFn",
+    "is_local": false,
+    "name": "Primero Lo Primero",
+    "popularity": 27,
+    "preview_url": "https://p.scdn.co/mp3-preview/cabd0e7a0b64ca6edb75ae529dbd2c81074f084a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4XyqGyQSLmBjmWgI2q8wFn"
+  },
+  {
     "album_id": "1YC7xdhB97jSwGkHllnBsn",
     "artist_ids": [
       "07PdYoE4jVRF6Ut40GgVSP"
@@ -40270,6 +40342,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6I9WVCFT9igOoQDAhCe2so"
+  },
+  {
+    "album_id": "1fWIXSbLLG41HN0WFdkjGb",
+    "artist_ids": [
+      "1QhaqxeqF9sipS2gwbEKpu"
+    ],
+    "disc_number": 1,
+    "duration_ms": 234328,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USUYG1464788"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6IDn3EWgIhatGXgWMUKd3t"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6IDn3EWgIhatGXgWMUKd3t",
+    "id": "6IDn3EWgIhatGXgWMUKd3t",
+    "is_local": false,
+    "name": "Una Pistola y Un Toque",
+    "popularity": 37,
+    "preview_url": "https://p.scdn.co/mp3-preview/fb6b31f262ceaaa4bc340165c75de1b4bbce6e3f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:6IDn3EWgIhatGXgWMUKd3t"
   },
   {
     "album_id": "3ab09On4yMSNdKHs3DnTw2",
