@@ -13128,6 +13128,30 @@
     "uri": "spotify:track:1v15LSVQiEsGm4FK8SH7rI"
   },
   {
+    "album_id": "3tQd5mwBtVyxCoEo4htGAV",
+    "artist_ids": [
+      "34EP7KEpOjXcM2TCat1ISk"
+    ],
+    "disc_number": 1,
+    "duration_ms": 251266,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USRC19300126"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1v5cgIyffYtfEx0swttdoE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1v5cgIyffYtfEx0swttdoE",
+    "id": "1v5cgIyffYtfEx0swttdoE",
+    "is_local": false,
+    "name": "Bring Da Ruckus",
+    "popularity": 59,
+    "preview_url": "https://p.scdn.co/mp3-preview/cd9b9cb44ce3d7805dfbd7fa90f054da884170a9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1v5cgIyffYtfEx0swttdoE"
+  },
+  {
     "album_id": "6pV6SSMwxUzqGRC5OZjrCi",
     "artist_ids": [
       "3vV4Tf1iC8vEP9fLOLGUfP"
@@ -28222,6 +28246,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4L1ghy0W6aNUvucjzHNI3D"
+  },
+  {
+    "album_id": "3tQd5mwBtVyxCoEo4htGAV",
+    "artist_ids": [
+      "34EP7KEpOjXcM2TCat1ISk"
+    ],
+    "disc_number": 1,
+    "duration_ms": 273240,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USRC19300128"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4LaiF2h7gsybmURceGYLqh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4LaiF2h7gsybmURceGYLqh",
+    "id": "4LaiF2h7gsybmURceGYLqh",
+    "is_local": false,
+    "name": "Clan In Da Front",
+    "popularity": 51,
+    "preview_url": "https://p.scdn.co/mp3-preview/b43b21a4b93b8b7b5c719f96552fb2c5da0a9780?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:4LaiF2h7gsybmURceGYLqh"
   },
   {
     "album_id": "5JgX3T6euknAvsHOubABhQ",
@@ -46438,6 +46486,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:7Iv9lZyMV4QFA3fARZDnGq"
+  },
+  {
+    "album_id": "3tQd5mwBtVyxCoEo4htGAV",
+    "artist_ids": [
+      "34EP7KEpOjXcM2TCat1ISk"
+    ],
+    "disc_number": 1,
+    "duration_ms": 177226,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USRC19300127"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7IwURvEfVcdxUCjLKUu6sv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7IwURvEfVcdxUCjLKUu6sv",
+    "id": "7IwURvEfVcdxUCjLKUu6sv",
+    "is_local": false,
+    "name": "Shame On a Nigga",
+    "popularity": 59,
+    "preview_url": "https://p.scdn.co/mp3-preview/7e649bd84c2cf21d713f5babe554d982d4ee9edb?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:7IwURvEfVcdxUCjLKUu6sv"
   },
   {
     "album_id": "3b5iRnAmLiw7rAwKv5WqEA",

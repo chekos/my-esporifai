@@ -2531,6 +2531,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+    },
+    "href": "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+    "id": "34EP7KEpOjXcM2TCat1ISk",
+    "name": "Wu-Tang Clan",
+    "type": "artist",
+    "uri": "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
     },
     "href": "https://api.spotify.com/v1/artists/34nbQa7Hug9DYkRJpfKNFv",
