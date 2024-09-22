@@ -6096,6 +6096,30 @@
     "uri": "spotify:track:0svTtIuc9dXDvFC5sXxyco"
   },
   {
+    "album_id": "3kEtdS2pH6hKcMU9Wioob1",
+    "artist_ids": [
+      "20qISvAhX20dpIbOOzGK3q"
+    ],
+    "disc_number": 1,
+    "duration_ms": 293973,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USSM10017351"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0trHOzAhNpGCsGBEu7dOJo",
+    "id": "0trHOzAhNpGCsGBEu7dOJo",
+    "is_local": false,
+    "name": "N.Y. State of Mind",
+    "popularity": 72,
+    "preview_url": "https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0trHOzAhNpGCsGBEu7dOJo"
+  },
+  {
     "album_id": "75ggrmbV5iht00LL2DOu87",
     "artist_ids": [
       "7CvKsTEWv1BS3LydN8HgG6"
@@ -6766,6 +6790,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:10dS1LyDC8hMXcITvSNFyU"
+  },
+  {
+    "album_id": "3tQd5mwBtVyxCoEo4htGAV",
+    "artist_ids": [
+      "34EP7KEpOjXcM2TCat1ISk"
+    ],
+    "disc_number": 1,
+    "duration_ms": 252026,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USRC19300133"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/119c93MHjrDLJTApCVGpvx",
+    "id": "119c93MHjrDLJTApCVGpvx",
+    "is_local": false,
+    "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+    "popularity": 73,
+    "preview_url": "https://p.scdn.co/mp3-preview/a4a5cbb514e2f34d0152da0f9f76d48d07995e5c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:119c93MHjrDLJTApCVGpvx"
   },
   {
     "album_id": "0DDsexe1qhQ2TQ43XztwMl",
@@ -28462,6 +28510,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4MwabI1crrcvdoDzdyKcAk"
+  },
+  {
+    "album_id": "3kEtdS2pH6hKcMU9Wioob1",
+    "artist_ids": [
+      "20qISvAhX20dpIbOOzGK3q"
+    ],
+    "disc_number": 1,
+    "duration_ms": 105320,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USSM10022820"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4N0olzsMpr5cAPFrzNErGv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4N0olzsMpr5cAPFrzNErGv",
+    "id": "4N0olzsMpr5cAPFrzNErGv",
+    "is_local": false,
+    "name": "The Genesis",
+    "popularity": 51,
+    "preview_url": "https://p.scdn.co/mp3-preview/af176b11e12a9140d7d1529dafc15fdf9e451641?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4N0olzsMpr5cAPFrzNErGv"
   },
   {
     "album_id": "6q8BNcH6wkWwWC0fGoJwkS",
