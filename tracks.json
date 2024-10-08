@@ -46248,6 +46248,30 @@
     "uri": "spotify:track:7CyN1NFDOZRrCe5D7BaJxe"
   },
   {
+    "album_id": "7s3uEJa4VwAiij9v3N0DMW",
+    "artist_ids": [
+      "4vsYsjLDww5ulHaAH5vrew"
+    ],
+    "disc_number": 1,
+    "duration_ms": 165360,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USWL12402928"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7D2pw1k24KdVVRkD2RzXoV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7D2pw1k24KdVVRkD2RzXoV",
+    "id": "7D2pw1k24KdVVRkD2RzXoV",
+    "is_local": false,
+    "name": "DURO",
+    "popularity": 36,
+    "preview_url": "https://p.scdn.co/mp3-preview/f5ec1ad05629ea82e84d6cdb054707229d4cb9ff?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7D2pw1k24KdVVRkD2RzXoV"
+  },
+  {
     "album_id": "0DDsexe1qhQ2TQ43XztwMl",
     "artist_ids": [
       "4QFG9KrGWEbr6hNA58CAqE"
