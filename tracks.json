@@ -41160,6 +41160,30 @@
     "uri": "spotify:track:6HZILIRieu8S0iqY8kIKhj"
   },
   {
+    "album_id": "4OP48ZU8qUYanvwyTLAvrt",
+    "artist_ids": [
+      "4mN0qcMxWX8oToqfDPM5yV"
+    ],
+    "disc_number": 1,
+    "duration_ms": 256200,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF019000700"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6HgUhIiqCepGzgb4nuses6",
+    "id": "6HgUhIiqCepGzgb4nuses6",
+    "is_local": false,
+    "name": "El Triste",
+    "popularity": 58,
+    "preview_url": "https://p.scdn.co/mp3-preview/01de91d857a0a6b124b1e5602752d9de364f786f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:6HgUhIiqCepGzgb4nuses6"
+  },
+  {
     "album_id": "5PZxScqkkCa4bjdZcq9fuh",
     "artist_ids": [
       "4Hzj6dfl1y5x5TzCSsvLB6"
@@ -41614,6 +41638,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6MGH6PrE2pwcTOxadRuYGY"
+  },
+  {
+    "album_id": "275JSnJEE006Zda2tj0qey",
+    "artist_ids": [
+      "5bSfBBCxY8QAk4Pifveisz"
+    ],
+    "disc_number": 1,
+    "duration_ms": 197226,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXUM70801158"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6MzMBU2SRwjjlKYdivR6WW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6MzMBU2SRwjjlKYdivR6WW",
+    "id": "6MzMBU2SRwjjlKYdivR6WW",
+    "is_local": false,
+    "name": "El Final De Nuestra Historia",
+    "popularity": 52,
+    "preview_url": "https://p.scdn.co/mp3-preview/dfd36bc2133f20c818ccc8c07a801aab8a6df860?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:6MzMBU2SRwjjlKYdivR6WW"
   },
   {
     "album_id": "7vwAHNmOb341jyF7FcLOU5",
