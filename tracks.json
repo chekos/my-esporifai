@@ -3792,6 +3792,30 @@
     "uri": "spotify:track:0Yc2tewln8DSGTyXGr9dMY"
   },
   {
+    "album_id": "74LenWKjMdGa2qJiI1sxwT",
+    "artist_ids": [
+      "57UnSUpae3SbRekxNa5Kgl"
+    ],
+    "disc_number": 1,
+    "duration_ms": 205160,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMRSZ2001024"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0YdjfAmUyxF4Dh0HNEhmoI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0YdjfAmUyxF4Dh0HNEhmoI",
+    "id": "0YdjfAmUyxF4Dh0HNEhmoI",
+    "is_local": false,
+    "name": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
+    "popularity": 44,
+    "preview_url": "https://p.scdn.co/mp3-preview/a779f68acc324c5b8b4d035bb4fe7cbd1c69bc1c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:0YdjfAmUyxF4Dh0HNEhmoI"
+  },
+  {
     "album_id": "3pPBbp1Nl9n1AM9xFpdKtZ",
     "artist_ids": [
       "7guDJrEfX3qb6FEbdPA5qi"
@@ -26950,6 +26974,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:3yzGx7t04sNSL4Iu00CoCu"
+  },
+  {
+    "album_id": "7GqZKE68HTdrIGkRpa81w6",
+    "artist_ids": [
+      "1iIxNEvPPmdFIIP0tdpw6G"
+    ],
+    "disc_number": 1,
+    "duration_ms": 184746,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM6DC1673716"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3zf1pL3RIAtuNMmifiSem7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3zf1pL3RIAtuNMmifiSem7",
+    "id": "3zf1pL3RIAtuNMmifiSem7",
+    "is_local": false,
+    "name": "No Hay Novedad",
+    "popularity": 59,
+    "preview_url": "https://p.scdn.co/mp3-preview/5cad93cb5965f8be20f659515b5f4c632edb31e3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:3zf1pL3RIAtuNMmifiSem7"
   },
   {
     "album_id": "7LP8ofOXYH2AGzc8ZCt0Oe",

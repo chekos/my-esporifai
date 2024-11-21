@@ -2121,6 +2121,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+    },
+    "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+    "id": "2N4EYkIlG1kv25g6Wv8LGI",
+    "name": "Killer Mike",
+    "type": "artist",
+    "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
     },
     "href": "https://api.spotify.com/v1/artists/2PQW0MnXmZd19XKZQyoPgu",
@@ -3541,6 +3551,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+    },
+    "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+    "id": "4RnBFZRiMLRyZy0AzzTg2C",
+    "name": "Run The Jewels",
+    "type": "artist",
+    "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
     },
     "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
@@ -4088,6 +4108,16 @@
     "name": "Lil Wayne",
     "type": "artist",
     "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+    },
+    "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+    "id": "57UnSUpae3SbRekxNa5Kgl",
+    "name": "El-P",
+    "type": "artist",
+    "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
   },
   {
     "external_urls": {
