@@ -761,6 +761,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+    },
+    "href": "https://api.spotify.com/v1/artists/0v7JYEoQOQbzNNESKwxmzT",
+    "id": "0v7JYEoQOQbzNNESKwxmzT",
+    "name": "Banda Tierra Sagrada",
+    "type": "artist",
+    "uri": "spotify:artist:0v7JYEoQOQbzNNESKwxmzT"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0wkxgIUSVvrpkfE5B3i3eV"
     },
     "href": "https://api.spotify.com/v1/artists/0wkxgIUSVvrpkfE5B3i3eV",

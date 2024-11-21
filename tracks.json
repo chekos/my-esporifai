@@ -552,6 +552,30 @@
     "uri": "spotify:track:03LrV2F4RWe8sViFjSLXkI"
   },
   {
+    "album_id": "1EQ1I7X2fG0dU9YJMn1PvK",
+    "artist_ids": [
+      "6AcOTCYBMvjKYy4zms0kaC"
+    ],
+    "disc_number": 1,
+    "duration_ms": 184173,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USUG10911693"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/03vPzl2730E0pYU2KKiCPN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/03vPzl2730E0pYU2KKiCPN",
+    "id": "03vPzl2730E0pYU2KKiCPN",
+    "is_local": false,
+    "name": "Me Gusta Todo De Ti",
+    "popularity": 16,
+    "preview_url": "https://p.scdn.co/mp3-preview/0ed4b0c9c497abadd67e771b9c55c67964662125?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:03vPzl2730E0pYU2KKiCPN"
+  },
+  {
     "album_id": "5fl6q7SKOuaO2tHXeTaZeV",
     "artist_ids": [
       "6IdtcAwaNVAggwd6sCKgTI"
@@ -14232,6 +14256,30 @@
     "uri": "spotify:track:24vNw0Z0srb4zYXwrakw8E"
   },
   {
+    "album_id": "6FJTkbK0wJPr1v0v9YE0L4",
+    "artist_ids": [
+      "4LFOoXhMhnq9U8VsZkSwxl"
+    ],
+    "disc_number": 1,
+    "duration_ms": 204200,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USASN1401337"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/25Ejjmf1GqZRjAIXYgML9R"
+    },
+    "href": "https://api.spotify.com/v1/tracks/25Ejjmf1GqZRjAIXYgML9R",
+    "id": "25Ejjmf1GqZRjAIXYgML9R",
+    "is_local": false,
+    "name": "Borracho de Amor",
+    "popularity": 68,
+    "preview_url": "https://p.scdn.co/mp3-preview/09fd755a187a52db7e553540954a4ff371796e42?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:25Ejjmf1GqZRjAIXYgML9R"
+  },
+  {
     "album_id": "0sGiueQWjYKzacveBnbY5h",
     "artist_ids": [
       "7rTmbfDJtDCjoy8XK5Dsj5"
@@ -18526,6 +18574,30 @@
     "track_number": 23,
     "type": "track",
     "uri": "spotify:track:2i1qzhWQz68VwRUokaXCbC"
+  },
+  {
+    "album_id": "6rIeG5N7Dr1KxvmCMigPcK",
+    "artist_ids": [
+      "6AcOTCYBMvjKYy4zms0kaC"
+    ],
+    "disc_number": 1,
+    "duration_ms": 196253,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USFI20100974"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2i61WI2fawXqjs1NuMPW3A"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2i61WI2fawXqjs1NuMPW3A",
+    "id": "2i61WI2fawXqjs1NuMPW3A",
+    "is_local": false,
+    "name": "Y Llegaste Tú",
+    "popularity": 51,
+    "preview_url": "https://p.scdn.co/mp3-preview/c3a285ff1a9de365e306cc26ae689a3593a4403f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:2i61WI2fawXqjs1NuMPW3A"
   },
   {
     "album_id": "7lO0gX1rSWXYO9gnUqpY1p",
