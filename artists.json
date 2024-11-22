@@ -4371,6 +4371,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8"
+    },
+    "href": "https://api.spotify.com/v1/artists/5UlItbkRcPTdmWC4AcKrk8",
+    "id": "5UlItbkRcPTdmWC4AcKrk8",
+    "name": "Drama Theme",
+    "type": "artist",
+    "uri": "spotify:artist:5UlItbkRcPTdmWC4AcKrk8"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
     },
     "href": "https://api.spotify.com/v1/artists/5VQCk9RiLwri99OgOT34kq",
