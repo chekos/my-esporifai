@@ -5616,6 +5616,30 @@
     "uri": "spotify:track:0nYBWfeF167d8LHJf9iAN3"
   },
   {
+    "album_id": "0hvT3yIEysuuvkK73vgdcW",
+    "artist_ids": [
+      "2YZyLoL8N0Wb9xBt1NhZWg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 157992,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUG12408494"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0nj9Bq5sHDiTxSHunhgkFb",
+    "id": "0nj9Bq5sHDiTxSHunhgkFb",
+    "is_local": false,
+    "name": "squabble up",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/a04c5d56bed329c297f57fd8a1d1a4e34e330321?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0nj9Bq5sHDiTxSHunhgkFb"
+  },
+  {
     "album_id": "0itQ63GbQW7k1bnEhS2k5R",
     "artist_ids": [
       "5lYeiQxUTcGKVgAuTqbTeL"
@@ -27408,6 +27432,30 @@
     "uri": "spotify:track:457lOTzrk0TSZPGsQ13AzL"
   },
   {
+    "album_id": "0hvT3yIEysuuvkK73vgdcW",
+    "artist_ids": [
+      "2YZyLoL8N0Wb9xBt1NhZWg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 177598,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USUG12408496"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/45J4avUb9Ni0bnETYaYFVJ",
+    "id": "45J4avUb9Ni0bnETYaYFVJ",
+    "is_local": false,
+    "name": "luther",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/b639672f809029d7cad2226949616a315562268f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:45J4avUb9Ni0bnETYaYFVJ"
+  },
+  {
     "album_id": "6XUqL4ek2qNqffgElBoz0Z",
     "artist_ids": [
       "2hejA1Dkf8v8R0koF44FvW"
@@ -37942,6 +37990,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:5gEUDNQvoQjdjklrwPdGwD"
+  },
+  {
+    "album_id": "0hvT3yIEysuuvkK73vgdcW",
+    "artist_ids": [
+      "2YZyLoL8N0Wb9xBt1NhZWg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 317092,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUG12408495"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5gOfC9UzZQzTyShqPMrpjT",
+    "id": "5gOfC9UzZQzTyShqPMrpjT",
+    "is_local": false,
+    "name": "wacced out murals",
+    "popularity": 0,
+    "preview_url": "https://p.scdn.co/mp3-preview/2d31d8a90cebb585659323d54858e9faea865565?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5gOfC9UzZQzTyShqPMrpjT"
   },
   {
     "album_id": "1WXp9ofuosOWHVjkEnvuzL",
