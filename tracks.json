@@ -26928,6 +26928,30 @@
     "uri": "spotify:track:3wxqOJoz0VwScZDeWMOvOg"
   },
   {
+    "album_id": "5r6ouetFjAMFUOYZIEGAbf",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 229800,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJW2353630"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3xEGWdCgsC8N5xCLzJZkh4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3xEGWdCgsC8N5xCLzJZkh4",
+    "id": "3xEGWdCgsC8N5xCLzJZkh4",
+    "is_local": false,
+    "name": "C'est Fini",
+    "popularity": 16,
+    "preview_url": null,
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:3xEGWdCgsC8N5xCLzJZkh4"
+  },
+  {
     "album_id": "4tmfvSKVNBP2LNqlGCQvVL",
     "artist_ids": [
       "48G4FvpaGSQAb2ZxhUc2Hv"
