@@ -38520,6 +38520,30 @@
     "uri": "spotify:track:5iLTQgPGIEYnHPo99kTb52"
   },
   {
+    "album_id": "0jLU2VTNMurRMFhvmZZf25",
+    "artist_ids": [
+      "4VECwDIJ0DYczPqCyP85kQ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 151697,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "DGA0S2491286"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5ihdLIpOc4zgTRTVar1xN4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5ihdLIpOc4zgTRTVar1xN4",
+    "id": "5ihdLIpOc4zgTRTVar1xN4",
+    "is_local": false,
+    "name": "Ferragamo",
+    "popularity": 0,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5ihdLIpOc4zgTRTVar1xN4"
+  },
+  {
     "album_id": "0dYiy3lV8InRzTTStmFtuq",
     "artist_ids": [
       "0U5RYP2HMdGv2GhicLhkOI"
@@ -46726,6 +46750,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:76poUArBkxrtsBzqXcaAnc"
+  },
+  {
+    "album_id": "7lO0gX1rSWXYO9gnUqpY1p",
+    "artist_ids": [
+      "0U8dIwzBn17JkhYxmznp6T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 162500,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA1L2300053"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/76qTvxjhi147XFb9O7lt7x"
+    },
+    "href": "https://api.spotify.com/v1/tracks/76qTvxjhi147XFb9O7lt7x",
+    "id": "76qTvxjhi147XFb9O7lt7x",
+    "is_local": false,
+    "name": "Big Bag",
+    "popularity": 30,
+    "preview_url": null,
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:76qTvxjhi147XFb9O7lt7x"
   },
   {
     "album_id": "48xXX0Q141vKS9UcLu9mWW",
