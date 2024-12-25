@@ -2016,6 +2016,30 @@
     "uri": "spotify:track:0INhc870cm8AiSzujM3OlA"
   },
   {
+    "album_id": "0tu9kY2tDMuuuI6GtSDH9i",
+    "artist_ids": [
+      "2nszmSgqreHSdJA3zWPyrW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 115893,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USWI20600187"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0IrKbfhVKW0xpPEzRDeSUb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0IrKbfhVKW0xpPEzRDeSUb",
+    "id": "0IrKbfhVKW0xpPEzRDeSUb",
+    "is_local": false,
+    "name": "Santa Claus Llegó a La Ciudad",
+    "popularity": 73,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0IrKbfhVKW0xpPEzRDeSUb"
+  },
+  {
     "album_id": "7Lv6VzSqIz1sAssK2JUskG",
     "artist_ids": [
       "7Gi6gjaWy3DxyilpF1a8Is"
@@ -12456,6 +12480,30 @@
     "uri": "spotify:track:1nIFkaYnztQ0Otnhb4KNNq"
   },
   {
+    "album_id": "0tu9kY2tDMuuuI6GtSDH9i",
+    "artist_ids": [
+      "2nszmSgqreHSdJA3zWPyrW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 112106,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USWI20600194"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1nMd4JxxVJBk4Y2hyCM1TZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1nMd4JxxVJBk4Y2hyCM1TZ",
+    "id": "1nMd4JxxVJBk4Y2hyCM1TZ",
+    "is_local": false,
+    "name": "Va a Nevar",
+    "popularity": 62,
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:1nMd4JxxVJBk4Y2hyCM1TZ"
+  },
+  {
     "album_id": "02r5GQTeyId72iagm3Gxm1",
     "artist_ids": [
       "1FCItwxfRieMGhR0eRxotU"
@@ -16318,6 +16366,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:2Lo2BWhhlZSJds2yBhxoet"
+  },
+  {
+    "album_id": "0tu9kY2tDMuuuI6GtSDH9i",
+    "artist_ids": [
+      "2nszmSgqreHSdJA3zWPyrW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 188199,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USWI20600195"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2LxtK38dlYh9Byvv93ndYY",
+    "id": "2LxtK38dlYh9Byvv93ndYY",
+    "is_local": false,
+    "name": "Sonríe",
+    "popularity": 58,
+    "preview_url": null,
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:2LxtK38dlYh9Byvv93ndYY"
   },
   {
     "album_id": "0DDsexe1qhQ2TQ43XztwMl",
@@ -27768,6 +27840,30 @@
     "uri": "spotify:track:45Suc2PQ4hozXEYZqM70fQ"
   },
   {
+    "album_id": "0tu9kY2tDMuuuI6GtSDH9i",
+    "artist_ids": [
+      "2nszmSgqreHSdJA3zWPyrW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 255586,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USWI20600188"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/45fKgDxHS174490B3qruhx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/45fKgDxHS174490B3qruhx",
+    "id": "45fKgDxHS174490B3qruhx",
+    "is_local": false,
+    "name": "Te Deseo Muy Felices Fiestas",
+    "popularity": 61,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:45fKgDxHS174490B3qruhx"
+  },
+  {
     "album_id": "7Lv6VzSqIz1sAssK2JUskG",
     "artist_ids": [
       "7Gi6gjaWy3DxyilpF1a8Is"
@@ -35856,6 +35952,30 @@
     "uri": "spotify:track:5KInsY7fAYt1haZlcWzEBP"
   },
   {
+    "album_id": "0tu9kY2tDMuuuI6GtSDH9i",
+    "artist_ids": [
+      "2nszmSgqreHSdJA3zWPyrW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 168146,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USWI20600192"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5L88nFlpqgkYnVgemRIVwi"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5L88nFlpqgkYnVgemRIVwi",
+    "id": "5L88nFlpqgkYnVgemRIVwi",
+    "is_local": false,
+    "name": "Estaré En Mi Casa Esta Navidad",
+    "popularity": 59,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:5L88nFlpqgkYnVgemRIVwi"
+  },
+  {
     "album_id": "71OOY6O8tNRJNxTW4y3gGy",
     "artist_ids": [
       "3vV4Tf1iC8vEP9fLOLGUfP"
@@ -40896,6 +41016,30 @@
     "uri": "spotify:track:6824mnOCY420xznSRPAWz2"
   },
   {
+    "album_id": "0tu9kY2tDMuuuI6GtSDH9i",
+    "artist_ids": [
+      "2nszmSgqreHSdJA3zWPyrW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 154653,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USWI20600191"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/683fOEDnFrDuFM9oMpuEhK",
+    "id": "683fOEDnFrDuFM9oMpuEhK",
+    "is_local": false,
+    "name": "Navidad, Navidad",
+    "popularity": 70,
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:683fOEDnFrDuFM9oMpuEhK"
+  },
+  {
     "album_id": "6M0D23KerfyIlj9aHzwiUu",
     "artist_ids": [
       "4Hzj6dfl1y5x5TzCSsvLB6"
@@ -44904,6 +45048,30 @@
     "uri": "spotify:track:6mW6Je4ItQWWYMPKnUBBUC"
   },
   {
+    "album_id": "0tu9kY2tDMuuuI6GtSDH9i",
+    "artist_ids": [
+      "2nszmSgqreHSdJA3zWPyrW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 196626,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USWI20600193"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6mqFVKD7iqABWjAQmxT8Af"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6mqFVKD7iqABWjAQmxT8Af",
+    "id": "6mqFVKD7iqABWjAQmxT8Af",
+    "is_local": false,
+    "name": "Mi Humilde Oración",
+    "popularity": 58,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:6mqFVKD7iqABWjAQmxT8Af"
+  },
+  {
     "album_id": "3LYr5yeVCDJfPsJM7b0ilh",
     "artist_ids": [
       "33ScadVnbm2X8kkUqOkC6Z"
@@ -46846,6 +47014,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:77DRzu7ERs0TX3roZcre7Q"
+  },
+  {
+    "album_id": "0tu9kY2tDMuuuI6GtSDH9i",
+    "artist_ids": [
+      "2nszmSgqreHSdJA3zWPyrW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 212466,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USWI20600190"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/77J6wE54qpAb2iGegfCVFu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/77J6wE54qpAb2iGegfCVFu",
+    "id": "77J6wE54qpAb2iGegfCVFu",
+    "is_local": false,
+    "name": "Blanca Navidad",
+    "popularity": 65,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:77J6wE54qpAb2iGegfCVFu"
   },
   {
     "album_id": "7uIGxnb0Th4Av0R5oui7A0",
@@ -49246,6 +49438,30 @@
     "track_number": 10,
     "type": "track",
     "uri": "spotify:track:7eg5ULKbZ6M897SYk1h4xf"
+  },
+  {
+    "album_id": "0tu9kY2tDMuuuI6GtSDH9i",
+    "artist_ids": [
+      "2nszmSgqreHSdJA3zWPyrW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 114386,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USWI20600189"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7ekLlhVAdxH6mRFoDlA1J3"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7ekLlhVAdxH6mRFoDlA1J3",
+    "id": "7ekLlhVAdxH6mRFoDlA1J3",
+    "is_local": false,
+    "name": "Frente a La Chimenea",
+    "popularity": 66,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:7ekLlhVAdxH6mRFoDlA1J3"
   },
   {
     "album_id": "6FFIuh8cdET0pY9GDRQsHk",

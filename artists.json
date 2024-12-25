@@ -2331,6 +2331,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+    },
+    "href": "https://api.spotify.com/v1/artists/2nszmSgqreHSdJA3zWPyrW",
+    "id": "2nszmSgqreHSdJA3zWPyrW",
+    "name": "Luis Miguel",
+    "type": "artist",
+    "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1"
     },
     "href": "https://api.spotify.com/v1/artists/2pFRwJDkZ3pvmzufOh2mc1",
