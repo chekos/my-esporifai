@@ -451,6 +451,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+    },
+    "href": "https://api.spotify.com/v1/artists/0WC6O2ZzUcDYvcmt2mGh8c",
+    "id": "0WC6O2ZzUcDYvcmt2mGh8c",
+    "name": "Chavela Vargas",
+    "type": "artist",
+    "uri": "spotify:artist:0WC6O2ZzUcDYvcmt2mGh8c"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0Wqbw2ZKno6MrvDcLpc0ax"
     },
     "href": "https://api.spotify.com/v1/artists/0Wqbw2ZKno6MrvDcLpc0ax",
@@ -861,6 +871,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+    },
+    "href": "https://api.spotify.com/v1/artists/112OOUPY3pq7Hr35s3po6E",
+    "id": "112OOUPY3pq7Hr35s3po6E",
+    "name": "Yomo Toro",
+    "type": "artist",
+    "uri": "spotify:artist:112OOUPY3pq7Hr35s3po6E"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
     },
     "href": "https://api.spotify.com/v1/artists/11kBu957KTYoAltZHDm8gW",
@@ -1141,6 +1161,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+    },
+    "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+    "id": "1GxkXlMwML1oSg5eLPiAz3",
+    "name": "Michael Bublé",
+    "type": "artist",
+    "uri": "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
     },
     "href": "https://api.spotify.com/v1/artists/1JHgX0v8Dx86wpfQkZuJFg",
@@ -1208,6 +1238,16 @@
     "name": "3BallMTY",
     "type": "artist",
     "uri": "spotify:artist:1MLs9allBZrajb5Dc4146L"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+    },
+    "href": "https://api.spotify.com/v1/artists/1MbehwcqhGMlU79kDBYOxo",
+    "id": "1MbehwcqhGMlU79kDBYOxo",
+    "name": "Briela Ojeda",
+    "type": "artist",
+    "uri": "spotify:artist:1MbehwcqhGMlU79kDBYOxo"
   },
   {
     "external_urls": {
@@ -1331,6 +1371,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+    },
+    "href": "https://api.spotify.com/v1/artists/1TOnulloO1kwAhFmH1QVJM",
+    "id": "1TOnulloO1kwAhFmH1QVJM",
+    "name": "Chabelo",
+    "type": "artist",
+    "uri": "spotify:artist:1TOnulloO1kwAhFmH1QVJM"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
     },
     "href": "https://api.spotify.com/v1/artists/1ThoqLcyIYvZn7iWbj8fsj",
@@ -1418,6 +1468,16 @@
     "name": "Achepe",
     "type": "artist",
     "uri": "spotify:artist:1b170j0PpkgYWGHMPRsNEM"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+    },
+    "href": "https://api.spotify.com/v1/artists/1b7AEdUSudOQoZF5ebUxCL",
+    "id": "1b7AEdUSudOQoZF5ebUxCL",
+    "name": "HUMBE",
+    "type": "artist",
+    "uri": "spotify:artist:1b7AEdUSudOQoZF5ebUxCL"
   },
   {
     "external_urls": {
@@ -1821,6 +1881,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1z9Jw0Zl5ZgxLYl0psGxP7"
+    },
+    "href": "https://api.spotify.com/v1/artists/1z9Jw0Zl5ZgxLYl0psGxP7",
+    "id": "1z9Jw0Zl5ZgxLYl0psGxP7",
+    "name": "El Mixtape",
+    "type": "artist",
+    "uri": "spotify:artist:1z9Jw0Zl5ZgxLYl0psGxP7"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
     },
     "href": "https://api.spotify.com/v1/artists/20kZ1fvR4TfMUsyXfOOnAm",
@@ -1848,6 +1918,16 @@
     "name": "Lirika Inverza",
     "type": "artist",
     "uri": "spotify:artist:214wdmDstodTL0SEEPDyxb"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+    },
+    "href": "https://api.spotify.com/v1/artists/22p8vOZwMABvl5qt2nZHWD",
+    "id": "22p8vOZwMABvl5qt2nZHWD",
+    "name": "Vale",
+    "type": "artist",
+    "uri": "spotify:artist:22p8vOZwMABvl5qt2nZHWD"
   },
   {
     "external_urls": {
@@ -1888,6 +1968,16 @@
     "name": "Imran Khan",
     "type": "artist",
     "uri": "spotify:artist:24BYRlsS8uIO4jA71mJ4Js"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+    },
+    "href": "https://api.spotify.com/v1/artists/24dYJ8P3YuFihvMcElFUWh",
+    "id": "24dYJ8P3YuFihvMcElFUWh",
+    "name": "Pedro Fernández",
+    "type": "artist",
+    "uri": "spotify:artist:24dYJ8P3YuFihvMcElFUWh"
   },
   {
     "external_urls": {
@@ -1948,6 +2038,16 @@
     "name": "Kerox",
     "type": "artist",
     "uri": "spotify:artist:2Aps4lMllN6Ka9nwm47pcc"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+    },
+    "href": "https://api.spotify.com/v1/artists/2BUqEy3gCJYDKmKqV06Ojt",
+    "id": "2BUqEy3gCJYDKmKqV06Ojt",
+    "name": "Picus",
+    "type": "artist",
+    "uri": "spotify:artist:2BUqEy3gCJYDKmKqV06Ojt"
   },
   {
     "external_urls": {
@@ -2091,6 +2191,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+    },
+    "href": "https://api.spotify.com/v1/artists/2L0nCuTUHFPHC3Y8uqbUKw",
+    "id": "2L0nCuTUHFPHC3Y8uqbUKw",
+    "name": "Lucah",
+    "type": "artist",
+    "uri": "spotify:artist:2L0nCuTUHFPHC3Y8uqbUKw"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2Lss2KwJWG97CZIEvyzYfl"
     },
     "href": "https://api.spotify.com/v1/artists/2Lss2KwJWG97CZIEvyzYfl",
@@ -2188,6 +2298,26 @@
     "name": "Nicki Nicole",
     "type": "artist",
     "uri": "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+    },
+    "href": "https://api.spotify.com/v1/artists/2VSRhqonKsL7KRAIk8SMmt",
+    "id": "2VSRhqonKsL7KRAIk8SMmt",
+    "name": "Daniela Spalla",
+    "type": "artist",
+    "uri": "spotify:artist:2VSRhqonKsL7KRAIk8SMmt"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2XSPl1pclaAddjCxZTOhZT"
+    },
+    "href": "https://api.spotify.com/v1/artists/2XSPl1pclaAddjCxZTOhZT",
+    "id": "2XSPl1pclaAddjCxZTOhZT",
+    "name": "Rodrigo Solo",
+    "type": "artist",
+    "uri": "spotify:artist:2XSPl1pclaAddjCxZTOhZT"
   },
   {
     "external_urls": {
@@ -2501,6 +2631,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+    },
+    "href": "https://api.spotify.com/v1/artists/31VFEohvhOUKrtAONEBhMG",
+    "id": "31VFEohvhOUKrtAONEBhMG",
+    "name": "Kenia OS",
+    "type": "artist",
+    "uri": "spotify:artist:31VFEohvhOUKrtAONEBhMG"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
     },
     "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
@@ -2591,6 +2731,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+    },
+    "href": "https://api.spotify.com/v1/artists/39yVoqm6sYFvvqF1RciUVf",
+    "id": "39yVoqm6sYFvvqF1RciUVf",
+    "name": "Carlos Rivera",
+    "type": "artist",
+    "uri": "spotify:artist:39yVoqm6sYFvvqF1RciUVf"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3A81XYuxzrdxL64kWEvE9K"
     },
     "href": "https://api.spotify.com/v1/artists/3A81XYuxzrdxL64kWEvE9K",
@@ -2678,6 +2828,16 @@
     "name": "LaBelle",
     "type": "artist",
     "uri": "spotify:artist:3DznKagEU8yMQZR9z33Da5"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+    },
+    "href": "https://api.spotify.com/v1/artists/3EA9hVIzKfFiQI0Kikz2wo",
+    "id": "3EA9hVIzKfFiQI0Kikz2wo",
+    "name": "Andrea Bocelli",
+    "type": "artist",
+    "uri": "spotify:artist:3EA9hVIzKfFiQI0Kikz2wo"
   },
   {
     "external_urls": {
@@ -3061,6 +3221,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+    },
+    "href": "https://api.spotify.com/v1/artists/3jc496ljiyrS3ECrD7QiqL",
+    "id": "3jc496ljiyrS3ECrD7QiqL",
+    "name": "Gipsy Kings",
+    "type": "artist",
+    "uri": "spotify:artist:3jc496ljiyrS3ECrD7QiqL"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
     },
     "href": "https://api.spotify.com/v1/artists/3l9G1G9MxH6DaRhwLklaf5",
@@ -3201,6 +3371,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+    },
+    "href": "https://api.spotify.com/v1/artists/3vYC7LFneIpmJRSgrYy6dc",
+    "id": "3vYC7LFneIpmJRSgrYy6dc",
+    "name": "Alberto Vazquez",
+    "type": "artist",
+    "uri": "spotify:artist:3vYC7LFneIpmJRSgrYy6dc"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
     },
     "href": "https://api.spotify.com/v1/artists/3vxYNXtM9uOMdRAXTXgtmf",
@@ -3301,6 +3481,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+    },
+    "href": "https://api.spotify.com/v1/artists/44nb9BaqV2jVvxKCaXHwlP",
+    "id": "44nb9BaqV2jVvxKCaXHwlP",
+    "name": "Pandora",
+    "type": "artist",
+    "uri": "spotify:artist:44nb9BaqV2jVvxKCaXHwlP"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo"
     },
     "href": "https://api.spotify.com/v1/artists/45dFGC8WhidxNiuhMbTIvo",
@@ -3328,6 +3518,16 @@
     "name": "Jasmine Alvarado",
     "type": "artist",
     "uri": "spotify:artist:48G4FvpaGSQAb2ZxhUc2Hv"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+    },
+    "href": "https://api.spotify.com/v1/artists/49EE6lVLgU8sp7dFgPshgM",
+    "id": "49EE6lVLgU8sp7dFgPshgM",
+    "name": "La Adictiva",
+    "type": "artist",
+    "uri": "spotify:artist:49EE6lVLgU8sp7dFgPshgM"
   },
   {
     "external_urls": {
@@ -3501,6 +3701,26 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4NKHtkR5qcCUoVnhlALcJR"
+    },
+    "href": "https://api.spotify.com/v1/artists/4NKHtkR5qcCUoVnhlALcJR",
+    "id": "4NKHtkR5qcCUoVnhlALcJR",
+    "name": "Los Meñiques De La Casa",
+    "type": "artist",
+    "uri": "spotify:artist:4NKHtkR5qcCUoVnhlALcJR"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+    },
+    "href": "https://api.spotify.com/v1/artists/4OgNARLQSC4yy7Dsa5cqxx",
+    "id": "4OgNARLQSC4yy7Dsa5cqxx",
+    "name": "Yuri",
+    "type": "artist",
+    "uri": "spotify:artist:4OgNARLQSC4yy7Dsa5cqxx"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
     },
     "href": "https://api.spotify.com/v1/artists/4OiCK9NnTWhakDIG57uBUA",
@@ -3578,6 +3798,16 @@
     "name": "La Plebada",
     "type": "artist",
     "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+    },
+    "href": "https://api.spotify.com/v1/artists/4S9EykWXhStSc15wEx8QFK",
+    "id": "4S9EykWXhStSc15wEx8QFK",
+    "name": "Céline Dion",
+    "type": "artist",
+    "uri": "spotify:artist:4S9EykWXhStSc15wEx8QFK"
   },
   {
     "external_urls": {
@@ -3711,6 +3941,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+    },
+    "href": "https://api.spotify.com/v1/artists/4ZdPHdArIbz2GSBXkozQYC",
+    "id": "4ZdPHdArIbz2GSBXkozQYC",
+    "name": "Los Esquivel",
+    "type": "artist",
+    "uri": "spotify:artist:4ZdPHdArIbz2GSBXkozQYC"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
     },
     "href": "https://api.spotify.com/v1/artists/4aWhlVjiUjYHpVWBPP8AFc",
@@ -3748,6 +3988,16 @@
     "name": "Angel Canales",
     "type": "artist",
     "uri": "spotify:artist:4bJWcXUgUrQl4E4ru6VapB"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+    },
+    "href": "https://api.spotify.com/v1/artists/4boI7bJtmB1L3b1cuL75Zr",
+    "id": "4boI7bJtmB1L3b1cuL75Zr",
+    "name": "Mon Laferte",
+    "type": "artist",
+    "uri": "spotify:artist:4boI7bJtmB1L3b1cuL75Zr"
   },
   {
     "external_urls": {
@@ -3901,6 +4151,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+    },
+    "href": "https://api.spotify.com/v1/artists/4nzV0hThyodYzrwksnS86G",
+    "id": "4nzV0hThyodYzrwksnS86G",
+    "name": "Ambar Lucid",
+    "type": "artist",
+    "uri": "spotify:artist:4nzV0hThyodYzrwksnS86G"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
     },
     "href": "https://api.spotify.com/v1/artists/4o0NtnL2m0lzZmEdRas1qv",
@@ -4018,6 +4278,16 @@
     "name": "Sangre X Sangre",
     "type": "artist",
     "uri": "spotify:artist:4vsYsjLDww5ulHaAH5vrew"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+    },
+    "href": "https://api.spotify.com/v1/artists/4wLXwxDeWQ8mtUIRPxGiD6",
+    "id": "4wLXwxDeWQ8mtUIRPxGiD6",
+    "name": "Marc Anthony",
+    "type": "artist",
+    "uri": "spotify:artist:4wLXwxDeWQ8mtUIRPxGiD6"
   },
   {
     "external_urls": {
@@ -4551,6 +4821,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+    },
+    "href": "https://api.spotify.com/v1/artists/5gOJTI4TusSENizxhcG7jB",
+    "id": "5gOJTI4TusSENizxhcG7jB",
+    "name": "David Bisbal",
+    "type": "artist",
+    "uri": "spotify:artist:5gOJTI4TusSENizxhcG7jB"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
     },
     "href": "https://api.spotify.com/v1/artists/5hWRNIwMHTJ09SjdOVoEwl",
@@ -4628,6 +4908,16 @@
     "name": "Charles Ans",
     "type": "artist",
     "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv"
+    },
+    "href": "https://api.spotify.com/v1/artists/5mJH0BUCHkK1xHYde4pAgv",
+    "id": "5mJH0BUCHkK1xHYde4pAgv",
+    "name": "Sonora Siguaray",
+    "type": "artist",
+    "uri": "spotify:artist:5mJH0BUCHkK1xHYde4pAgv"
   },
   {
     "external_urls": {
@@ -4711,6 +5001,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+    },
+    "href": "https://api.spotify.com/v1/artists/5ty08GXpCMviM7BKWNrdXi",
+    "id": "5ty08GXpCMviM7BKWNrdXi",
+    "name": "Tony Camargo",
+    "type": "artist",
+    "uri": "spotify:artist:5ty08GXpCMviM7BKWNrdXi"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5urer15JPbCELf17LVia7w"
     },
     "href": "https://api.spotify.com/v1/artists/5urer15JPbCELf17LVia7w",
@@ -4738,6 +5038,26 @@
     "name": "Mr. Pimp Music",
     "type": "artist",
     "uri": "spotify:artist:5zdoqaDKWhHtlFhoqfEn9N"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5zocvwXTEiIrmsGZiBuTAh"
+    },
+    "href": "https://api.spotify.com/v1/artists/5zocvwXTEiIrmsGZiBuTAh",
+    "id": "5zocvwXTEiIrmsGZiBuTAh",
+    "name": "Belen",
+    "type": "artist",
+    "uri": "spotify:artist:5zocvwXTEiIrmsGZiBuTAh"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+    },
+    "href": "https://api.spotify.com/v1/artists/60alJNnwGVBdNXrx4kOfW0",
+    "id": "60alJNnwGVBdNXrx4kOfW0",
+    "name": "Tatiana",
+    "type": "artist",
+    "uri": "spotify:artist:60alJNnwGVBdNXrx4kOfW0"
   },
   {
     "external_urls": {
@@ -4858,6 +5178,16 @@
     "name": "Alzada",
     "type": "artist",
     "uri": "spotify:artist:68Nt8XHuyEgQSOHih2iMlv"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
+    },
+    "href": "https://api.spotify.com/v1/artists/68QUssU8KffP7KmgO3Z6Ye",
+    "id": "68QUssU8KffP7KmgO3Z6Ye",
+    "name": "Samo",
+    "type": "artist",
+    "uri": "spotify:artist:68QUssU8KffP7KmgO3Z6Ye"
   },
   {
     "external_urls": {
@@ -5261,6 +5591,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+    },
+    "href": "https://api.spotify.com/v1/artists/6XkjpgcEsYab502Vr1bBeW",
+    "id": "6XkjpgcEsYab502Vr1bBeW",
+    "name": "Grupo Frontera",
+    "type": "artist",
+    "uri": "spotify:artist:6XkjpgcEsYab502Vr1bBeW"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
     },
     "href": "https://api.spotify.com/v1/artists/6Z112eJxKl1E3nAbYZBr7M",
@@ -5278,6 +5618,16 @@
     "name": "Sara Jordan Powell",
     "type": "artist",
     "uri": "spotify:artist:6cBr5hKnVKahZ7S8AcJQTo"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
+    },
+    "href": "https://api.spotify.com/v1/artists/6d19qaYWDQRN687o4TRK3K",
+    "id": "6d19qaYWDQRN687o4TRK3K",
+    "name": "Laura Murcia",
+    "type": "artist",
+    "uri": "spotify:artist:6d19qaYWDQRN687o4TRK3K"
   },
   {
     "external_urls": {
@@ -5388,6 +5738,16 @@
     "name": "Al2 El Aldeano",
     "type": "artist",
     "uri": "spotify:artist:6lYSDSFhJyUV6CtNix2fBA"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
+    },
+    "href": "https://api.spotify.com/v1/artists/6lcyDWmvYnBiGgHO9knEOb",
+    "id": "6lcyDWmvYnBiGgHO9knEOb",
+    "name": "Roberto Junior Y Su Bandeño",
+    "type": "artist",
+    "uri": "spotify:artist:6lcyDWmvYnBiGgHO9knEOb"
   },
   {
     "external_urls": {
@@ -5561,6 +5921,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+    },
+    "href": "https://api.spotify.com/v1/artists/72VywtXEoONiBLNu3ibGI7",
+    "id": "72VywtXEoONiBLNu3ibGI7",
+    "name": "Silvana Estrada",
+    "type": "artist",
+    "uri": "spotify:artist:72VywtXEoONiBLNu3ibGI7"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
     },
     "href": "https://api.spotify.com/v1/artists/74OPWhLPyLylAzgqcJlNMm",
@@ -5631,6 +6001,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+    },
+    "href": "https://api.spotify.com/v1/artists/77aLk6J8ofnVxa1eXK9jiU",
+    "id": "77aLk6J8ofnVxa1eXK9jiU",
+    "name": "Matisse",
+    "type": "artist",
+    "uri": "spotify:artist:77aLk6J8ofnVxa1eXK9jiU"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
     },
     "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
@@ -5698,6 +6078,16 @@
     "name": "Bizor",
     "type": "artist",
     "uri": "spotify:artist:7F6fxMv0tz2Clj8H02Y2k7"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7FCulfuzZCzpj4bEeq5J1N"
+    },
+    "href": "https://api.spotify.com/v1/artists/7FCulfuzZCzpj4bEeq5J1N",
+    "id": "7FCulfuzZCzpj4bEeq5J1N",
+    "name": "Josue Noel",
+    "type": "artist",
+    "uri": "spotify:artist:7FCulfuzZCzpj4bEeq5J1N"
   },
   {
     "external_urls": {
@@ -5811,6 +6201,26 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+    },
+    "href": "https://api.spotify.com/v1/artists/7K78lVZ8XzkjfRSI7570FF",
+    "id": "7K78lVZ8XzkjfRSI7570FF",
+    "name": "José Feliciano",
+    "type": "artist",
+    "uri": "spotify:artist:7K78lVZ8XzkjfRSI7570FF"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+    },
+    "href": "https://api.spotify.com/v1/artists/7K9rdoOJSiKXoVXPlSkGKT",
+    "id": "7K9rdoOJSiKXoVXPlSkGKT",
+    "name": "Paty Cantú",
+    "type": "artist",
+    "uri": "spotify:artist:7K9rdoOJSiKXoVXPlSkGKT"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/7Lq0zxODdkmK542TOS44K3"
     },
     "href": "https://api.spotify.com/v1/artists/7Lq0zxODdkmK542TOS44K3",
@@ -5818,6 +6228,16 @@
     "name": "Illuminatik",
     "type": "artist",
     "uri": "spotify:artist:7Lq0zxODdkmK542TOS44K3"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
+    },
+    "href": "https://api.spotify.com/v1/artists/7M5Z4j6N9k2Jd3CukFUv5e",
+    "id": "7M5Z4j6N9k2Jd3CukFUv5e",
+    "name": "Vazquez Sounds",
+    "type": "artist",
+    "uri": "spotify:artist:7M5Z4j6N9k2Jd3CukFUv5e"
   },
   {
     "external_urls": {
@@ -5878,6 +6298,16 @@
     "name": "Zornoza",
     "type": "artist",
     "uri": "spotify:artist:7duoO1s42va1lka5TikCfu"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7dyP3dRIa8kriG2C0Z8xUr"
+    },
+    "href": "https://api.spotify.com/v1/artists/7dyP3dRIa8kriG2C0Z8xUr",
+    "id": "7dyP3dRIa8kriG2C0Z8xUr",
+    "name": "Elenco De Eterna Navidad",
+    "type": "artist",
+    "uri": "spotify:artist:7dyP3dRIa8kriG2C0Z8xUr"
   },
   {
     "external_urls": {
@@ -6031,6 +6461,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+    },
+    "href": "https://api.spotify.com/v1/artists/7opp16lU7VM3l2WBdGMYHP",
+    "id": "7opp16lU7VM3l2WBdGMYHP",
+    "name": "Héctor Lavoe",
+    "type": "artist",
+    "uri": "spotify:artist:7opp16lU7VM3l2WBdGMYHP"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
     },
     "href": "https://api.spotify.com/v1/artists/7plUpXSFcSJUZSiZAoXqr1",
@@ -6121,6 +6561,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+    },
+    "href": "https://api.spotify.com/v1/artists/7wOZy3KdFVVINgNFFxkxwO",
+    "id": "7wOZy3KdFVVINgNFFxkxwO",
+    "name": "Jerry Rivera",
+    "type": "artist",
+    "uri": "spotify:artist:7wOZy3KdFVVINgNFFxkxwO"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
     },
     "href": "https://api.spotify.com/v1/artists/7wgrXbrp9RJQMri26GZgyH",
@@ -6138,6 +6588,16 @@
     "name": "Xavi Guzmán",
     "type": "artist",
     "uri": "spotify:artist:7wkmQjXCCupriQhjlnS4hq"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+    },
+    "href": "https://api.spotify.com/v1/artists/7x5Slu7yTE5icZjNsc3OzW",
+    "id": "7x5Slu7yTE5icZjNsc3OzW",
+    "name": "Willie Colón",
+    "type": "artist",
+    "uri": "spotify:artist:7x5Slu7yTE5icZjNsc3OzW"
   },
   {
     "external_urls": {
