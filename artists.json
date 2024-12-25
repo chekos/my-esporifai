@@ -5211,6 +5211,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+    },
+    "href": "https://api.spotify.com/v1/artists/6BMQo3hxi4qwLiZpHKK5iL",
+    "id": "6BMQo3hxi4qwLiZpHKK5iL",
+    "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+    "type": "artist",
+    "uri": "spotify:artist:6BMQo3hxi4qwLiZpHKK5iL"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/6CJ0EnASyencrooPZNBpaB"
     },
     "href": "https://api.spotify.com/v1/artists/6CJ0EnASyencrooPZNBpaB",

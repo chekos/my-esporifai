@@ -7368,6 +7368,30 @@
     "uri": "spotify:track:10FxpXUdsMf7jAjZbXBKRT"
   },
   {
+    "album_id": "30isRfL4u7fowKgTVsydDt",
+    "artist_ids": [
+      "1hcdI2N1023RvSwLzTtdsp"
+    ],
+    "disc_number": 1,
+    "duration_ms": 224533,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF011600356"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
+    },
+    "href": "https://api.spotify.com/v1/tracks/10HQmG706HZtAhXRypWw01",
+    "id": "10HQmG706HZtAhXRypWw01",
+    "is_local": false,
+    "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
+    "popularity": 47,
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:10HQmG706HZtAhXRypWw01"
+  },
+  {
     "album_id": "1mdbJt88iwqkl0zEMGA8XH",
     "artist_ids": [
       "2hejA1Dkf8v8R0koF44FvW"
@@ -9694,6 +9718,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:1Mi6uegC4pRxQZw1CB5Fk9"
+  },
+  {
+    "album_id": "0Y1tsEnH5gN8TEJRQ9xOLi",
+    "artist_ids": [
+      "72VywtXEoONiBLNu3ibGI7"
+    ],
+    "disc_number": 1,
+    "duration_ms": 181093,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USYAH1900323"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1MulQvxfRRNds6QE3rgaHT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1MulQvxfRRNds6QE3rgaHT",
+    "id": "1MulQvxfRRNds6QE3rgaHT",
+    "is_local": false,
+    "name": "Tristeza",
+    "popularity": 25,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:1MulQvxfRRNds6QE3rgaHT"
   },
   {
     "album_id": "4XqbCTI7eyQUZ4pnya9hOo",
@@ -27264,6 +27312,30 @@
     "uri": "spotify:track:3ndJWgaFnw92IeICfSlTrP"
   },
   {
+    "album_id": "5J1qxK7rxPeYi7wgQALes2",
+    "artist_ids": [
+      "6BMQo3hxi4qwLiZpHKK5iL"
+    ],
+    "disc_number": 1,
+    "duration_ms": 207693,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USEL10400300"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3o3eHNNF5HDU3I0Jg25SGD",
+    "id": "3o3eHNNF5HDU3I0Jg25SGD",
+    "is_local": false,
+    "name": "Na Na Na (Dulce Niña)",
+    "popularity": 63,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3o3eHNNF5HDU3I0Jg25SGD"
+  },
+  {
     "album_id": "3lsdB3dY4odywNI42KV6D9",
     "artist_ids": [
       "5XJDexmWFLWOkjOEjOVX3e"
@@ -38998,6 +39070,30 @@
     "track_number": 10,
     "type": "track",
     "uri": "spotify:track:5VcZAOKJCIys1mTgkpd6FV"
+  },
+  {
+    "album_id": "66rPH3vtqyVKZobEzphXMA",
+    "artist_ids": [
+      "3EA9hVIzKfFiQI0Kikz2wo"
+    ],
+    "disc_number": 1,
+    "duration_ms": 241232,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ITZ040500133"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5WHnE8MsLFHqSUwecrs7WO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5WHnE8MsLFHqSUwecrs7WO",
+    "id": "5WHnE8MsLFHqSUwecrs7WO",
+    "is_local": false,
+    "name": "Bésame Mucho",
+    "popularity": 59,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5WHnE8MsLFHqSUwecrs7WO"
   },
   {
     "album_id": "299y9krartmvIpleUCKOmd",
