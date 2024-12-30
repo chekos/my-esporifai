@@ -9528,6 +9528,30 @@
     "uri": "spotify:track:1L7xnsFNbBU6RH06PxbPx5"
   },
   {
+    "album_id": "5vbSnDXVHU2hiPwvARCp8P",
+    "artist_ids": [
+      "0U5RYP2HMdGv2GhicLhkOI"
+    ],
+    "disc_number": 1,
+    "duration_ms": 242571,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM3DF2415377"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1LdcUaUfkGCXWNAfugTpAR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1LdcUaUfkGCXWNAfugTpAR",
+    "id": "1LdcUaUfkGCXWNAfugTpAR",
+    "is_local": false,
+    "name": "Abrázame Muy Fuerte",
+    "popularity": 40,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1LdcUaUfkGCXWNAfugTpAR"
+  },
+  {
     "album_id": "7I1mThh5NCgS2BqrAWcMdi",
     "artist_ids": [
       "31l8FA2bO5qxpqf8uhV5eZ"
@@ -25008,6 +25032,30 @@
     "uri": "spotify:track:3SLjPltJjIuMHy764KYUF6"
   },
   {
+    "album_id": "3v5b7XMuAhbsJc1PB4naSh",
+    "artist_ids": [
+      "4OkeTQCk0fvX6VBYpOOxDi"
+    ],
+    "disc_number": 1,
+    "duration_ms": 286773,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES5080600521"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3SZpJoYjzLLhjb5t0XamAh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3SZpJoYjzLLhjb5t0XamAh",
+    "id": "3SZpJoYjzLLhjb5t0XamAh",
+    "is_local": false,
+    "name": "Si tú no lo vuelves",
+    "popularity": 50,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3SZpJoYjzLLhjb5t0XamAh"
+  },
+  {
     "album_id": "44cLix04JOwkepKq6nIUFL",
     "artist_ids": [
       "2hejA1Dkf8v8R0koF44FvW"
@@ -27454,6 +27502,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:3onyMuseupZXLEbZLv7Tsy"
+  },
+  {
+    "album_id": "7l8TCr6788hFRYFPk5QWq5",
+    "artist_ids": [
+      "7mWCSSOYqm4E9mB7V4ot6S"
+    ],
+    "disc_number": 1,
+    "duration_ms": 225373,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES5150603009"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3osYhl8lGmLJYASrrh9Y5f"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3osYhl8lGmLJYASrrh9Y5f",
+    "id": "3osYhl8lGmLJYASrrh9Y5f",
+    "is_local": false,
+    "name": "Morenamía (Dueto 2007)",
+    "popularity": 59,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3osYhl8lGmLJYASrrh9Y5f"
   },
   {
     "album_id": "0SVcAmxa9TezdU69H5PUk9",

@@ -3731,6 +3731,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+    },
+    "href": "https://api.spotify.com/v1/artists/4OkeTQCk0fvX6VBYpOOxDi",
+    "id": "4OkeTQCk0fvX6VBYpOOxDi",
+    "name": "Amaral",
+    "type": "artist",
+    "uri": "spotify:artist:4OkeTQCk0fvX6VBYpOOxDi"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
     },
     "href": "https://api.spotify.com/v1/artists/4P0dddbxPil35MNN9G2MEX",
@@ -4998,6 +5008,16 @@
     "name": "DrefQuila",
     "type": "artist",
     "uri": "spotify:artist:5pughe5rcsOq3GF0utMOs5"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+    },
+    "href": "https://api.spotify.com/v1/artists/5sIuOfUs74K1zFv5BqVaQY",
+    "id": "5sIuOfUs74K1zFv5BqVaQY",
+    "name": "Chetes",
+    "type": "artist",
+    "uri": "spotify:artist:5sIuOfUs74K1zFv5BqVaQY"
   },
   {
     "external_urls": {
@@ -6448,6 +6468,16 @@
     "name": "Delosimple",
     "type": "artist",
     "uri": "spotify:artist:7mD9y3xMFhWPKINN7Pa5qF"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+    },
+    "href": "https://api.spotify.com/v1/artists/7mWCSSOYqm4E9mB7V4ot6S",
+    "id": "7mWCSSOYqm4E9mB7V4ot6S",
+    "name": "Miguel Bosé",
+    "type": "artist",
+    "uri": "spotify:artist:7mWCSSOYqm4E9mB7V4ot6S"
   },
   {
     "external_urls": {
