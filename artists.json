@@ -3711,6 +3711,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+    },
+    "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+    "id": "4OBJLual30L7gRl5UkeRcT",
+    "name": "T.I.",
+    "type": "artist",
+    "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
     },
     "href": "https://api.spotify.com/v1/artists/4OgNARLQSC4yy7Dsa5cqxx",
