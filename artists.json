@@ -271,6 +271,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+    },
+    "href": "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+    "id": "0Mz5XE0kb1GBnbLQm2VbcO",
+    "name": "Mos Def",
+    "type": "artist",
+    "uri": "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
     },
     "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
