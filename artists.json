@@ -2401,6 +2401,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+    },
+    "href": "https://api.spotify.com/v1/artists/2eEmsgWmUFMbtU7agJpnjY",
+    "id": "2eEmsgWmUFMbtU7agJpnjY",
+    "name": "Miranda!",
+    "type": "artist",
+    "uri": "spotify:artist:2eEmsgWmUFMbtU7agJpnjY"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
     },
     "href": "https://api.spotify.com/v1/artists/2fiiGUBgPsIKDCE0bTthnl",
@@ -3358,6 +3368,16 @@
     "name": "Heroes Del Silencio",
     "type": "artist",
     "uri": "spotify:artist:3qAPxVwIQRBuz5ImPUxpZT"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+    },
+    "href": "https://api.spotify.com/v1/artists/3tAICgiSR5PfYY4B8qsoAU",
+    "id": "3tAICgiSR5PfYY4B8qsoAU",
+    "name": "Andrés Calamaro",
+    "type": "artist",
+    "uri": "spotify:artist:3tAICgiSR5PfYY4B8qsoAU"
   },
   {
     "external_urls": {

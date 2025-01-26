@@ -1536,6 +1536,30 @@
     "uri": "spotify:track:0CVBiPr4KS6DPGsSNvFEUU"
   },
   {
+    "album_id": "2h8m3JO1mo6Kew8UEQDtPd",
+    "artist_ids": [
+      "4OiCK9NnTWhakDIG57uBUA"
+    ],
+    "disc_number": 1,
+    "duration_ms": 243253,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "TCABL1213985"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0CYoeBgcZEPjiRhwtxGDTR",
+    "id": "0CYoeBgcZEPjiRhwtxGDTR",
+    "is_local": false,
+    "name": "Me Estoy Enamorando",
+    "popularity": 67,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0CYoeBgcZEPjiRhwtxGDTR"
+  },
+  {
     "album_id": "4o2Jay5e0supHGQ6F3Uzv3",
     "artist_ids": [
       "4tm8CEdm4pkQsEh4jIr9Yp"
@@ -4822,6 +4846,30 @@
     "track_number": 10,
     "type": "track",
     "uri": "spotify:track:0dIoGTQXDh1wVnhIiSyYEa"
+  },
+  {
+    "album_id": "69JZWukakNJGpGhJILhyTl",
+    "artist_ids": [
+      "4uqzzJg3ww5eH7IgGV7DMT"
+    ],
+    "disc_number": 1,
+    "duration_ms": 212560,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES5151500177"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0dRY4OrSY53yUjVgfgne1W",
+    "id": "0dRY4OrSY53yUjVgfgne1W",
+    "is_local": false,
+    "name": "Aunque no sea conmigo",
+    "popularity": 63,
+    "preview_url": null,
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:0dRY4OrSY53yUjVgfgne1W"
   },
   {
     "album_id": "3q5JdUUCimWQCm9bRsxcD8",
@@ -16416,6 +16464,30 @@
     "uri": "spotify:track:2GAhgAjOhEmItWLfgisyOn"
   },
   {
+    "album_id": "7ccf0zsBWOIarNmkqjHdpd",
+    "artist_ids": [
+      "3Jarv4dvk7d9k6AkqDUVJg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 247093,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "US66W0500016"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2GKva36e90AM0B0WF1J0YY"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2GKva36e90AM0B0WF1J0YY",
+    "id": "2GKva36e90AM0B0WF1J0YY",
+    "is_local": false,
+    "name": "Tijuana Makes Me Happy",
+    "popularity": 26,
+    "preview_url": null,
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:2GKva36e90AM0B0WF1J0YY"
+  },
+  {
     "album_id": "5L5zhlV2NQALYptNM3WNIz",
     "artist_ids": [
       "3SCOuAxngTC1yGjKMcIPEd"
@@ -23952,6 +24024,30 @@
     "uri": "spotify:track:3J1aXbNrnGsSmgIJ5Q5zzN"
   },
   {
+    "album_id": "7L5G2yWZKE08abmnCUvW49",
+    "artist_ids": [
+      "2QWIScpFDNxmS6ZEMIUvgm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 209000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF011200807"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3JBFUsZatpE435Y8ejP7RZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3JBFUsZatpE435Y8ejP7RZ",
+    "id": "3JBFUsZatpE435Y8ejP7RZ",
+    "is_local": false,
+    "name": "Te Vi",
+    "popularity": 42,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3JBFUsZatpE435Y8ejP7RZ"
+  },
+  {
     "album_id": "05DldXdPR0ngd0KEaFD704",
     "artist_ids": [
       "4Hzj6dfl1y5x5TzCSsvLB6"
@@ -31078,6 +31174,30 @@
     "track_number": 13,
     "type": "track",
     "uri": "spotify:track:4NnogIt2dL3TbM0p5ItUQ9"
+  },
+  {
+    "album_id": "23sglTmI7lQhVogpoa5TXe",
+    "artist_ids": [
+      "2eEmsgWmUFMbtU7agJpnjY"
+    ],
+    "disc_number": 1,
+    "duration_ms": 225053,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "ARF840700396"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4Ol6lxivp7pR7voovl8vKI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4Ol6lxivp7pR7voovl8vKI",
+    "id": "4Ol6lxivp7pR7voovl8vKI",
+    "is_local": false,
+    "name": "Perfecta - Versión con Julieta Venegas",
+    "popularity": 59,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:4Ol6lxivp7pR7voovl8vKI"
   },
   {
     "album_id": "0dYiy3lV8InRzTTStmFtuq",
