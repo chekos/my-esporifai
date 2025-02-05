@@ -4451,6 +4451,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+    },
+    "href": "https://api.spotify.com/v1/artists/55DbcJhGcCqYhWlzAdSpvL",
+    "id": "55DbcJhGcCqYhWlzAdSpvL",
+    "name": "Bandido Beat",
+    "type": "artist",
+    "uri": "spotify:artist:55DbcJhGcCqYhWlzAdSpvL"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
     },
     "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
