@@ -11,6 +11,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+    },
+    "href": "https://api.spotify.com/v1/artists/00me4Ke1LsvMxt5kydlMyU",
+    "id": "00me4Ke1LsvMxt5kydlMyU",
+    "name": "Cosculluela",
+    "type": "artist",
+    "uri": "spotify:artist:00me4Ke1LsvMxt5kydlMyU"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
     },
     "href": "https://api.spotify.com/v1/artists/014WIDx7H4BRCHB1faiisK",
@@ -1871,6 +1881,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+    },
+    "href": "https://api.spotify.com/v1/artists/1wZtkThiXbVNtj6hee6dz9",
+    "id": "1wZtkThiXbVNtj6hee6dz9",
+    "name": "Wisin & Yandel",
+    "type": "artist",
+    "uri": "spotify:artist:1wZtkThiXbVNtj6hee6dz9"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
     },
     "href": "https://api.spotify.com/v1/artists/1xOtUH3e7hrO0nJesm68Ea",
@@ -2448,6 +2468,16 @@
     "name": "Ronald El Killa",
     "type": "artist",
     "uri": "spotify:artist:2jE5NeCBZpgohvRLtQ6v0O"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+    },
+    "href": "https://api.spotify.com/v1/artists/2jSGzJw0ebJLu7OLVSOcBP",
+    "id": "2jSGzJw0ebJLu7OLVSOcBP",
+    "name": "Plan B",
+    "type": "artist",
+    "uri": "spotify:artist:2jSGzJw0ebJLu7OLVSOcBP"
   },
   {
     "external_urls": {
@@ -5101,6 +5131,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+    },
+    "href": "https://api.spotify.com/v1/artists/5pZE9tgrhmIGWAsJZ7YxNK",
+    "id": "5pZE9tgrhmIGWAsJZ7YxNK",
+    "name": "Luny Tunes",
+    "type": "artist",
+    "uri": "spotify:artist:5pZE9tgrhmIGWAsJZ7YxNK"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
     },
     "href": "https://api.spotify.com/v1/artists/5pughe5rcsOq3GF0utMOs5",
@@ -6538,6 +6578,16 @@
     "name": "LO-FI BEATS",
     "type": "artist",
     "uri": "spotify:artist:7iUy9ctasMRtp5jwWs95Fm"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+    },
+    "href": "https://api.spotify.com/v1/artists/7j6DKwmjbxvpQO8h914uEz",
+    "id": "7j6DKwmjbxvpQO8h914uEz",
+    "name": "Ryan Castro",
+    "type": "artist",
+    "uri": "spotify:artist:7j6DKwmjbxvpQO8h914uEz"
   },
   {
     "external_urls": {
