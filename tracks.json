@@ -1800,6 +1800,30 @@
     "uri": "spotify:track:0DQNU7XoR3e7YKoitTKJQw"
   },
   {
+    "album_id": "4kS7bSuU0Jm9LYMosFU2x5",
+    "artist_ids": [
+      "790FomKkXshlbRYZFtlgla"
+    ],
+    "disc_number": 1,
+    "duration_ms": 197933,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM72222541"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0DWdj2oZMBFSzRsi2Cvfzf",
+    "id": "0DWdj2oZMBFSzRsi2Cvfzf",
+    "is_local": false,
+    "name": "TQG",
+    "popularity": 79,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:0DWdj2oZMBFSzRsi2Cvfzf"
+  },
+  {
     "album_id": "58K0rZgSa0fpWIwMiXiJX6",
     "artist_ids": [
       "6tJRAxu0HwB2GI9GueEj4l"
@@ -14832,6 +14856,30 @@
     "uri": "spotify:track:1yN7ljnKqrWTW3g9tdN2it"
   },
   {
+    "album_id": "5VxwWfcKYIpcp4OCjjaIQp",
+    "artist_ids": [
+      "2CCgb0KApjfQDuTppovpf8"
+    ],
+    "disc_number": 1,
+    "duration_ms": 226285,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES71G2500880"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1yNYyCDT267YVxs5qSmnYZ",
+    "id": "1yNYyCDT267YVxs5qSmnYZ",
+    "is_local": false,
+    "name": "Corazón Puro",
+    "popularity": 76,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1yNYyCDT267YVxs5qSmnYZ"
+  },
+  {
     "album_id": "3orUOWHQTgWUvrc1c8yXPH",
     "artist_ids": [
       "4AxSQnOMPd42KI149MWsub"
@@ -16344,6 +16392,30 @@
     "uri": "spotify:track:2DNyZP4Py6f4zMASLBnIu6"
   },
   {
+    "album_id": "2QIjTJqytJ9ksvoS1jpM90",
+    "artist_ids": [
+      "716NhGYqD1jl2wI1Qkgq36"
+    ],
+    "disc_number": 1,
+    "duration_ms": 155888,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "UYB282401007"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2DbV9TSdeGr5FobCFDRzvq",
+    "id": "2DbV9TSdeGr5FobCFDRzvq",
+    "is_local": false,
+    "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+    "popularity": 70,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2DbV9TSdeGr5FobCFDRzvq"
+  },
+  {
     "album_id": "0W25izQQWhI54q5Dvs2PkO",
     "artist_ids": [
       "7MyUjj79oHy7I8RocrtzZ2"
@@ -16438,6 +16510,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:2F6fJnbxkFkQouAwUo0uPC"
+  },
+  {
+    "album_id": "4yE7L5RhMkjX7KkweWjFYk",
+    "artist_ids": [
+      "4SsVbpTthjScTS7U2hmr1X"
+    ],
+    "disc_number": 1,
+    "duration_ms": 263288,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USB271700107"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2FIm6YsSGL5acOqSuJDh5s",
+    "id": "2FIm6YsSGL5acOqSuJDh5s",
+    "is_local": false,
+    "name": "Me Acostumbre (feat. Bad Bunny)",
+    "popularity": 69,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2FIm6YsSGL5acOqSuJDh5s"
   },
   {
     "album_id": "4pLuE50wL9T26lSv42X0J2",
@@ -28320,6 +28416,30 @@
     "uri": "spotify:track:3s5uzhbLDD47kwqhvoz7mC"
   },
   {
+    "album_id": "5K79FLRUCSysQnVESLcTdb",
+    "artist_ids": [
+      "4q3ewBCX7sLwd24euuV69X"
+    ],
+    "disc_number": 1,
+    "duration_ms": 237117,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMFMF2447070"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3sK8wGT43QFpWrvNQsrQya",
+    "id": "3sK8wGT43QFpWrvNQsrQya",
+    "is_local": false,
+    "name": "DtMF",
+    "popularity": 98,
+    "preview_url": null,
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+  },
+  {
     "album_id": "3hoeuEtUWX5WknLcRtXQUX",
     "artist_ids": [
       "3AgxRYe2kXEfsZyB07hqJF"
@@ -29184,6 +29304,30 @@
     "uri": "spotify:track:40PRueUeMTIsPHvJs2dUFz"
   },
   {
+    "album_id": "7BmWnXvx1CD6vtxtBd0czc",
+    "artist_ids": [
+      "4VMYDCV2IEDYJArk749S6m"
+    ],
+    "disc_number": 1,
+    "duration_ms": 210933,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM6N21759345"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/40a82F3K2UTbeoLlXXXZBd"
+    },
+    "href": "https://api.spotify.com/v1/tracks/40a82F3K2UTbeoLlXXXZBd",
+    "id": "40a82F3K2UTbeoLlXXXZBd",
+    "is_local": false,
+    "name": "Lo Que Pasó, Pasó",
+    "popularity": 73,
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:40a82F3K2UTbeoLlXXXZBd"
+  },
+  {
     "album_id": "7iSPRgLrTrRr7Ed5W2tws6",
     "artist_ids": [
       "6eXHRfK9Ad3IpMpSAqvcDf"
@@ -29878,6 +30022,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:47zBGuVCeAzjFEPnRQQBew"
+  },
+  {
+    "album_id": "5LbfmeWh5cvLpR1Nfvdch5",
+    "artist_ids": [
+      "33ScadVnbm2X8kkUqOkC6Z"
+    ],
+    "disc_number": 1,
+    "duration_ms": 315293,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USUM70603099"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/48NXpYRuvv9izul4oXhqS9",
+    "id": "48NXpYRuvv9izul4oXhqS9",
+    "is_local": false,
+    "name": "Salió El Sol",
+    "popularity": 77,
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:48NXpYRuvv9izul4oXhqS9"
   },
   {
     "album_id": "2Y9IRtehByVkegoD7TcLfi",
@@ -34654,6 +34822,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:4t4GM7XWaNthFLmrkGc82L"
+  },
+  {
+    "album_id": "46xbsFOp9g1WqTidQEs7YT",
+    "artist_ids": [
+      "47MpMsUfWtgyIIBEFOr4FE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 266086,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USA2P1927909"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4t9a07PAghtQMRAIP9FQ7Z",
+    "id": "4t9a07PAghtQMRAIP9FQ7Z",
+    "is_local": false,
+    "name": "Soltera (Remix)",
+    "popularity": 75,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:4t9a07PAghtQMRAIP9FQ7Z"
   },
   {
     "album_id": "1UKPeNYEVOZymgh6lgv3BA",
@@ -44712,6 +44904,30 @@
     "uri": "spotify:track:6NQ5urTIuViE6DUYB2mXCa"
   },
   {
+    "album_id": "12yPsAPzZ5584HxpItKBUn",
+    "artist_ids": [
+      "4SsVbpTthjScTS7U2hmr1X"
+    ],
+    "disc_number": 1,
+    "duration_ms": 264000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "TCACS1630643"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6NSMQFKgjpQb0KkjMDYIK0",
+    "id": "6NSMQFKgjpQb0KkjMDYIK0",
+    "is_local": false,
+    "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
+    "popularity": 76,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6NSMQFKgjpQb0KkjMDYIK0"
+  },
+  {
     "album_id": "42xizzB2aLakQDBNIhEQJg",
     "artist_ids": [
       "5ty08GXpCMviM7BKWNrdXi"
@@ -49750,6 +49966,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:78DVpEWwmJFC25KGz8fJuE"
+  },
+  {
+    "album_id": "3PgvJGHxtoablFQjDI2pQF",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 176129,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA4M2500001"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
+    },
+    "href": "https://api.spotify.com/v1/tracks/78HEzDEs1QUnHB2DbxgC1s",
+    "id": "78HEzDEs1QUnHB2DbxgC1s",
+    "is_local": false,
+    "name": "Te Quería Ver",
+    "popularity": 76,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:78HEzDEs1QUnHB2DbxgC1s"
   },
   {
     "album_id": "3hoeuEtUWX5WknLcRtXQUX",

@@ -2081,6 +2081,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+    },
+    "href": "https://api.spotify.com/v1/artists/2CCgb0KApjfQDuTppovpf8",
+    "id": "2CCgb0KApjfQDuTppovpf8",
+    "name": "Rvfv",
+    "type": "artist",
+    "uri": "spotify:artist:2CCgb0KApjfQDuTppovpf8"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2CNlyTMkVS2IlK0MIWoU8o"
     },
     "href": "https://api.spotify.com/v1/artists/2CNlyTMkVS2IlK0MIWoU8o",
@@ -3551,6 +3561,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+    },
+    "href": "https://api.spotify.com/v1/artists/47MpMsUfWtgyIIBEFOr4FE",
+    "id": "47MpMsUfWtgyIIBEFOr4FE",
+    "name": "Lunay",
+    "type": "artist",
+    "uri": "spotify:artist:47MpMsUfWtgyIIBEFOr4FE"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/48G4FvpaGSQAb2ZxhUc2Hv"
     },
     "href": "https://api.spotify.com/v1/artists/48G4FvpaGSQAb2ZxhUc2Hv",
@@ -3871,6 +3891,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+    },
+    "href": "https://api.spotify.com/v1/artists/4SsVbpTthjScTS7U2hmr1X",
+    "id": "4SsVbpTthjScTS7U2hmr1X",
+    "name": "Arcángel",
+    "type": "artist",
+    "uri": "spotify:artist:4SsVbpTthjScTS7U2hmr1X"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4TH5DHRtzUUijYshUgKdby"
     },
     "href": "https://api.spotify.com/v1/artists/4TH5DHRtzUUijYshUgKdby",
@@ -4038,6 +4068,16 @@
     "name": "Siete Nueve",
     "type": "artist",
     "uri": "spotify:artist:4atnJgcGatoxVvnjjGAm5T"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+    },
+    "href": "https://api.spotify.com/v1/artists/4az97MtWmBQ5Db3GfDh9j9",
+    "id": "4az97MtWmBQ5Db3GfDh9j9",
+    "name": "Morad",
+    "type": "artist",
+    "uri": "spotify:artist:4az97MtWmBQ5Db3GfDh9j9"
   },
   {
     "external_urls": {
@@ -5878,6 +5918,16 @@
     "name": "Migos",
     "type": "artist",
     "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+    },
+    "href": "https://api.spotify.com/v1/artists/6pV5zH2LzjOUHaAvENdMMa",
+    "id": "6pV5zH2LzjOUHaAvENdMMa",
+    "name": "Neton Vega",
+    "type": "artist",
+    "uri": "spotify:artist:6pV5zH2LzjOUHaAvENdMMa"
   },
   {
     "external_urls": {
