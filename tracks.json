@@ -47688,6 +47688,30 @@
     "uri": "spotify:track:6kGwDWZ5DYyIXH4IKt9enZ"
   },
   {
+    "album_id": "0b5audVuKMeEU2EW1Dl4CS",
+    "artist_ids": [
+      "4tm8CEdm4pkQsEh4jIr9Yp"
+    ],
+    "disc_number": 1,
+    "duration_ms": 227368,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM3DF2177286"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6kMOMMTx2xVeL949eA43ld",
+    "id": "6kMOMMTx2xVeL949eA43ld",
+    "is_local": false,
+    "name": "Kódigos",
+    "popularity": 47,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6kMOMMTx2xVeL949eA43ld"
+  },
+  {
     "album_id": "4AYdIA4uoXMxyTfJkdxjSH",
     "artist_ids": [
       "6VD4UEUPvtsemqD3mmTqCR"
@@ -52222,6 +52246,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:7as9GXbhoQ9HaVqqDHgqSG"
+  },
+  {
+    "album_id": "2vRSGq0wzM41sibtbW2242",
+    "artist_ids": [
+      "23TYM4mYLQjyJLr4x89MjH"
+    ],
+    "disc_number": 1,
+    "duration_ms": 188206,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USHM82110921"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7atB22jMfX1zTg70zhvz7g"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7atB22jMfX1zTg70zhvz7g",
+    "id": "7atB22jMfX1zTg70zhvz7g",
+    "is_local": false,
+    "name": "En Defensa Propia",
+    "popularity": 9,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:7atB22jMfX1zTg70zhvz7g"
   },
   {
     "album_id": "5fl6q7SKOuaO2tHXeTaZeV",

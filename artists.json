@@ -4781,6 +4781,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+    },
+    "href": "https://api.spotify.com/v1/artists/5RNHJe1xtJ3dKLb28DPT0V",
+    "id": "5RNHJe1xtJ3dKLb28DPT0V",
+    "name": "473 Music",
+    "type": "artist",
+    "uri": "spotify:artist:5RNHJe1xtJ3dKLb28DPT0V"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
     },
     "href": "https://api.spotify.com/v1/artists/5TYxZTjIPqKM8K8NuP9woO",
