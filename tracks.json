@@ -3408,6 +3408,54 @@
     "uri": "spotify:track:0RKglZdTQ7BLrs6vplb2qm"
   },
   {
+    "album_id": "4wVfnheoToJD1kYyjpjcGZ",
+    "artist_ids": [
+      "4jogXSSvlyMkODGSZ2wc2P"
+    ],
+    "disc_number": 1,
+    "duration_ms": 186833,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZQMB2100392"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0RR9X1AxLrdldzwwIVrHYf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0RR9X1AxLrdldzwwIVrHYf",
+    "id": "0RR9X1AxLrdldzwwIVrHYf",
+    "is_local": false,
+    "name": "Cuidando El Territorio",
+    "popularity": 61,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0RR9X1AxLrdldzwwIVrHYf"
+  },
+  {
+    "album_id": "7qtQYJc0H6s3CK4c7Gp8GR",
+    "artist_ids": [
+      "3sgFRtyBnxXD5ESfmbK4dl"
+    ],
+    "disc_number": 1,
+    "duration_ms": 183693,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM70972024"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0Rdfu7NQubmGmYz90usRCU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0Rdfu7NQubmGmYz90usRCU",
+    "id": "0Rdfu7NQubmGmYz90usRCU",
+    "is_local": false,
+    "name": "Yes",
+    "popularity": 51,
+    "preview_url": null,
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:0Rdfu7NQubmGmYz90usRCU"
+  },
+  {
     "album_id": "2AbyDhzuhpMNKEm8johQft",
     "artist_ids": [
       "27Owkm4TGlMqb0BqaEt3PW"
@@ -6334,6 +6382,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:0oSRu9SNIJQ5qoEB5LpVBC"
+  },
+  {
+    "album_id": "5EuNq3rYUESwy6Vcsz2PZe",
+    "artist_ids": [
+      "3sgFRtyBnxXD5ESfmbK4dl"
+    ],
+    "disc_number": 1,
+    "duration_ms": 199480,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USUM71108090"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0obBFrPYkSoBJbvHfUIhkv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0obBFrPYkSoBJbvHfUIhkv",
+    "id": "0obBFrPYkSoBJbvHfUIhkv",
+    "is_local": false,
+    "name": "Sexy And I Know It",
+    "popularity": 60,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:0obBFrPYkSoBJbvHfUIhkv"
   },
   {
     "album_id": "01VepFuJgEdDQnvVEykhk6",
@@ -16150,6 +16222,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:2Ao3YHjVUnVlRW3wZraP0k"
+  },
+  {
+    "album_id": "5p4niKQZmoaXlnKhfXcCCH",
+    "artist_ids": [
+      "6kPf6aO5cAHU2RJUDN1UUy"
+    ],
+    "disc_number": 1,
+    "duration_ms": 186947,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZQMB2102592"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2AqmW4ZvuuEvHNxTC5NuIp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2AqmW4ZvuuEvHNxTC5NuIp",
+    "id": "2AqmW4ZvuuEvHNxTC5NuIp",
+    "is_local": false,
+    "name": "El Mero Mero",
+    "popularity": 38,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2AqmW4ZvuuEvHNxTC5NuIp"
   },
   {
     "album_id": "5huUeSyl92U55yMr8WKvYv",
@@ -29734,6 +29830,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:419BgOz6TVQm8vvgiwXq5X"
+  },
+  {
+    "album_id": "7xnmeQ4HtgTkXq8lzpMqLX",
+    "artist_ids": [
+      "3TGeuw7OmACouH5JAKkX7I"
+    ],
+    "disc_number": 1,
+    "duration_ms": 202597,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MXF152100703"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/41Y8W6QoYpAHO0vw0FpoqM",
+    "id": "41Y8W6QoYpAHO0vw0FpoqM",
+    "is_local": false,
+    "name": "No Que No Eras Fan",
+    "popularity": 59,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:41Y8W6QoYpAHO0vw0FpoqM"
   },
   {
     "album_id": "5lJqux7orBlA1QzyiBGti1",
@@ -52822,6 +52942,30 @@
     "track_number": 15,
     "type": "track",
     "uri": "spotify:track:7bPp2NmpmyhLJ7zWazAXMu"
+  },
+  {
+    "album_id": "6N7LzstAyCIAe7sQHJLOEq",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 206200,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA0X2300016"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7bbo8bW8isBHUSrd2pVF7z"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7bbo8bW8isBHUSrd2pVF7z",
+    "id": "7bbo8bW8isBHUSrd2pVF7z",
+    "is_local": false,
+    "name": "Prohibida",
+    "popularity": 58,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:7bbo8bW8isBHUSrd2pVF7z"
   },
   {
     "album_id": "2RIn5xlQZi3l6JlWjSczDU",
