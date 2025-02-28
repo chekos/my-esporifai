@@ -2496,6 +2496,30 @@
     "uri": "spotify:track:0KEWnrDNPB4c4Pi8OtOTVY"
   },
   {
+    "album_id": "1GxhmPcuyNST8j5JEataUT",
+    "artist_ids": [
+      "5MRMYpdAWZawm3ivBeWvdK"
+    ],
+    "disc_number": 1,
+    "duration_ms": 120000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJW2143632"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0KIs4Q41w7VLscCGHxyLlE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0KIs4Q41w7VLscCGHxyLlE",
+    "id": "0KIs4Q41w7VLscCGHxyLlE",
+    "is_local": false,
+    "name": "El Joyero",
+    "popularity": 12,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:0KIs4Q41w7VLscCGHxyLlE"
+  },
+  {
     "album_id": "7f97YT0jNgpD1s9Ou4faJe",
     "artist_ids": [
       "5HSROvpnFBzRENwjZ30RNx"
@@ -7702,6 +7726,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:100Tm6z29RfHTdUQ6NIs0s"
+  },
+  {
+    "album_id": "1GxhmPcuyNST8j5JEataUT",
+    "artist_ids": [
+      "5MRMYpdAWZawm3ivBeWvdK"
+    ],
+    "disc_number": 1,
+    "duration_ms": 217300,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJW2143633"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/104yiWfwQoBzH51CsDVjhJ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/104yiWfwQoBzH51CsDVjhJ",
+    "id": "104yiWfwQoBzH51CsDVjhJ",
+    "is_local": false,
+    "name": "Mi Reyna",
+    "popularity": 22,
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:104yiWfwQoBzH51CsDVjhJ"
   },
   {
     "album_id": "6M0D23KerfyIlj9aHzwiUu",
@@ -18598,6 +18646,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:2QP6HI4BxBrdQdIOA75RSc"
+  },
+  {
+    "album_id": "1GxhmPcuyNST8j5JEataUT",
+    "artist_ids": [
+      "5MRMYpdAWZawm3ivBeWvdK"
+    ],
+    "disc_number": 1,
+    "duration_ms": 171000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNJW2143634"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2QZOPkGnSG5u7g8UC3qvB9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2QZOPkGnSG5u7g8UC3qvB9",
+    "id": "2QZOPkGnSG5u7g8UC3qvB9",
+    "is_local": false,
+    "name": "Anécdotas",
+    "popularity": 13,
+    "preview_url": null,
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:2QZOPkGnSG5u7g8UC3qvB9"
   },
   {
     "album_id": "5PZxScqkkCa4bjdZcq9fuh",
