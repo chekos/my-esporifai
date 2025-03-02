@@ -3000,6 +3000,30 @@
     "uri": "spotify:track:0Ndim92MYsrFSseD9gbBcg"
   },
   {
+    "album_id": "0YgkdLXPBd8MRkSBdjTnzv",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 235850,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM2535011"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0NeyExfImpYvHuQkKx2YEG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0NeyExfImpYvHuQkKx2YEG",
+    "id": "0NeyExfImpYvHuQkKx2YEG",
+    "is_local": false,
+    "name": "Las Reglas de la Jungla",
+    "popularity": 25,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:0NeyExfImpYvHuQkKx2YEG"
+  },
+  {
     "album_id": "4b54nXTn2X4aRFgUnCaMGE",
     "artist_ids": [
       "69UypehHabb68utzfjAVlV"
@@ -5928,6 +5952,30 @@
     "uri": "spotify:track:0lc2neV7ZzjZExwCIVG2B3"
   },
   {
+    "album_id": "4m5846oCUx3ujCCaG6TRAJ",
+    "artist_ids": [
+      "0rJ0xlAQI0wLRucDRoQQbO"
+    ],
+    "disc_number": 1,
+    "duration_ms": 497605,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USE7D2100448"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0ld5Tl4Iudm6wBago43lIX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ld5Tl4Iudm6wBago43lIX",
+    "id": "0ld5Tl4Iudm6wBago43lIX",
+    "is_local": false,
+    "name": "Chamuko V2",
+    "popularity": 49,
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:0ld5Tl4Iudm6wBago43lIX"
+  },
+  {
     "album_id": "1GxhmPcuyNST8j5JEataUT",
     "artist_ids": [
       "5MRMYpdAWZawm3ivBeWvdK"
@@ -6792,6 +6840,30 @@
     "uri": "spotify:track:0qmMsoF0nTBtt9mnl4rnVF"
   },
   {
+    "album_id": "0YgkdLXPBd8MRkSBdjTnzv",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 271950,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM2535012"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0r0Ezkt7qJRCX97tBaIAOc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0r0Ezkt7qJRCX97tBaIAOc",
+    "id": "0r0Ezkt7qJRCX97tBaIAOc",
+    "is_local": false,
+    "name": "Niños Santos",
+    "popularity": 23,
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:0r0Ezkt7qJRCX97tBaIAOc"
+  },
+  {
     "album_id": "1CAHCaHt10RshLU6sgDeAH",
     "artist_ids": [
       "3Jarv4dvk7d9k6AkqDUVJg"
@@ -7174,6 +7246,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0vLLRQTHEvIidczOP4JROU"
+  },
+  {
+    "album_id": "0YgkdLXPBd8MRkSBdjTnzv",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 180000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZW9L2495451"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0vZ3IzUFO2CRS5mqH9KiAi"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0vZ3IzUFO2CRS5mqH9KiAi",
+    "id": "0vZ3IzUFO2CRS5mqH9KiAi",
+    "is_local": false,
+    "name": "Carne Cruda",
+    "popularity": 21,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0vZ3IzUFO2CRS5mqH9KiAi"
   },
   {
     "album_id": "2qIJORYqlvp6uf6v4FTndj",
@@ -8710,6 +8806,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:18PywrD2EQCVJEXMjETy8p"
+  },
+  {
+    "album_id": "0YgkdLXPBd8MRkSBdjTnzv",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 165500,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLS2462405"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/18bIBf5EX80FkAA3S0Wq1e"
+    },
+    "href": "https://api.spotify.com/v1/tracks/18bIBf5EX80FkAA3S0Wq1e",
+    "id": "18bIBf5EX80FkAA3S0Wq1e",
+    "is_local": false,
+    "name": "En Caliente o Frío",
+    "popularity": 22,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:18bIBf5EX80FkAA3S0Wq1e"
   },
   {
     "album_id": "3yKcXKc0ZAoxuv2h7mBTM7",
@@ -19030,6 +19150,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:2TruKzYtfjOKOEPBZTSjJM"
+  },
+  {
+    "album_id": "0YgkdLXPBd8MRkSBdjTnzv",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 104150,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM2535010"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2U0HUER8aILSeEMxm0wsE6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2U0HUER8aILSeEMxm0wsE6",
+    "id": "2U0HUER8aILSeEMxm0wsE6",
+    "is_local": false,
+    "name": "Intro",
+    "popularity": 21,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2U0HUER8aILSeEMxm0wsE6"
   },
   {
     "album_id": "02yKeyAvEbnVAZbfqAjg5E",
@@ -32662,6 +32806,30 @@
     "track_number": 9,
     "type": "track",
     "uri": "spotify:track:4TWBPTTlvde0a8M42NpG5E"
+  },
+  {
+    "album_id": "7paQhjni7vgcDvOOPNHQqH",
+    "artist_ids": [
+      "0rJ0xlAQI0wLRucDRoQQbO"
+    ],
+    "disc_number": 1,
+    "duration_ms": 319556,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "usl4q1831058"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4ThT8JzNJtbSkq5LqpxcCS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ThT8JzNJtbSkq5LqpxcCS",
+    "id": "4ThT8JzNJtbSkq5LqpxcCS",
+    "is_local": false,
+    "name": "El Sobrino",
+    "popularity": 61,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:4ThT8JzNJtbSkq5LqpxcCS"
   },
   {
     "album_id": "7Dl3kd377FvNAEVHHOMSTM",
