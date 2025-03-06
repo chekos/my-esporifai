@@ -31584,6 +31584,30 @@
     "uri": "spotify:track:4HPBYMNnpP9Yc8u51VUyaD"
   },
   {
+    "album_id": "3ZnD7bDZ8gqK5iLBxN8gOE",
+    "artist_ids": [
+      "6pu8qjuOYZRBYc1hiHEVL5"
+    ],
+    "disc_number": 1,
+    "duration_ms": 171253,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZHN32592265"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4HdPTRH4zNTuPmo5FQGU0T"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4HdPTRH4zNTuPmo5FQGU0T",
+    "id": "4HdPTRH4zNTuPmo5FQGU0T",
+    "is_local": false,
+    "name": "Tres Gallos",
+    "popularity": 5,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:4HdPTRH4zNTuPmo5FQGU0T"
+  },
+  {
     "album_id": "5kvw1bAOvzJdNi4hdgfaNf",
     "artist_ids": [
       "12GqGscKJx3aE4t07u7eVZ"
@@ -45696,6 +45720,30 @@
     "uri": "spotify:track:6Iim27KsCIvDm8SrUAjRPO"
   },
   {
+    "album_id": "1RD06KaniBhfQeSQMtTCeL",
+    "artist_ids": [
+      "7CvKsTEWv1BS3LydN8HgG6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 151968,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "ESA011568115"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6IuAGzNqQqVXJFsOF0YfVq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6IuAGzNqQqVXJFsOF0YfVq",
+    "id": "6IuAGzNqQqVXJFsOF0YfVq",
+    "is_local": false,
+    "name": "No Hay Ley",
+    "popularity": 5,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6IuAGzNqQqVXJFsOF0YfVq"
+  },
+  {
     "album_id": "01VepFuJgEdDQnvVEykhk6",
     "artist_ids": [
       "4QFG9KrGWEbr6hNA58CAqE"
@@ -47134,6 +47182,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6Wvi4z1o4dpuKn7VvTs004"
+  },
+  {
+    "album_id": "0lQOsBHEf9EAm0j8hlbFYr",
+    "artist_ids": [
+      "66RfYVdftqnuHRicyClgL0"
+    ],
+    "disc_number": 1,
+    "duration_ms": 219791,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "BK4DA2326232"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6WwCuYWEH32z0tn8mSN3MY",
+    "id": "6WwCuYWEH32z0tn8mSN3MY",
+    "is_local": false,
+    "name": "El Baisón (feat. Toser One)",
+    "popularity": 57,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6WwCuYWEH32z0tn8mSN3MY"
   },
   {
     "album_id": "0R2Hidjsmf94KNt5zfrOA9",
