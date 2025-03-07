@@ -36456,6 +36456,30 @@
     "uri": "spotify:track:4zU0JhDu2f1Zojz2LlCwuI"
   },
   {
+    "album_id": "05h8oDt7xiiLEl3hVmhDfx",
+    "artist_ids": [
+      "3XlwCZKFejsj6ob2OyUucH"
+    ],
+    "disc_number": 1,
+    "duration_ms": 217938,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USL4Q2171270"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/502iYhC8LlRGvlOArrgHL5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/502iYhC8LlRGvlOArrgHL5",
+    "id": "502iYhC8LlRGvlOArrgHL5",
+    "is_local": false,
+    "name": "Barras",
+    "popularity": 14,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:502iYhC8LlRGvlOArrgHL5"
+  },
+  {
     "album_id": "48xXX0Q141vKS9UcLu9mWW",
     "artist_ids": [
       "1jVhcHIGJuk16eqY1Mdtuk"
