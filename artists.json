@@ -1181,6 +1181,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+    },
+    "href": "https://api.spotify.com/v1/artists/1GMJF1EIGaocbA7lBJkkzr",
+    "id": "1GMJF1EIGaocbA7lBJkkzr",
+    "name": "RUIDO",
+    "type": "artist",
+    "uri": "spotify:artist:1GMJF1EIGaocbA7lBJkkzr"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
     },
     "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
