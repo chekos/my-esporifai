@@ -14088,6 +14088,30 @@
     "uri": "spotify:track:1nVSfJ9XDIJlEzLkAz798P"
   },
   {
+    "album_id": "614Cn63YGYNI0M1EuXl93r",
+    "artist_ids": [
+      "48G4FvpaGSQAb2ZxhUc2Hv"
+    ],
+    "disc_number": 1,
+    "duration_ms": 152000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZHN92062416"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1nVuId1LkiAKpCPtPGNayH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1nVuId1LkiAKpCPtPGNayH",
+    "id": "1nVuId1LkiAKpCPtPGNayH",
+    "is_local": false,
+    "name": "Better Days",
+    "popularity": 1,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1nVuId1LkiAKpCPtPGNayH"
+  },
+  {
     "album_id": "62We7kcnouERjNBAKo8wG1",
     "artist_ids": [
       "4Hzj6dfl1y5x5TzCSsvLB6"
@@ -49846,6 +49870,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6uSoEpeLTKmGsJ929teLvA"
+  },
+  {
+    "album_id": "6h96ub7DVxGolqWZxSmlCz",
+    "artist_ids": [
+      "0N6H5exnFMoW4yNQ3vDJ3Z"
+    ],
+    "disc_number": 1,
+    "duration_ms": 236959,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "ESA011817138"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6vENpZ0eo4d0NVeGsejjdz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6vENpZ0eo4d0NVeGsejjdz",
+    "id": "6vENpZ0eo4d0NVeGsejjdz",
+    "is_local": false,
+    "name": "Imprescindibles",
+    "popularity": 12,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:6vENpZ0eo4d0NVeGsejjdz"
   },
   {
     "album_id": "2YRshOe2JVXGDqHhrQDx4m",
