@@ -2661,6 +2661,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+    },
+    "href": "https://api.spotify.com/v1/artists/2x7PC78TmgqpEIjaGAZ0Oz",
+    "id": "2x7PC78TmgqpEIjaGAZ0Oz",
+    "name": "Trueno",
+    "type": "artist",
+    "uri": "spotify:artist:2x7PC78TmgqpEIjaGAZ0Oz"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
     },
     "href": "https://api.spotify.com/v1/artists/2z3KntXLyEF5Lvz1kpdBoA",
@@ -5288,6 +5298,16 @@
     "name": "Adan Cruz",
     "type": "artist",
     "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+    },
+    "href": "https://api.spotify.com/v1/artists/64KEffDW9EtZ1y2vBYgq8T",
+    "id": "64KEffDW9EtZ1y2vBYgq8T",
+    "name": "Marshmello",
+    "type": "artist",
+    "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
   },
   {
     "external_urls": {

@@ -9336,6 +9336,30 @@
     "uri": "spotify:track:1DHUU7PHnIT7Zyw6oDL2zj"
   },
   {
+    "album_id": "2M9NJUv0KbyZzINUyMcmM3",
+    "artist_ids": [
+      "2N2aJ1SXQxMkhHD8C6fhYD"
+    ],
+    "disc_number": 1,
+    "duration_ms": 220013,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MX3601500001"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1Dj8H5t7E8SDB6f9mIUk67"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1Dj8H5t7E8SDB6f9mIUk67",
+    "id": "1Dj8H5t7E8SDB6f9mIUk67",
+    "is_local": false,
+    "name": "Yo No Creo en la Democracia",
+    "popularity": 41,
+    "preview_url": null,
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:1Dj8H5t7E8SDB6f9mIUk67"
+  },
+  {
     "album_id": "0zggfzcdLDK9ypTgwkPvxa",
     "artist_ids": [
       "4Hzj6dfl1y5x5TzCSsvLB6"
@@ -12262,6 +12286,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1a8JXGNz4a9gmiAdEKUpks"
+  },
+  {
+    "album_id": "2mBCc4gh1lv8Lvw1cyJMAu",
+    "artist_ids": [
+      "48G4FvpaGSQAb2ZxhUc2Hv"
+    ],
+    "disc_number": 1,
+    "duration_ms": 343846,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMPKX1882407"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1aFgIUQoW9JW312La97wQM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1aFgIUQoW9JW312La97wQM",
+    "id": "1aFgIUQoW9JW312La97wQM",
+    "is_local": false,
+    "name": "Ixchel",
+    "popularity": 1,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1aFgIUQoW9JW312La97wQM"
   },
   {
     "album_id": "3h9sn7qACkviYYhvey79hp",
@@ -45336,6 +45384,30 @@
     "uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN"
   },
   {
+    "album_id": "03jsUcPWOftBxzbLBHCeE7",
+    "artist_ids": [
+      "23TYM4mYLQjyJLr4x89MjH"
+    ],
+    "disc_number": 1,
+    "duration_ms": 198658,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USCGH2144011"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6DmqTZUDv9KDy5VaAoOo4b"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6DmqTZUDv9KDy5VaAoOo4b",
+    "id": "6DmqTZUDv9KDy5VaAoOo4b",
+    "is_local": false,
+    "name": "D.E.F.",
+    "popularity": 11,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6DmqTZUDv9KDy5VaAoOo4b"
+  },
+  {
     "album_id": "5HTtQMQxpNk64Uj1zXjufs",
     "artist_ids": [
       "7GmXwGXJSsmWTkCyk5Twux"
@@ -47806,6 +47878,30 @@
     "track_number": 15,
     "type": "track",
     "uri": "spotify:track:6ZdxGOaZoNzbGrBLjUcrUs"
+  },
+  {
+    "album_id": "0ZrHY6dWuWT0Nv7PfNaZXG",
+    "artist_ids": [
+      "64KEffDW9EtZ1y2vBYgq8T"
+    ],
+    "disc_number": 1,
+    "duration_ms": 116307,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZY962300064"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6ZhMxiXukvTSZyWdy64sgj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6ZhMxiXukvTSZyWdy64sgj",
+    "id": "6ZhMxiXukvTSZyWdy64sgj",
+    "is_local": false,
+    "name": "Fale Então",
+    "popularity": 71,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6ZhMxiXukvTSZyWdy64sgj"
   },
   {
     "album_id": "0RnTYwFIYJJlHaPUoqxaVj",
