@@ -151,6 +151,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+    },
+    "href": "https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx",
+    "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+    "name": "Selena Gomez",
+    "type": "artist",
+    "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi"
     },
     "href": "https://api.spotify.com/v1/artists/0CtBJEWIKkU8CzxJCBLmSi",
@@ -4618,6 +4628,16 @@
     "name": "Jarabe De Palo",
     "type": "artist",
     "uri": "spotify:artist:5B6H1Dq77AV1LZWrbNsuH5"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+    },
+    "href": "https://api.spotify.com/v1/artists/5CiGnKThu5ctn9pBxv7DGa",
+    "id": "5CiGnKThu5ctn9pBxv7DGa",
+    "name": "benny blanco",
+    "type": "artist",
+    "uri": "spotify:artist:5CiGnKThu5ctn9pBxv7DGa"
   },
   {
     "external_urls": {
