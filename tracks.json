@@ -8160,6 +8160,30 @@
     "uri": "spotify:track:122IPge17pBZLTGakhDDjC"
   },
   {
+    "album_id": "2UJCnSqpR3AIuTvWYZLCp1",
+    "artist_ids": [
+      "0UWZUmn7sybxMCqrw9tGa7"
+    ],
+    "disc_number": 1,
+    "duration_ms": 205373,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USUL10200158"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/129lYDVKnWtlJc2PZJviuA",
+    "id": "129lYDVKnWtlJc2PZJviuA",
+    "is_local": false,
+    "name": "A Dios Le Pido",
+    "popularity": 74,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:129lYDVKnWtlJc2PZJviuA"
+  },
+  {
     "album_id": "6vSmZZudz2cS6JwAaWXVeh",
     "artist_ids": [
       "0uCVN0ZSViQ4xVwJsDqfVo"
@@ -18384,6 +18408,30 @@
     "uri": "spotify:track:2Lo2BWhhlZSJds2yBhxoet"
   },
   {
+    "album_id": "6mD9lN6mqu4313KpY1RfIp",
+    "artist_ids": [
+      "5B6H1Dq77AV1LZWrbNsuH5"
+    ],
+    "disc_number": 1,
+    "duration_ms": 261200,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES5039600004"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2LsbizbOeNa4x6qsi2jAMb",
+    "id": "2LsbizbOeNa4x6qsi2jAMb",
+    "is_local": false,
+    "name": "La flaca",
+    "popularity": 79,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:2LsbizbOeNa4x6qsi2jAMb"
+  },
+  {
     "album_id": "0tu9kY2tDMuuuI6GtSDH9i",
     "artist_ids": [
       "2nszmSgqreHSdJA3zWPyrW"
@@ -28582,6 +28630,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3ke6it1vTmHtz2ApcIVUz5"
+  },
+  {
+    "album_id": "0Kww7Dpo0uSxtOiiFTvyCv",
+    "artist_ids": [
+      "1hcdI2N1023RvSwLzTtdsp"
+    ],
+    "disc_number": 1,
+    "duration_ms": 221800,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF011400582"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3lGMtkONrZdJ8kTCg6KIFf",
+    "id": "3lGMtkONrZdJ8kTCg6KIFf",
+    "is_local": false,
+    "name": "Hasta la Raíz",
+    "popularity": 79,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3lGMtkONrZdJ8kTCg6KIFf"
   },
   {
     "album_id": "4H3jCH55WS5z7CF6g144eV",
