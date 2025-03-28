@@ -6721,6 +6721,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1"
+    },
+    "href": "https://api.spotify.com/v1/artists/7o1RnLhpTffmSY3znC9WJ1",
+    "id": "7o1RnLhpTffmSY3znC9WJ1",
+    "name": "Mark Cast",
+    "type": "artist",
+    "uri": "spotify:artist:7o1RnLhpTffmSY3znC9WJ1"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
     },
     "href": "https://api.spotify.com/v1/artists/7okwEbXzyT2VffBmyQBWLz",
