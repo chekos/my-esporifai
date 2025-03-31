@@ -2101,6 +2101,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+    },
+    "href": "https://api.spotify.com/v1/artists/2Ax9wZpdlg4r2zkc3pcI8U",
+    "id": "2Ax9wZpdlg4r2zkc3pcI8U",
+    "name": "La Unión",
+    "type": "artist",
+    "uri": "spotify:artist:2Ax9wZpdlg4r2zkc3pcI8U"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
     },
     "href": "https://api.spotify.com/v1/artists/2BUqEy3gCJYDKmKqV06Ojt",
@@ -2538,6 +2548,16 @@
     "name": "Berner",
     "type": "artist",
     "uri": "spotify:artist:2lrtGWxNXWjd0JzDLKXubI"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+    },
+    "href": "https://api.spotify.com/v1/artists/2mSHY8JOR0nRi3mtHqVa04",
+    "id": "2mSHY8JOR0nRi3mtHqVa04",
+    "name": "Los Prisioneros",
+    "type": "artist",
+    "uri": "spotify:artist:2mSHY8JOR0nRi3mtHqVa04"
   },
   {
     "external_urls": {
@@ -3261,6 +3281,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
+    },
+    "href": "https://api.spotify.com/v1/artists/3YG18nhGaJkR1F6VpcnSG6",
+    "id": "3YG18nhGaJkR1F6VpcnSG6",
+    "name": "Miguel Mateos - Zas",
+    "type": "artist",
+    "uri": "spotify:artist:3YG18nhGaJkR1F6VpcnSG6"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
     },
     "href": "https://api.spotify.com/v1/artists/3ZIZqvSbTL7mIEyXmbbXs7",
@@ -3748,6 +3778,16 @@
     "name": "Yubeili",
     "type": "artist",
     "uri": "spotify:artist:4Fsv1gBjfqSyhzAPbhInXV"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4GGc0ZcZkaWFiQRhfUJZ8F"
+    },
+    "href": "https://api.spotify.com/v1/artists/4GGc0ZcZkaWFiQRhfUJZ8F",
+    "id": "4GGc0ZcZkaWFiQRhfUJZ8F",
+    "name": "Caos",
+    "type": "artist",
+    "uri": "spotify:artist:4GGc0ZcZkaWFiQRhfUJZ8F"
   },
   {
     "external_urls": {

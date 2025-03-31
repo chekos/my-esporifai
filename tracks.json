@@ -2544,6 +2544,30 @@
     "uri": "spotify:track:0KPR2iqByMRf82tz5x4ams"
   },
   {
+    "album_id": "0wqb0G7P5hA3ajYi9ihVQL",
+    "artist_ids": [
+      "6pWTPhk1AtVfNmkaeXXVpD"
+    ],
+    "disc_number": 1,
+    "duration_ms": 260855,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF060100650"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0KpdtlroG9CSSDD1qAwQm1"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0KpdtlroG9CSSDD1qAwQm1",
+    "id": "0KpdtlroG9CSSDD1qAwQm1",
+    "is_local": false,
+    "name": "Déjenme Si Estoy Llorando",
+    "popularity": 57,
+    "preview_url": null,
+    "track_number": 20,
+    "type": "track",
+    "uri": "spotify:track:0KpdtlroG9CSSDD1qAwQm1"
+  },
+  {
     "album_id": "2qCyMMQ785sPH4Yx25GQZ8",
     "artist_ids": [
       "7tYKF4w9nC0nq9CsPZTHyP"
@@ -4870,6 +4894,30 @@
     "track_number": 9,
     "type": "track",
     "uri": "spotify:track:0cfGMJlyI9kLCRqF4yv319"
+  },
+  {
+    "album_id": "7MGSMfFEHkrbuDNNUUxJ3Z",
+    "artist_ids": [
+      "3RTAXX6KGdljBsOIupyZgT"
+    ],
+    "disc_number": 1,
+    "duration_ms": 236426,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "CLAB20800910"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0chYiddNUMKEj9nGMUVNoB"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0chYiddNUMKEj9nGMUVNoB",
+    "id": "0chYiddNUMKEj9nGMUVNoB",
+    "is_local": false,
+    "name": "Llueve Sobre La Ciudad",
+    "popularity": 29,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0chYiddNUMKEj9nGMUVNoB"
   },
   {
     "album_id": "1SJhRHGx2FIzoBPEpL7Ndy",
@@ -7488,6 +7536,30 @@
     "uri": "spotify:track:0wObw0J87etFOiNJOSvDNH"
   },
   {
+    "album_id": "0aGusz7aHYnYfjWSTr1YFI",
+    "artist_ids": [
+      "3SqzxvGCKGJ9PYKXXPwjQS"
+    ],
+    "disc_number": 1,
+    "duration_ms": 156946,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF019000286"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0wTrY23ot5A0aog0JNzXLS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0wTrY23ot5A0aog0JNzXLS",
+    "id": "0wTrY23ot5A0aog0JNzXLS",
+    "is_local": false,
+    "name": "El Microbito",
+    "popularity": 25,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0wTrY23ot5A0aog0JNzXLS"
+  },
+  {
     "album_id": "5HMWKVH3tJnZAriq0YeeQ8",
     "artist_ids": [
       "31opIYTivWACiXXzX2khlj"
@@ -8976,6 +9048,30 @@
     "uri": "spotify:track:1947p8hDuaAEQfeV7SWdBC"
   },
   {
+    "album_id": "4jrl8361FYPSK2gdEEKATh",
+    "artist_ids": [
+      "2FS22haX3FYbyOsUAkuYqZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 279986,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ARFSB0800285"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/198qSChSMQFuSimdeeY9gK",
+    "id": "198qSChSMQFuSimdeeY9gK",
+    "is_local": false,
+    "name": "Vasos Vacíos - Remasterizado 2008",
+    "popularity": 71,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:198qSChSMQFuSimdeeY9gK"
+  },
+  {
     "album_id": "4vIw5XspQuPt04VHX5oK5W",
     "artist_ids": [
       "60nua3AsVSfADZtg5Hdz3W"
@@ -10414,6 +10510,30 @@
     "track_number": 10,
     "type": "track",
     "uri": "spotify:track:1LlnU6GkWF833elifO8zGj"
+  },
+  {
+    "album_id": "7wq6mYMHF32a2LNUWLn1wa",
+    "artist_ids": [
+      "1aw0Cdl1DIrtUrUA6fGbAR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 245055,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ART0G1200237"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1M790SJApJ97Fewi2lbeUg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1M790SJApJ97Fewi2lbeUg",
+    "id": "1M790SJApJ97Fewi2lbeUg",
+    "is_local": false,
+    "name": "Tu Sin Mi",
+    "popularity": 49,
+    "preview_url": null,
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:1M790SJApJ97Fewi2lbeUg"
   },
   {
     "album_id": "6duLbcKdU6h55UlSnW6Pc5",
@@ -12142,6 +12262,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1WlZUhoYP4zy7ftWCQngNn"
+  },
+  {
+    "album_id": "2iMF2NlOZMfBTdHyubrg6y",
+    "artist_ids": [
+      "60uh2KYYSCqAgJNxcU4DA0"
+    ],
+    "disc_number": 1,
+    "duration_ms": 194080,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES5018572005"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1Wrzhfa5bNlqvsnCztz190",
+    "id": "1Wrzhfa5bNlqvsnCztz190",
+    "is_local": false,
+    "name": "Devuélveme a mi chica",
+    "popularity": 78,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:1Wrzhfa5bNlqvsnCztz190"
   },
   {
     "album_id": "3ev9hisOVt2otphJBHiJGP",
@@ -16416,6 +16560,30 @@
     "uri": "spotify:track:25Ejjmf1GqZRjAIXYgML9R"
   },
   {
+    "album_id": "2xuIhYMc9jjZDUynjd64RM",
+    "artist_ids": [
+      "3YG18nhGaJkR1F6VpcnSG6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 265706,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ARXP71600062"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB"
+    },
+    "href": "https://api.spotify.com/v1/tracks/25NeGSHqObqSJg79oir7pB",
+    "id": "25NeGSHqObqSJg79oir7pB",
+    "is_local": false,
+    "name": "Cuando Seas Grande",
+    "popularity": 68,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:25NeGSHqObqSJg79oir7pB"
+  },
+  {
     "album_id": "0sGiueQWjYKzacveBnbY5h",
     "artist_ids": [
       "7rTmbfDJtDCjoy8XK5Dsj5"
@@ -16750,6 +16918,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:2A0K7UUKfqipqzJ4mgJN2n"
+  },
+  {
+    "album_id": "42Fc71rqB9qZAb84q0Hs3U",
+    "artist_ids": [
+      "5oYHL2SijkMY52gKIhYJNb"
+    ],
+    "disc_number": 1,
+    "duration_ms": 244760,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF140400158"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2AW8HXB5U4QA0ZmApbRM0B",
+    "id": "2AW8HXB5U4QA0ZmApbRM0B",
+    "is_local": false,
+    "name": "Mentirosa",
+    "popularity": 71,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:2AW8HXB5U4QA0ZmApbRM0B"
   },
   {
     "album_id": "5huUeSyl92U55yMr8WKvYv",
@@ -22248,6 +22440,30 @@
     "uri": "spotify:track:2rT9arG3oKOPquWNik5l73"
   },
   {
+    "album_id": "42Fc71rqB9qZAb84q0Hs3U",
+    "artist_ids": [
+      "5oYHL2SijkMY52gKIhYJNb"
+    ],
+    "disc_number": 1,
+    "duration_ms": 289600,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF140400156"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2rYjkYQWpn66nf5Ihk7SHJ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2rYjkYQWpn66nf5Ihk7SHJ",
+    "id": "2rYjkYQWpn66nf5Ihk7SHJ",
+    "is_local": false,
+    "name": "Ángel",
+    "popularity": 72,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2rYjkYQWpn66nf5Ihk7SHJ"
+  },
+  {
     "album_id": "30NHshZET73RMHJSLusHR9",
     "artist_ids": [
       "2L0nCuTUHFPHC3Y8uqbUKw"
@@ -25750,6 +25966,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3LyM4jvcbsKx8Ps0R2qPSV"
+  },
+  {
+    "album_id": "7bYD4tCxzQOzGZmKBKtT3m",
+    "artist_ids": [
+      "2Ax9wZpdlg4r2zkc3pcI8U"
+    ],
+    "disc_number": 1,
+    "duration_ms": 233266,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES5159401001"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3M1H1CWjrSq7nxABHc8EXv",
+    "id": "3M1H1CWjrSq7nxABHc8EXv",
+    "is_local": false,
+    "name": "Lobo-hombre en París",
+    "popularity": 71,
+    "preview_url": null,
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:3M1H1CWjrSq7nxABHc8EXv"
   },
   {
     "album_id": "6rsUpcp6m1TebJJMbaKo28",
@@ -32544,6 +32784,30 @@
     "uri": "spotify:track:4KoeYA4qUtnu6YZcgtPFas"
   },
   {
+    "album_id": "6zGGjiyCeY36tgNrxsFrK9",
+    "artist_ids": [
+      "4TK1gDgb7QKoPFlzRrBRgR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 355293,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF110400449"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4KtHxcTlIXEKinToSNzPPO",
+    "id": "4KtHxcTlIXEKinToSNzPPO",
+    "is_local": false,
+    "name": "Lamento Boliviano - En Vivo",
+    "popularity": 39,
+    "preview_url": null,
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:4KtHxcTlIXEKinToSNzPPO"
+  },
+  {
     "album_id": "48xXX0Q141vKS9UcLu9mWW",
     "artist_ids": [
       "1jVhcHIGJuk16eqY1Mdtuk"
@@ -35254,6 +35518,30 @@
     "track_number": 13,
     "type": "track",
     "uri": "spotify:track:4jhqJiuGfzMnpQo3Pkru7L"
+  },
+  {
+    "album_id": "1mTglsLyY3nJ3Qj7vPtbpg",
+    "artist_ids": [
+      "11mqrDSFRRz8g0Wb3syJj5"
+    ],
+    "disc_number": 1,
+    "duration_ms": 225173,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF010700222"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4jikVslCvDrDysc3p4tFHM",
+    "id": "4jikVslCvDrDysc3p4tFHM",
+    "is_local": false,
+    "name": "Vendedora de Caricias",
+    "popularity": 69,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:4jikVslCvDrDysc3p4tFHM"
   },
   {
     "album_id": "2Ecn3A5ClmakXCCK00h4uf",
@@ -41904,6 +42192,30 @@
     "uri": "spotify:track:5Y35SjAfXjjG0sFQ3KOxmm"
   },
   {
+    "album_id": "3q5bV5Fq3XEzbW5a0mAfcB",
+    "artist_ids": [
+      "4OiCK9NnTWhakDIG57uBUA"
+    ],
+    "disc_number": 1,
+    "duration_ms": 225826,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF600900157"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5YRhQ7h8w2cMCY2teyjax6",
+    "id": "5YRhQ7h8w2cMCY2teyjax6",
+    "is_local": false,
+    "name": "Y Que",
+    "popularity": 66,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5YRhQ7h8w2cMCY2teyjax6"
+  },
+  {
     "album_id": "2AbyDhzuhpMNKEm8johQft",
     "artist_ids": [
       "27Owkm4TGlMqb0BqaEt3PW"
@@ -48336,6 +48648,30 @@
     "uri": "spotify:track:6Vtf1lKeDHjYoUzj53wQFk"
   },
   {
+    "album_id": "1XqzXn8a7Z15Z5tBSouXcH",
+    "artist_ids": [
+      "2mSHY8JOR0nRi3mtHqVa04"
+    ],
+    "disc_number": 1,
+    "duration_ms": 336933,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "CLBB29000001"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6W1BLmVBxkqZwFQcORQLnv",
+    "id": "6W1BLmVBxkqZwFQcORQLnv",
+    "is_local": false,
+    "name": "Tren Al Sur",
+    "popularity": 71,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6W1BLmVBxkqZwFQcORQLnv"
+  },
+  {
     "album_id": "0PrHTHfv6K96nQaB5gQntu",
     "artist_ids": [
       "5C4PDR4LnhZTbVnKWXuDKD"
@@ -49056,6 +49392,30 @@
     "uri": "spotify:track:6ZprqcYFC6D9eIZaCoqrSn"
   },
   {
+    "album_id": "2wV2nY2P5vHYiUNTWWzXj5",
+    "artist_ids": [
+      "3HrbmsYpKjWH1lzhad7alj"
+    ],
+    "disc_number": 1,
+    "duration_ms": 218493,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ARF039501192"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6aPoVnA9UDncMyKgTAicsO",
+    "id": "6aPoVnA9UDncMyKgTAicsO",
+    "is_local": false,
+    "name": "La Guitarra",
+    "popularity": 65,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6aPoVnA9UDncMyKgTAicsO"
+  },
+  {
     "album_id": "5aLIm5xrN5UxUZOXbjyrrx",
     "artist_ids": [
       "5B6H1Dq77AV1LZWrbNsuH5"
@@ -49774,6 +50134,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6hF5GHmra3eBun6EwbCVFM"
+  },
+  {
+    "album_id": "33iiSdb0XhQI0dSstspDls",
+    "artist_ids": [
+      "09xj0S68Y1OU1vHMCZAIvz"
+    ],
+    "disc_number": 1,
+    "duration_ms": 214880,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF159700008"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6hFHsQWB7HdVrSe7efRR82",
+    "id": "6hFHsQWB7HdVrSe7efRR82",
+    "is_local": false,
+    "name": "Como te extraño mi amor",
+    "popularity": 70,
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:6hFHsQWB7HdVrSe7efRR82"
   },
   {
     "album_id": "1yM29w2suYVpMursUbXQMi",
@@ -51742,6 +52126,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:714r0v2GgUxReN9FI6vK1l"
+  },
+  {
+    "album_id": "6zGGjiyCeY36tgNrxsFrK9",
+    "artist_ids": [
+      "4TK1gDgb7QKoPFlzRrBRgR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 293226,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF110400450"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/71AMvL4Fey4MwxQShk4VBR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/71AMvL4Fey4MwxQShk4VBR",
+    "id": "71AMvL4Fey4MwxQShk4VBR",
+    "is_local": false,
+    "name": "Luz De Dia - En Vivo",
+    "popularity": 63,
+    "preview_url": null,
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:71AMvL4Fey4MwxQShk4VBR"
   },
   {
     "album_id": "7LfNHO58gshGnniObPb4L1",
