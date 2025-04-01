@@ -6984,6 +6984,30 @@
     "uri": "spotify:track:0rCxbWLF2q9OdQ0G35tnkF"
   },
   {
+    "album_id": "6z14BU1sSs5vpswjtNRz5t",
+    "artist_ids": [
+      "4uqzzJg3ww5eH7IgGV7DMT"
+    ],
+    "disc_number": 1,
+    "duration_ms": 208893,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES5151802032"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0rCxrlZhWzLy5ULIEDL3zs"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0rCxrlZhWzLy5ULIEDL3zs",
+    "id": "0rCxrlZhWzLy5ULIEDL3zs",
+    "is_local": false,
+    "name": "Aunque no sea conmigo - 2018 Remaster",
+    "popularity": 64,
+    "preview_url": null,
+    "track_number": 22,
+    "type": "track",
+    "uri": "spotify:track:0rCxrlZhWzLy5ULIEDL3zs"
+  },
+  {
     "album_id": "0qmW400K0VgJ28CuBx8InD",
     "artist_ids": [
       "4tm8CEdm4pkQsEh4jIr9Yp"
@@ -8086,6 +8110,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:119c93MHjrDLJTApCVGpvx"
+  },
+  {
+    "album_id": "6JlMb03WAKr2QcilmUzRkC",
+    "artist_ids": [
+      "4TK1gDgb7QKoPFlzRrBRgR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 295013,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF110200376"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/11AnIo9kTnjhtD06y5Zd5O"
+    },
+    "href": "https://api.spotify.com/v1/tracks/11AnIo9kTnjhtD06y5Zd5O",
+    "id": "11AnIo9kTnjhtD06y5Zd5O",
+    "is_local": false,
+    "name": "Amores Lejanos",
+    "popularity": 68,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:11AnIo9kTnjhtD06y5Zd5O"
   },
   {
     "album_id": "0DDsexe1qhQ2TQ43XztwMl",
@@ -14784,6 +14832,30 @@
     "uri": "spotify:track:1q1vvCImOp88UbKQkKsiMi"
   },
   {
+    "album_id": "1Hp5zRv9xOEeff9wxPEC0d",
+    "artist_ids": [
+      "5x3mrCTZmkoTXURN7pWdGN"
+    ],
+    "disc_number": 1,
+    "duration_ms": 239626,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "US66W1300023"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1q3AYHVLtrry7SDdRHoYnx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1q3AYHVLtrry7SDdRHoYnx",
+    "id": "1q3AYHVLtrry7SDdRHoYnx",
+    "is_local": false,
+    "name": "La Que Me Gusta",
+    "popularity": 59,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1q3AYHVLtrry7SDdRHoYnx"
+  },
+  {
     "album_id": "4XssST6ZjeUKutADRKOQHX",
     "artist_ids": [
       "231yQfVjg9sGhTNsaym9ck"
@@ -20878,6 +20950,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:2beS6dD5rovBxSA1zYoSHR"
+  },
+  {
+    "album_id": "1E7C32U8IgXEOPAUg5uNpm",
+    "artist_ids": [
+      "2QWIScpFDNxmS6ZEMIUvgm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 190360,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXB131500007"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2c6xAssXKcQ9NbcrMguJ5O",
+    "id": "2c6xAssXKcQ9NbcrMguJ5O",
+    "is_local": false,
+    "name": "Dos Soledades",
+    "popularity": 70,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:2c6xAssXKcQ9NbcrMguJ5O"
   },
   {
     "album_id": "1nqhr6N5KbIaUbsTXq5WCa",
@@ -31680,6 +31776,30 @@
     "uri": "spotify:track:48UPSzbZjgc449aqz8bxox"
   },
   {
+    "album_id": "2MUTc0OJT6lOZCwifS1LyB",
+    "artist_ids": [
+      "4uqzzJg3ww5eH7IgGV7DMT"
+    ],
+    "disc_number": 1,
+    "duration_ms": 329666,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES5080200123"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z"
+    },
+    "href": "https://api.spotify.com/v1/tracks/492aSGsuE0dOOBKB66781Z",
+    "id": "492aSGsuE0dOOBKB66781Z",
+    "is_local": false,
+    "name": "Lady Blue",
+    "popularity": 64,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:492aSGsuE0dOOBKB66781Z"
+  },
+  {
     "album_id": "4OP48ZU8qUYanvwyTLAvrt",
     "artist_ids": [
       "4mN0qcMxWX8oToqfDPM5yV"
@@ -34056,6 +34176,30 @@
     "uri": "spotify:track:4VgYtXCVJ7IbWAZ5ryfvEQ"
   },
   {
+    "album_id": "2Bd03Vcmh8Sl4aCuyTQwex",
+    "artist_ids": [
+      "7An4yvF7hDYDolN4m5zKBp"
+    ],
+    "disc_number": 1,
+    "duration_ms": 518693,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ARF039600760"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4WBrsZ33Y4VWseMwoSJEFx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4WBrsZ33Y4VWseMwoSJEFx",
+    "id": "4WBrsZ33Y4VWseMwoSJEFx",
+    "is_local": false,
+    "name": "En la Ciudad de la Furia - MTV Unplugged",
+    "popularity": 35,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4WBrsZ33Y4VWseMwoSJEFx"
+  },
+  {
     "album_id": "5TTk79eZvPAB7D6PvrdANe",
     "artist_ids": [
       "645xd9cHiiLqqehoLzLMDR"
@@ -34510,6 +34654,30 @@
     "track_number": 11,
     "type": "track",
     "uri": "spotify:track:4aiLaYiRbM0JNJl0O1zPyy"
+  },
+  {
+    "album_id": "5HI7WlqeosN86R0o1TOfCI",
+    "artist_ids": [
+      "2Ax9wZpdlg4r2zkc3pcI8U"
+    ],
+    "disc_number": 1,
+    "duration_ms": 232160,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES5158401006"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4akYOw6ZJu7WIbZViLrJqc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4akYOw6ZJu7WIbZViLrJqc",
+    "id": "4akYOw6ZJu7WIbZViLrJqc",
+    "is_local": false,
+    "name": "Lobo-hombre en París",
+    "popularity": 56,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:4akYOw6ZJu7WIbZViLrJqc"
   },
   {
     "album_id": "4Uo5YhvoKTSbSGjv8iv9DL",
@@ -36216,6 +36384,30 @@
     "uri": "spotify:track:4oM7ClXSB9DNmq83thDmXj"
   },
   {
+    "album_id": "62mYqA8S00dcrD42jmml86",
+    "artist_ids": [
+      "2mSHY8JOR0nRi3mtHqVa04"
+    ],
+    "disc_number": 1,
+    "duration_ms": 298226,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "CLBB29000006"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4oR2kX5BI50GBnQGRdRRsM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4oR2kX5BI50GBnQGRdRRsM",
+    "id": "4oR2kX5BI50GBnQGRdRRsM",
+    "is_local": false,
+    "name": "Estrechez De Corazón",
+    "popularity": 67,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:4oR2kX5BI50GBnQGRdRRsM"
+  },
+  {
     "album_id": "3RM6JchSNTtRsZ8Do0iWRD",
     "artist_ids": [
       "7G4N4GY4l0qHm1yflRvsQ0"
@@ -37462,6 +37654,30 @@
     "track_number": 10,
     "type": "track",
     "uri": "spotify:track:4yldXj3B7gyw0OnwsIs1Jh"
+  },
+  {
+    "album_id": "1E7C32U8IgXEOPAUg5uNpm",
+    "artist_ids": [
+      "2QWIScpFDNxmS6ZEMIUvgm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 200706,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXB131500003"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4yneB7RBZB9EAGlgdXKzw4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4yneB7RBZB9EAGlgdXKzw4",
+    "id": "4yneB7RBZB9EAGlgdXKzw4",
+    "is_local": false,
+    "name": "Tu Calor",
+    "popularity": 47,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4yneB7RBZB9EAGlgdXKzw4"
   },
   {
     "album_id": "2Tyx5dLhHYkx6zeAdVaTzN",
@@ -57502,6 +57718,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7sg9ToL94GAiksETi5GZGz"
+  },
+  {
+    "album_id": "37hygnVgTNDZxFQ9FJMLII",
+    "artist_ids": [
+      "2QWIScpFDNxmS6ZEMIUvgm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 198558,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXD782200412"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7stAazwZr0UUVRd5glymAz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7stAazwZr0UUVRd5glymAz",
+    "id": "7stAazwZr0UUVRd5glymAz",
+    "is_local": false,
+    "name": "Mismo Amor",
+    "popularity": 45,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:7stAazwZr0UUVRd5glymAz"
   },
   {
     "album_id": "62We7kcnouERjNBAKo8wG1",
