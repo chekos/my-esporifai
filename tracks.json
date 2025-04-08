@@ -16608,6 +16608,30 @@
     "uri": "spotify:track:24a2AvxZM73Sg1zKtXdM3M"
   },
   {
+    "album_id": "5sOyaOXopFOy4hgRaWEKWq",
+    "artist_ids": [
+      "48G4FvpaGSQAb2ZxhUc2Hv"
+    ],
+    "disc_number": 1,
+    "duration_ms": 163976,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNWY2242298"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/24gI7R8vgWVMhlP9zlbENV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/24gI7R8vgWVMhlP9zlbENV",
+    "id": "24gI7R8vgWVMhlP9zlbENV",
+    "is_local": false,
+    "name": "Mi Viejo",
+    "popularity": 7,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:24gI7R8vgWVMhlP9zlbENV"
+  },
+  {
     "album_id": "29JiAjWnPrh6PxzyZxA1Uv",
     "artist_ids": [
       "7MyUjj79oHy7I8RocrtzZ2"
@@ -24360,6 +24384,30 @@
     "uri": "spotify:track:38RIEav39FGi86jppxO0du"
   },
   {
+    "album_id": "6lfGzQAacRUmTYaE5bGsIR",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 258353,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLS1944375"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/38uoqwyNyTYlc8zlpNNf3Y"
+    },
+    "href": "https://api.spotify.com/v1/tracks/38uoqwyNyTYlc8zlpNNf3Y",
+    "id": "38uoqwyNyTYlc8zlpNNf3Y",
+    "is_local": false,
+    "name": "Humo en la Trampa (feat. Yoga Fire, Cozy Cuz, Fntxy & Dee)",
+    "popularity": 51,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:38uoqwyNyTYlc8zlpNNf3Y"
+  },
+  {
     "album_id": "4cZ3HcYzB4GPR4hwPHoEXj",
     "artist_ids": [
       "5IfJHO9jIE1GVuC517P3nr"
@@ -26758,6 +26806,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3Q97r3eLlF1qqjWHgUaYYr"
+  },
+  {
+    "album_id": "2anJ5SgIdKxyZtB1q0cgvN",
+    "artist_ids": [
+      "48G4FvpaGSQAb2ZxhUc2Hv"
+    ],
+    "disc_number": 1,
+    "duration_ms": 210826,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZAPG1815544"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3QQg4SzmXLDKsyA9WNQiZe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3QQg4SzmXLDKsyA9WNQiZe",
+    "id": "3QQg4SzmXLDKsyA9WNQiZe",
+    "is_local": false,
+    "name": "Mezcal",
+    "popularity": 7,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3QQg4SzmXLDKsyA9WNQiZe"
   },
   {
     "album_id": "2kGTwHezbLOPc7wK5YLVL7",
