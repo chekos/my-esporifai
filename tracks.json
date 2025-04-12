@@ -16080,6 +16080,30 @@
     "uri": "spotify:track:1yTJg3lyUPmwbnve82twH5"
   },
   {
+    "album_id": "73o8i8GdGPqeetj2WkQhit",
+    "artist_ids": [
+      "6VD4UEUPvtsemqD3mmTqCR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 160006,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM6N22513979"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1yY11odB1K0id6dtJQXT4j",
+    "id": "1yY11odB1K0id6dtJQXT4j",
+    "is_local": false,
+    "name": "La Bandera",
+    "popularity": 0,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1yY11odB1K0id6dtJQXT4j"
+  },
+  {
     "album_id": "6E73adRyPWKIVzD2RgVL5A",
     "artist_ids": [
       "0U8dIwzBn17JkhYxmznp6T"
@@ -30046,6 +30070,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:3quyxN3SapEsojxk1Uw10K"
+  },
+  {
+    "album_id": "3OcWQ2r6xZyVbIs59p9MqL",
+    "artist_ids": [
+      "4r1ZDYKzPt3iIjuq8LbT6X"
+    ],
+    "disc_number": 1,
+    "duration_ms": 206605,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MXUM72401878"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3r6HMAFUkXtCzafbB7Qg0e"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3r6HMAFUkXtCzafbB7Qg0e",
+    "id": "3r6HMAFUkXtCzafbB7Qg0e",
+    "is_local": false,
+    "name": "SONIDERO",
+    "popularity": 42,
+    "preview_url": null,
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:3r6HMAFUkXtCzafbB7Qg0e"
   },
   {
     "album_id": "0f5Bxz0icXVD2B4BldVU0z",
