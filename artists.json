@@ -6241,6 +6241,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/70FP3NmCeCiYbKnfDN5UcH"
+    },
+    "href": "https://api.spotify.com/v1/artists/70FP3NmCeCiYbKnfDN5UcH",
+    "id": "70FP3NmCeCiYbKnfDN5UcH",
+    "name": "DJ Sonicko",
+    "type": "artist",
+    "uri": "spotify:artist:70FP3NmCeCiYbKnfDN5UcH"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
     },
     "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
