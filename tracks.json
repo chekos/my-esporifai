@@ -9216,6 +9216,30 @@
     "uri": "spotify:track:19OtCnYrBbSHA3PMyITXph"
   },
   {
+    "album_id": "7EJ5pXrSqqfybKyfbvlz84",
+    "artist_ids": [
+      "09xj0S68Y1OU1vHMCZAIvz"
+    ],
+    "disc_number": 1,
+    "duration_ms": 212000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF159400014"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/19ScoKGqnfUggyqOVQjsoH",
+    "id": "19ScoKGqnfUggyqOVQjsoH",
+    "is_local": false,
+    "name": "La ingrata",
+    "popularity": 68,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:19ScoKGqnfUggyqOVQjsoH"
+  },
+  {
     "album_id": "5BC1qGaUadJLd5y4QIhhJS",
     "artist_ids": [
       "1yPvnL2XGGehNiOGWzcAAG"
@@ -27216,6 +27240,30 @@
     "uri": "spotify:track:3Sualy9gkVDHDgOKcTJgFd"
   },
   {
+    "album_id": "2ZzClIM2jdVPjt7HBICDQP",
+    "artist_ids": [
+      "66ihevNkSYNzRAl44dx6jJ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 165200,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USA2P2474518"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3TBZeHcQXNPyXbsqzNgcYm",
+    "id": "3TBZeHcQXNPyXbsqzNgcYm",
+    "is_local": false,
+    "name": "De Compas",
+    "popularity": 73,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:3TBZeHcQXNPyXbsqzNgcYm"
+  },
+  {
     "album_id": "5PZxScqkkCa4bjdZcq9fuh",
     "artist_ids": [
       "4Hzj6dfl1y5x5TzCSsvLB6"
@@ -27334,6 +27382,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:3UWIx2ZSQW5IgnQ45EBIxP"
+  },
+  {
+    "album_id": "3q5bV5Fq3XEzbW5a0mAfcB",
+    "artist_ids": [
+      "4OiCK9NnTWhakDIG57uBUA"
+    ],
+    "disc_number": 1,
+    "duration_ms": 215680,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF600900156"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3UYYwbchCP47jl2Q9tAhMc",
+    "id": "3UYYwbchCP47jl2Q9tAhMc",
+    "is_local": false,
+    "name": "Es Por Ti",
+    "popularity": 64,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3UYYwbchCP47jl2Q9tAhMc"
   },
   {
     "album_id": "5Yu7gq5q9e9Iegb4dc9zxJ",
@@ -40366,6 +40438,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:5GWk4mjGmPLZiXHETqMlhW"
+  },
+  {
+    "album_id": "2M9NJUv0KbyZzINUyMcmM3",
+    "artist_ids": [
+      "2N2aJ1SXQxMkhHD8C6fhYD"
+    ],
+    "disc_number": 1,
+    "duration_ms": 232666,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MX3601500003"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5Gb0yEpoNzWKmdmEchs0uz"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5Gb0yEpoNzWKmdmEchs0uz",
+    "id": "5Gb0yEpoNzWKmdmEchs0uz",
+    "is_local": false,
+    "name": "Casco Maizi",
+    "popularity": 64,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5Gb0yEpoNzWKmdmEchs0uz"
   },
   {
     "album_id": "3iK2XLBkO4lSF3IkHPPETj",
