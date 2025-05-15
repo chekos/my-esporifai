@@ -4911,6 +4911,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+    },
+    "href": "https://api.spotify.com/v1/artists/5UUG83KSlqPhrBssrducWV",
+    "id": "5UUG83KSlqPhrBssrducWV",
+    "name": "Spotify",
+    "type": "artist",
+    "uri": "spotify:artist:5UUG83KSlqPhrBssrducWV"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8"
     },
     "href": "https://api.spotify.com/v1/artists/5UlItbkRcPTdmWC4AcKrk8",
