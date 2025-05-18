@@ -5321,6 +5321,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+    },
+    "href": "https://api.spotify.com/v1/artists/5xSx2FM8mQnrfgM1QsHniB",
+    "id": "5xSx2FM8mQnrfgM1QsHniB",
+    "name": "Danna Paola",
+    "type": "artist",
+    "uri": "spotify:artist:5xSx2FM8mQnrfgM1QsHniB"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5zS5vwSbu6RgEsXctO8USx"
     },
     "href": "https://api.spotify.com/v1/artists/5zS5vwSbu6RgEsXctO8USx",
