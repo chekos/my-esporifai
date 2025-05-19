@@ -27860,6 +27860,30 @@
     "uri": "spotify:track:3XFZZBTWUvClRpmXG1NV0D"
   },
   {
+    "album_id": "5aocKknfljbM7XK3PWPVRi",
+    "artist_ids": [
+      "1ZVoRDO29AlDXiMkRLMZSK"
+    ],
+    "disc_number": 1,
+    "duration_ms": 194573,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF159700038"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3XHg42QOqlevRU7jXRkAKk",
+    "id": "3XHg42QOqlevRU7jXRkAKk",
+    "is_local": false,
+    "name": "El Duelo",
+    "popularity": 67,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3XHg42QOqlevRU7jXRkAKk"
+  },
+  {
     "album_id": "0Y1tsEnH5gN8TEJRQ9xOLi",
     "artist_ids": [
       "72VywtXEoONiBLNu3ibGI7"
@@ -48952,6 +48976,28 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:6RcAHyC5sAUIbPTkhOQwd8"
+  },
+  {
+    "album_id": "1qvRrl85vhiJnPU5CVoWIE",
+    "artist_ids": [
+      "5UUG83KSlqPhrBssrducWV"
+    ],
+    "disc_number": 1,
+    "duration_ms": 7131,
+    "explicit": false,
+    "external_ids": {},
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6S1kSZwTOv93ZmClI5tekm"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6S1kSZwTOv93ZmClI5tekm",
+    "id": "6S1kSZwTOv93ZmClI5tekm",
+    "is_local": false,
+    "name": "Up Next: News",
+    "popularity": 10,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:6S1kSZwTOv93ZmClI5tekm"
   },
   {
     "album_id": "5Y7ScOFpjk7JSjFmlUdO4T",
