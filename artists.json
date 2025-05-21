@@ -3561,6 +3561,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
+    },
+    "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
+    "id": "3w2WYNyPCPkZFoC1EqfCMe",
+    "name": "Nas & Damian \"Jr. Gong\" Marley",
+    "type": "artist",
+    "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3yIYgJhFBxm2UAU9LvSewH"
     },
     "href": "https://api.spotify.com/v1/artists/3yIYgJhFBxm2UAU9LvSewH",
