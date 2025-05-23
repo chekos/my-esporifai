@@ -3151,6 +3151,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+    },
+    "href": "https://api.spotify.com/v1/artists/3QJzdZJYIAcoET1GcfpNGi",
+    "id": "3QJzdZJYIAcoET1GcfpNGi",
+    "name": "Damian Marley",
+    "type": "artist",
+    "uri": "spotify:artist:3QJzdZJYIAcoET1GcfpNGi"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV"
     },
     "href": "https://api.spotify.com/v1/artists/3Qldsib1smRXVBihCbSKrV",
