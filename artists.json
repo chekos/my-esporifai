@@ -611,6 +611,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0ceUrvjzA1fW1Xr4Ed6T0F"
+    },
+    "href": "https://api.spotify.com/v1/artists/0ceUrvjzA1fW1Xr4Ed6T0F",
+    "id": "0ceUrvjzA1fW1Xr4Ed6T0F",
+    "name": "Ente",
+    "type": "artist",
+    "uri": "spotify:artist:0ceUrvjzA1fW1Xr4Ed6T0F"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
     },
     "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
@@ -4688,6 +4698,16 @@
     "name": "Santa Estilo",
     "type": "artist",
     "uri": "spotify:artist:59XuCTeNNS0fVgBrFoPNfG"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5A9cumHyXrm1L4C2RipBcv"
+    },
+    "href": "https://api.spotify.com/v1/artists/5A9cumHyXrm1L4C2RipBcv",
+    "id": "5A9cumHyXrm1L4C2RipBcv",
+    "name": "wason low cali",
+    "type": "artist",
+    "uri": "spotify:artist:5A9cumHyXrm1L4C2RipBcv"
   },
   {
     "external_urls": {
