@@ -54158,6 +54158,28 @@
     "uri": "spotify:track:73MIYL9Qh0aRzCIc1uWM9g"
   },
   {
+    "album_id": "7FcgeV8zz7PKoskBr5eMvz",
+    "artist_ids": [
+      "5UUG83KSlqPhrBssrducWV"
+    ],
+    "disc_number": 1,
+    "duration_ms": 5015,
+    "explicit": false,
+    "external_ids": {},
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/73QDdt9bKhHQh3NUjzE0xr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/73QDdt9bKhHQh3NUjzE0xr",
+    "id": "73QDdt9bKhHQh3NUjzE0xr",
+    "is_local": false,
+    "name": "It's Friday",
+    "popularity": 4,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:73QDdt9bKhHQh3NUjzE0xr"
+  },
+  {
     "album_id": "52QyC9nSbgtHFXyQRHsXJ9",
     "artist_ids": [
       "5TYxZTjIPqKM8K8NuP9woO"
