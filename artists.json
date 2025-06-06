@@ -1831,6 +1831,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+    },
+    "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+    "id": "1sBkRIssrMs1AbVkOJbc7a",
+    "name": "Rick Ross",
+    "type": "artist",
+    "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1sjuHgaMooINyMP4cWxaWN"
     },
     "href": "https://api.spotify.com/v1/artists/1sjuHgaMooINyMP4cWxaWN",
