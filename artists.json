@@ -5241,6 +5241,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ"
+    },
+    "href": "https://api.spotify.com/v1/artists/5mXMQJHLLfym1KyNcDrhoZ",
+    "id": "5mXMQJHLLfym1KyNcDrhoZ",
+    "name": "Nek",
+    "type": "artist",
+    "uri": "spotify:artist:5mXMQJHLLfym1KyNcDrhoZ"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
     },
     "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
