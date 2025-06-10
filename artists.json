@@ -841,6 +841,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
+    },
+    "href": "https://api.spotify.com/v1/artists/0xG8uG9nzLyuwoVIPF0xiM",
+    "id": "0xG8uG9nzLyuwoVIPF0xiM",
+    "name": "Steelz",
+    "type": "artist",
+    "uri": "spotify:artist:0xG8uG9nzLyuwoVIPF0xiM"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
     },
     "href": "https://api.spotify.com/v1/artists/0yNSzH5nZmHzeE2xn6Xshb",
