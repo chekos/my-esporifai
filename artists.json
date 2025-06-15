@@ -1811,6 +1811,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE"
+    },
+    "href": "https://api.spotify.com/v1/artists/1peH5tSqnYm8W6Bo3I5egE",
+    "id": "1peH5tSqnYm8W6Bo3I5egE",
+    "name": "Kat Dahlia",
+    "type": "artist",
+    "uri": "spotify:artist:1peH5tSqnYm8W6Bo3I5egE"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
     },
     "href": "https://api.spotify.com/v1/artists/1pi7nGhOM7PTHR5YEgXVGq",
@@ -2108,6 +2118,16 @@
     "name": "Jay Rock",
     "type": "artist",
     "uri": "spotify:artist:28ExwzUQsvgJooOI0X1mr3"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+    },
+    "href": "https://api.spotify.com/v1/artists/28gNT5KBp7IjEOQoevXf9N",
+    "id": "28gNT5KBp7IjEOQoevXf9N",
+    "name": "Camilo",
+    "type": "artist",
+    "uri": "spotify:artist:28gNT5KBp7IjEOQoevXf9N"
   },
   {
     "external_urls": {
