@@ -3841,6 +3841,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+    },
+    "href": "https://api.spotify.com/v1/artists/4EEZg8R3dxbTCCQ1DVWtHg",
+    "id": "4EEZg8R3dxbTCCQ1DVWtHg",
+    "name": "Bobby Pulido",
+    "type": "artist",
+    "uri": "spotify:artist:4EEZg8R3dxbTCCQ1DVWtHg"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
     },
     "href": "https://api.spotify.com/v1/artists/4Fsv1gBjfqSyhzAPbhInXV",

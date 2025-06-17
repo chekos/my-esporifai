@@ -18596,6 +18596,30 @@
     "uri": "spotify:track:2HAO2lqg5RPEQFXreAJV6T"
   },
   {
+    "album_id": "6u76nrrViBkWBSqQIhauWm",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 200930,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "FRX452136243"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2HBpsRKfwvw9jRrNuRjB4k"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2HBpsRKfwvw9jRrNuRjB4k",
+    "id": "2HBpsRKfwvw9jRrNuRjB4k",
+    "is_local": false,
+    "name": "Word",
+    "popularity": 35,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2HBpsRKfwvw9jRrNuRjB4k"
+  },
+  {
     "album_id": "12Fkvf2oi1B6yjDwkMrUog",
     "artist_ids": [
       "628gUkswCfCS1hIOOHmIpK"
@@ -18954,6 +18978,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:2JI9kanMK4MISkAZUpZ7st"
+  },
+  {
+    "album_id": "2BCS2taG5BuYeL3QPCbcz2",
+    "artist_ids": [
+      "4EEZg8R3dxbTCCQ1DVWtHg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 221226,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USEL19500415"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2JJSGhPpATm8lXeYjD95fw",
+    "id": "2JJSGhPpATm8lXeYjD95fw",
+    "is_local": false,
+    "name": "Desvelado",
+    "popularity": 79,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:2JJSGhPpATm8lXeYjD95fw"
   },
   {
     "album_id": "1bWnSxZjw7ZqUrmBxGmbAu",
@@ -37598,6 +37646,30 @@
     "uri": "spotify:track:4nIfmbuvmCn4AOyw1QW02Q"
   },
   {
+    "album_id": "1PuH88Md0tzB8UrnBfboJA",
+    "artist_ids": [
+      "28gNT5KBp7IjEOQoevXf9N"
+    ],
+    "disc_number": 1,
+    "duration_ms": 184721,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USSD12000388"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4nTduFjaTmGysc9WKNuCcs",
+    "id": "4nTduFjaTmGysc9WKNuCcs",
+    "is_local": false,
+    "name": "Vida de Rico",
+    "popularity": 74,
+    "preview_url": null,
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:4nTduFjaTmGysc9WKNuCcs"
+  },
+  {
     "album_id": "0Kww7Dpo0uSxtOiiFTvyCv",
     "artist_ids": [
       "1hcdI2N1023RvSwLzTtdsp"
@@ -38004,6 +38076,30 @@
     "track_number": 13,
     "type": "track",
     "uri": "spotify:track:4pxigeVSDmHxM2gLQmVVH0"
+  },
+  {
+    "album_id": "6xpaC8Sa0tIThbv5VktM6u",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 173290,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM6N21871426"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4q4ZCJiVqLjIs7IJsek1HW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4q4ZCJiVqLjIs7IJsek1HW",
+    "id": "4q4ZCJiVqLjIs7IJsek1HW",
+    "is_local": false,
+    "name": "No Pain",
+    "popularity": 34,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4q4ZCJiVqLjIs7IJsek1HW"
   },
   {
     "album_id": "36tggHqA3kPQ7h4hon96A3",
@@ -52042,6 +52138,30 @@
     "uri": "spotify:track:6gU9OKjOE7ghfEd55oRO57"
   },
   {
+    "album_id": "4GsjztUSgrhGX9RdTvG9ng",
+    "artist_ids": [
+      "0WAabvKqQjPexI9UlQZ8sk"
+    ],
+    "disc_number": 1,
+    "duration_ms": 145629,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ5AB2056802"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6gd3XAMivNZIBcuntqpDQj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6gd3XAMivNZIBcuntqpDQj",
+    "id": "6gd3XAMivNZIBcuntqpDQj",
+    "is_local": false,
+    "name": "Puntos Y Monedas",
+    "popularity": 7,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:6gd3XAMivNZIBcuntqpDQj"
+  },
+  {
     "album_id": "2hAcA9mRxXHUvAJ5SIj1dg",
     "artist_ids": [
       "2Gcx4c9rFAAloAYV2cMGUd"
@@ -54870,6 +54990,28 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:760HCWP3HoqlT6ZkDuvYmv"
+  },
+  {
+    "album_id": "36wV0VkNOxV6NTKeqTwnWj",
+    "artist_ids": [
+      "5UUG83KSlqPhrBssrducWV"
+    ],
+    "disc_number": 1,
+    "duration_ms": 12199,
+    "explicit": false,
+    "external_ids": {},
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/764LQi7jSWPuvzO3R8YgX6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/764LQi7jSWPuvzO3R8YgX6",
+    "id": "764LQi7jSWPuvzO3R8YgX6",
+    "is_local": false,
+    "name": "It's Monday",
+    "popularity": 4,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:764LQi7jSWPuvzO3R8YgX6"
   },
   {
     "album_id": "02lhVJUr51n29j8BesGnUM",
