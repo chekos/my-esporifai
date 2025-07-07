@@ -2451,6 +2451,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2Wv7J3s9v7ZqYtUlN1Dpc1"
+    },
+    "href": "https://api.spotify.com/v1/artists/2Wv7J3s9v7ZqYtUlN1Dpc1",
+    "id": "2Wv7J3s9v7ZqYtUlN1Dpc1",
+    "name": "Sofisma",
+    "type": "artist",
+    "uri": "spotify:artist:2Wv7J3s9v7ZqYtUlN1Dpc1"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2XSPl1pclaAddjCxZTOhZT"
     },
     "href": "https://api.spotify.com/v1/artists/2XSPl1pclaAddjCxZTOhZT",
