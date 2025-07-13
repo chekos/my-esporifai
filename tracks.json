@@ -4222,6 +4222,30 @@
     "uri": "spotify:track:0Y5aFVwBrhIxljBtRXgCBN"
   },
   {
+    "album_id": "011MzVwLv6590MHDbxCDMS",
+    "artist_ids": [
+      "1QhaqxeqF9sipS2gwbEKpu"
+    ],
+    "disc_number": 1,
+    "duration_ms": 200600,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUYG1733785"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0YATmnfzmTsKLxinbaTRGh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0YATmnfzmTsKLxinbaTRGh",
+    "id": "0YATmnfzmTsKLxinbaTRGh",
+    "is_local": false,
+    "name": "200 pistolas 300 soldados",
+    "popularity": 63,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0YATmnfzmTsKLxinbaTRGh"
+  },
+  {
     "album_id": "5rHtSYUHWTm6Jr76MVeGAE",
     "artist_ids": [
       "0SmgVe3giVHaJjGmIz8xA4"
@@ -41266,6 +41290,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5B26ba8DVAD18tstVEwcOW"
+  },
+  {
+    "album_id": "37RgFMQ6RcoDO3FnWwrNfL",
+    "artist_ids": [
+      "1QhaqxeqF9sipS2gwbEKpu"
+    ],
+    "disc_number": 1,
+    "duration_ms": 194300,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUYG1733790"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5BNR0LkD0uN4YxB3zU33qC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5BNR0LkD0uN4YxB3zU33qC",
+    "id": "5BNR0LkD0uN4YxB3zU33qC",
+    "is_local": false,
+    "name": "Donde estás perra?",
+    "popularity": 57,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5BNR0LkD0uN4YxB3zU33qC"
   },
   {
     "album_id": "0TFz2Xw2kzFlcYFGetcCMY",
