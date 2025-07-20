@@ -101,6 +101,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+    },
+    "href": "https://api.spotify.com/v1/artists/085pc2PYOi8bGKj0PNjekA",
+    "id": "085pc2PYOi8bGKj0PNjekA",
+    "name": "will.i.am",
+    "type": "artist",
+    "uri": "spotify:artist:085pc2PYOi8bGKj0PNjekA"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0927qApSSzZjH8F0Oyjrrv"
     },
     "href": "https://api.spotify.com/v1/artists/0927qApSSzZjH8F0Oyjrrv",
@@ -6018,6 +6028,26 @@
     "name": "Deorro",
     "type": "artist",
     "uri": "spotify:artist:6VD4UEUPvtsemqD3mmTqCR"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+    },
+    "href": "https://api.spotify.com/v1/artists/6VcsqZOR5AtEOGeAtmutCZ",
+    "id": "6VcsqZOR5AtEOGeAtmutCZ",
+    "name": "Esau Ortiz",
+    "type": "artist",
+    "uri": "spotify:artist:6VcsqZOR5AtEOGeAtmutCZ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6WirJzihzKTGyw7mgEdJUP"
+    },
+    "href": "https://api.spotify.com/v1/artists/6WirJzihzKTGyw7mgEdJUP",
+    "id": "6WirJzihzKTGyw7mgEdJUP",
+    "name": "Taboo",
+    "type": "artist",
+    "uri": "spotify:artist:6WirJzihzKTGyw7mgEdJUP"
   },
   {
     "external_urls": {
