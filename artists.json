@@ -2321,6 +2321,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+    },
+    "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+    "id": "2J257euzcjnDLipsyJH3F2",
+    "name": "Clipse",
+    "type": "artist",
+    "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
     },
     "href": "https://api.spotify.com/v1/artists/2JSjCHK79gdaiPWdKiNUNp",
@@ -4048,6 +4058,16 @@
     "name": "Cypress Hill",
     "type": "artist",
     "uri": "spotify:artist:4P0dddbxPil35MNN9G2MEX"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+    },
+    "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+    "id": "4P4gZvRYiVpvtCkmd37jRM",
+    "name": "Malice",
+    "type": "artist",
+    "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
   },
   {
     "external_urls": {
