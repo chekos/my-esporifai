@@ -3421,6 +3421,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+    },
+    "href": "https://api.spotify.com/v1/artists/3coKfYwV0ppdzD65z1cu3i",
+    "id": "3coKfYwV0ppdzD65z1cu3i",
+    "name": "Supermerk2",
+    "type": "artist",
+    "uri": "spotify:artist:3coKfYwV0ppdzD65z1cu3i"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3duZndoIzAXtBJj8op4Abx"
     },
     "href": "https://api.spotify.com/v1/artists/3duZndoIzAXtBJj8op4Abx",

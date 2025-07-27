@@ -8036,6 +8036,30 @@
     "uri": "spotify:track:0xaFw2zDYf1rIJWl2dXiSF"
   },
   {
+    "album_id": "17ScNnJ0lSWajodZaRpHdQ",
+    "artist_ids": [
+      "2J257euzcjnDLipsyJH3F2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 194866,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZD442001487"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0xaQ86cGRgcF8wwP1SkXsb",
+    "id": "0xaQ86cGRgcF8wwP1SkXsb",
+    "is_local": false,
+    "name": "So Be It",
+    "popularity": 80,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:0xaQ86cGRgcF8wwP1SkXsb"
+  },
+  {
     "album_id": "1HstApWi4IFpuz5HJmoXpf",
     "artist_ids": [
       "4oEls8QwyhaJninX4RFdcl"
@@ -30350,6 +30374,30 @@
     "uri": "spotify:track:3hveYmQDkG4C531ghqPRhd"
   },
   {
+    "album_id": "1r1Uhfd4edrlfDDJaGCify",
+    "artist_ids": [
+      "0OhiQFSqbnnmB52NWEpsO5"
+    ],
+    "disc_number": 1,
+    "duration_ms": 217521,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF369332431"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3ibR3fiO0okIyc0lCqULHX",
+    "id": "3ibR3fiO0okIyc0lCqULHX",
+    "is_local": false,
+    "name": "Feliz Feliz",
+    "popularity": 59,
+    "preview_url": null,
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:3ibR3fiO0okIyc0lCqULHX"
+  },
+  {
     "album_id": "4XssST6ZjeUKutADRKOQHX",
     "artist_ids": [
       "231yQfVjg9sGhTNsaym9ck"
@@ -32268,6 +32316,30 @@
     "track_number": 12,
     "type": "track",
     "uri": "spotify:track:3y69a6CepJM4Z4tVTNiyv7"
+  },
+  {
+    "album_id": "6219k00SRfp4PcsgTv2BCX",
+    "artist_ids": [
+      "3coKfYwV0ppdzD65z1cu3i"
+    ],
+    "disc_number": 1,
+    "duration_ms": 170319,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ARG991025935"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3y8Pe96NSEaReDgrRYPSaO",
+    "id": "3y8Pe96NSEaReDgrRYPSaO",
+    "is_local": false,
+    "name": "El Fogón",
+    "popularity": 45,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3y8Pe96NSEaReDgrRYPSaO"
   },
   {
     "album_id": "7cftuQ1mezvQCWSHtP7eA9",
@@ -38290,6 +38362,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:4oR2kX5BI50GBnQGRdRRsM"
+  },
+  {
+    "album_id": "0VFx5n3WbboSwJePY75rUb",
+    "artist_ids": [
+      "4ip4ajzDZRIQnx36hweqBr"
+    ],
+    "disc_number": 1,
+    "duration_ms": 199413,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USUYG1271306"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4oSdxKEVhtODyq1XcSuEHy"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4oSdxKEVhtODyq1XcSuEHy",
+    "id": "4oSdxKEVhtODyq1XcSuEHy",
+    "is_local": false,
+    "name": "Yo Soy Tu Maestro",
+    "popularity": 63,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:4oSdxKEVhtODyq1XcSuEHy"
   },
   {
     "album_id": "3RM6JchSNTtRsZ8Do0iWRD",
