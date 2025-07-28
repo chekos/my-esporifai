@@ -1721,6 +1721,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc"
+    },
+    "href": "https://api.spotify.com/v1/artists/1i4xi4ramy5BPYr2Bhf6sc",
+    "id": "1i4xi4ramy5BPYr2Bhf6sc",
+    "name": "Montez de Durango",
+    "type": "artist",
+    "uri": "spotify:artist:1i4xi4ramy5BPYr2Bhf6sc"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
     },
     "href": "https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY",
@@ -3228,6 +3238,16 @@
     "name": "Dee",
     "type": "artist",
     "uri": "spotify:artist:3Mp8C0vL1gSAS6DLYdLL0U"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
+    },
+    "href": "https://api.spotify.com/v1/artists/3OVWawJdrDHvvuFuOfwOcN",
+    "id": "3OVWawJdrDHvvuFuOfwOcN",
+    "name": "Banda Guadalajara Express",
+    "type": "artist",
+    "uri": "spotify:artist:3OVWawJdrDHvvuFuOfwOcN"
   },
   {
     "external_urls": {
@@ -5981,6 +6001,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+    },
+    "href": "https://api.spotify.com/v1/artists/6PmfbeAL7jAauFPNyQ5UPi",
+    "id": "6PmfbeAL7jAauFPNyQ5UPi",
+    "name": "Celso Piña",
+    "type": "artist",
+    "uri": "spotify:artist:6PmfbeAL7jAauFPNyQ5UPi"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
     },
     "href": "https://api.spotify.com/v1/artists/6Sbl0NT50roqWvy746MfVf",
@@ -6348,6 +6378,16 @@
     "name": "Desorden KDC",
     "type": "artist",
     "uri": "spotify:artist:6rM20Xl5smuCzNIdQa0Ixe"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+    },
+    "href": "https://api.spotify.com/v1/artists/6sXu0pNqYJNlS46xqSwKxZ",
+    "id": "6sXu0pNqYJNlS46xqSwKxZ",
+    "name": "Alcalde La Sonora",
+    "type": "artist",
+    "uri": "spotify:artist:6sXu0pNqYJNlS46xqSwKxZ"
   },
   {
     "external_urls": {
@@ -7148,6 +7188,16 @@
     "name": "Uzielito Mix",
     "type": "artist",
     "uri": "spotify:artist:7wgrXbrp9RJQMri26GZgyH"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+    },
+    "href": "https://api.spotify.com/v1/artists/7wiOKrtPg196Hh90CdoKPi",
+    "id": "7wiOKrtPg196Hh90CdoKPi",
+    "name": "Los Askis",
+    "type": "artist",
+    "uri": "spotify:artist:7wiOKrtPg196Hh90CdoKPi"
   },
   {
     "external_urls": {
