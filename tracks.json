@@ -5492,6 +5492,30 @@
     "uri": "spotify:track:0ewAvKRUUHKylm92XGBscf"
   },
   {
+    "album_id": "5qENHeCSlwWpEzb25peRmQ",
+    "artist_ids": [
+      "7dGJo4pcD2V6oG8kP0tJRR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 274440,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM70506389"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0fGh0trRN1xz3s41r7V5ce"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0fGh0trRN1xz3s41r7V5ce",
+    "id": "0fGh0trRN1xz3s41r7V5ce",
+    "is_local": false,
+    "name": "Shake That",
+    "popularity": 76,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:0fGh0trRN1xz3s41r7V5ce"
+  },
+  {
     "album_id": "0Wyn0fD9sZIu00xTyXF4eK",
     "artist_ids": [
       "048LktY5zMnakWq7PTtFrz"
@@ -19626,6 +19650,30 @@
     "uri": "spotify:track:2LUBcsMqSI7Ygb3ksB53us"
   },
   {
+    "album_id": "3kEtdS2pH6hKcMU9Wioob1",
+    "artist_ids": [
+      "20qISvAhX20dpIbOOzGK3q"
+    ],
+    "disc_number": 1,
+    "duration_ms": 210840,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USSM10025030"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2LhhnqrHPWvXYveZVHLKrd"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2LhhnqrHPWvXYveZVHLKrd",
+    "id": "2LhhnqrHPWvXYveZVHLKrd",
+    "is_local": false,
+    "name": "Life's a Bitch (feat. AZ & Olu Dara)",
+    "popularity": 63,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:2LhhnqrHPWvXYveZVHLKrd"
+  },
+  {
     "album_id": "0ytQrBinlg9hb4uoaEmk37",
     "artist_ids": [
       "6UBA15slIuadJ8h2lPRPos"
@@ -28140,6 +28188,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3Q97r3eLlF1qqjWHgUaYYr"
+  },
+  {
+    "album_id": "1IoU1S5bHioUnI88sSJJHZ",
+    "artist_ids": [
+      "6U3ybJ9UHNKEdsH7ktGBZ7"
+    ],
+    "disc_number": 1,
+    "duration_ms": 348144,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM72506984"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3QKXo5IoMxnVwNm2bMRiVc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3QKXo5IoMxnVwNm2bMRiVc",
+    "id": "3QKXo5IoMxnVwNm2bMRiVc",
+    "is_local": false,
+    "name": "Animals (Pt. I) [with Eminem]",
+    "popularity": 70,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:3QKXo5IoMxnVwNm2bMRiVc"
   },
   {
     "album_id": "2anJ5SgIdKxyZtB1q0cgvN",
@@ -41004,6 +41076,30 @@
     "uri": "spotify:track:55mzJ0LftLnef8sxAjrMkU"
   },
   {
+    "album_id": "1kTlYbs28MXw7hwO0NLYif",
+    "artist_ids": [
+      "7dGJo4pcD2V6oG8kP0tJRR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 250760,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USIR10400813"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    "href": "https://api.spotify.com/v1/tracks/561jH07mF1jHuk7KlaeF0s",
+    "id": "561jH07mF1jHuk7KlaeF0s",
+    "is_local": false,
+    "name": "Mockingbird",
+    "popularity": 87,
+    "preview_url": null,
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:561jH07mF1jHuk7KlaeF0s"
+  },
+  {
     "album_id": "1jGjyR9QtuSLhQwMl2MHeh",
     "artist_ids": [
       "6CQF2JGNKGP5WTAntC9Rc6"
@@ -41962,6 +42058,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5CnH38pq5heJvXe2HtvPWp"
+  },
+  {
+    "album_id": "1kTlYbs28MXw7hwO0NLYif",
+    "artist_ids": [
+      "7dGJo4pcD2V6oG8kP0tJRR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 159786,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USIR10400816"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5CsDo9j3N4yFZNCN1h9loS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5CsDo9j3N4yFZNCN1h9loS",
+    "id": "5CsDo9j3N4yFZNCN1h9loS",
+    "is_local": false,
+    "name": "Never Enough",
+    "popularity": 71,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:5CsDo9j3N4yFZNCN1h9loS"
   },
   {
     "album_id": "5Z8W1u3XfVt5Qep5gI5raN",
@@ -45058,6 +45178,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5YzYf1636ixpWoLYuQZ9O6"
+  },
+  {
+    "album_id": "5qENHeCSlwWpEzb25peRmQ",
+    "artist_ids": [
+      "7dGJo4pcD2V6oG8kP0tJRR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 326466,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USIR10211559"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5Z01UMMf7V1o0MzF86s6WJ",
+    "id": "5Z01UMMf7V1o0MzF86s6WJ",
+    "is_local": false,
+    "name": "Lose Yourself",
+    "popularity": 79,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:5Z01UMMf7V1o0MzF86s6WJ"
   },
   {
     "album_id": "0S0AgQdXnkT47Ig8ADDjbF",
@@ -59572,6 +59716,30 @@
     "uri": "spotify:track:7iQXYTyuG13aoeHxGG28Nh"
   },
   {
+    "album_id": "7q2B4M5EiBkqrlsNW8lB7N",
+    "artist_ids": [
+      "6DPYiyq5kWVQS4RGwxzPC7"
+    ],
+    "disc_number": 1,
+    "duration_ms": 222293,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USIR19915077"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7iXF2W9vKmDoGAhlHdpyIa",
+    "id": "7iXF2W9vKmDoGAhlHdpyIa",
+    "is_local": false,
+    "name": "Forgot About Dre",
+    "popularity": 80,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:7iXF2W9vKmDoGAhlHdpyIa"
+  },
+  {
     "album_id": "16hCaPiWdK5ayfPKC2vGRk",
     "artist_ids": [
       "2bj9MQez88g09q4NSr2xjS"
@@ -59858,6 +60026,30 @@
     "track_number": 11,
     "type": "track",
     "uri": "spotify:track:7lJxuN6bk1JcX9LrZbjKZ7"
+  },
+  {
+    "album_id": "2cWBwpqMsDJC1ZUwz813lo",
+    "artist_ids": [
+      "7dGJo4pcD2V6oG8kP0tJRR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 290320,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USIR10211038"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7lQ8MOhq6IN2w8EYcFNSUk",
+    "id": "7lQ8MOhq6IN2w8EYcFNSUk",
+    "is_local": false,
+    "name": "Without Me",
+    "popularity": 88,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk"
   },
   {
     "album_id": "5RrtVeQtn3IeueXIIKNr51",

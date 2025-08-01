@@ -5741,6 +5741,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+    },
+    "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+    "id": "6DPYiyq5kWVQS4RGwxzPC7",
+    "name": "Dr. Dre",
+    "type": "artist",
+    "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/6Dcufc8lKB2eVG5JKnT5fZ"
     },
     "href": "https://api.spotify.com/v1/artists/6Dcufc8lKB2eVG5JKnT5fZ",
@@ -6858,6 +6868,16 @@
     "name": "M2H",
     "type": "artist",
     "uri": "spotify:artist:7bWN0FHvLppK8ozEH6exdi"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+    },
+    "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+    "id": "7dGJo4pcD2V6oG8kP0tJRR",
+    "name": "Eminem",
+    "type": "artist",
+    "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
   },
   {
     "external_urls": {
