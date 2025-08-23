@@ -51,6 +51,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo"
+    },
+    "href": "https://api.spotify.com/v1/artists/02T4vKIGje48LHpXmJoEwo",
+    "id": "02T4vKIGje48LHpXmJoEwo",
+    "name": "Double Zuksh",
+    "type": "artist",
+    "uri": "spotify:artist:02T4vKIGje48LHpXmJoEwo"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/04cas0EFOUlG1f5exg4s1Z"
     },
     "href": "https://api.spotify.com/v1/artists/04cas0EFOUlG1f5exg4s1Z",
@@ -4208,6 +4218,16 @@
     "name": "Mexican Institute Of Sound",
     "type": "artist",
     "uri": "spotify:artist:4TPTW3cTwUtiihgOMSQfmy"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ"
+    },
+    "href": "https://api.spotify.com/v1/artists/4U7K3Xm1CXe5FpBGYUcHUZ",
+    "id": "4U7K3Xm1CXe5FpBGYUcHUZ",
+    "name": "3enba",
+    "type": "artist",
+    "uri": "spotify:artist:4U7K3Xm1CXe5FpBGYUcHUZ"
   },
   {
     "external_urls": {
