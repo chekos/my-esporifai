@@ -1491,6 +1491,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1XLXezcztSQIdEYG9dviXN"
+    },
+    "href": "https://api.spotify.com/v1/artists/1XLXezcztSQIdEYG9dviXN",
+    "id": "1XLXezcztSQIdEYG9dviXN",
+    "name": "Ríal Guawankó",
+    "type": "artist",
+    "uri": "spotify:artist:1XLXezcztSQIdEYG9dviXN"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
     },
     "href": "https://api.spotify.com/v1/artists/1YvkzmaJLVRHSJ8J5YzoaW",
@@ -1598,6 +1608,16 @@
     "name": "Nanpa Básico",
     "type": "artist",
     "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1cbWPmU7bbRuA0V3rqAeuE"
+    },
+    "href": "https://api.spotify.com/v1/artists/1cbWPmU7bbRuA0V3rqAeuE",
+    "id": "1cbWPmU7bbRuA0V3rqAeuE",
+    "name": "Sibilino",
+    "type": "artist",
+    "uri": "spotify:artist:1cbWPmU7bbRuA0V3rqAeuE"
   },
   {
     "external_urls": {
