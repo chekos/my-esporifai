@@ -641,6 +641,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+    },
+    "href": "https://api.spotify.com/v1/artists/0dtzsqGSEudST19Mq6ilvB",
+    "id": "0dtzsqGSEudST19Mq6ilvB",
+    "name": "P. Jaguar",
+    "type": "artist",
+    "uri": "spotify:artist:0dtzsqGSEudST19Mq6ilvB"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
     },
     "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
@@ -6288,6 +6298,16 @@
     "name": "Jose Bautista",
     "type": "artist",
     "uri": "spotify:artist:6fzN4HcSe04gUIKj6qFlKB"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+    },
+    "href": "https://api.spotify.com/v1/artists/6huE8Sh7scgoA8rj2vCuwZ",
+    "id": "6huE8Sh7scgoA8rj2vCuwZ",
+    "name": "Masta Quba",
+    "type": "artist",
+    "uri": "spotify:artist:6huE8Sh7scgoA8rj2vCuwZ"
   },
   {
     "external_urls": {
