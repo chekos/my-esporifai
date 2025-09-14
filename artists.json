@@ -1801,6 +1801,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1iwZm782nwRuf2CWpHYhkv"
+    },
+    "href": "https://api.spotify.com/v1/artists/1iwZm782nwRuf2CWpHYhkv",
+    "id": "1iwZm782nwRuf2CWpHYhkv",
+    "name": "Gera MXM",
+    "type": "artist",
+    "uri": "spotify:artist:1iwZm782nwRuf2CWpHYhkv"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
     },
     "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
