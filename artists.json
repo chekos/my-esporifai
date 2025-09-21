@@ -3301,6 +3301,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+    },
+    "href": "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+    "id": "3PyWEKLWI0vHPmoNrIX0QE",
+    "name": "Rakim",
+    "type": "artist",
+    "uri": "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
     },
     "href": "https://api.spotify.com/v1/artists/3QJzdZJYIAcoET1GcfpNGi",
