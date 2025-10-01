@@ -4671,6 +4671,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+    },
+    "href": "https://api.spotify.com/v1/artists/4rUyBlggM5tZUH5QZn9ZuO",
+    "id": "4rUyBlggM5tZUH5QZn9ZuO",
+    "name": "Silvio Rodríguez",
+    "type": "artist",
+    "uri": "spotify:artist:4rUyBlggM5tZUH5QZn9ZuO"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
     },
     "href": "https://api.spotify.com/v1/artists/4sb7rZNN93BSS6Gqgepo4v",
