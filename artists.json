@@ -1941,6 +1941,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+    },
+    "href": "https://api.spotify.com/v1/artists/1t7t8q4zoYHp22JLIx3FM7",
+    "id": "1t7t8q4zoYHp22JLIx3FM7",
+    "name": "Joan Manuel Serrat",
+    "type": "artist",
+    "uri": "spotify:artist:1t7t8q4zoYHp22JLIx3FM7"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
     },
     "href": "https://api.spotify.com/v1/artists/1tuNNda2SSH3o4lUms5K6C",
@@ -6828,6 +6838,16 @@
     "name": "Kase.O",
     "type": "artist",
     "uri": "spotify:artist:7GmXwGXJSsmWTkCyk5Twux"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+    },
+    "href": "https://api.spotify.com/v1/artists/7HGNYPmbDrMkylWqeFCOIQ",
+    "id": "7HGNYPmbDrMkylWqeFCOIQ",
+    "name": "Caetano Veloso",
+    "type": "artist",
+    "uri": "spotify:artist:7HGNYPmbDrMkylWqeFCOIQ"
   },
   {
     "external_urls": {
