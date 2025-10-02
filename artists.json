@@ -2361,6 +2361,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+    },
+    "href": "https://api.spotify.com/v1/artists/2HvyR5FsU37QMqVzIbGwl7",
+    "id": "2HvyR5FsU37QMqVzIbGwl7",
+    "name": "Mercedes Sosa",
+    "type": "artist",
+    "uri": "spotify:artist:2HvyR5FsU37QMqVzIbGwl7"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2I8hlGzbnZKwkCg1EicEdG"
     },
     "href": "https://api.spotify.com/v1/artists/2I8hlGzbnZKwkCg1EicEdG",
@@ -7118,6 +7128,16 @@
     "name": "ROSALÍA",
     "type": "artist",
     "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7m0VNGsfGUKPBbbJ56MFnR"
+    },
+    "href": "https://api.spotify.com/v1/artists/7m0VNGsfGUKPBbbJ56MFnR",
+    "id": "7m0VNGsfGUKPBbbJ56MFnR",
+    "name": "Gabino Palomares",
+    "type": "artist",
+    "uri": "spotify:artist:7m0VNGsfGUKPBbbJ56MFnR"
   },
   {
     "external_urls": {
