@@ -7436,6 +7436,30 @@
     "uri": "spotify:track:0rCxrlZhWzLy5ULIEDL3zs"
   },
   {
+    "album_id": "35okb1xF4DPilYtWCL9cAI",
+    "artist_ids": [
+      "37ZflmHTdxkSLQuT8w9NBs"
+    ],
+    "disc_number": 1,
+    "duration_ms": 280613,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "BRKLG1100003"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0rnFlWFOfTRmVQVm28DK09"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0rnFlWFOfTRmVQVm28DK09",
+    "id": "0rnFlWFOfTRmVQVm28DK09",
+    "is_local": false,
+    "name": "Não Existe Amor em SP",
+    "popularity": 53,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0rnFlWFOfTRmVQVm28DK09"
+  },
+  {
     "album_id": "0qmW400K0VgJ28CuBx8InD",
     "artist_ids": [
       "4tm8CEdm4pkQsEh4jIr9Yp"
@@ -46618,6 +46642,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5e7xlJIMi1MCgRQPLylNLJ"
+  },
+  {
+    "album_id": "35okb1xF4DPilYtWCL9cAI",
+    "artist_ids": [
+      "37ZflmHTdxkSLQuT8w9NBs"
+    ],
+    "disc_number": 1,
+    "duration_ms": 270173,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "BRKLG1100010"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5eNNjdY45i3zPaYTHnCp4R"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5eNNjdY45i3zPaYTHnCp4R",
+    "id": "5eNNjdY45i3zPaYTHnCp4R",
+    "is_local": false,
+    "name": "Linha de Frente",
+    "popularity": 47,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:5eNNjdY45i3zPaYTHnCp4R"
   },
   {
     "album_id": "7Mz1geAbnUUcBLwqRSGX80",

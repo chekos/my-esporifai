@@ -3031,6 +3031,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+    },
+    "href": "https://api.spotify.com/v1/artists/37ZflmHTdxkSLQuT8w9NBs",
+    "id": "37ZflmHTdxkSLQuT8w9NBs",
+    "name": "Criolo",
+    "type": "artist",
+    "uri": "spotify:artist:37ZflmHTdxkSLQuT8w9NBs"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
     },
     "href": "https://api.spotify.com/v1/artists/39yVoqm6sYFvvqF1RciUVf",
