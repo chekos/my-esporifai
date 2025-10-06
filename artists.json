@@ -181,6 +181,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj"
+    },
+    "href": "https://api.spotify.com/v1/artists/0CUGdPMu03lV9TNf2wjunj",
+    "id": "0CUGdPMu03lV9TNf2wjunj",
+    "name": "Infante",
+    "type": "artist",
+    "uri": "spotify:artist:0CUGdPMu03lV9TNf2wjunj"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi"
     },
     "href": "https://api.spotify.com/v1/artists/0CtBJEWIKkU8CzxJCBLmSi",
