@@ -4421,6 +4421,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+    },
+    "href": "https://api.spotify.com/v1/artists/4ZDoy7AWNgQVmX7T0u0B1j",
+    "id": "4ZDoy7AWNgQVmX7T0u0B1j",
+    "name": "No Te Va Gustar",
+    "type": "artist",
+    "uri": "spotify:artist:4ZDoy7AWNgQVmX7T0u0B1j"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
     },
     "href": "https://api.spotify.com/v1/artists/4ZdPHdArIbz2GSBXkozQYC",
