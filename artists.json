@@ -521,6 +521,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0WmmhplJiEohqKsYoRLsbq"
+    },
+    "href": "https://api.spotify.com/v1/artists/0WmmhplJiEohqKsYoRLsbq",
+    "id": "0WmmhplJiEohqKsYoRLsbq",
+    "name": "PapaShanty SaundSystem",
+    "type": "artist",
+    "uri": "spotify:artist:0WmmhplJiEohqKsYoRLsbq"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0Wqbw2ZKno6MrvDcLpc0ax"
     },
     "href": "https://api.spotify.com/v1/artists/0Wqbw2ZKno6MrvDcLpc0ax",

@@ -10292,6 +10292,30 @@
     "uri": "spotify:track:1Dj8H5t7E8SDB6f9mIUk67"
   },
   {
+    "album_id": "7uLydcXgOeCZ2MhzZmvuFd",
+    "artist_ids": [
+      "7m0VNGsfGUKPBbbJ56MFnR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 232228,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF600600593"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1DlJ1u2ne8QNT7HvafE0p7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1DlJ1u2ne8QNT7HvafE0p7",
+    "id": "1DlJ1u2ne8QNT7HvafE0p7",
+    "is_local": false,
+    "name": "A La Patria",
+    "popularity": 30,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:1DlJ1u2ne8QNT7HvafE0p7"
+  },
+  {
     "album_id": "0zggfzcdLDK9ypTgwkPvxa",
     "artist_ids": [
       "4Hzj6dfl1y5x5TzCSsvLB6"
@@ -14852,6 +14876,30 @@
     "uri": "spotify:track:1jGQu9LPVLRZ41u9onpfXy"
   },
   {
+    "album_id": "6DCFKUUTjEANNG889DLYaW",
+    "artist_ids": [
+      "4OkeTQCk0fvX6VBYpOOxDi"
+    ],
+    "disc_number": 1,
+    "duration_ms": 249680,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES5080500001"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1jJn6iK6o2Vg7iUKHztRTk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1jJn6iK6o2Vg7iUKHztRTk",
+    "id": "1jJn6iK6o2Vg7iUKHztRTk",
+    "is_local": false,
+    "name": "El universo sobre mí",
+    "popularity": 63,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1jJn6iK6o2Vg7iUKHztRTk"
+  },
+  {
     "album_id": "2MQSUpk483brvGeWXAjzw6",
     "artist_ids": [
       "40FmJcZFhzbd6P9w4eXqgS"
@@ -16146,6 +16194,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:1rkfJLgTlB6XYNjgZ0sVaK"
+  },
+  {
+    "album_id": "2l2JghrRll8wXH8kggyTdL",
+    "artist_ids": [
+      "0WmmhplJiEohqKsYoRLsbq"
+    ],
+    "disc_number": 1,
+    "duration_ms": 313025,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM6N21570724"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1sIg4u0sfnOvC1ED1sXJLg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1sIg4u0sfnOvC1ED1sXJLg",
+    "id": "1sIg4u0sfnOvC1ED1sXJLg",
+    "is_local": false,
+    "name": "Roots",
+    "popularity": 25,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:1sIg4u0sfnOvC1ED1sXJLg"
   },
   {
     "album_id": "08Cq2FeFxRQdpkKrjCGrth",
