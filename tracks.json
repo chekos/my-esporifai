@@ -52450,6 +52450,30 @@
     "uri": "spotify:track:6QITrnUssmol226F51JWLO"
   },
   {
+    "album_id": "7oNSmwtmqu8EvnD3cv2HOr",
+    "artist_ids": [
+      "1GImnM7WYVp95431ypofy9"
+    ],
+    "disc_number": 1,
+    "duration_ms": 236333,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF019700264"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6QJCZyJv1fhkCyZA3lRoAD",
+    "id": "6QJCZyJv1fhkCyZA3lRoAD",
+    "is_local": false,
+    "name": "Viento",
+    "popularity": 76,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:6QJCZyJv1fhkCyZA3lRoAD"
+  },
+  {
     "album_id": "20q5j9oFR1Ax38kogUuGiq",
     "artist_ids": [
       "2hejA1Dkf8v8R0koF44FvW"
@@ -56118,6 +56142,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6uSoEpeLTKmGsJ929teLvA"
+  },
+  {
+    "album_id": "0zE2Btx6MqIdY8pPP1oukD",
+    "artist_ids": [
+      "3ygJTpJJIK7eEeC2EFRl9D"
+    ],
+    "disc_number": 1,
+    "duration_ms": 192527,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USY242438322"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6vDFIROAlMhBoK5ZglUbms"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6vDFIROAlMhBoK5ZglUbms",
+    "id": "6vDFIROAlMhBoK5ZglUbms",
+    "is_local": false,
+    "name": "Historial Crediticio",
+    "popularity": 45,
+    "preview_url": null,
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:6vDFIROAlMhBoK5ZglUbms"
   },
   {
     "album_id": "6h96ub7DVxGolqWZxSmlCz",

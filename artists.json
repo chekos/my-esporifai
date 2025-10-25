@@ -3811,6 +3811,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+    },
+    "href": "https://api.spotify.com/v1/artists/3ygJTpJJIK7eEeC2EFRl9D",
+    "id": "3ygJTpJJIK7eEeC2EFRl9D",
+    "name": "Alcolirykoz",
+    "type": "artist",
+    "uri": "spotify:artist:3ygJTpJJIK7eEeC2EFRl9D"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
     },
     "href": "https://api.spotify.com/v1/artists/3zhijRRIZX2B6G2T7vJl9p",
