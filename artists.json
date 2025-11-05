@@ -4741,6 +4741,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+    },
+    "href": "https://api.spotify.com/v1/artists/4r880LQXdnpTflv3uqV4kX",
+    "id": "4r880LQXdnpTflv3uqV4kX",
+    "name": "Grupo Kual?",
+    "type": "artist",
+    "uri": "spotify:artist:4r880LQXdnpTflv3uqV4kX"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
     },
     "href": "https://api.spotify.com/v1/artists/4rUyBlggM5tZUH5QZn9ZuO",

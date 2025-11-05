@@ -6236,6 +6236,30 @@
     "uri": "spotify:track:0kIHfcHGFGm5xb0dSlKEdp"
   },
   {
+    "album_id": "6D0KkFHJrxCif5ZmZp9HD3",
+    "artist_ids": [
+      "2tU377oBzcCBbRNeVve8FC"
+    ],
+    "disc_number": 1,
+    "duration_ms": 149286,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "FRS182038880"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0kLwSTHQXS2w2U6BsdZ3Ip"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0kLwSTHQXS2w2U6BsdZ3Ip",
+    "id": "0kLwSTHQXS2w2U6BsdZ3Ip",
+    "is_local": false,
+    "name": "Mezcal",
+    "popularity": 21,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0kLwSTHQXS2w2U6BsdZ3Ip"
+  },
+  {
     "album_id": "6Cj4gSdavyZCIhmeoCcrI6",
     "artist_ids": [
       "3w2WYNyPCPkZFoC1EqfCMe"
@@ -24472,6 +24496,30 @@
     "uri": "spotify:track:2s8fnyRYZUCMMvGcaYb5zI"
   },
   {
+    "album_id": "4seZXkgExNGqlPDBf2oIPt",
+    "artist_ids": [
+      "1QhaqxeqF9sipS2gwbEKpu"
+    ],
+    "disc_number": 1,
+    "duration_ms": 252000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUYG1118413"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2s98RzcAEGu4C5Md4UCsas"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2s98RzcAEGu4C5Md4UCsas",
+    "id": "2s98RzcAEGu4C5Md4UCsas",
+    "is_local": false,
+    "name": "Cae la Ley (feat. HomeBoys)",
+    "popularity": 23,
+    "preview_url": null,
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:2s98RzcAEGu4C5Md4UCsas"
+  },
+  {
     "album_id": "22ObA67YK8nPGwvkligBMb",
     "artist_ids": [
       "4QFG9KrGWEbr6hNA58CAqE"
@@ -38052,6 +38100,30 @@
     "uri": "spotify:track:4dVpf9jZjcORqGTLUaeYj9"
   },
   {
+    "album_id": "1YdMLUUhrTK2HIaFtmI8Yf",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 167804,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QM6MZ2058636"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4ddy8YFEcp71qMVeIXyMZe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4ddy8YFEcp71qMVeIXyMZe",
+    "id": "4ddy8YFEcp71qMVeIXyMZe",
+    "is_local": false,
+    "name": "Dealers (feat. Kidd Keo, Yoga Fire, Dee, Fntxy & Cozy Cuz)",
+    "popularity": 37,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:4ddy8YFEcp71qMVeIXyMZe"
+  },
+  {
     "album_id": "5fbmtiHWrfLUyyqGbWPAhm",
     "artist_ids": [
       "30BSBWLKnYJION1lCPugXc"
@@ -44580,6 +44652,30 @@
     "uri": "spotify:track:5MyEACD2kRFeh231Z6FkdE"
   },
   {
+    "album_id": "5h14xfsr839zROZ4S1JfbH",
+    "artist_ids": [
+      "0N6H5exnFMoW4yNQ3vDJ3Z"
+    ],
+    "disc_number": 1,
+    "duration_ms": 194352,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "ESA012013614"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5NG28wOjx0HuusOR7YbbJ9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5NG28wOjx0HuusOR7YbbJ9",
+    "id": "5NG28wOjx0HuusOR7YbbJ9",
+    "is_local": false,
+    "name": "Prendidos",
+    "popularity": 29,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5NG28wOjx0HuusOR7YbbJ9"
+  },
+  {
     "album_id": "1IgiKzJgYzKHNYFFrBjb8u",
     "artist_ids": [
       "2hejA1Dkf8v8R0koF44FvW"
@@ -46356,6 +46452,30 @@
     "uri": "spotify:track:5ZnRgLArtNJj88K6HHl1e9"
   },
   {
+    "album_id": "5sama0fBZOReRwpuJ7xIvE",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 2,
+    "duration_ms": 171203,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ5AB1940606"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5ZzqrOSTbO8xwycQaP7WrO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5ZzqrOSTbO8xwycQaP7WrO",
+    "id": "5ZzqrOSTbO8xwycQaP7WrO",
+    "is_local": false,
+    "name": "Pinches Puercos (feat. Dee & Fntxy)",
+    "popularity": 45,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:5ZzqrOSTbO8xwycQaP7WrO"
+  },
+  {
     "album_id": "1rSmB2J6FBTsH9NOCV24xW",
     "artist_ids": [
       "0qHbO3z6lgLE6ZYCkQBo1K"
@@ -47576,6 +47696,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:5jm4R6GxSRmaQFkNvxlZJf"
+  },
+  {
+    "album_id": "2oOUx7YZnwBm4tshQbhdyO",
+    "artist_ids": [
+      "4uqzzJg3ww5eH7IgGV7DMT"
+    ],
+    "disc_number": 1,
+    "duration_ms": 233960,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES5080900246"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5kFkQoKmsuRZjjS4GEaxNj"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5kFkQoKmsuRZjjS4GEaxNj",
+    "id": "5kFkQoKmsuRZjjS4GEaxNj",
+    "is_local": false,
+    "name": "Frente a frente (feat. Tulsa)",
+    "popularity": 68,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:5kFkQoKmsuRZjjS4GEaxNj"
   },
   {
     "album_id": "3SF8e5ewF7PaqWw6rPnfEg",
@@ -53574,6 +53718,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6XtFet74MgHHz26mK6zjXL"
+  },
+  {
+    "album_id": "2S6Dh7t8W9Uwc2ux3mP39m",
+    "artist_ids": [
+      "4r880LQXdnpTflv3uqV4kX"
+    ],
+    "disc_number": 1,
+    "duration_ms": 283240,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USAGX0500617"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6Y0Z4tAyI5JwBPVbxKQpXe",
+    "id": "6Y0Z4tAyI5JwBPVbxKQpXe",
+    "is_local": false,
+    "name": "Rumba Cha-Cha-Cha",
+    "popularity": 66,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:6Y0Z4tAyI5JwBPVbxKQpXe"
   },
   {
     "album_id": "5a1eBYCKsIcd5yIHtKBUzM",
