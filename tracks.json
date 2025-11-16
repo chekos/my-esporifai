@@ -3478,6 +3478,30 @@
     "uri": "spotify:track:0Pv6bmLtWfVnB2vMajNDcc"
   },
   {
+    "album_id": "0nSVxIyIILGvDr417ogi39",
+    "artist_ids": [
+      "4jogXSSvlyMkODGSZ2wc2P"
+    ],
+    "disc_number": 1,
+    "duration_ms": 193960,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USUM71100650"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0Q2nlEy3j08AWwrum9BFmH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0Q2nlEy3j08AWwrum9BFmH",
+    "id": "0Q2nlEy3j08AWwrum9BFmH",
+    "is_local": false,
+    "name": "Te Estoy Engañando Con Otra",
+    "popularity": 62,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:0Q2nlEy3j08AWwrum9BFmH"
+  },
+  {
     "album_id": "2EexU9SdoDbgCGazUepCyL",
     "artist_ids": [
       "07PdYoE4jVRF6Ut40GgVSP"
@@ -3836,6 +3860,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:0T2SVUCPRmf2gUbGmgJXCT"
+  },
+  {
+    "album_id": "2aULmv8i7XMGyj86ZVmykt",
+    "artist_ids": [
+      "4bPiOPI4V99cepEftvBYak"
+    ],
+    "disc_number": 1,
+    "duration_ms": 145800,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMDNX1410063"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0T7nbi1f2MMDuthqqtAHBk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0T7nbi1f2MMDuthqqtAHBk",
+    "id": "0T7nbi1f2MMDuthqqtAHBk",
+    "is_local": false,
+    "name": "Hasta Que Salga El Sol",
+    "popularity": 36,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0T7nbi1f2MMDuthqqtAHBk"
   },
   {
     "album_id": "7cftuQ1mezvQCWSHtP7eA9",
@@ -11228,6 +11276,30 @@
     "uri": "spotify:track:1KwSNoiJhy7JfJB82GfYha"
   },
   {
+    "album_id": "3XPV75rmAKWAeVJtXuERzz",
+    "artist_ids": [
+      "4J13m9IZh03PEhoxAxRhXO"
+    ],
+    "disc_number": 1,
+    "duration_ms": 97240,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USE7D1300229"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1Kxap8UbrmlXcgKBuCysNg",
+    "id": "1Kxap8UbrmlXcgKBuCysNg",
+    "is_local": false,
+    "name": "Quién Se Anima",
+    "popularity": 64,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:1Kxap8UbrmlXcgKBuCysNg"
+  },
+  {
     "album_id": "3gwGJiQ0xGSUa3C6GZIXbL",
     "artist_ids": [
       "3c49ZOqgPzYj18ZW9MQhbb"
@@ -17970,6 +18042,30 @@
     "uri": "spotify:track:24vNw0Z0srb4zYXwrakw8E"
   },
   {
+    "album_id": "2aRhJtFFfvHtPv9EUegbVd",
+    "artist_ids": [
+      "2u7j1pjcNuLlfgiNrByi0R"
+    ],
+    "disc_number": 1,
+    "duration_ms": 217773,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ushm91230903"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2510XVRDBxpzN96Eq1G5s4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2510XVRDBxpzN96Eq1G5s4",
+    "id": "2510XVRDBxpzN96Eq1G5s4",
+    "is_local": false,
+    "name": "Que Manera de Perder",
+    "popularity": 26,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:2510XVRDBxpzN96Eq1G5s4"
+  },
+  {
     "album_id": "6FJTkbK0wJPr1v0v9YE0L4",
     "artist_ids": [
       "4LFOoXhMhnq9U8VsZkSwxl"
@@ -19240,6 +19336,30 @@
     "track_number": 9,
     "type": "track",
     "uri": "spotify:track:2FNqnsX74ZlwduUAcnmzee"
+  },
+  {
+    "album_id": "3FI5LouyqqztMiUYOt0BBi",
+    "artist_ids": [
+      "7I3rRf9KCD2qJZuaesRegQ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 149946,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF015100058"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2FRr3jlWkQH4FAgp7Xv07s"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2FRr3jlWkQH4FAgp7Xv07s",
+    "id": "2FRr3jlWkQH4FAgp7Xv07s",
+    "is_local": false,
+    "name": "Tierra Blanca",
+    "popularity": 1,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2FRr3jlWkQH4FAgp7Xv07s"
   },
   {
     "album_id": "6YiO6TcTbYtPsiM2xgKkwD",
@@ -28838,6 +28958,30 @@
     "uri": "spotify:track:3OWIiecjUrPfYo47BJkvMI"
   },
   {
+    "album_id": "2oai80RcPheeeg0bNCPDRW",
+    "artist_ids": [
+      "7sQ3Q6yYyg0SdpEezJN8UT"
+    ],
+    "disc_number": 1,
+    "duration_ms": 179400,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USEL10100231"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3Oa31DdD8vxktKoyUf7RyZ",
+    "id": "3Oa31DdD8vxktKoyUf7RyZ",
+    "is_local": false,
+    "name": "Arboles De La Barranca",
+    "popularity": 64,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3Oa31DdD8vxktKoyUf7RyZ"
+  },
+  {
     "album_id": "5Ex8ADFhgsJVFkI5eHeQq1",
     "artist_ids": [
       "40JMTpVRUw90SrN4pFA6Mz"
@@ -32484,6 +32628,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3qCzGmAP91tisTIS72io8v"
+  },
+  {
+    "album_id": "1a5ieU77NxfKsZKYZuZno9",
+    "artist_ids": [
+      "5sLCZx5RvQ1Cv6kguDLCLx"
+    ],
+    "disc_number": 1,
+    "duration_ms": 188960,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USUM71214385"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3qK0HkXzkrLvwU2P6MhLpN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3qK0HkXzkrLvwU2P6MhLpN",
+    "id": "3qK0HkXzkrLvwU2P6MhLpN",
+    "is_local": false,
+    "name": "Muchacho De Campo",
+    "popularity": 63,
+    "preview_url": null,
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:3qK0HkXzkrLvwU2P6MhLpN"
   },
   {
     "album_id": "3t50kEhxzcLjo1GZNLpjJp",
@@ -37236,6 +37404,30 @@
     "uri": "spotify:track:4UbkQQN65WPr4rEep7DjIe"
   },
   {
+    "album_id": "27zodohsIeaDJaZ7lpSHab",
+    "artist_ids": [
+      "1GUYk7GLP4tALtorFH1OWG"
+    ],
+    "disc_number": 1,
+    "duration_ms": 197613,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMFLS1300035"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4UwT663zyEyInUiBDhNOyp"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4UwT663zyEyInUiBDhNOyp",
+    "id": "4UwT663zyEyInUiBDhNOyp",
+    "is_local": false,
+    "name": "Para Qué Tantos Besos",
+    "popularity": 41,
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:4UwT663zyEyInUiBDhNOyp"
+  },
+  {
     "album_id": "3wuSawy2RYWQO6ZIRMxRfU",
     "artist_ids": [
       "4QFG9KrGWEbr6hNA58CAqE"
@@ -41076,6 +41268,30 @@
     "uri": "spotify:track:4xWjDGW0IL578LD5ZVkXPB"
   },
   {
+    "album_id": "4gyADEPr15GoyO1bfqQMnr",
+    "artist_ids": [
+      "4rWWouSk4D5OSFFFo2bmty"
+    ],
+    "disc_number": 1,
+    "duration_ms": 178560,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USFI29402867"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4xWjJ8vh4piFNHNRbUBXDQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4xWjJ8vh4piFNHNRbUBXDQ",
+    "id": "4xWjJ8vh4piFNHNRbUBXDQ",
+    "is_local": false,
+    "name": "Yo Vendo Unos Ojos Verdes (Yo Vendo Unos Ojos Negros)",
+    "popularity": 4,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:4xWjJ8vh4piFNHNRbUBXDQ"
+  },
+  {
     "album_id": "6HDPRXDl3Vsj8ksZyfpP5V",
     "artist_ids": [
       "66RfYVdftqnuHRicyClgL0"
@@ -43066,6 +43282,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:5BY0p2EH4EznNZ0MFD9mjt"
+  },
+  {
+    "album_id": "27zodohsIeaDJaZ7lpSHab",
+    "artist_ids": [
+      "1GUYk7GLP4tALtorFH1OWG"
+    ],
+    "disc_number": 1,
+    "duration_ms": 149506,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMFLS1400021"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5ByTVEm5txiOftcexjJ4Vv"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5ByTVEm5txiOftcexjJ4Vv",
+    "id": "5ByTVEm5txiOftcexjJ4Vv",
+    "is_local": false,
+    "name": "Amanecí Con Ganas",
+    "popularity": 40,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5ByTVEm5txiOftcexjJ4Vv"
   },
   {
     "album_id": "3JQEMF8g2t7S3LwKnCDRAO",
@@ -49904,6 +50144,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:638JGEN3CVIsP6lyO4gv4L"
+  },
+  {
+    "album_id": "3txJX6WPrRXWoGmBufzsgo",
+    "artist_ids": [
+      "4N76v8ETS7Q5sod9W0dgIo"
+    ],
+    "disc_number": 1,
+    "duration_ms": 226293,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MX2971701416"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/63Hbs5QXvsa1PrKyz0TkWa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/63Hbs5QXvsa1PrKyz0TkWa",
+    "id": "63Hbs5QXvsa1PrKyz0TkWa",
+    "is_local": false,
+    "name": "El Junior Presumido",
+    "popularity": 38,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:63Hbs5QXvsa1PrKyz0TkWa"
   },
   {
     "album_id": "5butEVv4Zv8PtqASmBxSof",
@@ -60292,6 +60556,30 @@
     "uri": "spotify:track:7MmrcXVA7A5zZ2CbDuGHNa"
   },
   {
+    "album_id": "2AQ4L8iNOsxnTovw30DicC",
+    "artist_ids": [
+      "4LFOoXhMhnq9U8VsZkSwxl"
+    ],
+    "disc_number": 1,
+    "duration_ms": 160480,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USASN1400488"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7a8fHLHxe9osGif6BN78ZV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7a8fHLHxe9osGif6BN78ZV",
+    "id": "7a8fHLHxe9osGif6BN78ZV",
+    "is_local": false,
+    "name": "Mi Padrino el Diablo",
+    "popularity": 58,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:7a8fHLHxe9osGif6BN78ZV"
+  },
+  {
     "album_id": "0f5Bxz0icXVD2B4BldVU0z",
     "artist_ids": [
       "51yyeVxyvecgePAWXmeLUE"
@@ -63218,6 +63506,30 @@
     "track_number": 14,
     "type": "track",
     "uri": "spotify:track:7w6vXV5nQSiwcUWABWIMKV"
+  },
+  {
+    "album_id": "7eObDXnunoqMAUvwzVGMrk",
+    "artist_ids": [
+      "45hYVfD7CFus8HDkcFnUvH"
+    ],
+    "disc_number": 1,
+    "duration_ms": 182857,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM6DC1538703"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7w9S9bQ3J16q8bsvYYWX7d"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7w9S9bQ3J16q8bsvYYWX7d",
+    "id": "7w9S9bQ3J16q8bsvYYWX7d",
+    "is_local": false,
+    "name": "Con Bandera Del Mayo",
+    "popularity": 13,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:7w9S9bQ3J16q8bsvYYWX7d"
   },
   {
     "album_id": "7vwAHNmOb341jyF7FcLOU5",

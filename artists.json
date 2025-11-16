@@ -1271,6 +1271,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+    },
+    "href": "https://api.spotify.com/v1/artists/1GUYk7GLP4tALtorFH1OWG",
+    "id": "1GUYk7GLP4tALtorFH1OWG",
+    "name": "Noel Torres",
+    "type": "artist",
+    "uri": "spotify:artist:1GUYk7GLP4tALtorFH1OWG"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
     },
     "href": "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
@@ -2861,6 +2871,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+    },
+    "href": "https://api.spotify.com/v1/artists/2u7j1pjcNuLlfgiNrByi0R",
+    "id": "2u7j1pjcNuLlfgiNrByi0R",
+    "name": "La Dinastía de Tuzantla Michoacán",
+    "type": "artist",
+    "uri": "spotify:artist:2u7j1pjcNuLlfgiNrByi0R"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2uG7vLSehD2quPeYSPkT73"
     },
     "href": "https://api.spotify.com/v1/artists/2uG7vLSehD2quPeYSPkT73",
@@ -3088,6 +3108,16 @@
     "name": "Yoga Fire",
     "type": "artist",
     "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3AuSNlVn5p3Hdh0FyIF9DY"
+    },
+    "href": "https://api.spotify.com/v1/artists/3AuSNlVn5p3Hdh0FyIF9DY",
+    "id": "3AuSNlVn5p3Hdh0FyIF9DY",
+    "name": "Conjunto De Rubén Fuentes",
+    "type": "artist",
+    "uri": "spotify:artist:3AuSNlVn5p3Hdh0FyIF9DY"
   },
   {
     "external_urls": {
@@ -3358,6 +3388,16 @@
     "name": "Rakim",
     "type": "artist",
     "uri": "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3QGe8YJSEZg99qHm3EYTj5"
+    },
+    "href": "https://api.spotify.com/v1/artists/3QGe8YJSEZg99qHm3EYTj5",
+    "id": "3QGe8YJSEZg99qHm3EYTj5",
+    "name": "Mariachi Pulido",
+    "type": "artist",
+    "uri": "spotify:artist:3QGe8YJSEZg99qHm3EYTj5"
   },
   {
     "external_urls": {
@@ -3921,6 +3961,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
+    },
+    "href": "https://api.spotify.com/v1/artists/45hYVfD7CFus8HDkcFnUvH",
+    "id": "45hYVfD7CFus8HDkcFnUvH",
+    "name": "Buknas De Culiacan",
+    "type": "artist",
+    "uri": "spotify:artist:45hYVfD7CFus8HDkcFnUvH"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/474yT2GuvBAWGVfjTc29aE"
     },
     "href": "https://api.spotify.com/v1/artists/474yT2GuvBAWGVfjTc29aE",
@@ -4148,6 +4198,16 @@
     "name": "Joe Parra",
     "type": "artist",
     "uri": "spotify:artist:4LNplGwxBLbTCrVdxnTmOR"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+    },
+    "href": "https://api.spotify.com/v1/artists/4N76v8ETS7Q5sod9W0dgIo",
+    "id": "4N76v8ETS7Q5sod9W0dgIo",
+    "name": "Los Rojos",
+    "type": "artist",
+    "uri": "spotify:artist:4N76v8ETS7Q5sod9W0dgIo"
   },
   {
     "external_urls": {
@@ -4511,6 +4571,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+    },
+    "href": "https://api.spotify.com/v1/artists/4bPiOPI4V99cepEftvBYak",
+    "id": "4bPiOPI4V99cepEftvBYak",
+    "name": "Banda Los Recoditos",
+    "type": "artist",
+    "uri": "spotify:artist:4bPiOPI4V99cepEftvBYak"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
     },
     "href": "https://api.spotify.com/v1/artists/4boI7bJtmB1L3b1cuL75Zr",
@@ -4758,6 +4828,16 @@
     "name": "Silvio Rodríguez",
     "type": "artist",
     "uri": "spotify:artist:4rUyBlggM5tZUH5QZn9ZuO"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+    },
+    "href": "https://api.spotify.com/v1/artists/4rWWouSk4D5OSFFFo2bmty",
+    "id": "4rWWouSk4D5OSFFFo2bmty",
+    "name": "Ezequiel Peña",
+    "type": "artist",
+    "uri": "spotify:artist:4rWWouSk4D5OSFFFo2bmty"
   },
   {
     "external_urls": {
@@ -5618,6 +5698,16 @@
     "name": "Chetes",
     "type": "artist",
     "uri": "spotify:artist:5sIuOfUs74K1zFv5BqVaQY"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+    },
+    "href": "https://api.spotify.com/v1/artists/5sLCZx5RvQ1Cv6kguDLCLx",
+    "id": "5sLCZx5RvQ1Cv6kguDLCLx",
+    "name": "Voz De Mando",
+    "type": "artist",
+    "uri": "spotify:artist:5sLCZx5RvQ1Cv6kguDLCLx"
   },
   {
     "external_urls": {
@@ -6921,6 +7011,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7I3rRf9KCD2qJZuaesRegQ"
+    },
+    "href": "https://api.spotify.com/v1/artists/7I3rRf9KCD2qJZuaesRegQ",
+    "id": "7I3rRf9KCD2qJZuaesRegQ",
+    "name": "Mariachi Jalisciense De Rúben Fuentes",
+    "type": "artist",
+    "uri": "spotify:artist:7I3rRf9KCD2qJZuaesRegQ"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
     },
     "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
@@ -7308,6 +7408,16 @@
     "name": "Hispana",
     "type": "artist",
     "uri": "spotify:artist:7rTmbfDJtDCjoy8XK5Dsj5"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+    },
+    "href": "https://api.spotify.com/v1/artists/7sQ3Q6yYyg0SdpEezJN8UT",
+    "id": "7sQ3Q6yYyg0SdpEezJN8UT",
+    "name": "El Coyote Y Su Banda Tierra Santa",
+    "type": "artist",
+    "uri": "spotify:artist:7sQ3Q6yYyg0SdpEezJN8UT"
   },
   {
     "external_urls": {
