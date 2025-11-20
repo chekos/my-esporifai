@@ -741,6 +741,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+    },
+    "href": "https://api.spotify.com/v1/artists/0kavuvnHTeqwjKLV7qPpQm",
+    "id": "0kavuvnHTeqwjKLV7qPpQm",
+    "name": "Piero",
+    "type": "artist",
+    "uri": "spotify:artist:0kavuvnHTeqwjKLV7qPpQm"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
     },
     "href": "https://api.spotify.com/v1/artists/0l1OSQn6GtjfEE1Cb8LE1t",
@@ -2018,6 +2028,16 @@
     "name": "Flyboiz",
     "type": "artist",
     "uri": "spotify:artist:1v6yTtwOltsxSmIqLqXe6V"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx"
+    },
+    "href": "https://api.spotify.com/v1/artists/1vCCUwNiIwC41lEu7EuBmx",
+    "id": "1vCCUwNiIwC41lEu7EuBmx",
+    "name": "Facundo Cabral",
+    "type": "artist",
+    "uri": "spotify:artist:1vCCUwNiIwC41lEu7EuBmx"
   },
   {
     "external_urls": {
