@@ -21354,6 +21354,30 @@
     "uri": "spotify:track:2QszPoLcjWQvNSjus5wjln"
   },
   {
+    "album_id": "5r6ouetFjAMFUOYZIEGAbf",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 229600,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNJX2341341"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2R6vbL1RXBMYhObFQNETmF"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2R6vbL1RXBMYhObFQNETmF",
+    "id": "2R6vbL1RXBMYhObFQNETmF",
+    "is_local": false,
+    "name": "Snakes",
+    "popularity": 24,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:2R6vbL1RXBMYhObFQNETmF"
+  },
+  {
     "album_id": "3zbiiu3JTibw0esC7eoMXr",
     "artist_ids": [
       "7ltDVBr6mKbRvohxheJ9h1"
@@ -26656,6 +26680,30 @@
     "uri": "spotify:track:38RIEav39FGi86jppxO0du"
   },
   {
+    "album_id": "4cM23aZSWB8PP6LtYRNXrs",
+    "artist_ids": [
+      "1gPiNBRjOB9XochAAFR3iM"
+    ],
+    "disc_number": 1,
+    "duration_ms": 309333,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "TCADL1817713"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/38cStvET8n0Z9prEhBITAD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/38cStvET8n0Z9prEhBITAD",
+    "id": "38cStvET8n0Z9prEhBITAD",
+    "is_local": false,
+    "name": "Holiday (feat. Akapellah, Jarabe Kidd, iQlover, Poofer & Robot)",
+    "popularity": 43,
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:38cStvET8n0Z9prEhBITAD"
+  },
+  {
     "album_id": "6lfGzQAacRUmTYaE5bGsIR",
     "artist_ids": [
       "4QFG9KrGWEbr6hNA58CAqE"
@@ -29220,6 +29268,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:3PKhRDUCDckxRypmC5RhO6"
+  },
+  {
+    "album_id": "3XiQhTYyCScfadOsKqRt3S",
+    "artist_ids": [
+      "3duZndoIzAXtBJj8op4Abx"
+    ],
+    "disc_number": 1,
+    "duration_ms": 176000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZFZ22122749"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3PUl3VZ1e8DbzvAfTSATVx"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3PUl3VZ1e8DbzvAfTSATVx",
+    "id": "3PUl3VZ1e8DbzvAfTSATVx",
+    "is_local": false,
+    "name": "Aguacate o Palta",
+    "popularity": 10,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3PUl3VZ1e8DbzvAfTSATVx"
   },
   {
     "album_id": "0qQvzPPPt3zSBK2M8vRYJI",
@@ -47268,6 +47340,30 @@
     "uri": "spotify:track:5cLRHZgsVwy5woDqNhFdOu"
   },
   {
+    "album_id": "7adZK0OmOhHL3DnEL5qWKb",
+    "artist_ids": [
+      "1mux8L6xg2Cmrc7k0wQczl"
+    ],
+    "disc_number": 1,
+    "duration_ms": 235893,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USWL10400067"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5cfyheAkmqThtjovwfQnD4",
+    "id": "5cfyheAkmqThtjovwfQnD4",
+    "is_local": false,
+    "name": "Pasos de Gigantes",
+    "popularity": 65,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:5cfyheAkmqThtjovwfQnD4"
+  },
+  {
     "album_id": "1HstApWi4IFpuz5HJmoXpf",
     "artist_ids": [
       "0sk0gTYhiFal4UfEKbpnGu"
@@ -47746,6 +47842,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:5fI917iIdPOYFuTV3t8GKt"
+  },
+  {
+    "album_id": "2bM009J81OBNisrMbFwBJj",
+    "artist_ids": [
+      "1mux8L6xg2Cmrc7k0wQczl"
+    ],
+    "disc_number": 1,
+    "duration_ms": 237386,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USWL10200081"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5fSDXbY8o9pA3TKwAbfwML",
+    "id": "5fSDXbY8o9pA3TKwAbfwML",
+    "is_local": false,
+    "name": "Mi Primer Millon",
+    "popularity": 73,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5fSDXbY8o9pA3TKwAbfwML"
   },
   {
     "album_id": "5lJqux7orBlA1QzyiBGti1",
@@ -59572,6 +59692,30 @@
     "uri": "spotify:track:7DOSYQOd5m0e6e3YKd1TH7"
   },
   {
+    "album_id": "2bM009J81OBNisrMbFwBJj",
+    "artist_ids": [
+      "1mux8L6xg2Cmrc7k0wQczl"
+    ],
+    "disc_number": 1,
+    "duration_ms": 266160,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USWL10200073"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7DhYjNLksXZhbRQeheAums",
+    "id": "7DhYjNLksXZhbRQeheAums",
+    "is_local": false,
+    "name": "Caraluna",
+    "popularity": 78,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:7DhYjNLksXZhbRQeheAums"
+  },
+  {
     "album_id": "7y4nm8LYH9XRYAbdMh5SWH",
     "artist_ids": [
       "6VcsqZOR5AtEOGeAtmutCZ"
@@ -61060,6 +61204,30 @@
     "uri": "spotify:track:7bPp2NmpmyhLJ7zWazAXMu"
   },
   {
+    "album_id": "3rnCF5ImzbY6ngyeoaKg8t",
+    "artist_ids": [
+      "1cUpGtXcSQsovNYEZOQgOG"
+    ],
+    "disc_number": 1,
+    "duration_ms": 202632,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZHZ31901085"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7bZFGyHzA2KUxD3ln6aIUe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7bZFGyHzA2KUxD3ln6aIUe",
+    "id": "7bZFGyHzA2KUxD3ln6aIUe",
+    "is_local": false,
+    "name": "Cuatro Pasitos",
+    "popularity": 32,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:7bZFGyHzA2KUxD3ln6aIUe"
+  },
+  {
     "album_id": "6N7LzstAyCIAe7sQHJLOEq",
     "artist_ids": [
       "2hejA1Dkf8v8R0koF44FvW"
@@ -61874,6 +62042,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7hEti6Eq8fR0wpH00dfjAK"
+  },
+  {
+    "album_id": "1NNL0Nr5Z9g3XksrNvWRtT",
+    "artist_ids": [
+      "4tm8CEdm4pkQsEh4jIr9Yp"
+    ],
+    "disc_number": 1,
+    "duration_ms": 236000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USDY42074336"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7hKQ7zOwIbaWNfOozCK5hC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7hKQ7zOwIbaWNfOozCK5hC",
+    "id": "7hKQ7zOwIbaWNfOozCK5hC",
+    "is_local": false,
+    "name": "ASI SOY",
+    "popularity": 63,
+    "preview_url": null,
+    "track_number": 24,
+    "type": "track",
+    "uri": "spotify:track:7hKQ7zOwIbaWNfOozCK5hC"
   },
   {
     "album_id": "2bRplfRR5FtvUrjuzUDECy",

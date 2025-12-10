@@ -1871,6 +1871,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+    },
+    "href": "https://api.spotify.com/v1/artists/1mux8L6xg2Cmrc7k0wQczl",
+    "id": "1mux8L6xg2Cmrc7k0wQczl",
+    "name": "Bacilos",
+    "type": "artist",
+    "uri": "spotify:artist:1mux8L6xg2Cmrc7k0wQczl"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
     },
     "href": "https://api.spotify.com/v1/artists/1mvAv5jk1OSd3Tyv4aZEjK",
