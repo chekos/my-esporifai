@@ -3574,6 +3574,30 @@
     "uri": "spotify:track:0QTE37h2pj88lWBN7rzAmD"
   },
   {
+    "album_id": "46onTMzi9FlGypnp4NgzqI",
+    "artist_ids": [
+      "30BSBWLKnYJION1lCPugXc"
+    ],
+    "disc_number": 1,
+    "duration_ms": 241656,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZNJW2544278"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0QU3Pzrlf2MpWA25c4EwSb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0QU3Pzrlf2MpWA25c4EwSb",
+    "id": "0QU3Pzrlf2MpWA25c4EwSb",
+    "is_local": false,
+    "name": "Le Pido a la Noche",
+    "popularity": 36,
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:0QU3Pzrlf2MpWA25c4EwSb"
+  },
+  {
     "album_id": "1YgX8BWKleDlDeCOFklRfz",
     "artist_ids": [
       "0QHgL1lAIqAw0HtD7YldmP"
@@ -40980,6 +41004,30 @@
     "uri": "spotify:track:4t9a07PAghtQMRAIP9FQ7Z"
   },
   {
+    "album_id": "46onTMzi9FlGypnp4NgzqI",
+    "artist_ids": [
+      "30BSBWLKnYJION1lCPugXc"
+    ],
+    "disc_number": 1,
+    "duration_ms": 211053,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZW9K2558107"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4tHNq3ujPZWR2S1Lss23IV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4tHNq3ujPZWR2S1Lss23IV",
+    "id": "4tHNq3ujPZWR2S1Lss23IV",
+    "is_local": false,
+    "name": "Salto de Fe",
+    "popularity": 35,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4tHNq3ujPZWR2S1Lss23IV"
+  },
+  {
     "album_id": "1UKPeNYEVOZymgh6lgv3BA",
     "artist_ids": [
       "0BUAw0HerrYAE0pUYlt12f"
@@ -53792,6 +53840,30 @@
     "uri": "spotify:track:6UqeLT6RDErCjbzqLCZQXM"
   },
   {
+    "album_id": "46onTMzi9FlGypnp4NgzqI",
+    "artist_ids": [
+      "30BSBWLKnYJION1lCPugXc"
+    ],
+    "disc_number": 1,
+    "duration_ms": 141782,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZW9K2558106"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6VIwIPsWsckbktBebu51Ho"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6VIwIPsWsckbktBebu51Ho",
+    "id": "6VIwIPsWsckbktBebu51Ho",
+    "is_local": false,
+    "name": "Fe (Intro)",
+    "popularity": 34,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6VIwIPsWsckbktBebu51Ho"
+  },
+  {
     "album_id": "5K79FLRUCSysQnVESLcTdb",
     "artist_ids": [
       "4q3ewBCX7sLwd24euuV69X"
@@ -59354,6 +59426,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7Af0lWYH396VixcgTuDPu7"
+  },
+  {
+    "album_id": "0SJjqErbyJDc46YKzV4ein",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 178500,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJV2030096"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7AnB56ku5qF4CTnORK0aJf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7AnB56ku5qF4CTnORK0aJf",
+    "id": "7AnB56ku5qF4CTnORK0aJf",
+    "is_local": false,
+    "name": "Aprendiz",
+    "popularity": 46,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:7AnB56ku5qF4CTnORK0aJf"
   },
   {
     "album_id": "5Syr2KgtfXrMEQ3nlgfClc",
