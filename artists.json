@@ -1231,6 +1231,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+    },
+    "href": "https://api.spotify.com/v1/artists/1FbygZnWsyUjzjTGLhWVlO",
+    "id": "1FbygZnWsyUjzjTGLhWVlO",
+    "name": "Timbiriche",
+    "type": "artist",
+    "uri": "spotify:artist:1FbygZnWsyUjzjTGLhWVlO"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1Fhcsda9LHOapGEZpOoAEj"
     },
     "href": "https://api.spotify.com/v1/artists/1Fhcsda9LHOapGEZpOoAEj",
