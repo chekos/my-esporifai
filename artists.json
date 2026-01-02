@@ -1171,6 +1171,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+    },
+    "href": "https://api.spotify.com/v1/artists/1CIIFCOCvjPkzlNRxw0XNp",
+    "id": "1CIIFCOCvjPkzlNRxw0XNp",
+    "name": "Finlep",
+    "type": "artist",
+    "uri": "spotify:artist:1CIIFCOCvjPkzlNRxw0XNp"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
     },
     "href": "https://api.spotify.com/v1/artists/1CdLG4i1rTEOsex2UE0jCH",
@@ -3468,6 +3478,16 @@
     "name": "Mœnia",
     "type": "artist",
     "uri": "spotify:artist:3QmmtMrEf7aQrsd1VtejAV"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
+    },
+    "href": "https://api.spotify.com/v1/artists/3R4gAfhxiN6cGlyueGErFo",
+    "id": "3R4gAfhxiN6cGlyueGErFo",
+    "name": "Val Monroe",
+    "type": "artist",
+    "uri": "spotify:artist:3R4gAfhxiN6cGlyueGErFo"
   },
   {
     "external_urls": {
