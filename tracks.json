@@ -1678,6 +1678,30 @@
     "uri": "spotify:track:0CZEL99I2RBjmj5IIKW9e5"
   },
   {
+    "album_id": "7ycBtnsMtyVbbwTfJwRjSP",
+    "artist_ids": [
+      "2YZyLoL8N0Wb9xBt1NhZWg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 283120,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM71502500"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0CjJqkWOpIUXdem5hUcxAk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0CjJqkWOpIUXdem5hUcxAk",
+    "id": "0CjJqkWOpIUXdem5hUcxAk",
+    "is_local": false,
+    "name": "Momma",
+    "popularity": 60,
+    "preview_url": null,
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:0CjJqkWOpIUXdem5hUcxAk"
+  },
+  {
     "album_id": "6GGrPncyfzwZwfgJEwTodp",
     "artist_ids": [
       "3jc496ljiyrS3ECrD7QiqL"
@@ -14106,6 +14130,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1bg8nG4ULoyzXb0EJcoRs3"
+  },
+  {
+    "album_id": "7ycBtnsMtyVbbwTfJwRjSP",
+    "artist_ids": [
+      "2YZyLoL8N0Wb9xBt1NhZWg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 268493,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM71502497"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1bxEpNR75Hq3T2oF9AZjt8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1bxEpNR75Hq3T2oF9AZjt8",
+    "id": "1bxEpNR75Hq3T2oF9AZjt8",
+    "is_local": false,
+    "name": "u",
+    "popularity": 60,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:1bxEpNR75Hq3T2oF9AZjt8"
   },
   {
     "album_id": "3QjPTUI6UcPr5m9RujkO3c",
@@ -29126,6 +29174,30 @@
     "uri": "spotify:track:3OC3AO2zGgcyM7pAFO47YZ"
   },
   {
+    "album_id": "7ycBtnsMtyVbbwTfJwRjSP",
+    "artist_ids": [
+      "2YZyLoL8N0Wb9xBt1NhZWg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 336013,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM71502509"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3ODXRUPL44f04cCacwiCLC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3ODXRUPL44f04cCacwiCLC",
+    "id": "3ODXRUPL44f04cCacwiCLC",
+    "is_local": false,
+    "name": "i",
+    "popularity": 63,
+    "preview_url": null,
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:3ODXRUPL44f04cCacwiCLC"
+  },
+  {
     "album_id": "07w0rG5TETcyihsEIZR3qG",
     "artist_ids": [
       "7tYKF4w9nC0nq9CsPZTHyP"
@@ -31980,6 +32052,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3hveYmQDkG4C531ghqPRhd"
+  },
+  {
+    "album_id": "7ycBtnsMtyVbbwTfJwRjSP",
+    "artist_ids": [
+      "2YZyLoL8N0Wb9xBt1NhZWg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 219333,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM71502498"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3iVcZ5G6tvkXZkZKlMpIUs",
+    "id": "3iVcZ5G6tvkXZkZKlMpIUs",
+    "is_local": false,
+    "name": "Alright",
+    "popularity": 80,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:3iVcZ5G6tvkXZkZKlMpIUs"
   },
   {
     "album_id": "17ScNnJ0lSWajodZaRpHdQ",
@@ -45370,6 +45466,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:5Mn06i1d9H1KaiFbQDQPhT"
+  },
+  {
+    "album_id": "7ycBtnsMtyVbbwTfJwRjSP",
+    "artist_ids": [
+      "2YZyLoL8N0Wb9xBt1NhZWg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 328826,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM71501985"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5Mtt6tZSZA9cXTHGSGpyh0",
+    "id": "5Mtt6tZSZA9cXTHGSGpyh0",
+    "is_local": false,
+    "name": "The Blacker The Berry",
+    "popularity": 62,
+    "preview_url": null,
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:5Mtt6tZSZA9cXTHGSGpyh0"
   },
   {
     "album_id": "1hWg9SeVV447jeIyM95BuF",
@@ -59524,6 +59644,30 @@
     "uri": "spotify:track:79x7xtoCLpf6l32Zz6mWo4"
   },
   {
+    "album_id": "7ycBtnsMtyVbbwTfJwRjSP",
+    "artist_ids": [
+      "2YZyLoL8N0Wb9xBt1NhZWg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 241680,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM71502504"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7A3ETuOrieyx9KSF0sn0Zf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7A3ETuOrieyx9KSF0sn0Zf",
+    "id": "7A3ETuOrieyx9KSF0sn0Zf",
+    "is_local": false,
+    "name": "You Ain't Gotta Lie (Momma Said)",
+    "popularity": 63,
+    "preview_url": null,
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:7A3ETuOrieyx9KSF0sn0Zf"
+  },
+  {
     "album_id": "2Ndg4eoQ9xUyZIPKrxiMoL",
     "artist_ids": [
       "716NhGYqD1jl2wI1Qkgq36"
@@ -64156,6 +64300,30 @@
     "uri": "spotify:track:7uQOMsqi4Hnpuoa3o7gZEB"
   },
   {
+    "album_id": "7ycBtnsMtyVbbwTfJwRjSP",
+    "artist_ids": [
+      "2YZyLoL8N0Wb9xBt1NhZWg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 300973,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM71502496"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7uWVT3UkCAZyANvv0bdyQn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7uWVT3UkCAZyANvv0bdyQn",
+    "id": "7uWVT3UkCAZyANvv0bdyQn",
+    "is_local": false,
+    "name": "These Walls",
+    "popularity": 65,
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:7uWVT3UkCAZyANvv0bdyQn"
+  },
+  {
     "album_id": "5bVfYgtEBKQDayvcxkyYq9",
     "artist_ids": [
       "4tm8CEdm4pkQsEh4jIr9Yp"
@@ -64178,6 +64346,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7uYFOLEhhmojSLTyVZ8r4O"
+  },
+  {
+    "album_id": "7ycBtnsMtyVbbwTfJwRjSP",
+    "artist_ids": [
+      "2YZyLoL8N0Wb9xBt1NhZWg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 291720,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUM71502499"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7unx2Rvsq8D0RfOLRXclTA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7unx2Rvsq8D0RfOLRXclTA",
+    "id": "7unx2Rvsq8D0RfOLRXclTA",
+    "is_local": false,
+    "name": "For Sale? - Interlude",
+    "popularity": 58,
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:7unx2Rvsq8D0RfOLRXclTA"
   },
   {
     "album_id": "68MBg9nXOdCbLD8ebxQWfw",
