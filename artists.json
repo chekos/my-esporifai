@@ -5261,6 +5261,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+    },
+    "href": "https://api.spotify.com/v1/artists/5KGNQQzk32VSQv9If4X7A6",
+    "id": "5KGNQQzk32VSQv9If4X7A6",
+    "name": "Ladrones",
+    "type": "artist",
+    "uri": "spotify:artist:5KGNQQzk32VSQv9If4X7A6"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ"
     },
     "href": "https://api.spotify.com/v1/artists/5LSBA1VYe9Vvxute4ZCaZQ",
