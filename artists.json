@@ -3151,6 +3151,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+    },
+    "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+    "id": "3AA28KZvwAUcZuOKwyblJQ",
+    "name": "Gorillaz",
+    "type": "artist",
+    "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
     },
     "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
@@ -4411,6 +4421,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+    },
+    "href": "https://api.spotify.com/v1/artists/4SG1RjKd3TiXxwZ36G6tut",
+    "id": "4SG1RjKd3TiXxwZ36G6tut",
+    "name": "Toni Barella",
+    "type": "artist",
+    "uri": "spotify:artist:4SG1RjKd3TiXxwZ36G6tut"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
     },
     "href": "https://api.spotify.com/v1/artists/4SsVbpTthjScTS7U2hmr1X",
@@ -4498,6 +4518,16 @@
     "name": "Geassassin",
     "type": "artist",
     "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+    },
+    "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+    "id": "4V8LLVI7PbaPR0K2TGSxFF",
+    "name": "Tyler, The Creator",
+    "type": "artist",
+    "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
   },
   {
     "external_urls": {
@@ -4931,6 +4961,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+    },
+    "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+    "id": "4tZwfgrHOc3mvqYlEYSvVi",
+    "name": "Daft Punk",
+    "type": "artist",
+    "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
     },
     "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
@@ -5248,6 +5288,16 @@
     "name": "Alvaro Diaz",
     "type": "artist",
     "uri": "spotify:artist:5J7rXWjtn5HzUkJ4Jet8Fr"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+    "name": "Kanye West",
+    "type": "artist",
+    "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
   },
   {
     "external_urls": {
@@ -6838,6 +6888,16 @@
     "name": "Silvana Estrada",
     "type": "artist",
     "uri": "spotify:artist:72VywtXEoONiBLNu3ibGI7"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+    },
+    "href": "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
+    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+    "name": "Childish Gambino",
+    "type": "artist",
+    "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
   },
   {
     "external_urls": {
