@@ -831,6 +831,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+    },
+    "href": "https://api.spotify.com/v1/artists/0r8toju2ecKaVtItkzAnNi",
+    "id": "0r8toju2ecKaVtItkzAnNi",
+    "name": "Aleks Syntek",
+    "type": "artist",
+    "uri": "spotify:artist:0r8toju2ecKaVtItkzAnNi"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
     },
     "href": "https://api.spotify.com/v1/artists/0rJ0xlAQI0wLRucDRoQQbO",
@@ -4358,6 +4368,16 @@
     "name": "The G",
     "type": "artist",
     "uri": "spotify:artist:4PqP0Hj8F1fwipARr9Qz6g"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+    },
+    "href": "https://api.spotify.com/v1/artists/4PtVXWSOmF4Tox1jj6ctSq",
+    "id": "4PtVXWSOmF4Tox1jj6ctSq",
+    "name": "Plastilina Mosh",
+    "type": "artist",
+    "uri": "spotify:artist:4PtVXWSOmF4Tox1jj6ctSq"
   },
   {
     "external_urls": {
