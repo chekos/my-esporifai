@@ -2350,6 +2350,30 @@
     "uri": "spotify:track:0Hja9zlVQHC768PsPjWscW"
   },
   {
+    "album_id": "38iWdtkr7H57kSQlkF02Js",
+    "artist_ids": [
+      "2nJOVl8u7PntefIs1Uwb4z"
+    ],
+    "disc_number": 1,
+    "duration_ms": 442122,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM1955028"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0HpXjaWoTIz0FKQhsLiu57"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0HpXjaWoTIz0FKQhsLiu57",
+    "id": "0HpXjaWoTIz0FKQhsLiu57",
+    "is_local": false,
+    "name": "Quiero",
+    "popularity": 7,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:0HpXjaWoTIz0FKQhsLiu57"
+  },
+  {
     "album_id": "01AooA3ywuIEk6EQaoWjh3",
     "artist_ids": [
       "4QFG9KrGWEbr6hNA58CAqE"
@@ -4292,6 +4316,30 @@
     "track_number": 12,
     "type": "track",
     "uri": "spotify:track:0VLomSqfOzkaq3iWhkblaO"
+  },
+  {
+    "album_id": "44EUMqOCVJaXb09meIPMd0",
+    "artist_ids": [
+      "0yNSzH5nZmHzeE2xn6Xshb"
+    ],
+    "disc_number": 1,
+    "duration_ms": 281080,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USSD10704059"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0WKdB7PG53c1QlDbQzqn7s"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0WKdB7PG53c1QlDbQzqn7s",
+    "id": "0WKdB7PG53c1QlDbQzqn7s",
+    "is_local": false,
+    "name": "Pa'l Norte (feat. Orishas)",
+    "popularity": 42,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:0WKdB7PG53c1QlDbQzqn7s"
   },
   {
     "album_id": "3NM6vyPA8inZayTTrnUruc",
@@ -65330,6 +65378,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7wdzLe2Gsx1RGqbvYZHASz"
+  },
+  {
+    "album_id": "2mohtPEQPb9SL5R20DsNrE",
+    "artist_ids": [
+      "5mrBEGdNTaiavWCmaNet6z"
+    ],
+    "disc_number": 1,
+    "duration_ms": 228500,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMEU31506906"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7wqDbmL7Cl8rUYhNI0PKIH"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7wqDbmL7Cl8rUYhNI0PKIH",
+    "id": "7wqDbmL7Cl8rUYhNI0PKIH",
+    "is_local": false,
+    "name": "Suave Leve",
+    "popularity": 19,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:7wqDbmL7Cl8rUYhNI0PKIH"
   },
   {
     "album_id": "7AHtc6OAl2sjWBoM9e4izf",

@@ -5751,6 +5751,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z"
+    },
+    "href": "https://api.spotify.com/v1/artists/5mrBEGdNTaiavWCmaNet6z",
+    "id": "5mrBEGdNTaiavWCmaNet6z",
+    "name": "Los Master Plus",
+    "type": "artist",
+    "uri": "spotify:artist:5mrBEGdNTaiavWCmaNet6z"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
     },
     "href": "https://api.spotify.com/v1/artists/5mspsOF08gPhzzDwy5YFHM",
