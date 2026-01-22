@@ -6651,6 +6651,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6hUlijcHMkVVDarkW3Ziyo"
+    },
+    "href": "https://api.spotify.com/v1/artists/6hUlijcHMkVVDarkW3Ziyo",
+    "id": "6hUlijcHMkVVDarkW3Ziyo",
+    "name": "Amenaza Mxm",
+    "type": "artist",
+    "uri": "spotify:artist:6hUlijcHMkVVDarkW3Ziyo"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
     },
     "href": "https://api.spotify.com/v1/artists/6huE8Sh7scgoA8rj2vCuwZ",
@@ -7558,6 +7568,16 @@
     "name": "Kamaro",
     "type": "artist",
     "uri": "spotify:artist:7psBfCiJgjoSL9JMbTxqGU"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7qfeRXz0fErzIordtUUxYn"
+    },
+    "href": "https://api.spotify.com/v1/artists/7qfeRXz0fErzIordtUUxYn",
+    "id": "7qfeRXz0fErzIordtUUxYn",
+    "name": "THR Cru2",
+    "type": "artist",
+    "uri": "spotify:artist:7qfeRXz0fErzIordtUUxYn"
   },
   {
     "external_urls": {

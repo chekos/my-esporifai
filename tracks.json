@@ -2854,6 +2854,30 @@
     "uri": "spotify:track:0L5BPtbc0o89w15DQrYpX7"
   },
   {
+    "album_id": "4SroHbQ9MXMJR70IgdUEWA",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 536750,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZTVM2357877"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0LAnxV8FtIGa2xoSP8JdKS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0LAnxV8FtIGa2xoSP8JdKS",
+    "id": "0LAnxV8FtIGa2xoSP8JdKS",
+    "is_local": false,
+    "name": "Vago$ Cypher",
+    "popularity": 46,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0LAnxV8FtIGa2xoSP8JdKS"
+  },
+  {
     "album_id": "3jpU85d1FqVIElp9dOJQJi",
     "artist_ids": [
       "07H7kklAEFGHh0VxZNJ9bD"
@@ -15524,6 +15548,30 @@
     "uri": "spotify:track:1kQqiC1rS1FiuVpeBKN0QN"
   },
   {
+    "album_id": "70d43jUvjO0nwHpv5jy9Qo",
+    "artist_ids": [
+      "4tm8CEdm4pkQsEh4jIr9Yp"
+    ],
+    "disc_number": 1,
+    "duration_ms": 198035,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USHM91845147"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1kW9YAt1Tl5xp1fZZZQ4KL"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1kW9YAt1Tl5xp1fZZZQ4KL",
+    "id": "1kW9YAt1Tl5xp1fZZZQ4KL",
+    "is_local": false,
+    "name": "Fotos y Recuerdos",
+    "popularity": 52,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1kW9YAt1Tl5xp1fZZZQ4KL"
+  },
+  {
     "album_id": "3i3hD84ypGIseYsZw8m05P",
     "artist_ids": [
       "1QhaqxeqF9sipS2gwbEKpu"
@@ -17920,6 +17968,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:1zGuXTNJXJYkC8AJqiQUAK"
+  },
+  {
+    "album_id": "62BqLHdY5qLsLq7E3yvbYW",
+    "artist_ids": [
+      "6JG2QQcaQBzinELNvu9PRk"
+    ],
+    "disc_number": 1,
+    "duration_ms": 208000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "TCACT1620604"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1zsymG5vRyIx24cNQQ82St"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1zsymG5vRyIx24cNQQ82St",
+    "id": "1zsymG5vRyIx24cNQQ82St",
+    "is_local": false,
+    "name": "Tumbate Tu Rollo",
+    "popularity": 43,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:1zsymG5vRyIx24cNQQ82St"
   },
   {
     "album_id": "4fjmN8hFRaHWe8HEtMc3Eh",
@@ -23778,6 +23850,30 @@
     "uri": "spotify:track:2exWbaQYhLEveLV8Nf01EF"
   },
   {
+    "album_id": "1jY2gqdDwbRbtwIIwmcxqI",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 165801,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLS1913897"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2f552XXwU9KIdxmXQQ4AqN",
+    "id": "2f552XXwU9KIdxmXQQ4AqN",
+    "is_local": false,
+    "name": "Borracho Gacho (feat. Dharius)",
+    "popularity": 50,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:2f552XXwU9KIdxmXQQ4AqN"
+  },
+  {
     "album_id": "3IzttvD3sVv5xZOQWuxpl7",
     "artist_ids": [
       "3p3jPcp8b7WL9XYj4xlsWj"
@@ -26296,6 +26392,54 @@
     "uri": "spotify:track:2zLLGT8WWT1dl73TlVL9qs"
   },
   {
+    "album_id": "38IwbkRgxq4eMIAR6MLU8j",
+    "artist_ids": [
+      "4Y5HJP3oFOJ8UVBXHYWBgx"
+    ],
+    "disc_number": 1,
+    "duration_ms": 206726,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMEZE1984398"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2zbrhonzYrXKiUbVx2czQt",
+    "id": "2zbrhonzYrXKiUbVx2czQt",
+    "is_local": false,
+    "name": "16 Toneladas",
+    "popularity": 48,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2zbrhonzYrXKiUbVx2czQt"
+  },
+  {
+    "album_id": "5sama0fBZOReRwpuJ7xIvE",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 215193,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ5AB1940603"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/30KxY5Z34dDGWaSn5bqRXt"
+    },
+    "href": "https://api.spotify.com/v1/tracks/30KxY5Z34dDGWaSn5bqRXt",
+    "id": "30KxY5Z34dDGWaSn5bqRXt",
+    "is_local": false,
+    "name": "Quién Si No (feat. Muelas De Gallo)",
+    "popularity": 54,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:30KxY5Z34dDGWaSn5bqRXt"
+  },
+  {
     "album_id": "68MBg9nXOdCbLD8ebxQWfw",
     "artist_ids": [
       "4r1ZDYKzPt3iIjuq8LbT6X"
@@ -28068,6 +28212,30 @@
     "track_number": 2,
     "type": "track",
     "uri": "spotify:track:3EOisRj5GHAbHxtdK4tsNm"
+  },
+  {
+    "album_id": "2hAcA9mRxXHUvAJ5SIj1dg",
+    "artist_ids": [
+      "2Gcx4c9rFAAloAYV2cMGUd"
+    ],
+    "disc_number": 1,
+    "duration_ms": 245958,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLS1992563"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3EaQ8vn5i8TUyE5jmSAn2U",
+    "id": "3EaQ8vn5i8TUyE5jmSAn2U",
+    "is_local": false,
+    "name": "Minotauro",
+    "popularity": 51,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3EaQ8vn5i8TUyE5jmSAn2U"
   },
   {
     "album_id": "6rIeG5N7Dr1KxvmCMigPcK",
@@ -29916,6 +30084,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:3PUl3VZ1e8DbzvAfTSATVx"
+  },
+  {
+    "album_id": "4sghK9VDgqilBsCkgV0wFg",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 207749,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM2008989"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3Po6YmUMxts3qJmRDZC5CA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3Po6YmUMxts3qJmRDZC5CA",
+    "id": "3Po6YmUMxts3qJmRDZC5CA",
+    "is_local": false,
+    "name": "Gran Vida",
+    "popularity": 57,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:3Po6YmUMxts3qJmRDZC5CA"
   },
   {
     "album_id": "0qQvzPPPt3zSBK2M8vRYJI",
@@ -34934,6 +35126,30 @@
     "uri": "spotify:track:40HxZ8rPnqaVTNhjbSRjpC"
   },
   {
+    "album_id": "0zAMOPf1pBCNUNjrlMfUMu",
+    "artist_ids": [
+      "4tm8CEdm4pkQsEh4jIr9Yp"
+    ],
+    "disc_number": 1,
+    "duration_ms": 138057,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USDY42007460"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/40KRjKXp92bnyOvNjDcYuS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/40KRjKXp92bnyOvNjDcYuS",
+    "id": "40KRjKXp92bnyOvNjDcYuS",
+    "is_local": false,
+    "name": "Diente Por Diente",
+    "popularity": 49,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:40KRjKXp92bnyOvNjDcYuS"
+  },
+  {
     "album_id": "0Wyn0fD9sZIu00xTyXF4eK",
     "artist_ids": [
       "4x9zOt693Z5NGiuxjOgFFJ"
@@ -39898,6 +40114,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4gRi0itWso2UodoRMP5asJ"
+  },
+  {
+    "album_id": "0otZ6JXJ84JYCXbjAQh8lK",
+    "artist_ids": [
+      "1oHPSeQJBwNmpq0J52Wjn1"
+    ],
+    "disc_number": 1,
+    "duration_ms": 188368,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USDY42064661"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4h4aLuUdPJQehnMCGyefCu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4h4aLuUdPJQehnMCGyefCu",
+    "id": "4h4aLuUdPJQehnMCGyefCu",
+    "is_local": false,
+    "name": "Ahora Preguntan",
+    "popularity": 57,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:4h4aLuUdPJQehnMCGyefCu"
   },
   {
     "album_id": "07w0rG5TETcyihsEIZR3qG",
@@ -44890,6 +45130,30 @@
     "track_number": 12,
     "type": "track",
     "uri": "spotify:track:5Db7N8VRDmHtO5eKf5k3JF"
+  },
+  {
+    "album_id": "68D1ACGoAhZqDVbejndjTC",
+    "artist_ids": [
+      "7qfeRXz0fErzIordtUUxYn"
+    ],
+    "disc_number": 1,
+    "duration_ms": 261687,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USDY41960866"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5DgOu2tBMtn32IkcrMFK11"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5DgOu2tBMtn32IkcrMFK11",
+    "id": "5DgOu2tBMtn32IkcrMFK11",
+    "is_local": false,
+    "name": "Déjalo Ir",
+    "popularity": 50,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:5DgOu2tBMtn32IkcrMFK11"
   },
   {
     "album_id": "26zGsUDPf6YXszmHdi4aCT",
@@ -50602,6 +50866,30 @@
     "uri": "spotify:track:5uSaFBG7cYd479jOyTruGk"
   },
   {
+    "album_id": "2IL8QuOn2j2hdAbx0W7jEf",
+    "artist_ids": [
+      "6tJRAxu0HwB2GI9GueEj4l"
+    ],
+    "disc_number": 1,
+    "duration_ms": 208013,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZ5AB1787269"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5uVKEewXVjW1vn30Gaul3i"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5uVKEewXVjW1vn30Gaul3i",
+    "id": "5uVKEewXVjW1vn30Gaul3i",
+    "is_local": false,
+    "name": "Vayas Donde Vayas",
+    "popularity": 54,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5uVKEewXVjW1vn30Gaul3i"
+  },
+  {
     "album_id": "7j3EsgAvV6Hjap0WrDi03Z",
     "artist_ids": [
       "0U5RYP2HMdGv2GhicLhkOI"
@@ -54800,6 +55088,30 @@
     "uri": "spotify:track:6TFD7lH9k8A8PC4CRns4IT"
   },
   {
+    "album_id": "6OIteXjnMqe4RQT6QfWE3x",
+    "artist_ids": [
+      "3TGeuw7OmACouH5JAKkX7I"
+    ],
+    "disc_number": 1,
+    "duration_ms": 268124,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MXF152000230"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6TVKrzgEE5b0TP5oVLeZLh",
+    "id": "6TVKrzgEE5b0TP5oVLeZLh",
+    "is_local": false,
+    "name": "No Me Arrepiento (feat. Gera MX, Neto Peña, Santa Fe Klan)",
+    "popularity": 57,
+    "preview_url": null,
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:6TVKrzgEE5b0TP5oVLeZLh"
+  },
+  {
     "album_id": "6g9Bcwy0fBb5kgnfQQrvV0",
     "artist_ids": [
       "4TK1gDgb7QKoPFlzRrBRgR"
@@ -57534,6 +57846,30 @@
     "track_number": 10,
     "type": "track",
     "uri": "spotify:track:6mW6Je4ItQWWYMPKnUBBUC"
+  },
+  {
+    "album_id": "6ja3hrP2QFKJb7qhPpX3Cy",
+    "artist_ids": [
+      "7sgnuH8OwU32WbGLZwD03q"
+    ],
+    "disc_number": 1,
+    "duration_ms": 166293,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZ5AB1909120"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6mmhluGpoTV7m49MG5krOY"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6mmhluGpoTV7m49MG5krOY",
+    "id": "6mmhluGpoTV7m49MG5krOY",
+    "is_local": false,
+    "name": "Pow Wow Wow",
+    "popularity": 56,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6mmhluGpoTV7m49MG5krOY"
   },
   {
     "album_id": "0tu9kY2tDMuuuI6GtSDH9i",
@@ -62834,6 +63170,30 @@
     "track_number": 12,
     "type": "track",
     "uri": "spotify:track:7cPWQLEXd2koK204AKCd7O"
+  },
+  {
+    "album_id": "0uN6d0AOBVhICA44VGIfsk",
+    "artist_ids": [
+      "6hUlijcHMkVVDarkW3Ziyo"
+    ],
+    "disc_number": 1,
+    "duration_ms": 208065,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "TCACX1730961"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7cS9IKIgaKsdpU66xeNxbA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7cS9IKIgaKsdpU66xeNxbA",
+    "id": "7cS9IKIgaKsdpU66xeNxbA",
+    "is_local": false,
+    "name": "Reunion (feat. Gera Mxm, Crox Mxm, Aleman, Tabernario & DJ Sonico) [Bonus Track]",
+    "popularity": 32,
+    "preview_url": null,
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:7cS9IKIgaKsdpU66xeNxbA"
   },
   {
     "album_id": "4Y0tcZSLcYzsvgYofYB714",
