@@ -1078,6 +1078,30 @@
     "uri": "spotify:track:07V6yFnZ8a6N35IzuIsUGl"
   },
   {
+    "album_id": "5NwFvLJWl7Ehwe8R4BFgJN",
+    "artist_ids": [
+      "1oHPSeQJBwNmpq0J52Wjn1"
+    ],
+    "disc_number": 1,
+    "duration_ms": 232960,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USHM21939113"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/07VIbpia09fYA7Z9GpY4c6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/07VIbpia09fYA7Z9GpY4c6",
+    "id": "07VIbpia09fYA7Z9GpY4c6",
+    "is_local": false,
+    "name": "Yo Seguiré",
+    "popularity": 62,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:07VIbpia09fYA7Z9GpY4c6"
+  },
+  {
     "album_id": "4RuWIf93mIieJperisTx4C",
     "artist_ids": [
       "23TYM4mYLQjyJLr4x89MjH"
@@ -15236,6 +15260,30 @@
     "uri": "spotify:track:1i6t6hQBpdzrXElkROHNfp"
   },
   {
+    "album_id": "6JiEE9Gp2A4ltyUz43mHtn",
+    "artist_ids": [
+      "645xd9cHiiLqqehoLzLMDR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 214981,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJW2213142"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1iBEsTx19SMZNerprDKNQT"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1iBEsTx19SMZNerprDKNQT",
+    "id": "1iBEsTx19SMZNerprDKNQT",
+    "is_local": false,
+    "name": "Trankilikilon",
+    "popularity": 53,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1iBEsTx19SMZNerprDKNQT"
+  },
+  {
     "album_id": "6yhtC7PRmrYg3idBB7I3sx",
     "artist_ids": [
       "1oHPSeQJBwNmpq0J52Wjn1"
@@ -24782,6 +24830,30 @@
     "track_number": 10,
     "type": "track",
     "uri": "spotify:track:2n7ohqg1s68ToAHh4u9mcW"
+  },
+  {
+    "album_id": "5X0iXg5EF46mvb54OldTBo",
+    "artist_ids": [
+      "2Gcx4c9rFAAloAYV2cMGUd"
+    ],
+    "disc_number": 1,
+    "duration_ms": 183214,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "FRX282135975"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2nFYJBHt85tBSwFzh60ARa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2nFYJBHt85tBSwFzh60ARa",
+    "id": "2nFYJBHt85tBSwFzh60ARa",
+    "is_local": false,
+    "name": "Insomnio",
+    "popularity": 49,
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:2nFYJBHt85tBSwFzh60ARa"
   },
   {
     "album_id": "2V9cxrxeCsfwFmXydznu2B",
@@ -35820,6 +35892,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:469SKsdluQm37fIYZpJzKF"
+  },
+  {
+    "album_id": "7AH7QHBvQvu6JToPdOZLMx",
+    "artist_ids": [
+      "30CTTIqrcr82nS6B40j975"
+    ],
+    "disc_number": 1,
+    "duration_ms": 176000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "FR26V2077066"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/46PqUxYijgrGgdD2NzNnmU"
+    },
+    "href": "https://api.spotify.com/v1/tracks/46PqUxYijgrGgdD2NzNnmU",
+    "id": "46PqUxYijgrGgdD2NzNnmU",
+    "is_local": false,
+    "name": "6 Am",
+    "popularity": 38,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:46PqUxYijgrGgdD2NzNnmU"
   },
   {
     "album_id": "3QVjpIxcksDkJmOnvlOJjg",
@@ -51322,6 +51418,30 @@
     "uri": "spotify:track:5xMw6qCcpd2gBXPGTegC4W"
   },
   {
+    "album_id": "4z1fFOEDva3J9sggX3kwK0",
+    "artist_ids": [
+      "5lYeiQxUTcGKVgAuTqbTeL"
+    ],
+    "disc_number": 1,
+    "duration_ms": 203546,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZHZ42018596"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5xXaJHNtyBghk2F6AnP2PI",
+    "id": "5xXaJHNtyBghk2F6AnP2PI",
+    "is_local": false,
+    "name": "Yo No Me Quiero Morir",
+    "popularity": 57,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5xXaJHNtyBghk2F6AnP2PI"
+  },
+  {
     "album_id": "1HstApWi4IFpuz5HJmoXpf",
     "artist_ids": [
       "4oEls8QwyhaJninX4RFdcl"
@@ -57248,6 +57368,30 @@
     "uri": "spotify:track:6iRkrVOhCjgKFB2cBWnx4M"
   },
   {
+    "album_id": "1SajHf2GRVgTOR3nmM9SOQ",
+    "artist_ids": [
+      "1v6yTtwOltsxSmIqLqXe6V"
+    ],
+    "disc_number": 1,
+    "duration_ms": 141176,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USCGJ2100823"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6iUJFobG3sOW914JTMigAV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6iUJFobG3sOW914JTMigAV",
+    "id": "6iUJFobG3sOW914JTMigAV",
+    "is_local": false,
+    "name": "Flight 0004",
+    "popularity": 39,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6iUJFobG3sOW914JTMigAV"
+  },
+  {
     "album_id": "01VepFuJgEdDQnvVEykhk6",
     "artist_ids": [
       "4QFG9KrGWEbr6hNA58CAqE"
@@ -58206,6 +58350,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6r3M1XAsq8b8kZZGbmom9M"
+  },
+  {
+    "album_id": "08GP2Q2qnbXv8dts4z1ui0",
+    "artist_ids": [
+      "30CTTIqrcr82nS6B40j975"
+    ],
+    "disc_number": 1,
+    "duration_ms": 233915,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "FR59R2060572"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6r5c9XaSr8Dji7yoGaWypS"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6r5c9XaSr8Dji7yoGaWypS",
+    "id": "6r5c9XaSr8Dji7yoGaWypS",
+    "is_local": false,
+    "name": "Todo el Día, Todos los Días",
+    "popularity": 53,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6r5c9XaSr8Dji7yoGaWypS"
   },
   {
     "album_id": "2XvDnpebvUFa49NKpPvakc",
@@ -63002,6 +63170,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:7bbo8bW8isBHUSrd2pVF7z"
+  },
+  {
+    "album_id": "4sghK9VDgqilBsCkgV0wFg",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 213443,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QMDA72153999"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7bobn71QfycGOHyRZhGxIG"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7bobn71QfycGOHyRZhGxIG",
+    "id": "7bobn71QfycGOHyRZhGxIG",
+    "is_local": false,
+    "name": "Envidia y Traición (feat. Elote el Barbaro)",
+    "popularity": 51,
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:7bobn71QfycGOHyRZhGxIG"
   },
   {
     "album_id": "2RIn5xlQZi3l6JlWjSczDU",
