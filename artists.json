@@ -2691,6 +2691,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+    },
+    "href": "https://api.spotify.com/v1/artists/2Xu7q46Hf02xOoEIm4E1Qs",
+    "id": "2Xu7q46Hf02xOoEIm4E1Qs",
+    "name": "Big Pun",
+    "type": "artist",
+    "uri": "spotify:artist:2Xu7q46Hf02xOoEIm4E1Qs"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
     },
     "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
