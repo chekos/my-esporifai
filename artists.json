@@ -4261,6 +4261,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+    },
+    "href": "https://api.spotify.com/v1/artists/4KXpp5lz2MakNFcTszi2B9",
+    "id": "4KXpp5lz2MakNFcTszi2B9",
+    "name": "Solitario Mondragon",
+    "type": "artist",
+    "uri": "spotify:artist:4KXpp5lz2MakNFcTszi2B9"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
     },
     "href": "https://api.spotify.com/v1/artists/4LFOoXhMhnq9U8VsZkSwxl",
@@ -5908,6 +5918,16 @@
     "name": "Danna Paola",
     "type": "artist",
     "uri": "spotify:artist:5xSx2FM8mQnrfgM1QsHniB"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR"
+    },
+    "href": "https://api.spotify.com/v1/artists/5yh17UV0XSFV1lzzFC39XR",
+    "id": "5yh17UV0XSFV1lzzFC39XR",
+    "name": "Doble P Ache Ene",
+    "type": "artist",
+    "uri": "spotify:artist:5yh17UV0XSFV1lzzFC39XR"
   },
   {
     "external_urls": {
