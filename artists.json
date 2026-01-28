@@ -4411,6 +4411,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+    },
+    "href": "https://api.spotify.com/v1/artists/4QHjJWgPhculd31AHEsjOb",
+    "id": "4QHjJWgPhculd31AHEsjOb",
+    "name": "Óscar Chávez",
+    "type": "artist",
+    "uri": "spotify:artist:4QHjJWgPhculd31AHEsjOb"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4QsUyMUsPjS34t06pGpsyH"
     },
     "href": "https://api.spotify.com/v1/artists/4QsUyMUsPjS34t06pGpsyH",
