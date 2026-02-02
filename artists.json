@@ -2901,6 +2901,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2qdrohstXuwGZQa5seQbUe"
+    },
+    "href": "https://api.spotify.com/v1/artists/2qdrohstXuwGZQa5seQbUe",
+    "id": "2qdrohstXuwGZQa5seQbUe",
+    "name": "Veni Vidi Vici",
+    "type": "artist",
+    "uri": "spotify:artist:2qdrohstXuwGZQa5seQbUe"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf"
     },
     "href": "https://api.spotify.com/v1/artists/2rMNgpqzircdgLQo0thnOf",
@@ -5948,6 +5958,16 @@
     "name": "Young Joshua",
     "type": "artist",
     "uri": "spotify:artist:5zS5vwSbu6RgEsXctO8USx"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
+    },
+    "href": "https://api.spotify.com/v1/artists/5zaT4Qu9otu6z4oyWjRqM2",
+    "id": "5zaT4Qu9otu6z4oyWjRqM2",
+    "name": "OV7",
+    "type": "artist",
+    "uri": "spotify:artist:5zaT4Qu9otu6z4oyWjRqM2"
   },
   {
     "external_urls": {

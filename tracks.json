@@ -32126,6 +32126,30 @@
     "uri": "spotify:track:3b1IQflSLrgzYQPGFzI9cl"
   },
   {
+    "album_id": "0WSuErzdxX65H9orqjc7C3",
+    "artist_ids": [
+      "5XsWrYhwadPBjW20qYbdZg"
+    ],
+    "disc_number": 1,
+    "duration_ms": 213760,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF060600208"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3bR6JvYSnJlzNlyUZbFMWJ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3bR6JvYSnJlzNlyUZbFMWJ",
+    "id": "3bR6JvYSnJlzNlyUZbFMWJ",
+    "is_local": false,
+    "name": "Sentimettal",
+    "popularity": 65,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:3bR6JvYSnJlzNlyUZbFMWJ"
+  },
+  {
     "album_id": "5TPXh9m774wXBlaMuRJwxj",
     "artist_ids": [
       "0kavuvnHTeqwjKLV7qPpQm"
@@ -45108,6 +45132,30 @@
     "uri": "spotify:track:5AibZkdAmpg1cw9qP9KnsH"
   },
   {
+    "album_id": "3R9Vc6PxoitwKNUIRDPZn2",
+    "artist_ids": [
+      "2qdrohstXuwGZQa5seQbUe"
+    ],
+    "disc_number": 1,
+    "duration_ms": 246060,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES53B2000269"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5AnAn5L94eMwwILiODxzs3"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5AnAn5L94eMwwILiODxzs3",
+    "id": "5AnAn5L94eMwwILiODxzs3",
+    "is_local": false,
+    "name": "Viviendo de Noche",
+    "popularity": 59,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5AnAn5L94eMwwILiODxzs3"
+  },
+  {
     "album_id": "5dKPhEYBhP8j85HcxQfaw6",
     "artist_ids": [
       "716NhGYqD1jl2wI1Qkgq36"
@@ -52808,6 +52856,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:65y80r3ifGtdMe8vOzz5PE"
+  },
+  {
+    "album_id": "55OVAEUt48foMS6JrUDit9",
+    "artist_ids": [
+      "5zaT4Qu9otu6z4oyWjRqM2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 235133,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF140000188"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/66EqOhWfTcdVphw00lcxZO"
+    },
+    "href": "https://api.spotify.com/v1/tracks/66EqOhWfTcdVphw00lcxZO",
+    "id": "66EqOhWfTcdVphw00lcxZO",
+    "is_local": false,
+    "name": "Shabadabada",
+    "popularity": 63,
+    "preview_url": null,
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:66EqOhWfTcdVphw00lcxZO"
   },
   {
     "album_id": "1IPg7NZ0YLxARNx5Qs4936",
