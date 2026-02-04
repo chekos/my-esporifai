@@ -4231,6 +4231,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4IBKuK1aqM4TD61SaMds2y"
+    },
+    "href": "https://api.spotify.com/v1/artists/4IBKuK1aqM4TD61SaMds2y",
+    "id": "4IBKuK1aqM4TD61SaMds2y",
+    "name": "Lich Wezzy",
+    "type": "artist",
+    "uri": "spotify:artist:4IBKuK1aqM4TD61SaMds2y"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya"
     },
     "href": "https://api.spotify.com/v1/artists/4IzIgAufROQT2ITqlUv0ya",

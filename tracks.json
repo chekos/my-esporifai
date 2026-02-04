@@ -11732,6 +11732,30 @@
     "uri": "spotify:track:1Kxap8UbrmlXcgKBuCysNg"
   },
   {
+    "album_id": "0rEzNORhsOrbHxxZxUe67P",
+    "artist_ids": [
+      "6JG2QQcaQBzinELNvu9PRk"
+    ],
+    "disc_number": 1,
+    "duration_ms": 175730,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLS1989290"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1Kxr5sQyw95And6SOt5hkY",
+    "id": "1Kxr5sQyw95And6SOt5hkY",
+    "is_local": false,
+    "name": "Mariguana & Tequila",
+    "popularity": 42,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:1Kxr5sQyw95And6SOt5hkY"
+  },
+  {
     "album_id": "3gwGJiQ0xGSUa3C6GZIXbL",
     "artist_ids": [
       "3c49ZOqgPzYj18ZW9MQhbb"
@@ -17370,6 +17394,30 @@
     "uri": "spotify:track:1taGiVxLW3rzZ0T5TyUrws"
   },
   {
+    "album_id": "1xIXEM8AkHn3xBSKlxdyXa",
+    "artist_ids": [
+      "3fo4UvMNzZUCFS90Roh5iK"
+    ],
+    "disc_number": 1,
+    "duration_ms": 262400,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXUM71800209"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1tfrhi2F3CoajloLevpiuc"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1tfrhi2F3CoajloLevpiuc",
+    "id": "1tfrhi2F3CoajloLevpiuc",
+    "is_local": false,
+    "name": "Red Eyes",
+    "popularity": 38,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1tfrhi2F3CoajloLevpiuc"
+  },
+  {
     "album_id": "1B9IWojkmn40BhjoinC6hQ",
     "artist_ids": [
       "1bAXAt2A2yrjPuGPBjqQAV"
@@ -19072,6 +19120,30 @@
     "track_number": 13,
     "type": "track",
     "uri": "spotify:track:27AAagrZ6AuqBj9x8bELCg"
+  },
+  {
+    "album_id": "2uooI2IWLhNBUYUMaVtOZT",
+    "artist_ids": [
+      "4QFG9KrGWEbr6hNA58CAqE"
+    ],
+    "disc_number": 1,
+    "duration_ms": 187106,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "US7VG1639372"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/27KwtntI2uD465ZiLSM3rq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/27KwtntI2uD465ZiLSM3rq",
+    "id": "27KwtntI2uD465ZiLSM3rq",
+    "is_local": false,
+    "name": "Ya Te la Cypress",
+    "popularity": 53,
+    "preview_url": null,
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:27KwtntI2uD465ZiLSM3rq"
   },
   {
     "album_id": "2V11wrGGMAohJgREkKntlJ",
@@ -23656,6 +23728,30 @@
     "track_number": 17,
     "type": "track",
     "uri": "spotify:track:2cIDetbjLPkhYf4r7z86WH"
+  },
+  {
+    "album_id": "10K2DqUsBmdAR2ho06YbI7",
+    "artist_ids": [
+      "4IBKuK1aqM4TD61SaMds2y"
+    ],
+    "disc_number": 1,
+    "duration_ms": 211000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "FR96X1734067"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2cQGohaVsJeKfA9GH6tXXP"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2cQGohaVsJeKfA9GH6tXXP",
+    "id": "2cQGohaVsJeKfA9GH6tXXP",
+    "is_local": false,
+    "name": "Cada Quien",
+    "popularity": 19,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2cQGohaVsJeKfA9GH6tXXP"
   },
   {
     "album_id": "7AHtc6OAl2sjWBoM9e4izf",
@@ -35486,6 +35582,30 @@
     "uri": "spotify:track:3zf1pL3RIAtuNMmifiSem7"
   },
   {
+    "album_id": "62BqLHdY5qLsLq7E3yvbYW",
+    "artist_ids": [
+      "6JG2QQcaQBzinELNvu9PRk"
+    ],
+    "disc_number": 1,
+    "duration_ms": 182000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "TCACT1620608"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3zjRBdVrMPKuLjEW7UnbeV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3zjRBdVrMPKuLjEW7UnbeV",
+    "id": "3zjRBdVrMPKuLjEW7UnbeV",
+    "is_local": false,
+    "name": "Verakush (feat. Coko Yamasaki)",
+    "popularity": 28,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:3zjRBdVrMPKuLjEW7UnbeV"
+  },
+  {
     "album_id": "17ScNnJ0lSWajodZaRpHdQ",
     "artist_ids": [
       "2J257euzcjnDLipsyJH3F2"
@@ -41362,6 +41482,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:4lY4nKCgA94ieriT6pZ4Ol"
+  },
+  {
+    "album_id": "7c74XTNTDVVY6ioPKAExPI",
+    "artist_ids": [
+      "1txbs9MMkT4FszkaA96atm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 210461,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "TCADB1729426"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4m1kvLsZ3OvvNksZv5pR4v"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4m1kvLsZ3OvvNksZv5pR4v",
+    "id": "4m1kvLsZ3OvvNksZv5pR4v",
+    "is_local": false,
+    "name": "Marihuana (feat. Crasek)",
+    "popularity": 27,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:4m1kvLsZ3OvvNksZv5pR4v"
   },
   {
     "album_id": "1YhHEtOj1mhMz0769Fqa9Q",
@@ -59334,6 +59478,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6uSoEpeLTKmGsJ929teLvA"
+  },
+  {
+    "album_id": "2G5u8pyvsts5QZJIfhYvQl",
+    "artist_ids": [
+      "4tm8CEdm4pkQsEh4jIr9Yp"
+    ],
+    "disc_number": 1,
+    "duration_ms": 188133,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USDY41992606"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6v0DLxSpccrL2DtemB0b56"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6v0DLxSpccrL2DtemB0b56",
+    "id": "6v0DLxSpccrL2DtemB0b56",
+    "is_local": false,
+    "name": "Ni Angel Ni Demonio",
+    "popularity": 39,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6v0DLxSpccrL2DtemB0b56"
   },
   {
     "album_id": "0zE2Btx6MqIdY8pPP1oukD",
