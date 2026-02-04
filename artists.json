@@ -6511,6 +6511,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6TgsrbRVzTvaXifgu46mjr"
+    },
+    "href": "https://api.spotify.com/v1/artists/6TgsrbRVzTvaXifgu46mjr",
+    "id": "6TgsrbRVzTvaXifgu46mjr",
+    "name": "Locura Terminal",
+    "type": "artist",
+    "uri": "spotify:artist:6TgsrbRVzTvaXifgu46mjr"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
     },
     "href": "https://api.spotify.com/v1/artists/6TsSBSisvQYCupsHmXe1iK",
