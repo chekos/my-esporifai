@@ -771,6 +771,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0lpEzDvP6h8HX4jATK6yos"
+    },
+    "href": "https://api.spotify.com/v1/artists/0lpEzDvP6h8HX4jATK6yos",
+    "id": "0lpEzDvP6h8HX4jATK6yos",
+    "name": "Nuco",
+    "type": "artist",
+    "uri": "spotify:artist:0lpEzDvP6h8HX4jATK6yos"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
     },
     "href": "https://api.spotify.com/v1/artists/0nOyxRsVicKeiBbB6zdIMu",

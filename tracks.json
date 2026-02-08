@@ -19338,6 +19338,30 @@
     "uri": "spotify:track:280QqgbMrLeMs6B80mIPG2"
   },
   {
+    "album_id": "5LdGjKqPIpE7IUi6M40ggx",
+    "artist_ids": [
+      "40FmJcZFhzbd6P9w4eXqgS"
+    ],
+    "disc_number": 1,
+    "duration_ms": 213866,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZFYY2312321"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/28bM0pwwWTNTkQmux1d7ES"
+    },
+    "href": "https://api.spotify.com/v1/tracks/28bM0pwwWTNTkQmux1d7ES",
+    "id": "28bM0pwwWTNTkQmux1d7ES",
+    "is_local": false,
+    "name": "Tosco",
+    "popularity": 53,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:28bM0pwwWTNTkQmux1d7ES"
+  },
+  {
     "album_id": "4Qt7OyGdClGQp0G5uoepMI",
     "artist_ids": [
       "5OGraDcSkO4oTWthkm77WL"
@@ -31166,6 +31190,30 @@
     "uri": "spotify:track:3TBZeHcQXNPyXbsqzNgcYm"
   },
   {
+    "album_id": "530ppwheQIoDV0lOtjJydA",
+    "artist_ids": [
+      "1FCItwxfRieMGhR0eRxotU"
+    ],
+    "disc_number": 1,
+    "duration_ms": 237391,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJZ2329954"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3TP0WQJEPwcp8oHLOh1Di8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3TP0WQJEPwcp8oHLOh1Di8",
+    "id": "3TP0WQJEPwcp8oHLOh1Di8",
+    "is_local": false,
+    "name": "Cuentas Claras…",
+    "popularity": 51,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:3TP0WQJEPwcp8oHLOh1Di8"
+  },
+  {
     "album_id": "5PZxScqkkCa4bjdZcq9fuh",
     "artist_ids": [
       "4Hzj6dfl1y5x5TzCSsvLB6"
@@ -40858,6 +40906,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:4gRi0itWso2UodoRMP5asJ"
+  },
+  {
+    "album_id": "4x7eOHJvqRc3P5xnQJCXUx",
+    "artist_ids": [
+      "6pu8qjuOYZRBYc1hiHEVL5"
+    ],
+    "disc_number": 1,
+    "duration_ms": 182691,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZMEP2086032"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4gnWtS2hdVmlHd9reEzM3E"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4gnWtS2hdVmlHd9reEzM3E",
+    "id": "4gnWtS2hdVmlHd9reEzM3E",
+    "is_local": false,
+    "name": "U. Kings",
+    "popularity": 14,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:4gnWtS2hdVmlHd9reEzM3E"
   },
   {
     "album_id": "0otZ6JXJ84JYCXbjAQh8lK",
