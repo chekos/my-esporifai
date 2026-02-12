@@ -5351,6 +5351,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5GQaNAJYiniGwMHjfR0rra"
+    },
+    "href": "https://api.spotify.com/v1/artists/5GQaNAJYiniGwMHjfR0rra",
+    "id": "5GQaNAJYiniGwMHjfR0rra",
+    "name": "Delinquent Mono",
+    "type": "artist",
+    "uri": "spotify:artist:5GQaNAJYiniGwMHjfR0rra"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
     },
     "href": "https://api.spotify.com/v1/artists/5GcWBUX00IPuWVGMIRK1sS",
