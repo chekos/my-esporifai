@@ -4061,6 +4061,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/41aYvVvQYDfM6sn2zhlQHY"
+    },
+    "href": "https://api.spotify.com/v1/artists/41aYvVvQYDfM6sn2zhlQHY",
+    "id": "41aYvVvQYDfM6sn2zhlQHY",
+    "name": "PUGSPUGSPUGS",
+    "type": "artist",
+    "uri": "spotify:artist:41aYvVvQYDfM6sn2zhlQHY"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
     },
     "href": "https://api.spotify.com/v1/artists/41gFAk6ZyYdt7Q1Ir4cbH0",
@@ -7181,6 +7191,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3"
+    },
+    "href": "https://api.spotify.com/v1/artists/7ATR883ZrEevrEWAlMXFs3",
+    "id": "7ATR883ZrEevrEWAlMXFs3",
+    "name": "Yung Dupe",
+    "type": "artist",
+    "uri": "spotify:artist:7ATR883ZrEevrEWAlMXFs3"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
     },
     "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
@@ -7688,6 +7708,16 @@
     "name": "Héctor Lavoe",
     "type": "artist",
     "uri": "spotify:artist:7opp16lU7VM3l2WBdGMYHP"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7pLeJaOcw4TbtZk42asvOu"
+    },
+    "href": "https://api.spotify.com/v1/artists/7pLeJaOcw4TbtZk42asvOu",
+    "id": "7pLeJaOcw4TbtZk42asvOu",
+    "name": "Kimmø",
+    "type": "artist",
+    "uri": "spotify:artist:7pLeJaOcw4TbtZk42asvOu"
   },
   {
     "external_urls": {
