@@ -2278,6 +2278,30 @@
     "uri": "spotify:track:0FXr3KdzVhQkMnnh4y3Yl1"
   },
   {
+    "album_id": "62We7kcnouERjNBAKo8wG1",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 248000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJX2269393"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0FYt08e8DmQrdOPyrKGOvF"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0FYt08e8DmQrdOPyrKGOvF",
+    "id": "0FYt08e8DmQrdOPyrKGOvF",
+    "is_local": false,
+    "name": "Me Subí a la Ranfla",
+    "popularity": 19,
+    "preview_url": null,
+    "track_number": 16,
+    "type": "track",
+    "uri": "spotify:track:0FYt08e8DmQrdOPyrKGOvF"
+  },
+  {
     "album_id": "507VZINfvVEAyrcPbJuOVU",
     "artist_ids": [
       "0elWFr7TW8piilVRYJUe4P"
@@ -27352,6 +27376,30 @@
     "uri": "spotify:track:322r3kTVgJv9RCxcoG854x"
   },
   {
+    "album_id": "62We7kcnouERjNBAKo8wG1",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 190243,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJY2245183"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/327RFjTZFpqoJfzz94CaF4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/327RFjTZFpqoJfzz94CaF4",
+    "id": "327RFjTZFpqoJfzz94CaF4",
+    "is_local": false,
+    "name": "Levantando Bandera",
+    "popularity": 25,
+    "preview_url": null,
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:327RFjTZFpqoJfzz94CaF4"
+  },
+  {
     "album_id": "0pwnHJD1my6WUATRg69Eag",
     "artist_ids": [
       "1xOtUH3e7hrO0nJesm68Ea"
@@ -49932,6 +49980,30 @@
     "uri": "spotify:track:5ajGpk5BqdTuyvuBLItxkx"
   },
   {
+    "album_id": "62We7kcnouERjNBAKo8wG1",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 162666,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJY2245182"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5b0GnnJfgXLynbF90IqDps"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5b0GnnJfgXLynbF90IqDps",
+    "id": "5b0GnnJfgXLynbF90IqDps",
+    "is_local": false,
+    "name": "Me Voy Pa' fuera",
+    "popularity": 18,
+    "preview_url": null,
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:5b0GnnJfgXLynbF90IqDps"
+  },
+  {
     "album_id": "48xXX0Q141vKS9UcLu9mWW",
     "artist_ids": [
       "1jVhcHIGJuk16eqY1Mdtuk"
@@ -58424,6 +58496,30 @@
     "uri": "spotify:track:6cxlqe01bLohvMWU0AjUil"
   },
   {
+    "album_id": "62We7kcnouERjNBAKo8wG1",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 210857,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJY2245184"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6dEvr5PYE04KYJfr0mz9XK"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6dEvr5PYE04KYJfr0mz9XK",
+    "id": "6dEvr5PYE04KYJfr0mz9XK",
+    "is_local": false,
+    "name": "Sin Cokos",
+    "popularity": 21,
+    "preview_url": null,
+    "track_number": 15,
+    "type": "track",
+    "uri": "spotify:track:6dEvr5PYE04KYJfr0mz9XK"
+  },
+  {
     "album_id": "6pV6SSMwxUzqGRC5OZjrCi",
     "artist_ids": [
       "3vV4Tf1iC8vEP9fLOLGUfP"
@@ -61134,6 +61230,30 @@
     "track_number": 13,
     "type": "track",
     "uri": "spotify:track:71AMvL4Fey4MwxQShk4VBR"
+  },
+  {
+    "album_id": "62We7kcnouERjNBAKo8wG1",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 199000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZNJY2245185"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/71AQonrkt7EmPEM379pAFn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/71AQonrkt7EmPEM379pAFn",
+    "id": "71AQonrkt7EmPEM379pAFn",
+    "is_local": false,
+    "name": "Piratas y Sirenas",
+    "popularity": 29,
+    "preview_url": null,
+    "track_number": 17,
+    "type": "track",
+    "uri": "spotify:track:71AQonrkt7EmPEM379pAFn"
   },
   {
     "album_id": "7LfNHO58gshGnniObPb4L1",
