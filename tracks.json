@@ -35438,6 +35438,30 @@
     "uri": "spotify:track:3sb6NagmHdUeFIH02QIqrq"
   },
   {
+    "album_id": "6TaajQPlK5bJgltZtbWxF9",
+    "artist_ids": [
+      "59Ih0XIAzMXq7Yf9ny3u5t"
+    ],
+    "disc_number": 1,
+    "duration_ms": 200386,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USDS10600068"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3smCnGYSUF8BwNDjbpAZZA",
+    "id": "3smCnGYSUF8BwNDjbpAZZA",
+    "is_local": false,
+    "name": "Si Yo Fuera Ladrón",
+    "popularity": 68,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:3smCnGYSUF8BwNDjbpAZZA"
+  },
+  {
     "album_id": "6mT4ECKNLQDGTVN94OlDPd",
     "artist_ids": [
       "1peH5tSqnYm8W6Bo3I5egE"
@@ -41268,6 +41292,30 @@
     "uri": "spotify:track:4fTT8Ig9n5oc5X8V0doPV4"
   },
   {
+    "album_id": "1RVvXaNvZedvPDVQfozH1I",
+    "artist_ids": [
+      "4LFOoXhMhnq9U8VsZkSwxl"
+    ],
+    "disc_number": 1,
+    "duration_ms": 204200,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USASN1300854"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4fYNJdS986IYQWxVoZjY3A",
+    "id": "4fYNJdS986IYQWxVoZjY3A",
+    "is_local": false,
+    "name": "Borracho de Amor",
+    "popularity": 59,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:4fYNJdS986IYQWxVoZjY3A"
+  },
+  {
     "album_id": "12Fkvf2oi1B6yjDwkMrUog",
     "artist_ids": [
       "628gUkswCfCS1hIOOHmIpK"
@@ -44530,6 +44578,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:50fYdv26spbBL12dHIPYry"
+  },
+  {
+    "album_id": "6TaajQPlK5bJgltZtbWxF9",
+    "artist_ids": [
+      "59Ih0XIAzMXq7Yf9ny3u5t"
+    ],
+    "disc_number": 1,
+    "duration_ms": 182800,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USDS10600071"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/50tmOF513elS7K3HrwYq29"
+    },
+    "href": "https://api.spotify.com/v1/tracks/50tmOF513elS7K3HrwYq29",
+    "id": "50tmOF513elS7K3HrwYq29",
+    "is_local": false,
+    "name": "Recostada En La Cama",
+    "popularity": 65,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:50tmOF513elS7K3HrwYq29"
   },
   {
     "album_id": "5poff6oDNapTa60LAq46O0",
