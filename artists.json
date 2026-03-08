@@ -4461,6 +4461,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+    },
+    "href": "https://api.spotify.com/v1/artists/4PPoI9LuYeFX8V674Z1R6l",
+    "id": "4PPoI9LuYeFX8V674Z1R6l",
+    "name": "Vicente Fernández",
+    "type": "artist",
+    "uri": "spotify:artist:4PPoI9LuYeFX8V674Z1R6l"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4PqP0Hj8F1fwipARr9Qz6g"
     },
     "href": "https://api.spotify.com/v1/artists/4PqP0Hj8F1fwipARr9Qz6g",
