@@ -3358,6 +3358,30 @@
     "uri": "spotify:track:0Mm0wQVuoZQRPFDo4hgFW7"
   },
   {
+    "album_id": "2OsG90Io4hQzuIWiGEeRBX",
+    "artist_ids": [
+      "0N6H5exnFMoW4yNQ3vDJ3Z"
+    ],
+    "disc_number": 1,
+    "duration_ms": 289002,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ESA011964390"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0MmXLH7xOc6zbokfFiXywR"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0MmXLH7xOc6zbokfFiXywR",
+    "id": "0MmXLH7xOc6zbokfFiXywR",
+    "is_local": false,
+    "name": "Fuma Más",
+    "popularity": 36,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:0MmXLH7xOc6zbokfFiXywR"
+  },
+  {
     "album_id": "7ycBtnsMtyVbbwTfJwRjSP",
     "artist_ids": [
       "2YZyLoL8N0Wb9xBt1NhZWg"
@@ -10938,6 +10962,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:1DJIkBrOBG6Nhy37DRveei"
+  },
+  {
+    "album_id": "6vPMTvNEFkY9V7nxFgxjHZ",
+    "artist_ids": [
+      "1QhaqxeqF9sipS2gwbEKpu"
+    ],
+    "disc_number": 1,
+    "duration_ms": 218075,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USUYG1047639"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1DUOeXT3SWhmJ05jYihXL7"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1DUOeXT3SWhmJ05jYihXL7",
+    "id": "1DUOeXT3SWhmJ05jYihXL7",
+    "is_local": false,
+    "name": "Quiero Que Sepas (feat. MC Magic)",
+    "popularity": 53,
+    "preview_url": null,
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:1DUOeXT3SWhmJ05jYihXL7"
   },
   {
     "album_id": "2M9NJUv0KbyZzINUyMcmM3",
@@ -34236,6 +34284,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:3jaCYaUHOZvoJNzltW9F9w"
+  },
+  {
+    "album_id": "3UedVnaIbI3SRuMLClWiJ3",
+    "artist_ids": [
+      "2AbQwU2cuEGfD465wCXlg2"
+    ],
+    "disc_number": 1,
+    "duration_ms": 199774,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "BK4DA2315856"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3k8Gioy06fQRnP6FlJXMfD"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3k8Gioy06fQRnP6FlJXMfD",
+    "id": "3k8Gioy06fQRnP6FlJXMfD",
+    "is_local": false,
+    "name": "Colchones, Tambores y Refrigeradores",
+    "popularity": 45,
+    "preview_url": null,
+    "track_number": 18,
+    "type": "track",
+    "uri": "spotify:track:3k8Gioy06fQRnP6FlJXMfD"
   },
   {
     "album_id": "3yqcj5G3zkeXuWIx6cjQgx",

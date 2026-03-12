@@ -2341,6 +2341,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+    },
+    "href": "https://api.spotify.com/v1/artists/2AbQwU2cuEGfD465wCXlg2",
+    "id": "2AbQwU2cuEGfD465wCXlg2",
+    "name": "Rawayana",
+    "type": "artist",
+    "uri": "spotify:artist:2AbQwU2cuEGfD465wCXlg2"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2Aps4lMllN6Ka9nwm47pcc"
     },
     "href": "https://api.spotify.com/v1/artists/2Aps4lMllN6Ka9nwm47pcc",
