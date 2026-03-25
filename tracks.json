@@ -22602,6 +22602,30 @@
     "uri": "spotify:track:2QFjBBDcrnEIqQcKSwZdv0"
   },
   {
+    "album_id": "6zGGjiyCeY36tgNrxsFrK9",
+    "artist_ids": [
+      "4TK1gDgb7QKoPFlzRrBRgR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 286213,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF110400448"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2QMkVg6iQV1LPkgSf1KIPu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2QMkVg6iQV1LPkgSf1KIPu",
+    "id": "2QMkVg6iQV1LPkgSf1KIPu",
+    "is_local": false,
+    "name": "Mejor No Hablemos De Amor - En Vivo",
+    "popularity": 30,
+    "preview_url": null,
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:2QMkVg6iQV1LPkgSf1KIPu"
+  },
+  {
     "album_id": "49Ho2eNgf3og9XwY6lBQvW",
     "artist_ids": [
       "66RfYVdftqnuHRicyClgL0"
@@ -24974,6 +24998,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:2hConpLOB6gmyM8vDkVOof"
+  },
+  {
+    "album_id": "6zGGjiyCeY36tgNrxsFrK9",
+    "artist_ids": [
+      "4TK1gDgb7QKoPFlzRrBRgR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 239333,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF110400451"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2i0TqRwGCNEzYOX4KRCB4D"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2i0TqRwGCNEzYOX4KRCB4D",
+    "id": "2i0TqRwGCNEzYOX4KRCB4D",
+    "is_local": false,
+    "name": "Guitarras Blancas - En Vivo",
+    "popularity": 43,
+    "preview_url": null,
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:2i0TqRwGCNEzYOX4KRCB4D"
   },
   {
     "album_id": "4eMRJj1sPqXwzAMmFexfzj",
@@ -34332,6 +34380,30 @@
     "track_number": 18,
     "type": "track",
     "uri": "spotify:track:3k8Gioy06fQRnP6FlJXMfD"
+  },
+  {
+    "album_id": "6zGGjiyCeY36tgNrxsFrK9",
+    "artist_ids": [
+      "4TK1gDgb7QKoPFlzRrBRgR"
+    ],
+    "disc_number": 1,
+    "duration_ms": 289080,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXF110400439"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3kKu5xCNKB1QG9FJLQzIvh"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3kKu5xCNKB1QG9FJLQzIvh",
+    "id": "3kKu5xCNKB1QG9FJLQzIvh",
+    "is_local": false,
+    "name": "Ay Dolores! - En Vivo",
+    "popularity": 27,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:3kKu5xCNKB1QG9FJLQzIvh"
   },
   {
     "album_id": "3yqcj5G3zkeXuWIx6cjQgx",
