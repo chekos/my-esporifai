@@ -2911,6 +2911,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+    },
+    "href": "https://api.spotify.com/v1/artists/2pOyR8sdYfEmd4VIyeLDUy",
+    "id": "2pOyR8sdYfEmd4VIyeLDUy",
+    "name": "Solo Cadaver",
+    "type": "artist",
+    "uri": "spotify:artist:2pOyR8sdYfEmd4VIyeLDUy"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
     },
     "href": "https://api.spotify.com/v1/artists/2pbO2XyPJGWz2s0OZeD4pR",
