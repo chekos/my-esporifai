@@ -5110,6 +5110,30 @@
     "uri": "spotify:track:0ZYspzDweZisbSp2caeeJL"
   },
   {
+    "album_id": "1qRV60OQoHqrvVhnFkOXYq",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 230400,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM2644903"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0ZcJmCSPjIDhWSonWwR41z"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0ZcJmCSPjIDhWSonWwR41z",
+    "id": "0ZcJmCSPjIDhWSonWwR41z",
+    "is_local": false,
+    "name": "Nasty",
+    "popularity": 36,
+    "preview_url": null,
+    "track_number": 13,
+    "type": "track",
+    "uri": "spotify:track:0ZcJmCSPjIDhWSonWwR41z"
+  },
+  {
     "album_id": "6t634822ybdS8Cd2WIbWi7",
     "artist_ids": [
       "2ai0soTBUbXpAdBZBEKkmh"
@@ -7770,6 +7794,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:0p5UHlVpnlymQciOJDeTaE"
+  },
+  {
+    "album_id": "1qRV60OQoHqrvVhnFkOXYq",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 248800,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM2644904"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0pKwbdBx4OzcN0Exp7HLew"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0pKwbdBx4OzcN0Exp7HLew",
+    "id": "0pKwbdBx4OzcN0Exp7HLew",
+    "is_local": false,
+    "name": "Brilla Mi Sombra",
+    "popularity": 35,
+    "preview_url": null,
+    "track_number": 14,
+    "type": "track",
+    "uri": "spotify:track:0pKwbdBx4OzcN0Exp7HLew"
   },
   {
     "album_id": "1lSYxwcLpWyqM7pD5N1fAU",
@@ -13484,6 +13532,30 @@
     "uri": "spotify:track:1Swd8UbwQki9BK5zDFhflv"
   },
   {
+    "album_id": "1qRV60OQoHqrvVhnFkOXYq",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 206117,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM2644899"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1T69TRPJdF2V4SpXnkZFtb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1T69TRPJdF2V4SpXnkZFtb",
+    "id": "1T69TRPJdF2V4SpXnkZFtb",
+    "is_local": false,
+    "name": "Vientre",
+    "popularity": 37,
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:1T69TRPJdF2V4SpXnkZFtb"
+  },
+  {
     "album_id": "0SJjqErbyJDc46YKzV4ein",
     "artist_ids": [
       "2hejA1Dkf8v8R0koF44FvW"
@@ -13554,6 +13626,30 @@
     "track_number": 17,
     "type": "track",
     "uri": "spotify:track:1TPzdXkhhTvnILSk5skcHC"
+  },
+  {
+    "album_id": "1qRV60OQoHqrvVhnFkOXYq",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 190238,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZGLM2644898"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1Tg46kVmBSuX7v8CR2iuMl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1Tg46kVmBSuX7v8CR2iuMl",
+    "id": "1Tg46kVmBSuX7v8CR2iuMl",
+    "is_local": false,
+    "name": "Demonios de Alma Buena",
+    "popularity": 37,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:1Tg46kVmBSuX7v8CR2iuMl"
   },
   {
     "album_id": "7LP8ofOXYH2AGzc8ZCt0Oe",
@@ -17180,6 +17276,30 @@
     "uri": "spotify:track:1qV3PydGbdkoXDFMSNHqsw"
   },
   {
+    "album_id": "1qRV60OQoHqrvVhnFkOXYq",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 157650,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM2644894"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1qcKMS2i5DuyRXolCjTgty"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1qcKMS2i5DuyRXolCjTgty",
+    "id": "1qcKMS2i5DuyRXolCjTgty",
+    "is_local": false,
+    "name": "Heces y Ases",
+    "popularity": 37,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:1qcKMS2i5DuyRXolCjTgty"
+  },
+  {
     "album_id": "2BEpgs48eVJQr3dmxLNxtM",
     "artist_ids": [
       "7sgnuH8OwU32WbGLZwD03q"
@@ -19115,7 +19235,7 @@
     "id": "2431MRmeFUQXc5G8QmOI2n",
     "is_local": false,
     "name": "Visceral (Intro)",
-    "popularity": 33,
+    "popularity": 34,
     "preview_url": null,
     "track_number": 1,
     "type": "track",
@@ -20800,6 +20920,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:2FRr3jlWkQH4FAgp7Xv07s"
+  },
+  {
+    "album_id": "1qRV60OQoHqrvVhnFkOXYq",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 193474,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM2644901"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2FTRcSshNqa1QvbZcO6mTe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2FTRcSshNqa1QvbZcO6mTe",
+    "id": "2FTRcSshNqa1QvbZcO6mTe",
+    "is_local": false,
+    "name": "Rosas y Cuchillos",
+    "popularity": 35,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:2FTRcSshNqa1QvbZcO6mTe"
   },
   {
     "album_id": "6YiO6TcTbYtPsiM2xgKkwD",
@@ -32342,6 +32486,30 @@
     "uri": "spotify:track:3WZquWYh0GvX3RGJsIeaTA"
   },
   {
+    "album_id": "1qRV60OQoHqrvVhnFkOXYq",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 188514,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM2644902"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3WcWax2c9KSCidK14dw1Gk"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3WcWax2c9KSCidK14dw1Gk",
+    "id": "3WcWax2c9KSCidK14dw1Gk",
+    "is_local": false,
+    "name": "Poca Bronca",
+    "popularity": 35,
+    "preview_url": null,
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:3WcWax2c9KSCidK14dw1Gk"
+  },
+  {
     "album_id": "5DAyVyBqSnkatvoMn8z1wO",
     "artist_ids": [
       "3Jarv4dvk7d9k6AkqDUVJg"
@@ -34694,6 +34862,30 @@
     "uri": "spotify:track:3lf72csq4o0yPNo6XFkwZO"
   },
   {
+    "album_id": "1qRV60OQoHqrvVhnFkOXYq",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 255584,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZGLM2644897"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3ljmrd6sQTtvvunqU655n6"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3ljmrd6sQTtvvunqU655n6",
+    "id": "3ljmrd6sQTtvvunqU655n6",
+    "is_local": false,
+    "name": "21 Gramos",
+    "popularity": 38,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:3ljmrd6sQTtvvunqU655n6"
+  },
+  {
     "album_id": "0f5Bxz0icXVD2B4BldVU0z",
     "artist_ids": [
       "51yyeVxyvecgePAWXmeLUE"
@@ -36204,6 +36396,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:3v1h62mV72dBV16Jb5pcrc"
+  },
+  {
+    "album_id": "1qRV60OQoHqrvVhnFkOXYq",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 238000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM2644895"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3vI7lMUyciNdZ1li7xJIyW"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3vI7lMUyciNdZ1li7xJIyW",
+    "id": "3vI7lMUyciNdZ1li7xJIyW",
+    "is_local": false,
+    "name": "La Clave",
+    "popularity": 39,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:3vI7lMUyciNdZ1li7xJIyW"
   },
   {
     "album_id": "1huZKOZy8nzN8M7qDjocgg",
@@ -59360,6 +59576,30 @@
     "uri": "spotify:track:6e1wvRh5qSe3RunxRzJEg1"
   },
   {
+    "album_id": "1qRV60OQoHqrvVhnFkOXYq",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 188910,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZ5AB2642312"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6eOQloCtW6wiLAl3086vEl"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6eOQloCtW6wiLAl3086vEl",
+    "id": "6eOQloCtW6wiLAl3086vEl",
+    "is_local": false,
+    "name": "Sacrificio",
+    "popularity": 34,
+    "preview_url": null,
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:6eOQloCtW6wiLAl3086vEl"
+  },
+  {
     "album_id": "07w0rG5TETcyihsEIZR3qG",
     "artist_ids": [
       "7tYKF4w9nC0nq9CsPZTHyP"
@@ -66268,6 +66508,30 @@
     "uri": "spotify:track:7e6IQbK5myMtoXkAJh4vYZ"
   },
   {
+    "album_id": "1qRV60OQoHqrvVhnFkOXYq",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 269671,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM2644900"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7eAQK2xXSzcdEgswBRyJtB"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7eAQK2xXSzcdEgswBRyJtB",
+    "id": "7eAQK2xXSzcdEgswBRyJtB",
+    "is_local": false,
+    "name": "Corazón de Adorno",
+    "popularity": 37,
+    "preview_url": null,
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:7eAQK2xXSzcdEgswBRyJtB"
+  },
+  {
     "album_id": "6Hkw5pGnMyxgDCNZGotVHl",
     "artist_ids": [
       "4tm8CEdm4pkQsEh4jIr9Yp"
@@ -67852,6 +68116,30 @@
     "uri": "spotify:track:7pv0hrZg9d3Gr8YXrcX7m8"
   },
   {
+    "album_id": "1qRV60OQoHqrvVhnFkOXYq",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 207093,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLM2644896"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7q0ELF5dNtkifF53RTrJo5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7q0ELF5dNtkifF53RTrJo5",
+    "id": "7q0ELF5dNtkifF53RTrJo5",
+    "is_local": false,
+    "name": "Buitres y Hienas",
+    "popularity": 39,
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:7q0ELF5dNtkifF53RTrJo5"
+  },
+  {
     "album_id": "1vdDRtiJZwUskZKYQh9Ida",
     "artist_ids": [
       "5MRMYpdAWZawm3ivBeWvdK"
@@ -67994,6 +68282,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:7rN9wxpkoUoZG6hMaLUmFS"
+  },
+  {
+    "album_id": "1qRV60OQoHqrvVhnFkOXYq",
+    "artist_ids": [
+      "4V2V4PaSblStayYVWTGDbZ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 138760,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZTVM2669762"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7rOalBf62MYltfi0OxBM4I"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7rOalBf62MYltfi0OxBM4I",
+    "id": "7rOalBf62MYltfi0OxBM4I",
+    "is_local": false,
+    "name": "Filo",
+    "popularity": 36,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:7rOalBf62MYltfi0OxBM4I"
   },
   {
     "album_id": "5X0iXg5EF46mvb54OldTBo",
