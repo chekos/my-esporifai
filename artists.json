@@ -2571,6 +2571,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd"
+    },
+    "href": "https://api.spotify.com/v1/artists/2M8DUpSnqu7TlGxEgjUocd",
+    "id": "2M8DUpSnqu7TlGxEgjUocd",
+    "name": "Danna",
+    "type": "artist",
+    "uri": "spotify:artist:2M8DUpSnqu7TlGxEgjUocd"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
     },
     "href": "https://api.spotify.com/v1/artists/2MLHBMApNE5h8wIufiTPs7",
