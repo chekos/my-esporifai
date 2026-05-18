@@ -11636,6 +11636,30 @@
     "uri": "spotify:track:1HATupsnQ29NweItMX1q2E"
   },
   {
+    "album_id": "3VBpaVReuh97r9Fb7gwxUQ",
+    "artist_ids": [
+      "2QWIScpFDNxmS6ZEMIUvgm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 224533,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM6P42667475"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1HTNLvz4UYiFOZOCtAQTUr"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1HTNLvz4UYiFOZOCtAQTUr",
+    "id": "1HTNLvz4UYiFOZOCtAQTUr",
+    "is_local": false,
+    "name": "Leyendas de Tijuana",
+    "popularity": 0,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:1HTNLvz4UYiFOZOCtAQTUr"
+  },
+  {
     "album_id": "1YgX8BWKleDlDeCOFklRfz",
     "artist_ids": [
       "0QHgL1lAIqAw0HtD7YldmP"
@@ -15474,6 +15498,30 @@
     "track_number": 5,
     "type": "track",
     "uri": "spotify:track:1eIXYZWEfJO3Na2LCCnIJE"
+  },
+  {
+    "album_id": "3VBpaVReuh97r9Fb7gwxUQ",
+    "artist_ids": [
+      "2QWIScpFDNxmS6ZEMIUvgm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 193015,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QMFMG2524396"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1edLQcE6ygKFJLZR3N8a68"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1edLQcE6ygKFJLZR3N8a68",
+    "id": "1edLQcE6ygKFJLZR3N8a68",
+    "is_local": false,
+    "name": "Tiempos Dorados",
+    "popularity": 0,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1edLQcE6ygKFJLZR3N8a68"
   },
   {
     "album_id": "17mAoDs7T8EA9zzlj6QPBv",
@@ -24234,6 +24282,30 @@
     "uri": "spotify:track:2ZBlDOQlq043eg34LwW54c"
   },
   {
+    "album_id": "3VBpaVReuh97r9Fb7gwxUQ",
+    "artist_ids": [
+      "2QWIScpFDNxmS6ZEMIUvgm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 191426,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM6N22609536"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2ZEw2jYBJUA32LJJo7fBeo"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2ZEw2jYBJUA32LJJo7fBeo",
+    "id": "2ZEw2jYBJUA32LJJo7fBeo",
+    "is_local": false,
+    "name": "La Línea",
+    "popularity": 0,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:2ZEw2jYBJUA32LJJo7fBeo"
+  },
+  {
     "album_id": "1LdaPLqfurLwHqg4Idmg7J",
     "artist_ids": [
       "6tJRAxu0HwB2GI9GueEj4l"
@@ -27662,6 +27734,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:2zCyBsKWjhguixhJSwWCrg"
+  },
+  {
+    "album_id": "3VBpaVReuh97r9Fb7gwxUQ",
+    "artist_ids": [
+      "2QWIScpFDNxmS6ZEMIUvgm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 269306,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM6P42667479"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2zDkrEFNfCND7vMYzqid6H"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2zDkrEFNfCND7vMYzqid6H",
+    "id": "2zDkrEFNfCND7vMYzqid6H",
+    "is_local": false,
+    "name": "Callaron Las Canciones",
+    "popularity": 0,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:2zDkrEFNfCND7vMYzqid6H"
   },
   {
     "album_id": "7zxW9wRNKndM4CUH9XeU1i",
@@ -44580,6 +44676,30 @@
     "uri": "spotify:track:4vgPqhf93JsrIoNLeazumU"
   },
   {
+    "album_id": "0byTWaI77h9YQqcadPJJLD",
+    "artist_ids": [
+      "3Qldsib1smRXVBihCbSKrV"
+    ],
+    "disc_number": 1,
+    "duration_ms": 194880,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "USA561233423"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4vrI8GL4ZXab8GUZwt43qe"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4vrI8GL4ZXab8GUZwt43qe",
+    "id": "4vrI8GL4ZXab8GUZwt43qe",
+    "is_local": false,
+    "name": "Noreste Caliente",
+    "popularity": 60,
+    "preview_url": null,
+    "track_number": 11,
+    "type": "track",
+    "uri": "spotify:track:4vrI8GL4ZXab8GUZwt43qe"
+  },
+  {
     "album_id": "1leTiFBaqtwrnUnJuaSjeF",
     "artist_ids": [
       "14DIWXxTBoAzGJNsAFvNWU"
@@ -52354,6 +52474,30 @@
     "uri": "spotify:track:5lSl7vLwMnC6uHFzkFLptI"
   },
   {
+    "album_id": "3VBpaVReuh97r9Fb7gwxUQ",
+    "artist_ids": [
+      "2QWIScpFDNxmS6ZEMIUvgm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 227413,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM6P42667478"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5m3zoNUv4WO35cfzjbLGK9"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5m3zoNUv4WO35cfzjbLGK9",
+    "id": "5m3zoNUv4WO35cfzjbLGK9",
+    "is_local": false,
+    "name": "Volver a Ti",
+    "popularity": 0,
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:5m3zoNUv4WO35cfzjbLGK9"
+  },
+  {
     "album_id": "2cGrlR3OJwtQXUa4aQJRCV",
     "artist_ids": [
       "1GImnM7WYVp95431ypofy9"
@@ -52376,6 +52520,30 @@
     "track_number": 7,
     "type": "track",
     "uri": "spotify:track:5mB0MGsRfKZALHrXjnktCK"
+  },
+  {
+    "album_id": "3VBpaVReuh97r9Fb7gwxUQ",
+    "artist_ids": [
+      "2QWIScpFDNxmS6ZEMIUvgm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 230480,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM4TW2628134"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5mESwb8CnyEOGz0ktsCHo8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5mESwb8CnyEOGz0ktsCHo8",
+    "id": "5mESwb8CnyEOGz0ktsCHo8",
+    "is_local": false,
+    "name": "Tengo Que Contarte",
+    "popularity": 0,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5mESwb8CnyEOGz0ktsCHo8"
   },
   {
     "album_id": "6znVJeVrLQHBt4YY3vJ0Ru",
