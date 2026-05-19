@@ -10004,6 +10004,30 @@
     "uri": "spotify:track:15cuGrCRcbTwSA3yVTGLnq"
   },
   {
+    "album_id": "4p7prXOtCEjiwU0iWb62fP",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 215600,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA0X2600036"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/15dI93DBMDKSLFnF90fvAn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/15dI93DBMDKSLFnF90fvAn",
+    "id": "15dI93DBMDKSLFnF90fvAn",
+    "is_local": false,
+    "name": "Caballo Negro",
+    "popularity": 54,
+    "preview_url": null,
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:15dI93DBMDKSLFnF90fvAn"
+  },
+  {
     "album_id": "0UYbHFy4zdCF34CRebZmRQ",
     "artist_ids": [
       "07PdYoE4jVRF6Ut40GgVSP"
@@ -27753,7 +27777,7 @@
     "id": "2zDkrEFNfCND7vMYzqid6H",
     "is_local": false,
     "name": "Callaron Las Canciones",
-    "popularity": 0,
+    "popularity": 39,
     "preview_url": null,
     "track_number": 6,
     "type": "track",
@@ -27854,6 +27878,30 @@
     "track_number": 10,
     "type": "track",
     "uri": "spotify:track:30KxY5Z34dDGWaSn5bqRXt"
+  },
+  {
+    "album_id": "3VBpaVReuh97r9Fb7gwxUQ",
+    "artist_ids": [
+      "2QWIScpFDNxmS6ZEMIUvgm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 205106,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM6P42667497"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/30SnTwJFafPrAYHzELdUV0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/30SnTwJFafPrAYHzELdUV0",
+    "id": "30SnTwJFafPrAYHzELdUV0",
+    "is_local": false,
+    "name": "Esquina del Mar",
+    "popularity": 38,
+    "preview_url": null,
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:30SnTwJFafPrAYHzELdUV0"
   },
   {
     "album_id": "68MBg9nXOdCbLD8ebxQWfw",
@@ -28574,6 +28622,30 @@
     "track_number": 6,
     "type": "track",
     "uri": "spotify:track:35sqJdcKm7CqRSb8P29UxR"
+  },
+  {
+    "album_id": "3VBpaVReuh97r9Fb7gwxUQ",
+    "artist_ids": [
+      "2QWIScpFDNxmS6ZEMIUvgm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 215453,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM6P42667502"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/360hXu8BL2d4YIfLWg9dns"
+    },
+    "href": "https://api.spotify.com/v1/tracks/360hXu8BL2d4YIfLWg9dns",
+    "id": "360hXu8BL2d4YIfLWg9dns",
+    "is_local": false,
+    "name": "Lo Que Va A Pasar",
+    "popularity": 38,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:360hXu8BL2d4YIfLWg9dns"
   },
   {
     "album_id": "6Md2vrD9ioekgr6GmzF5ce",
@@ -52474,6 +52546,30 @@
     "uri": "spotify:track:5lSl7vLwMnC6uHFzkFLptI"
   },
   {
+    "album_id": "4p7prXOtCEjiwU0iWb62fP",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 183750,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA0X2600040"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5lquz9kNB3kdwSp2Opn6vq"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5lquz9kNB3kdwSp2Opn6vq",
+    "id": "5lquz9kNB3kdwSp2Opn6vq",
+    "is_local": false,
+    "name": "X Amor al Arte",
+    "popularity": 50,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:5lquz9kNB3kdwSp2Opn6vq"
+  },
+  {
     "album_id": "3VBpaVReuh97r9Fb7gwxUQ",
     "artist_ids": [
       "2QWIScpFDNxmS6ZEMIUvgm"
@@ -66026,6 +66122,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:7MmrcXVA7A5zZ2CbDuGHNa"
+  },
+  {
+    "album_id": "3VBpaVReuh97r9Fb7gwxUQ",
+    "artist_ids": [
+      "2QWIScpFDNxmS6ZEMIUvgm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 206080,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QM6P42667483"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7a6fcpRLINBjQMQOKIZxNI"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7a6fcpRLINBjQMQOKIZxNI",
+    "id": "7a6fcpRLINBjQMQOKIZxNI",
+    "is_local": false,
+    "name": "Terca",
+    "popularity": 39,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:7a6fcpRLINBjQMQOKIZxNI"
   },
   {
     "album_id": "2AQ4L8iNOsxnTovw30DicC",
