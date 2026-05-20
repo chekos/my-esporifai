@@ -6476,6 +6476,30 @@
     "uri": "spotify:track:0iKo4pNNjHHdKUcFARlfCa"
   },
   {
+    "album_id": "4p7prXOtCEjiwU0iWb62fP",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 211800,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "MXA0X2600011"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0iTz6ajV23aImgalezsT81"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0iTz6ajV23aImgalezsT81",
+    "id": "0iTz6ajV23aImgalezsT81",
+    "is_local": false,
+    "name": "X Amores Ya No Muero",
+    "popularity": 52,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:0iTz6ajV23aImgalezsT81"
+  },
+  {
     "album_id": "7lO0gX1rSWXYO9gnUqpY1p",
     "artist_ids": [
       "0U8dIwzBn17JkhYxmznp6T"
@@ -8130,6 +8154,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:0rnFlWFOfTRmVQVm28DK09"
+  },
+  {
+    "album_id": "4p7prXOtCEjiwU0iWb62fP",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 190600,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA0X2600044"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0rnPajOy8VjIqc8zUIkjRa"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0rnPajOy8VjIqc8zUIkjRa",
+    "id": "0rnPajOy8VjIqc8zUIkjRa",
+    "is_local": false,
+    "name": "Cicatriz",
+    "popularity": 51,
+    "preview_url": null,
+    "track_number": 10,
+    "type": "track",
+    "uri": "spotify:track:0rnPajOy8VjIqc8zUIkjRa"
   },
   {
     "album_id": "0qmW400K0VgJ28CuBx8InD",
@@ -13578,6 +13626,30 @@
     "track_number": 3,
     "type": "track",
     "uri": "spotify:track:1SlCj5ExsiCIMbBHoLq9jz"
+  },
+  {
+    "album_id": "4p7prXOtCEjiwU0iWb62fP",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 167450,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA0X2600020"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1SpdrUBL6SLzHohdxVEi42"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1SpdrUBL6SLzHohdxVEi42",
+    "id": "1SpdrUBL6SLzHohdxVEi42",
+    "is_local": false,
+    "name": "Makia",
+    "popularity": 50,
+    "preview_url": null,
+    "track_number": 8,
+    "type": "track",
+    "uri": "spotify:track:1SpdrUBL6SLzHohdxVEi42"
   },
   {
     "album_id": "1HstApWi4IFpuz5HJmoXpf",
@@ -20778,6 +20850,30 @@
     "uri": "spotify:track:2DbV9TSdeGr5FobCFDRzvq"
   },
   {
+    "album_id": "4p7prXOtCEjiwU0iWb62fP",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 262000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA0X2600029"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2DnJlN80MoO6EwNRHGjz3T"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2DnJlN80MoO6EwNRHGjz3T",
+    "id": "2DnJlN80MoO6EwNRHGjz3T",
+    "is_local": false,
+    "name": "Punto Débil",
+    "popularity": 52,
+    "preview_url": null,
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:2DnJlN80MoO6EwNRHGjz3T"
+  },
+  {
     "album_id": "56WTz4lIRGoRo4ywdkPRRE",
     "artist_ids": [
       "6huE8Sh7scgoA8rj2vCuwZ"
@@ -25024,6 +25120,30 @@
     "track_number": 4,
     "type": "track",
     "uri": "spotify:track:2e682jmLZJKEa3fF0v6RAF"
+  },
+  {
+    "album_id": "4p7prXOtCEjiwU0iWb62fP",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 319300,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA0X2600008"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2e7a8JiYHaQMikRwHQTpCm"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2e7a8JiYHaQMikRwHQTpCm",
+    "id": "2e7a8JiYHaQMikRwHQTpCm",
+    "is_local": false,
+    "name": "Tu Foto",
+    "popularity": 51,
+    "preview_url": null,
+    "track_number": 6,
+    "type": "track",
+    "uri": "spotify:track:2e7a8JiYHaQMikRwHQTpCm"
   },
   {
     "album_id": "7IIVtFcrNzU7PV8gBqq6oM",
@@ -52563,7 +52683,7 @@
     "id": "5lquz9kNB3kdwSp2Opn6vq",
     "is_local": false,
     "name": "X Amor al Arte",
-    "popularity": 51,
+    "popularity": 53,
     "preview_url": null,
     "track_number": 1,
     "type": "track",
@@ -57920,6 +58040,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6R9rpaVNeow0YaMvV6YJch"
+  },
+  {
+    "album_id": "4p7prXOtCEjiwU0iWb62fP",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 200000,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXA0X2600048"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6RMIW6cPBV0FhtR07dQuXn"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6RMIW6cPBV0FhtR07dQuXn",
+    "id": "6RMIW6cPBV0FhtR07dQuXn",
+    "is_local": false,
+    "name": "Ron, Amor y Palmeras (RAP)",
+    "popularity": 52,
+    "preview_url": null,
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:6RMIW6cPBV0FhtR07dQuXn"
   },
   {
     "album_id": "07w0rG5TETcyihsEIZR3qG",
