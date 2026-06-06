@@ -20586,6 +20586,30 @@
     "uri": "spotify:track:2C2XgvkLDD80rXUYszo6Dl"
   },
   {
+    "album_id": "6vSxOkwE2oAmxqUaqAutPE",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 150585,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "QZHZ42606705"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2CI7QPyJoJR7TzH7QZocl4"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2CI7QPyJoJR7TzH7QZocl4",
+    "id": "2CI7QPyJoJR7TzH7QZocl4",
+    "is_local": false,
+    "name": "Gol",
+    "popularity": 0,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:2CI7QPyJoJR7TzH7QZocl4"
+  },
+  {
     "album_id": "7x0UG4rToHvR7HkzqGN06a",
     "artist_ids": [
       "1oH2B8tcHn4Gpl2bmmyd4A"
@@ -57368,6 +57392,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6NBaS7eiI97ClZCUBpCeT2"
+  },
+  {
+    "album_id": "1JgQkC6pXCIswtWwDRzVL8",
+    "artist_ids": [
+      "4Hzj6dfl1y5x5TzCSsvLB6"
+    ],
+    "disc_number": 1,
+    "duration_ms": 200039,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "QZGLS2397820"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6NC6jmA38wvHEsRHODhJQb"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6NC6jmA38wvHEsRHODhJQb",
+    "id": "6NC6jmA38wvHEsRHODhJQb",
+    "is_local": false,
+    "name": "Piratas y Sirenas",
+    "popularity": 6,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6NC6jmA38wvHEsRHODhJQb"
   },
   {
     "album_id": "6KUZQ0l1keA5Dlo3ovaYRW",
