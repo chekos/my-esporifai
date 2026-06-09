@@ -191,6 +191,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+    },
+    "href": "https://api.spotify.com/v1/artists/0ClpuCq8RAV6Np5bVpgfyN",
+    "id": "0ClpuCq8RAV6Np5bVpgfyN",
+    "name": "El Potro De Sinaloa",
+    "type": "artist",
+    "uri": "spotify:artist:0ClpuCq8RAV6Np5bVpgfyN"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi"
     },
     "href": "https://api.spotify.com/v1/artists/0CtBJEWIKkU8CzxJCBLmSi",
@@ -2531,6 +2541,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+    },
+    "href": "https://api.spotify.com/v1/artists/2IRfUbSEqoOzedNHXVD1Xb",
+    "id": "2IRfUbSEqoOzedNHXVD1Xb",
+    "name": "Carlos Y Jose",
+    "type": "artist",
+    "uri": "spotify:artist:2IRfUbSEqoOzedNHXVD1Xb"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
     },
     "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
@@ -3058,6 +3078,16 @@
     "name": "El Komander",
     "type": "artist",
     "uri": "spotify:artist:2wC90WSKQd0BvdxJZ0mObr"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+    },
+    "href": "https://api.spotify.com/v1/artists/2wmwGWrqRizLaSEYrm5dzZ",
+    "id": "2wmwGWrqRizLaSEYrm5dzZ",
+    "name": "Los Huracanes del Norte",
+    "type": "artist",
+    "uri": "spotify:artist:2wmwGWrqRizLaSEYrm5dzZ"
   },
   {
     "external_urls": {
@@ -4771,6 +4801,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+    },
+    "href": "https://api.spotify.com/v1/artists/4Yfe8uXcl5PYwknQ4OMZIP",
+    "id": "4Yfe8uXcl5PYwknQ4OMZIP",
+    "name": "Los Alegres de la Sierra",
+    "type": "artist",
+    "uri": "spotify:artist:4Yfe8uXcl5PYwknQ4OMZIP"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
     },
     "href": "https://api.spotify.com/v1/artists/4ZDoy7AWNgQVmX7T0u0B1j",
@@ -6068,6 +6108,16 @@
     "name": "Danna Paola",
     "type": "artist",
     "uri": "spotify:artist:5xSx2FM8mQnrfgM1QsHniB"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG"
+    },
+    "href": "https://api.spotify.com/v1/artists/5xvUFw0p8yfQfHVliD1dZG",
+    "id": "5xvUFw0p8yfQfHVliD1dZG",
+    "name": "Los Morros Del Norte",
+    "type": "artist",
+    "uri": "spotify:artist:5xvUFw0p8yfQfHVliD1dZG"
   },
   {
     "external_urls": {
