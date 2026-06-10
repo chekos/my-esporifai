@@ -56554,6 +56554,30 @@
     "uri": "spotify:track:6CvTEtGagmzQvkUzzyKR9k"
   },
   {
+    "album_id": "6D9a2VeAyvMqcCN27uzi4V",
+    "artist_ids": [
+      "7fmQXLCgx5q0vkGArvS6mm"
+    ],
+    "disc_number": 1,
+    "duration_ms": 181640,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USDS10601522"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6D8GThe4smZsFMPhUjgy7N",
+    "id": "6D8GThe4smZsFMPhUjgy7N",
+    "is_local": false,
+    "name": "Sonora Y Sus Ojos Negros",
+    "popularity": 69,
+    "preview_url": null,
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:6D8GThe4smZsFMPhUjgy7N"
+  },
+  {
     "album_id": "009RfrV6iVJcoht9FDlX6l",
     "artist_ids": [
       "3L7OHIT4kfdcDSnnGM0TKN"
@@ -57826,6 +57850,30 @@
     "uri": "spotify:track:6NSMQFKgjpQb0KkjMDYIK0"
   },
   {
+    "album_id": "5HNyHXa6z20pWDod3JyLXo",
+    "artist_ids": [
+      "1lQO7ePBTp5yOfVK9hicoJ"
+    ],
+    "disc_number": 1,
+    "duration_ms": 199080,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USUM71004922"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6Ng777bqg8fwA7N7GyUDYm"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6Ng777bqg8fwA7N7GyUDYm",
+    "id": "6Ng777bqg8fwA7N7GyUDYm",
+    "is_local": false,
+    "name": "Aunque Te Duela",
+    "popularity": 73,
+    "preview_url": null,
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:6Ng777bqg8fwA7N7GyUDYm"
+  },
+  {
     "album_id": "42xizzB2aLakQDBNIhEQJg",
     "artist_ids": [
       "5ty08GXpCMviM7BKWNrdXi"
@@ -57920,6 +57968,30 @@
     "track_number": 1,
     "type": "track",
     "uri": "spotify:track:6O3LP159BROUGorcXZzKDi"
+  },
+  {
+    "album_id": "1bEyiwgCSxtRBpqgEaQ9Qs",
+    "artist_ids": [
+      "5j9R5dTGerKvdXopZnfJh9"
+    ],
+    "disc_number": 1,
+    "duration_ms": 189853,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "USG2M0600032"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/6O520IZgFxvuPnBms0But5"
+    },
+    "href": "https://api.spotify.com/v1/tracks/6O520IZgFxvuPnBms0But5",
+    "id": "6O520IZgFxvuPnBms0But5",
+    "is_local": false,
+    "name": "Chaparra De Mi Amor",
+    "popularity": 52,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6O520IZgFxvuPnBms0But5"
   },
   {
     "album_id": "2x29bAqGNEWeYvkRLPSFLP",

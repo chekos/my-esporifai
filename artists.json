@@ -1921,6 +1921,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+    },
+    "href": "https://api.spotify.com/v1/artists/1lQO7ePBTp5yOfVK9hicoJ",
+    "id": "1lQO7ePBTp5yOfVK9hicoJ",
+    "name": "Fidel Rueda",
+    "type": "artist",
+    "uri": "spotify:artist:1lQO7ePBTp5yOfVK9hicoJ"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
     },
     "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
@@ -7628,6 +7638,16 @@
     "name": "Treck",
     "type": "artist",
     "uri": "spotify:artist:7eYDq8ZqHReFJgIN95S5EU"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+    },
+    "href": "https://api.spotify.com/v1/artists/7fmQXLCgx5q0vkGArvS6mm",
+    "id": "7fmQXLCgx5q0vkGArvS6mm",
+    "name": "Miguel Y Miguel",
+    "type": "artist",
+    "uri": "spotify:artist:7fmQXLCgx5q0vkGArvS6mm"
   },
   {
     "external_urls": {
