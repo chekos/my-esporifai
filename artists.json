@@ -7061,6 +7061,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7"
+    },
+    "href": "https://api.spotify.com/v1/artists/6qrWzQSK00anTGkydomNW7",
+    "id": "6qrWzQSK00anTGkydomNW7",
+    "name": "Los Cuates de Sinaloa",
+    "type": "artist",
+    "uri": "spotify:artist:6qrWzQSK00anTGkydomNW7"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/6rM20Xl5smuCzNIdQa0Ixe"
     },
     "href": "https://api.spotify.com/v1/artists/6rM20Xl5smuCzNIdQa0Ixe",
