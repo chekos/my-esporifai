@@ -7988,6 +7988,30 @@
     "uri": "spotify:track:0pea3BxjCS9ggjub4zzz1P"
   },
   {
+    "album_id": "5C507x88aYeTv00Ydv0maH",
+    "artist_ids": [
+      "3hYtANQYrE6pd2PbtEyTIy"
+    ],
+    "disc_number": 1,
+    "duration_ms": 214773,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "US67R9700298"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0pzSFbqT7lNJJdvmTvGS66"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0pzSFbqT7lNJJdvmTvGS66",
+    "id": "0pzSFbqT7lNJJdvmTvGS66",
+    "is_local": false,
+    "name": "Jefe De Jefes",
+    "popularity": 67,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0pzSFbqT7lNJJdvmTvGS66"
+  },
+  {
     "album_id": "0zYXLwvBFEYXKJg9bI8YAT",
     "artist_ids": [
       "2v78MTOEBDrGwmtY7Iw043"
@@ -8490,6 +8514,30 @@
     "track_number": 8,
     "type": "track",
     "uri": "spotify:track:0u6JFVn0KHHlidZxNL9gVE"
+  },
+  {
+    "album_id": "7qyOaIxdMSkNDTY4bMLMdg",
+    "artist_ids": [
+      "2hejA1Dkf8v8R0koF44FvW"
+    ],
+    "disc_number": 1,
+    "duration_ms": 197333,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "MXUM62100001"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0u8F3riWcE7IkX99TRcjAM"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0u8F3riWcE7IkX99TRcjAM",
+    "id": "0u8F3riWcE7IkX99TRcjAM",
+    "is_local": false,
+    "name": "Botella Tras Botella",
+    "popularity": 76,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0u8F3riWcE7IkX99TRcjAM"
   },
   {
     "album_id": "7Lv6VzSqIz1sAssK2JUskG",
