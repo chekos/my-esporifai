@@ -3521,6 +3521,16 @@
   },
   {
     "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3KjNRzszj0u6U60BtItH5j"
+    },
+    "href": "https://api.spotify.com/v1/artists/3KjNRzszj0u6U60BtItH5j",
+    "id": "3KjNRzszj0u6U60BtItH5j",
+    "name": "Cromosapiens",
+    "type": "artist",
+    "uri": "spotify:artist:3KjNRzszj0u6U60BtItH5j"
+  },
+  {
+    "external_urls": {
       "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
     },
     "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
